@@ -1,0 +1,350 @@
+{
+  "id": "story14",
+  "title": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+  "titleTifinagh": "ⵉⴹ ⵏ ⵢⵏⵏⴰⵢⵔ ⴷ ⵢⵉⵔⴽⵎⵎⵏ",
+  "titleLatin": "Iḍ n Ynnayer d Yirkmmn",
+  "region": "عموم المغرب والمجال المغاربي المشترك",
+  "dialect": "الأمازيغية المغربية (Tamazight)",
+  "level": "مبتدئ - أطفال (Level 1)",
+  "category": "traditions",
+  "categoryName": "أعياد وتقاليد",
+  "coverImage": "assets/images/stories/story14.jpg",
+  "audio": "assets/audio/stories/story14.mp3",
+  "summary": "الاحتفال برأس السنة الفلاحية الأمازيغية (إيض يناير - 13 يناير)؛ ليلة التلاقي والبركة، حيث تعد العائلات المغربية طبق 'إيركمن' (حساء الحبوب السبعة) أو عصيدة 'التاكلا' متمنين عاماً زراعياً خصباً مليئاً بالخير.",
+  "textTamazight": "ⴳ ⵡⴰⴹⴰⵏ ⵏ ⵢⵏⵏⴰⵢⵔ, ⴷⴰ ⵜⵜⵎⵓⵏ ⵜⴰⵡⵊⴰ ⴰⴼⴰⴷ ⴰⴷ ⵙⴼⵓⴳⵍⵓⵏ ⴰⵙⴳⴳⵯⴰⵙ ⴰⵎⴰⵢⵏⵓ.\nⵜⵙⴽⵔ ⵊⴷⴷⴰ ⵜⴰⴽⵍⵍⴰ ⵜⴰⵎⴱⴰⵔⴽⵜ ⴷ ⵉⵔⴽⵎⵎⵏ ⵙ ⵓⴷⵉ ⴷ ⵜⴰⵎⵏⵜ ⵜⴰⵥⵉⴹⴰⵏⵜ.\nⵜⴰⵍⵙ-ⴰⵙⵏ ⵢⴰⵜ ⵜⴰⵏⴼⵓⵙⵜ ⵜⴰⵇⴱⵓⵔⵜ ⴼ ⵜⴰⵢⵙⵉ ⵏ ⵉⵎⵣⵡⵓⵔⴰ ⴷ ⵜⵓⴷⵔⵜ.\nⴷⴰ ⵜⵜⵔⵏ ⴰⵙⵓⴼ ⴷ ⵓⵏⵥⴰⵕ ⴷ ⵓⴼⵔⴰ ⵉ ⵡⴰⴽⴰⵍ ⴷ ⵢⵉⵡⴷⴰⵏ.\nⵜⴳⴰ ⵜⵉⵎⵍⵉⵍⵉⵜ-ⴰⴷ ⵢⴰⵏ ⵓⵣⴰⵎⵓⵍ ⵏ ⵜⴷⵓⴽⴽⵍⵉ ⴷ ⵜⵓⵎⵔⵜ ⴳ ⴽⵓ ⵜⴰⵎⴰⵣⵉⵔⵜ.",
+  "textLatin": "G waḍan n Ynnayer, da ttmun tawja afad ad sfuglun asggʷas amaynu.\nTskr jdda taklla tambarkt d irkmmn s udi d tament taẓiḍant.\nTals-asn yat tanfust taqburt f taysi n imzwwura d tudrt.\nDa ttrn asuf d unẓaṛ d afra i wakal d yiwdan.\nTga tmlilit-ad yan uzamul n tdukkli d tumrt g ku tamazirt.",
+  "textArabic": "في ليلة رأس السنة الأمازيغية يناير، تجتمع الأسرة والعائلة للاحتفال بحلول العام الجديد.\nتعد الجدة الفاضلة (جدة) طبق عصيدة التاكلا المباركة وحساء إيركمن بالسمن البلدي (أودي) وعسل النحل الشهي.\nتروي للأطفال حكاية وقصة شعبية ملهمة عن مآثر الأجداد والارتباط بالأرض.\nيبتهل الجميع طلباً لـالبركة واليمن والغيث العميم والسلام والأمان للوطن.\nيمثل هذا اللقاء المبارك رمزاً سامياً للتضامن والمحبة والبهجة في كل قرية مغربية.",
+  "grammar": "التحية برأس السنة: 'Asggʷas amaynu amgazz' (سنة جديدة سعيدة)، و 'Amaynu' تعني الجديد.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵜⵛⵛⴰ ⵜⵡⵊⴰ ⵉⵔⴽⵎⵎⵏ ⴳ ⵢⵉⴹ ⵏ ⵢⵏⵏⴰⵢⵔ",
+    "sentenceLatin": "Tcca tawja irkmmn g yiḍ n Ynnayer",
+    "sentenceArabic": "أكلت العائلةُ إيركمن في ليلة يناير",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵜⵛⵛⴰ",
+        "trans": "أكلت (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵜⵡⵊⴰ",
+        "trans": "العائلةُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵉⵔⴽⵎⵎⵏ",
+        "trans": "إيركمن (مفعول به)"
+      },
+      {
+        "id": "w4",
+        "text": "ⴳ",
+        "trans": "في (حرف ظرف زمان)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵢⵉⴹ",
+        "trans": "ليلةِ (اسم مقيد)"
+      },
+      {
+        "id": "w6",
+        "text": "ⵏ",
+        "trans": "ـ (حرف إضافة)"
+      },
+      {
+        "id": "w7",
+        "text": "ⵢⵏⵏⴰⵢⵔ",
+        "trans": "يناير (مضاف إليه)"
+      }
+    ],
+    "explanation": "الجملة تعبر عن التقليد السنوي لتناول طبق الحبوب ليلة رأس السنة الأمازيغية."
+  },
+  "vocabulary": [
+    {
+      "id": "s14_v1",
+      "tifinagh": "ⵢⵏⵏⴰⵢⵔ",
+      "latin": "Ynnayer",
+      "arabic": "يناير (أول شهور السنة الأمازيغية)",
+      "image": "assets/images/terms/s14_v1.webp",
+      "audio": "assets/audio/words/ynnayer.mp3",
+      "example": "ⵉⴹ ⵏ ⵢⵏⵏⴰⵢⵔ (ليلة رأس السنة الأمازيغية)",
+      "french": "Yennayer (Premier jour de l'an amazigh)",
+      "explanation": "ⵉⴹ ⵏ ⵢⵏⵏⴰⵢⵔ (ليلة رأس السنة الأمازيغية)"
+    },
+    {
+      "id": "s14_v2",
+      "tifinagh": "ⵜⴰⴽⵍⵍⴰ",
+      "latin": "Taklla",
+      "arabic": "عصيدة التاكلا الاحتفالية",
+      "image": "assets/images/terms/s14_v2.webp",
+      "audio": "assets/audio/words/taklla.mp3",
+      "example": "ⵜⴰⴽⵍⵍⴰ ⵙ ⵜⴰⵎⵏⵜ (العصيدة بالعسل)",
+      "french": "La bouillie festive de Taklla",
+      "explanation": "ⵜⴰⴽⵍⵍⴰ ⵙ ⵜⴰⵎⵏⵜ (العصيدة بالعسل)"
+    },
+    {
+      "id": "s14_v3",
+      "tifinagh": "ⵉⵔⴽⵎⵎⵏ",
+      "latin": "Irkmmn",
+      "arabic": "حساء إيركمن (الحبوب السبعة)",
+      "image": "assets/images/terms/s14_v3.webp",
+      "audio": "assets/audio/words/irkmmn.mp3",
+      "example": "ⵉⵔⴽⵎⵎⵏ ⵏ ⵢⵏⵏⴰⵢⵔ (إيركمن ليلة يناير)",
+      "french": "Le plat d'Irkemen (sept céréales)",
+      "explanation": "ⵉⵔⴽⵎⵎⵏ ⵏ ⵢⵏⵏⴰⵢⵔ (إيركمن ليلة يناير)"
+    },
+    {
+      "id": "s14_v4",
+      "tifinagh": "ⵜⴰⵡⵊⴰ",
+      "latin": "Tawja",
+      "arabic": "الأسرة / العائلة",
+      "image": "assets/images/terms/s14_v4.webp",
+      "audio": "assets/audio/words/tawja.mp3",
+      "example": "ⵜⴰⵡⵊⴰ ⵉⵎⵓⵏⵏ (الأسرة المجتمعة)",
+      "french": "La famille",
+      "explanation": "ⵜⴰⵡⵊⴰ ⵉⵎⵓⵏⵏ (الأسرة المجتمعة)"
+    },
+    {
+      "id": "s14_v5",
+      "tifinagh": "ⴰⵎⴰⵢⵏⵓ",
+      "latin": "Amaynu",
+      "arabic": "الجديد",
+      "image": "assets/images/terms/s14_v5.webp",
+      "audio": "assets/audio/words/amaynu.mp3",
+      "example": "ⴰⵙⴳⴳ⯯ⴰⵙ ⴰⵎⴰⵢⵏⵓ (سنة جديدة)",
+      "french": "Nouveau",
+      "explanation": "ⴰⵙⴳⴳ⯯ⴰⵙ ⴰⵎⴰⵢⵏⵓ (سنة جديدة)"
+    },
+    {
+      "id": "s14_v6",
+      "tifinagh": "ⵓⴷⵉ",
+      "latin": "Udi",
+      "arabic": "السمن البلدي الأمازيغي",
+      "image": "assets/images/terms/s14_v6.webp",
+      "audio": "assets/audio/words/udi.mp3",
+      "example": "ⵓⴷⵉ ⴰⵇⴱⵓⵔ ⵉⵥⵉⴹ (السمن المعتق لذيذ)",
+      "french": "Le beurre clarifié (smen)",
+      "explanation": "ⵓⴷⵉ ⴰⵇⴱⵓⵔ ⵉⵥⵉⴹ (السمن المعتق لذيذ)"
+    },
+    {
+      "id": "s14_v7",
+      "tifinagh": "ⵜⴰⵎⵏⵜ",
+      "latin": "Tament",
+      "arabic": "عسل النحل الطبيعي",
+      "image": "assets/images/terms/s14_v7.webp",
+      "audio": "assets/audio/words/tament.mp3",
+      "example": "ⵜⴰⵎⵏⵜ ⵏ ⵜⵣⵡⵉⵜ (عسل النحل)",
+      "french": "Le miel naturel",
+      "explanation": "ⵜⴰⵎⵏⵜ ⵏ ⵜⵣⵡⵉⵜ (عسل النحل)"
+    },
+    {
+      "id": "s14_v8",
+      "tifinagh": "ⴰⵙⵓⴼ",
+      "latin": "Asuf",
+      "arabic": "البركة واليمن والخير",
+      "image": "assets/images/terms/s14_v8.webp",
+      "audio": "assets/audio/words/asuf.mp3",
+      "example": "ⵢⴰⴼ ⴰⵙⵓⴼ ⴳ ⵓⵙⴳⴳ⯯ⴰⵙ (نال البركة في العام)",
+      "french": "La bénédiction / L'abondance",
+      "explanation": "ⵢⴰⴼ ⴰⵙⵓⴼ ⴳ ⵓⵙⴳⴳ⯯ⴰⵙ (نال البركة في العام)"
+    },
+    {
+      "id": "s14_v9",
+      "tifinagh": "ⵊⴷⴷⴰ",
+      "latin": "Jdda",
+      "arabic": "الجدة (أو إنّا)",
+      "image": "assets/images/terms/s14_v9.webp",
+      "audio": "assets/audio/words/jdda.mp3",
+      "example": "ⵊⴷⴷⴰ ⵜⵙⵙⴼⵍⴷ ⵜⵉⵏⴼⵓⵙⵉⵏ (الجدة تحكي الحكايات)",
+      "french": "La grand-mère",
+      "explanation": "ⵊⴷⴷⴰ ⵜⵙⵙⴼⵍⴷ ⵜⵉⵏⴼⵓⵙⵉⵏ (الجدة تحكي الحكايات)"
+    },
+    {
+      "id": "s14_v10",
+      "tifinagh": "ⵜⴰⵏⴼⵓⵙⵜ",
+      "latin": "Tanfust",
+      "arabic": "الحكاية / القصة الشعبية",
+      "image": "assets/images/terms/s14_v10.webp",
+      "audio": "assets/audio/words/tanfust.mp3",
+      "example": "ⵜⴰⵏⴼⵓⵙⵜ ⵜⴰⵇⴱⵓⵔⵜ (حكاية قديمة)",
+      "french": "Le conte populaire",
+      "explanation": "ⵜⴰⵏⴼⵓⵙⵜ ⵜⴰⵇⴱⵓⵔⵜ (حكاية قديمة)"
+    }
+  ],
+  "textFrench": "Durant la nuit festive de Yennayer, la famille se réunit pour célébrer la nouvelle année.\nLa grand-mère prépare la savoureuse bouillie de Taklla et le plat d'Irkemen au beurre fondu et au miel.\nElle raconte un conte traditionnel captivant sur la mémoire des ancêtres et l'amour de la terre.\nTous invoquent la bénédiction, la pluie féconde et la paix pour la communauté.\nCe rendez-vous chaleureux incarne la solidarité et la joie partagée dans chaque foyer.",
+  "genre": "مناسبة وتقاليد فلاحية وتراثية (Yennayer Celebration)",
+  "source": "تقاليد رأس السنة الأمازيغية (2976) / التقويم الفلاحي",
+  "culturalContext": "ليلة إيض يناير ورأس السنة الأمازيغية؛ احتفال بالأرض والخصوبة وإعداد طبق 'التاكلا' و'إيركمن' والاجتماع الأسري حول الجدة.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s14_v1",
+      "targetTifinagh": "ⵢⵏⵏⴰⵢⵔ",
+      "targetLatin": "Ynnayer",
+      "targetArabic": "يناير (أول شهور السنة الأمازيغية)",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵢⵏⵏⴰⵢⵔ] (Ynnayer)؟",
+      "options": [
+        "يناير (أول شهور السنة الأمازيغية)",
+        "الحكاية / القصة الشعبية",
+        "حساء إيركمن (الحبوب السبعة)",
+        "الجدة (أو إنّا)"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵢⵏⵏⴰⵢⵔ] (ينطق: Ynnayer) يعني بالعربية: 'يناير (أول شهور السنة الأمازيغية)'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s14_v2",
+      "targetTifinagh": "ⵜⴰⴽⵍⵍⴰ",
+      "targetLatin": "Taklla",
+      "targetArabic": "عصيدة التاكلا الاحتفالية",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'عصيدة التاكلا الاحتفالية'؟",
+      "options": [
+        "ⵜⴰⴽⵍⵍⴰ (Taklla)",
+        "ⵊⴷⴷⴰ (Jdda)",
+        "ⵜⴰⵡⵊⴰ (Tawja)",
+        "ⴰⵙⵓⴼ (Asuf)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴽⵍⵍⴰ] (Taklla) وترجمتها: 'عصيدة التاكلا الاحتفالية'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s14_v3",
+      "targetTifinagh": "ⵉⵔⴽⵎⵎⵏ",
+      "targetLatin": "Irkmmn",
+      "targetArabic": "حساء إيركمن (الحبوب السبعة)",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵉⵔⴽⵎⵎⵏ] (Irkmmn)؟",
+      "options": [
+        "السمن البلدي الأمازيغي / ",
+        "يناير (أول شهور السنة الأمازيغية) / ",
+        "حساء إيركمن (الحبوب السبعة) / ",
+        "عسل النحل الطبيعي / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵉⵔⴽⵎⵎⵏ] (Irkmmn) ورد في سياق الحكاية للدلالة على: حساء إيركمن (الحبوب السبعة) ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s14_v4",
+      "targetTifinagh": "ⵜⴰⵡⵊⴰ",
+      "targetLatin": "Tawja",
+      "targetArabic": "الأسرة / العائلة",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵡⵊⴰ] (Tawja)؟",
+      "options": [
+        "الأسرة / العائلة",
+        "عصيدة التاكلا الاحتفالية",
+        "الجدة (أو إنّا)",
+        "الحكاية / القصة الشعبية"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵡⵊⴰ] (ينطق: Tawja) يعني بالعربية: 'الأسرة / العائلة'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s14_v5",
+      "targetTifinagh": "ⴰⵎⴰⵢⵏⵓ",
+      "targetLatin": "Amaynu",
+      "targetArabic": "الجديد",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الجديد'؟",
+      "options": [
+        "ⴰⵎⴰⵢⵏⵓ (Amaynu)",
+        "ⵜⴰⵏⴼⵓⵙⵜ (Tanfust)",
+        "ⵉⵔⴽⵎⵎⵏ (Irkmmn)",
+        "ⵢⵏⵏⴰⵢⵔ (Ynnayer)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵎⴰⵢⵏⵓ] (Amaynu) وترجمتها: 'الجديد'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s14_v6",
+      "targetTifinagh": "ⵓⴷⵉ",
+      "targetLatin": "Udi",
+      "targetArabic": "السمن البلدي الأمازيغي",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵓⴷⵉ] (Udi)؟",
+      "options": [
+        "عسل النحل الطبيعي / ",
+        "الجدة (أو إنّا) / ",
+        "السمن البلدي الأمازيغي / ",
+        "الحكاية / القصة الشعبية / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵓⴷⵉ] (Udi) ورد في سياق الحكاية للدلالة على: السمن البلدي الأمازيغي ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s14_v7",
+      "targetTifinagh": "ⵜⴰⵎⵏⵜ",
+      "targetLatin": "Tament",
+      "targetArabic": "عسل النحل الطبيعي",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵎⵏⵜ] (Tament)؟",
+      "options": [
+        "البركة واليمن والخير",
+        "السمن البلدي الأمازيغي",
+        "الجديد",
+        "عسل النحل الطبيعي"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⵏⵜ] (ينطق: Tament) يعني بالعربية: 'عسل النحل الطبيعي'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s14_v8",
+      "targetTifinagh": "ⴰⵙⵓⴼ",
+      "targetLatin": "Asuf",
+      "targetArabic": "البركة واليمن والخير",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'البركة واليمن والخير'؟",
+      "options": [
+        "ⵓⴷⵉ (Udi)",
+        "ⵊⴷⴷⴰ (Jdda)",
+        "ⴰⵙⵓⴼ (Asuf)",
+        "ⵢⵏⵏⴰⵢⵔ (Ynnayer)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵙⵓⴼ] (Asuf) وترجمتها: 'البركة واليمن والخير'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s14_v9",
+      "targetTifinagh": "ⵊⴷⴷⴰ",
+      "targetLatin": "Jdda",
+      "targetArabic": "الجدة (أو إنّا)",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵊⴷⴷⴰ] (Jdda)؟",
+      "options": [
+        "الأسرة / العائلة / ",
+        "عسل النحل الطبيعي / ",
+        "الجدة (أو إنّا) / ",
+        "يناير (أول شهور السنة الأمازيغية) / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵊⴷⴷⴰ] (Jdda) ورد في سياق الحكاية للدلالة على: الجدة (أو إنّا) ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s14_v10",
+      "targetTifinagh": "ⵜⴰⵏⴼⵓⵙⵜ",
+      "targetLatin": "Tanfust",
+      "targetArabic": "الحكاية / القصة الشعبية",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵏⴼⵓⵙⵜ] (Tanfust)؟",
+      "options": [
+        "الجدة (أو إنّا)",
+        "الحكاية / القصة الشعبية",
+        "يناير (أول شهور السنة الأمازيغية)",
+        "عسل النحل الطبيعي"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵏⴼⵓⵙⵜ] (ينطق: Tanfust) يعني بالعربية: 'الحكاية / القصة الشعبية'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

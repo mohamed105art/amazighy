@@ -1,0 +1,340 @@
+{
+  "id": "story13",
+  "title": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+  "titleTifinagh": "ⵜⴰⵣⵔⴱⵉⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵏ ⵜⴰⵣⵏⴰⵅⵜ",
+  "titleLatin": "Tazrbit Tamaziɣt n Taznaxt",
+  "region": "تازناخت وسيروا (إقليم ورزازات)",
+  "dialect": "تشلحيت وتمازيغت (Artisanal Heritage)",
+  "level": "مبتدئ (Level 1)",
+  "category": "crafts",
+  "categoryName": "فنون وصناعة تقليدية",
+  "coverImage": "assets/images/stories/story13.jpg",
+  "audio": "assets/audio/stories/story13.mp3",
+  "summary": "حكاية النساجات المبدعات في واحة تازناخت الشهيرة بالزربية الواوزكيتية؛ كيف تنسج المرأة الأمازيغية مشاعرها ورموز تيفيناغ (اليز ⵣ وشجرة الحياة والخصب) بخيوط الصوف المصبوغة بالأعشاب الطبيعية.",
+  "textTamazight": "ⴳ ⵜⴰⵣⵏⴰⵅⵜ, ⵜⵙⵙⵏ ⵜⴰⵎⵖⴰⵔⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ ⴰⴷ ⵜⵥⴹ ⵜⴰⵣⵔⴱⵉⵜ ⵙ ⵜⴰⴹⵓⵟ ⵜⴰⵎⵍⵍⴰⵍⵜ.\nⵜⵙⵙⵔⵙ ⴰⵙⵜⵜⴰ ⵏⵏⵙ ⴳ ⵜⴰⴷⴷⴰⵔⵜ, ⵜⵙⵙⴽⵛⵎ ⴳⵉⵙ ⴽⵓ ⵉⵥⵍⵉ ⵙ ⵜⵉⵃⵕⵛⵉ.\nⵜⵙⵙⵎⵔⵙ ⵉⴽⵯⵍⴰⵏ: ⴰⵣⴳⴳⵯⴰⵖ ⴷ ⵓⵎⵍⵍⴰⵍ ⴷ ⴰⵣⴳⵣⴰ ⵙ ⴰⵙⴼⴰⵔ ⴰⴳⴰⵎⴰⵏ.\nⵜⵓⵔⴰ ⴳ ⵜⵣⵔⴱⵉⵜ ⵜⵉⵎⵉⵜⴰⵔ ⵏ ⵜⵉⴼⵉⵏⴰⵖ ⴷ ⵓⵣⴰⵎⵓⵍ ⵏ ⵢⴰⵣ ⵏ ⵓⴼⴳⴰⵏ ⴰⵍⴻⵍⵍⵉ.\nⵜⴻⵜⵜⵡⴰⵙⵙⵏ ⵜⴰⵎⵙⵙⵓⵔⵜ ⵏ ⵜⵎⵖⴰⵔⵉⵏ ⴳ ⴽⵓ ⴰⵎⴰⴹⴰⵍ ⵙ ⵓⴼⵓⵍⴽⵉ ⴷ ⵜⵓⵙⵙⵏⴰ.",
+  "textLatin": "G Taznaxt, tssn tamɣart tamaziɣt ad tẓḍ tazrbit s taḍuṭ tamllalt.\nTssrs astta nnes g taddart, tsskcm gis ku iẓli s tiḥrci.\nTssmrs ikʷlan: azggʷaɣ d umllal d azgza s usfar agaman.\nTura g tzrbit timitar n tifinaɣ d uzamul n yaz n ufgan alelli.\nTettwassn tamssurt n tmɣarin g ku amaḍal s ufulki d tussna.",
+  "textArabic": "في تازناخت الأصيلة، تبدع المرأة الأمازيغية في نسج الزربية التقليدية من خيرة الصوف الطبيعي.\nتنصب الـمنسج اليدوي (أسطا) في بهو الدار، وتدخل فيه كل خيط متين بدقة وبراعة.\nتستعمل صباغات طبيعية كـالأحمر القاني والأبيض والـأخضر المستخرج من الأعشاب الطبية.\nتطرز في السجاد رموز تيفيناغ العريقة وشعار حرف الياز (ⵣ) رمز الإنسان الحر الأبي.\nاشتهرت الحرفية والإتقان الرفيع لدى صانعات السجاد في مختلف أصقاع العالم.",
+  "grammar": "الألوان المؤنثة في الأمازيغية تبدأ بـ T: Tazggʷaɣt حمراء، Tawraɣt صفراء، Tazgzawt خضراء، Tamllalt بيضاء.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵜⵥⴹⴰ ⵜⵎⵖⴰⵔⵜ ⵜⴰⵣⵔⴱⵉⵜ ⵙ ⵜⴹⵓⵟ",
+    "sentenceLatin": "Tẓḍa tmɣart tazrbit s tḍuṭ",
+    "sentenceArabic": "نسجت المرأةُ الزربيةَ بالصوف",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵜⵥⴹⴰ",
+        "trans": "نسجت (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵜⵎⵖⴰⵔⵜ",
+        "trans": "المرأةُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵜⴰⵣⵔⴱⵉⵜ",
+        "trans": "الزربيةَ (مفعول به)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵙ",
+        "trans": "بـ (حرف استعانة)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵜⴹⵓⵟ",
+        "trans": "الصوف (اسم مجرور)"
+      }
+    ],
+    "explanation": "فعل 'Tẓḍa' مخصص لصناعة النسيج التقليدي بالمنسج الصوفي الأمازيغي."
+  },
+  "vocabulary": [
+    {
+      "id": "s13_v1",
+      "tifinagh": "ⵜⴰⵣⵔⴱⵉⵜ",
+      "latin": "Tazrbit",
+      "arabic": "الزربية / السجاد التقليدي",
+      "image": "assets/images/terms/s13_v1.webp",
+      "audio": "assets/audio/words/tazrbit.mp3",
+      "example": "ⵜⴰⵣⵔⴱⵉⵜ ⵏ ⵜⴰⵣⵏⴰⵅⵜ ⵜⴼⵓⵍⴽⵉ (زربية تازناخت رائعة)",
+      "french": "Le tapis traditionnel berbère",
+      "explanation": "ⵜⴰⵣⵔⴱⵉⵜ ⵏ ⵜⴰⵣⵏⴰⵅⵜ ⵜⴼⵓⵍⴽⵉ (زربية تازناخت رائعة)"
+    },
+    {
+      "id": "s13_v2",
+      "tifinagh": "ⵜⴰⴹⵓⵟ",
+      "latin": "Taḍuṭ",
+      "arabic": "الصوف الطبيعي",
+      "image": "assets/images/terms/s13_v2.webp",
+      "audio": "assets/audio/words/tadut.mp3",
+      "example": "ⵜⴰⴹⵓⵟ ⵏ ⵡⴰⵍⵍⵉⵎ (صوف الخراف النقي)",
+      "french": "La laine naturelle",
+      "explanation": "ⵜⴰⴹⵓⵟ ⵏ ⵡⴰⵍⵍⵉⵎ (صوف الخراف النقي)"
+    },
+    {
+      "id": "s13_v3",
+      "tifinagh": "ⴰⵙⵜⵜⴰ",
+      "latin": "Astta",
+      "arabic": "المنسج / النول اليدوي",
+      "image": "assets/images/terms/s13_v3.webp",
+      "audio": "assets/audio/words/astta.mp3",
+      "example": "ⵉⴱⴷⴷ ⵓⵙⵜⵜⴰ ⴳ ⵜⴰⴷⴷⴰⵔⵜ (انتصب المنسج في البيت)",
+      "french": "Le métier à tisser manuel",
+      "explanation": "ⵉⴱⴷⴷ ⵓⵙⵜⵜⴰ ⴳ ⵜⴰⴷⴷⴰⵔⵜ (انتصب المنسج في البيت)"
+    },
+    {
+      "id": "s13_v4",
+      "tifinagh": "ⵉⵥⵍⵉ",
+      "latin": "Iẓli",
+      "arabic": "الخيط / اللون / البيت الشعري",
+      "image": "assets/images/terms/s13_v4.webp",
+      "audio": "assets/audio/words/izli.mp3",
+      "example": "ⵉⵥⵍⴰⵏ ⵏ ⵜⵎⴰⵣⵉⵔⵜ (خيوط وألوان البلاد)",
+      "french": "Le fil / La ligne tissée",
+      "explanation": "ⵉⵥⵍⴰⵏ ⵏ ⵜⵎⴰⵣⵉⵔⵜ (خيوط وألوان البلاد)"
+    },
+    {
+      "id": "s13_v5",
+      "tifinagh": "ⴰⵣⴳⴳⵯⴰⵖ",
+      "latin": "Azggʷaɣ",
+      "arabic": "اللون الأحمر",
+      "image": "assets/images/terms/s13_v5.webp",
+      "audio": "assets/audio/words/azggwag.mp3",
+      "example": "ⵉⵥⵍⵉ ⴰⵣⴳⴳⵯⴰⵖ (الخيط الأحمر)",
+      "french": "La couleur rouge",
+      "explanation": "ⵉⵥⵍⵉ ⴰⵣⴳⴳⵯⴰⵖ (الخيط الأحمر)"
+    },
+    {
+      "id": "s13_v6",
+      "tifinagh": "ⴰⵣⴳⵣⴰ",
+      "latin": "Azgza",
+      "arabic": "اللون الأخضر / الأزرق",
+      "image": "assets/images/terms/s13_v6.webp",
+      "audio": "assets/audio/words/azgza.mp3",
+      "example": "ⴰⴽⴰⵍ ⴰⵣⴳⵣⴰⵡ (أرض مخضرة)",
+      "french": "La couleur verte / bleue",
+      "explanation": "ⴰⴽⴰⵍ ⴰⵣⴳⵣⴰⵡ (أرض مخضرة)"
+    },
+    {
+      "id": "s13_v7",
+      "tifinagh": "ⵢⴰⵣ",
+      "latin": "Yaz (ⵣ)",
+      "arabic": "حرف الياز (رمز الإنسان الحر)",
+      "image": "assets/images/terms/s13_v7.webp",
+      "audio": "assets/audio/words/yaz.mp3",
+      "example": "ⴰⵣⴰⵎⵓⵍ ⵏ ⵢⴰⵣ (رمز حرف الزاي الأمازيغي)",
+      "french": "La lettre Yaz (symbole de l'homme libre)",
+      "explanation": "ⴰⵣⴰⵎⵓⵍ ⵏ ⵢⴰⵣ (رمز حرف الزاي الأمازيغي)"
+    },
+    {
+      "id": "s13_v8",
+      "tifinagh": "ⵜⴰⵎⵙⵙⵓⵔⵜ",
+      "latin": "Tamssurt",
+      "arabic": "الحرفية والإتقان",
+      "image": "assets/images/terms/s13_v8.webp",
+      "audio": "assets/audio/words/tamssurt.mp3",
+      "example": "ⵜⴰⵎⵙⵙⵓⵔⵜ ⵏ ⵜⵏⵙⵙⴰⵊⵉⵏ (إتقان النساجات)",
+      "french": "La maîtrise artisanale / L'art du tissage",
+      "explanation": "ⵜⴰⵎⵙⵙⵓⵔⵜ ⵏ ⵜⵏⵙⵙⴰⵊⵉⵏ (إتقان النساجات)"
+    },
+    {
+      "id": "s13_v9",
+      "tifinagh": "ⵜⵉⴼⵉⵏⴰⵖ",
+      "latin": "Tifinaɣ",
+      "arabic": "رموز وخط تيفيناغ",
+      "image": "assets/images/terms/s13_v9.webp",
+      "audio": "assets/audio/words/tifinagh.mp3",
+      "example": "ⵜⵉⵔⵔⴰ ⵏ ⵜⴼⵉⵏⴰⵖ (كتابة تيفيناغ)",
+      "french": "Les caractères Tifinagh",
+      "explanation": "ⵜⵉⵔⵔⴰ ⵏ ⵜⴼⵉⵏⴰⵖ (كتابة تيفيناغ)"
+    },
+    {
+      "id": "s13_v10",
+      "tifinagh": "ⴰⵙⴼⴰⵔ",
+      "latin": "Asfar",
+      "arabic": "الصباغة الطبيعية / العلاج",
+      "image": "assets/images/terms/s13_v10.webp",
+      "audio": "assets/audio/words/asfar.mp3",
+      "example": "ⴰⵙⴼⴰⵔ ⵏ ⵓⵊⴷⴷⵉⴳ (صبغة الأزهار الطبيعية)",
+      "french": "La teinture végétale naturelle",
+      "explanation": "ⴰⵙⴼⴰⵔ ⵏ ⵓⵊⴷⴷⵉⴳ (صبغة الأزهار الطبيعية)"
+    }
+  ],
+  "textFrench": "À Taznakht, la tisseuse amazighe crée le tapis berbère avec une laine naturelle sélectionnée.\nElle installe son métier à tisser dans la demeure et agence chaque fil avec minutie.\nElle harmonise les couleurs: rouge vif, blanc pur et vert olive obtenus par teinture végétale.\nElle brode les symboles en Tifinagh et l'insigne sacré du Yaz (ⵣ), emblème de liberté.\nLe savoir-faire artisanal et l'élégance de ces œuvres sont admirés à travers le monde.",
+  "genre": "فنون الصناعة التقليدية والرموز (Cultural Craft)",
+  "source": "دراسات الرموز في السجاد الأمازيغي / تعاونيات تازناخت",
+  "culturalContext": "الزربية الواوزكيتية بتازناخت كتاب مفتوح من رموز تيفيناغ؛ كل خيط ولون هندسي يحكي قصة ارتباط بالمرأة والأرض والحرية.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s13_v1",
+      "targetTifinagh": "ⵜⴰⵣⵔⴱⵉⵜ",
+      "targetLatin": "Tazrbit",
+      "targetArabic": "الزربية / السجاد التقليدي",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵣⵔⴱⵉⵜ] (Tazrbit)؟",
+      "options": [
+        "الصوف الطبيعي",
+        "حرف الياز (رمز الإنسان الحر)",
+        "الزربية / السجاد التقليدي",
+        "الصباغة الطبيعية / العلاج"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵣⵔⴱⵉⵜ] (ينطق: Tazrbit) يعني بالعربية: 'الزربية / السجاد التقليدي'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s13_v2",
+      "targetTifinagh": "ⵜⴰⴹⵓⵟ",
+      "targetLatin": "Taḍuṭ",
+      "targetArabic": "الصوف الطبيعي",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الصوف الطبيعي'؟",
+      "options": [
+        "ⵜⵉⴼⵉⵏⴰⵖ (Tifinaɣ)",
+        "ⵜⴰⴹⵓⵟ (Taḍuṭ)",
+        "ⵉⵥⵍⵉ (Iẓli)",
+        "ⴰⵣⴳⴳⵯⴰⵖ (Azggʷaɣ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴹⵓⵟ] (Taḍuṭ) وترجمتها: 'الصوف الطبيعي'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s13_v3",
+      "targetTifinagh": "ⴰⵙⵜⵜⴰ",
+      "targetLatin": "Astta",
+      "targetArabic": "المنسج / النول اليدوي",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵙⵜⵜⴰ] (Astta)؟",
+      "options": [
+        "الصوف الطبيعي / ",
+        "المنسج / النول اليدوي / ",
+        "حرف الياز (رمز الإنسان الحر) / ",
+        "الخيط / اللون / البيت الشعري / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵙⵜⵜⴰ] (Astta) ورد في سياق الحكاية للدلالة على: المنسج / النول اليدوي ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s13_v4",
+      "targetTifinagh": "ⵉⵥⵍⵉ",
+      "targetLatin": "Iẓli",
+      "targetArabic": "الخيط / اللون / البيت الشعري",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵥⵍⵉ] (Iẓli)؟",
+      "options": [
+        "الخيط / اللون / البيت الشعري",
+        "اللون الأحمر",
+        "الصوف الطبيعي",
+        "الصباغة الطبيعية / العلاج"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵉⵥⵍⵉ] (ينطق: Iẓli) يعني بالعربية: 'الخيط / اللون / البيت الشعري'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s13_v5",
+      "targetTifinagh": "ⴰⵣⴳⴳⵯⴰⵖ",
+      "targetLatin": "Azggʷaɣ",
+      "targetArabic": "اللون الأحمر",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'اللون الأحمر'؟",
+      "options": [
+        "ⴰⵣⴳⴳⵯⴰⵖ (Azggʷaɣ)",
+        "ⵢⴰⵣ (Yaz (ⵣ))",
+        "ⵜⵉⴼⵉⵏⴰⵖ (Tifinaɣ)",
+        "ⴰⵙⵜⵜⴰ (Astta)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵣⴳⴳⵯⴰⵖ] (Azggʷaɣ) وترجمتها: 'اللون الأحمر'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s13_v6",
+      "targetTifinagh": "ⴰⵣⴳⵣⴰ",
+      "targetLatin": "Azgza",
+      "targetArabic": "اللون الأخضر / الأزرق",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵣⴳⵣⴰ] (Azgza)؟",
+      "options": [
+        "المنسج / النول اليدوي / ",
+        "اللون الأخضر / الأزرق / ",
+        "حرف الياز (رمز الإنسان الحر) / ",
+        "الخيط / اللون / البيت الشعري / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵣⴳⵣⴰ] (Azgza) ورد في سياق الحكاية للدلالة على: اللون الأخضر / الأزرق ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s13_v7",
+      "targetTifinagh": "ⵢⴰⵣ",
+      "targetLatin": "Yaz (ⵣ)",
+      "targetArabic": "حرف الياز (رمز الإنسان الحر)",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵢⴰⵣ] (Yaz (ⵣ))؟",
+      "options": [
+        "المنسج / النول اليدوي",
+        "الخيط / اللون / البيت الشعري",
+        "الحرفية والإتقان",
+        "حرف الياز (رمز الإنسان الحر)"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵢⴰⵣ] (ينطق: Yaz (ⵣ)) يعني بالعربية: 'حرف الياز (رمز الإنسان الحر)'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s13_v8",
+      "targetTifinagh": "ⵜⴰⵎⵙⵙⵓⵔⵜ",
+      "targetLatin": "Tamssurt",
+      "targetArabic": "الحرفية والإتقان",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الحرفية والإتقان'؟",
+      "options": [
+        "ⴰⵣⴳⴳⵯⴰⵖ (Azggʷaɣ)",
+        "ⵜⴰⵎⵙⵙⵓⵔⵜ (Tamssurt)",
+        "ⴰⵣⴳⵣⴰ (Azgza)",
+        "ⵜⴰⴹⵓⵟ (Taḍuṭ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵎⵙⵙⵓⵔⵜ] (Tamssurt) وترجمتها: 'الحرفية والإتقان'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s13_v9",
+      "targetTifinagh": "ⵜⵉⴼⵉⵏⴰⵖ",
+      "targetLatin": "Tifinaɣ",
+      "targetArabic": "رموز وخط تيفيناغ",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⴼⵉⵏⴰⵖ] (Tifinaɣ)؟",
+      "options": [
+        "رموز وخط تيفيناغ / ",
+        "اللون الأخضر / الأزرق / ",
+        "المنسج / النول اليدوي / ",
+        "الزربية / السجاد التقليدي / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⴼⵉⵏⴰⵖ] (Tifinaɣ) ورد في سياق الحكاية للدلالة على: رموز وخط تيفيناغ ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s13_v10",
+      "targetTifinagh": "ⴰⵙⴼⴰⵔ",
+      "targetLatin": "Asfar",
+      "targetArabic": "الصباغة الطبيعية / العلاج",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵙⴼⴰⵔ] (Asfar)؟",
+      "options": [
+        "الصباغة الطبيعية / العلاج",
+        "حرف الياز (رمز الإنسان الحر)",
+        "الزربية / السجاد التقليدي",
+        "رموز وخط تيفيناغ"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵙⴼⴰⵔ] (ينطق: Asfar) يعني بالعربية: 'الصباغة الطبيعية / العلاج'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

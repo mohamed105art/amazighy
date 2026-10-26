@@ -1,0 +1,340 @@
+{
+  "id": "story7",
+  "title": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+  "titleTifinagh": "ⴰⴳⵍⵍⵉⴷ ⵢⵓⴱⴰ ⵡⵉⵙⵙ ⵙⵉⵏ",
+  "titleLatin": "Agllid Yuba Wiss Sin",
+  "region": "موريتانيا الطنجية ووليلي وطنجة",
+  "dialect": "الأمازيغية التاريخية المعيارية (Historical Account)",
+  "level": "متوسط (Level 2)",
+  "category": "history",
+  "categoryName": "تاريخ ومقاومة",
+  "coverImage": "assets/images/stories/story7.jpg",
+  "audio": "assets/audio/stories/story7.mp3",
+  "summary": "سيرة الملك الأمازيغي المثقف يوبا الثاني (Juba II) الذي حكم شمال المغرب، واتخذ من وليلي وشرشال عواصم للعلوم والفنون، وألّف كتباً تاريخية وجغرافية عظيمة وجعل مملكته منارة لحضارة البحر الأبيض المتوسط.",
+  "textTamazight": "ⵢⵓⴱⴰ ⵡⵉⵙ ⵙⵉⵏ ⵉⴳⴰ ⵢⴰⵏ ⴰⴳⵍⵍⵉⴷ ⴰⵎⵇⵔⴰⵏ ⵉⵙⵙⵏⵏ ⵜⵓⵙⵙⵏⴰ ⴷ ⵜⵖⵔⵎⴰ.\nⵜⴽⴽⴰ-ⵜⵜ ⵜⴰⴳⵍⴷⵉⵜ ⵏⵏⵙ ⵜⴰⵎⵓⵔⵉⵟⴰⵏⵉⵜ ⵜⴻⵜⵜⵡⴰⵙⵙⵏ ⴳ ⴰⵎⴰⴹⴰⵍ ⴰⵇⴱⵓⵔ.\nⵢⵓⵔⴰ ⴽⵉⴳⴰⵏ ⵏ ⵡⴰⵔⵔⴰⵜⵏ ⴷ ⵢⴰⵏ ⴰⴷⵍⵉⵙ ⴼ ⴰⵎⵣⵔⵓⵢ ⴷ ⵜⵙⵏⴰⵍⵎⵓⴷⵜ.\nⵢⵚⴽⴰ ⵢⴰⵜ ⵜⴰⵙⴷⵍⵉⵙⵜ ⵜⴰⵎⵇⵔⴰⵏⵜ ⴳ ⵜⵉⵖⵔⵎⵉⵏ ⵏ ⵡⴰⵍⵉⵍⵉ ⴷ ⵟⴰⵏⵊⴰ.\nⵉⵙⵙⵉⴷⴼ ⵜⴰⵥⵓⵕⵉ ⴷ ⵜⵓⵙⵙⵏⴰ ⴳ ⴽⵓ ⵜⴰⵙⴳⴰ ⵏ ⵜⴰⵎⵓⵔⵜ ⵏⵏⵙ ⵜⴰⵎⴰⵣⵉⵖⵜ.",
+  "textLatin": "Yuba wis sin iga yan agllid amqran issnn tussna d tiɣrma.\nTkka-tt tagldit nnes tamuriṭanit tettwassn g umaḍal aqbur.\nYura kigan n warratn d yan adlis f umzruy d tsnalmudt.\nYṣka yat tasdlist tamqrant g tiɣrmin n Walili d Ṭanja.\nIssidf taẓuṛi d tussna g ku tasga n tamurt nnes tamaziɣt.",
+  "textArabic": "كان يوبا الثاني ملكاً أمازيغياً عظيماً كرس حياته لـالمعرفة والعلوم وبناء الحضارة.\nاشتهرت مملكتـه الموريتانية القديمة بالرقي والازدهار في كافة أرجاء الـعالم القديم.\nألف العديد من المخطوطات و وضع كـتاباً جامعاً في الـتاريخ والجغرافيا والطب.\nشيد مكتبة ضخمة وأسس مدناً عريقة من بينها وليلي التاريخية وطنجة البهية.\nرعى الـفن والإبداع ونشر العلم في ربوع وطنه الأمازيغي الأصيل.",
+  "grammar": "العدد الترتيبي في الأمازيغية يصاغ بإضافة 'Wiss' للمذكر و 'Tis' للمؤنث (Wiss sin = الثاني، Tis snat = الثانية).",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵉⴱⵏⴰ ⵢⵓⴱⴰ ⵜⴰⵙⴷⵍⵉⵙⵜ ⴳ ⵜⵖⵔⵎⵜ",
+    "sentenceLatin": "Ibna Yuba tasdlist g tɣrmt",
+    "sentenceArabic": "بنى يوبا المكتبةَ في المدينة",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵉⴱⵏⴰ",
+        "trans": "بنى / شيد (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵢⵓⴱⴰ",
+        "trans": "يوبا (فاعل علم)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵜⴰⵙⴷⵍⵉⵙⵜ",
+        "trans": "المكتبةَ (مفعول به)"
+      },
+      {
+        "id": "w4",
+        "text": "ⴳ",
+        "trans": "في (حرف مكان)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵜⵖⵔⵎⵜ",
+        "trans": "المدينة / الحاضرة (اسم مقيد)"
+      }
+    ],
+    "explanation": "الجملة توضح بنية: فعل + فاعل + مفعول به + جار ومجرور."
+  },
+  "vocabulary": [
+    {
+      "id": "s7_v1",
+      "tifinagh": "ⴰⴳⵍⵍⵉⴷ",
+      "latin": "Agllid",
+      "arabic": "الملك",
+      "image": "assets/images/terms/s7_v1.webp",
+      "audio": "assets/audio/words/agllid.mp3",
+      "example": "ⴰⴳⵍⵍⵉⴷ ⴰⵎⴰⵣⵉⵖ ⵉⵄⴷⵍ (الملك الأمازيغي عادل)",
+      "french": "Le roi",
+      "explanation": "ⴰⴳⵍⵍⵉⴷ ⴰⵎⴰⵣⵉⵖ ⵉⵄⴷⵍ (الملك الأمازيغي عادل)"
+    },
+    {
+      "id": "s7_v2",
+      "tifinagh": "ⵜⴰⴳⵍⴷⵉⵜ",
+      "latin": "Tagldit",
+      "arabic": "المملكة",
+      "image": "assets/images/terms/s7_v2.webp",
+      "audio": "assets/audio/words/tagldit.mp3",
+      "example": "ⵜⴰⴳⵍⴷⵉⵜ ⵜⴰⵎⵖⵔⵉⴱⵉⵜ (المملكة المغربية)",
+      "french": "Le royaume",
+      "explanation": "ⵜⴰⴳⵍⴷⵉⵜ ⵜⴰⵎⵖⵔⵉⴱⵉⵜ (المملكة المغربية)"
+    },
+    {
+      "id": "s7_v3",
+      "tifinagh": "ⴰⴷⵍⵉⵙ",
+      "latin": "Adlis",
+      "arabic": "الكتاب",
+      "image": "assets/images/terms/s7_v3.webp",
+      "audio": "assets/audio/words/adlis.mp3",
+      "example": "ⵖⵔⵉⵖ ⴰⴷⵍⵉⵙ ⴰⵎⴰⵢⵏⵓ (قرأت كتاباً جديداً)",
+      "french": "Le livre",
+      "explanation": "ⵖⵔⵉⵖ ⴰⴷⵍⵉⵙ ⴰⵎⴰⵢⵏⵓ (قرأت كتاباً جديداً)"
+    },
+    {
+      "id": "s7_v4",
+      "tifinagh": "ⵜⴰⵙⴷⵍⵉⵙⵜ",
+      "latin": "Tasdlist",
+      "arabic": "المكتبة / خزانة الكتب",
+      "image": "assets/images/terms/s7_v4.webp",
+      "audio": "assets/audio/words/tasdlist.mp3",
+      "example": "ⵜⴰⵙⴷⵍⵉⵙⵜ ⵜⵛⵡⴰⵔ ⵙ ⵉⴷⵍⵉⵙⵏ (المكتبة مليئة بالكتب)",
+      "french": "La bibliothèque",
+      "explanation": "ⵜⴰⵙⴷⵍⵉⵙⵜ ⵜⵛⵡⴰⵔ ⵙ ⵉⴷⵍⵉⵙⵏ (المكتبة مليئة بالكتب)"
+    },
+    {
+      "id": "s7_v5",
+      "tifinagh": "ⵜⵉⵖⵔⵎⵉⵏ",
+      "latin": "Tiɣrmin",
+      "arabic": "المدن والحصون (جمع tiɣrmt)",
+      "image": "assets/images/terms/s7_v5.webp",
+      "audio": "assets/audio/words/tigrmin.mp3",
+      "example": "ⵜⵉⵖⵔⵎⵉⵏ ⵜⵉⵇⴱⵓⵔⵉⵏ (المدن التاريخية العتيقة)",
+      "french": "Les cités / Les forteresses",
+      "explanation": "ⵜⵉⵖⵔⵎⵉⵏ ⵜⵉⵇⴱⵓⵔⵉⵏ (المدن التاريخية العتيقة)"
+    },
+    {
+      "id": "s7_v6",
+      "tifinagh": "ⴰⵎⵣⵔⵓⵢ",
+      "latin": "Amzruy",
+      "arabic": "التاريخ",
+      "image": "assets/images/terms/s7_v6.webp",
+      "audio": "assets/audio/words/amzruy.mp3",
+      "example": "ⴰⵎⵣⵔⵓⵢ ⵏ ⵜⵎⴰⵣⵖⴰ ⵉⵖⵣⵣⵉⴼ (تاريخ تمازغا عريق وطويل)",
+      "french": "L'histoire",
+      "explanation": "ⴰⵎⵣⵔⵓⵢ ⵏ ⵜⵎⴰⵣⵖⴰ ⵉⵖⵣⵣⵉⴼ (تاريخ تمازغا عريق وطويل)"
+    },
+    {
+      "id": "s7_v7",
+      "tifinagh": "ⵜⵓⵙⵙⵏⴰ",
+      "latin": "Tussna",
+      "arabic": "المعرفة / العلوم",
+      "image": "assets/images/terms/s7_v7.webp",
+      "audio": "assets/audio/words/tussna.mp3",
+      "example": "ⵜⵓⵙⵙⵏⴰ ⵜⴳⴰ ⵜⵉⴼⴰⵡⵜ (العلم نور)",
+      "french": "Le savoir / La science",
+      "explanation": "ⵜⵓⵙⵙⵏⴰ ⵜⴳⴰ ⵜⵉⴼⴰⵡⵜ (العلم نور)"
+    },
+    {
+      "id": "s7_v8",
+      "tifinagh": "ⵜⴰⵥⵓⵕⵉ",
+      "latin": "Taẓuṛi",
+      "arabic": "الفن والإبداع",
+      "image": "assets/images/terms/s7_v8.webp",
+      "audio": "assets/audio/words/tazuri.mp3",
+      "example": "ⵜⴰⵥⵓⵕⵉ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴼⵓⵍⴽⵉ (الفن الأمازيغي بديع)",
+      "french": "L'art / La création artistique",
+      "explanation": "ⵜⴰⵥⵓⵕⵉ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴼⵓⵍⴽⵉ (الفن الأمازيغي بديع)"
+    },
+    {
+      "id": "s7_v9",
+      "tifinagh": "ⵜⴰⵎⵓⵔⵜ",
+      "latin": "Tamurt",
+      "arabic": "الوطن / البلاد",
+      "image": "assets/images/terms/s7_v9.webp",
+      "audio": "assets/audio/words/tamurt.mp3",
+      "example": "ⵃⵎⵍⵖ ⵜⴰⵎⵓⵔⵜ ⵉⵏⵓ (أحب وطني)",
+      "french": "La patrie / Le pays",
+      "explanation": "ⵃⵎⵍⵖ ⵜⴰⵎⵓⵔⵜ ⵉⵏⵓ (أحب وطني)"
+    },
+    {
+      "id": "s7_v10",
+      "tifinagh": "ⴰⵎⴰⴹⴰⵍ",
+      "latin": "Amaḍal",
+      "arabic": "العالم / الكون",
+      "image": "assets/images/terms/s7_v10.webp",
+      "audio": "assets/audio/words/amadal.mp3",
+      "example": "ⴳ ⴽⵓ ⴰⵎⴰⴹⴰⵍ (في كل أرجاء العالم)",
+      "french": "Le monde / L'univers",
+      "explanation": "ⴳ ⴽⵓ ⴰⵎⴰⴹⴰⵍ (في كل أرجاء العالم)"
+    }
+  ],
+  "textFrench": "Juba II fut un grand roi éclairé dévoué au savoir, aux sciences et à la civilisation.\nSon illustre royaume maurétanien était renommé à travers le monde antique.\nIl rédigea de précieux ouvrages et un livre célèbre sur l'histoire naturelle et les arts.\nIl fonda une immense bibliothèque au cœur des cités de Volubilis et de Tanger.\nIl développa l'art raffiné et la sagesse dans chaque contrée de sa patrie amazighe.",
+  "genre": "رواية تاريخية مستندة إلى المصادر الأثرية (Documented History)",
+  "source": "مؤلفات يوبا الثاني / تنقيبات موقع وليلي الأثري",
+  "culturalContext": "الملك الأمازيغي المثقف يوبا الثاني (Juba II) وزوجته كليوباترا سيليني حوّلا وليلي وطنجة إلى عاصمتين للعلم والمكتبات والفنون.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s7_v1",
+      "targetTifinagh": "ⴰⴳⵍⵍⵉⴷ",
+      "targetLatin": "Agllid",
+      "targetArabic": "الملك",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴳⵍⵍⵉⴷ] (Agllid)؟",
+      "options": [
+        "المكتبة / خزانة الكتب",
+        "الوطن / البلاد",
+        "الملك",
+        "التاريخ"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⴳⵍⵍⵉⴷ] (ينطق: Agllid) يعني بالعربية: 'الملك'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s7_v2",
+      "targetTifinagh": "ⵜⴰⴳⵍⴷⵉⵜ",
+      "targetLatin": "Tagldit",
+      "targetArabic": "المملكة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'المملكة'؟",
+      "options": [
+        "ⵜⴰⴳⵍⴷⵉⵜ (Tagldit)",
+        "ⵜⴰⵎⵓⵔⵜ (Tamurt)",
+        "ⵜⵉⵖⵔⵎⵉⵏ (Tiɣrmin)",
+        "ⴰⴳⵍⵍⵉⴷ (Agllid)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴳⵍⴷⵉⵜ] (Tagldit) وترجمتها: 'المملكة'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s7_v3",
+      "targetTifinagh": "ⴰⴷⵍⵉⵙ",
+      "targetLatin": "Adlis",
+      "targetArabic": "الكتاب",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴷⵍⵉⵙ] (Adlis)؟",
+      "options": [
+        "الملك / ",
+        "التاريخ / ",
+        "الكتاب / ",
+        "الفن والإبداع / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⴷⵍⵉⵙ] (Adlis) ورد في سياق الحكاية للدلالة على: الكتاب ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s7_v4",
+      "targetTifinagh": "ⵜⴰⵙⴷⵍⵉⵙⵜ",
+      "targetLatin": "Tasdlist",
+      "targetArabic": "المكتبة / خزانة الكتب",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵙⴷⵍⵉⵙⵜ] (Tasdlist)؟",
+      "options": [
+        "التاريخ",
+        "المدن والحصون (جمع tiɣrmt)",
+        "الكتاب",
+        "المكتبة / خزانة الكتب"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵙⴷⵍⵉⵙⵜ] (ينطق: Tasdlist) يعني بالعربية: 'المكتبة / خزانة الكتب'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s7_v5",
+      "targetTifinagh": "ⵜⵉⵖⵔⵎⵉⵏ",
+      "targetLatin": "Tiɣrmin",
+      "targetArabic": "المدن والحصون (جمع tiɣrmt)",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'المدن والحصون (جمع tiɣrmt)'؟",
+      "options": [
+        "ⵜⵓⵙⵙⵏⴰ (Tussna)",
+        "ⴰⵎⵣⵔⵓⵢ (Amzruy)",
+        "ⴰⴳⵍⵍⵉⴷ (Agllid)",
+        "ⵜⵉⵖⵔⵎⵉⵏ (Tiɣrmin)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵖⵔⵎⵉⵏ] (Tiɣrmin) وترجمتها: 'المدن والحصون (جمع tiɣrmt)'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s7_v6",
+      "targetTifinagh": "ⴰⵎⵣⵔⵓⵢ",
+      "targetLatin": "Amzruy",
+      "targetArabic": "التاريخ",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵎⵣⵔⵓⵢ] (Amzruy)؟",
+      "options": [
+        "الملك / ",
+        "التاريخ / ",
+        "المكتبة / خزانة الكتب / ",
+        "المدن والحصون (جمع tiɣrmt) / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵎⵣⵔⵓⵢ] (Amzruy) ورد في سياق الحكاية للدلالة على: التاريخ ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s7_v7",
+      "targetTifinagh": "ⵜⵓⵙⵙⵏⴰ",
+      "targetLatin": "Tussna",
+      "targetArabic": "المعرفة / العلوم",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵓⵙⵙⵏⴰ] (Tussna)؟",
+      "options": [
+        "الوطن / البلاد",
+        "العالم / الكون",
+        "المملكة",
+        "المعرفة / العلوم"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⵓⵙⵙⵏⴰ] (ينطق: Tussna) يعني بالعربية: 'المعرفة / العلوم'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s7_v8",
+      "targetTifinagh": "ⵜⴰⵥⵓⵕⵉ",
+      "targetLatin": "Taẓuṛi",
+      "targetArabic": "الفن والإبداع",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الفن والإبداع'؟",
+      "options": [
+        "ⵜⴰⵥⵓⵕⵉ (Taẓuṛi)",
+        "ⵜⴰⵎⵓⵔⵜ (Tamurt)",
+        "ⴰⵎⴰⴹⴰⵍ (Amaḍal)",
+        "ⴰⴷⵍⵉⵙ (Adlis)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵥⵓⵕⵉ] (Taẓuṛi) وترجمتها: 'الفن والإبداع'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s7_v9",
+      "targetTifinagh": "ⵜⴰⵎⵓⵔⵜ",
+      "targetLatin": "Tamurt",
+      "targetArabic": "الوطن / البلاد",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵎⵓⵔⵜ] (Tamurt)؟",
+      "options": [
+        "الفن والإبداع / ",
+        "الملك / ",
+        "الوطن / البلاد / ",
+        "الكتاب / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⵓⵔⵜ] (Tamurt) ورد في سياق الحكاية للدلالة على: الوطن / البلاد ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s7_v10",
+      "targetTifinagh": "ⴰⵎⴰⴹⴰⵍ",
+      "targetLatin": "Amaḍal",
+      "targetArabic": "العالم / الكون",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵎⴰⴹⴰⵍ] (Amaḍal)؟",
+      "options": [
+        "الفن والإبداع",
+        "المملكة",
+        "العالم / الكون",
+        "المعرفة / العلوم"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵎⴰⴹⴰⵍ] (ينطق: Amaḍal) يعني بالعربية: 'العالم / الكون'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

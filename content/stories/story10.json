@@ -1,0 +1,340 @@
+{
+  "id": "story10",
+  "title": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+  "titleTifinagh": "ⵄⵙⵙⵓ ⵓ ⴱⵙⵙⵍⴰⵎ ⴳ ⴱⵓⵖⴰⴼⵔ",
+  "titleLatin": "Ɛssu u Bsslam g Buɣafr",
+  "region": "جبل صغرو (تنغير، مضايق تودغى، ورزازات)",
+  "dialect": "تمازيغت والجنوب الشرقي (Tamaziɣt)",
+  "level": "متوسط (Level 2)",
+  "category": "history",
+  "categoryName": "تاريخ ومقاومة",
+  "coverImage": "assets/images/stories/story10.jpg",
+  "audio": "assets/audio/stories/story10.mp3",
+  "summary": "معركة جبل بوغافر الخالدة سنة 1933 في قمم جبل صغرو البركانية الصعبة؛ كيف صمد عسو أوبسلام مع مجاهدي آيت عطا رجالاً ونساءً وأطفالاً رغم قساوة الحصار والجوع حفاظاً على العزة والكرامة.",
+  "textTamazight": "ⴳ ⵓⴷⵔⴰⵔ ⵏ ⴱⵓⴳⴰⴼⵔ, ⵉⵙⵙⵉⵅⴼ ⴰⵙⵙⵓ ⵓ ⴱⴰⵙⵍⴰⵎ ⵉⵔⴳⴰⵢⵏ ⴷ ⵜⵉⵡⵎⴰⵜⵉⵏ.\nⵢⵓⵎⵥ ⵓⵎⵏⴽⴰⵔ ⴰⵙⵉⵔⵉ ⵉⵇⵙⵃⵏ ⴼ ⵉⵎⴰⵖⵏⴰⵙⵏ, ⵢⵉⴷⵔⵓⵙ ⵓⵎⴰⵏ ⴷ ⴰⵖⵔⵓⵎ.\nⵎⴰⵛⴰ ⴽⵓ ⴰⵔⴳⴰⵣ ⴷ ⵜⴰⵎⵖⴰⵔⵜ ⴼⴽⴰⵏ ⵜⴰⵖⵔⵙⵉ ⵜⴰⵎⵇⵔⴰⵏⵜ ⵉ ⵜⵎⴰⵣⵉⵔⵜ.\nⵙⵙⵎⵔⵙⵏ ⵜⴰⴷⵓⴽⴽⵍⵉ ⴷ ⴰⵙⵎⵓⵔ ⵉⴷⵓⵙⵏ ⵣⵓⵏ ⴷ ⴰⵥⵕⵓ ⵉⵇⵇⵓⵔⵏ ⵏ ⵚⴰⵖⵕⵓ.\nⵉⴳⴰ ⵓⵎⵏⵖⵉ-ⴰⴷ ⴰⵏⴱⴷⴰⴷ ⴰⵎⵣⵔⵓⵢⴰⵏ ⵉⵙⵎⵍⵏ ⴰⵣⴰⵔ ⵏ ⵜⵎⵓⵔⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ.",
+  "textLatin": "G udrar n Bugafir, issixf Assu u Baslam irgayen d tiwmatin.\nYumẓ umnkar asiri iqsḥn f imaɣnasn, yidrus uman d aɣrum.\nMaca ku argaz d tamɣart fkan taɣrsi tamqrant i tmazirt.\nSsmrsn tadukkli d usmur idusn zun d aẓru iqqurn n Ṣaɣṛu.\nIga umnɣi-ad anbdad amzruyan ismln azar n tmurt tamaziɣt.",
+  "textArabic": "في قمة جبل بوغافر بصغرو، قاد عسو أوبسلام أبطال ورجال المقاومة البواسل.\nفرض المستعمر حصاراً وتطويقاً جائراً، فنفذ الماء وشح الخبز والقوت عن المحاصرين.\nلكن كل رجل وامرأة قدما أسمى صور التضحية والفداء دفاعاً عن الأرض والكرامة.\nتسلح المقاومون بـالصداقة المتينة والوفاء لعهدهم، فكانوا كـالصخر الأصم في صلابتهم.\nجسد هذا الصمود والثبات التام عراقة الأصل والرسوخ الأمازيغي التليد.",
+  "grammar": "كلمة 'Maca' تعني 'لكن' وتستخدم للاستدراك، و'Aɣrum' تعني الخبز والزاد.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵓⵔ ⵢⵉⵡⵉ ⵓⵙⵉⵔⵉ ⵜⴰⵏⴼⵍⵉⵜ ⵏⵏⵙⵏ",
+    "sentenceLatin": "Ur yiwi usiri tanflit nnsen",
+    "sentenceArabic": "لم ينل الحصارُ من عزتهم",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵓⵔ",
+        "trans": "لم / لا (أداة نفي)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵢⵉⵡⵉ",
+        "trans": "أخذ / نال (فعل منفي)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵓⵙⵉⵔⵉ",
+        "trans": "الحصارُ (فاعل مقيد)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵜⴰⵏⴼⵍⵉⵜ",
+        "trans": "عزةَ / كرامة (مفعول به)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵏⵏⵙⵏ",
+        "trans": "ـهم (ضمير متصل)"
+      }
+    ],
+    "explanation": "أداة النفي 'ur' تسبق الفعل مباشرة، والضمير المتصل 'nnsen' يعود على الجمع الغائب."
+  },
+  "vocabulary": [
+    {
+      "id": "s10_v1",
+      "tifinagh": "ⴰⵙⵉⵔⵉ",
+      "latin": "Asiri",
+      "arabic": "الحصار والتطويق",
+      "image": "assets/images/terms/s10_v1.webp",
+      "audio": "assets/audio/words/asiri.mp3",
+      "example": "ⵉⵇⵇⵓⵔ ⵓⵙⵉⵔⵉ ⴳ ⵓⴷⵔⴰⵔ (اشتد الحصار في الجبل)",
+      "french": "Le siège / L'encerclement",
+      "explanation": "ⵉⵇⵇⵓⵔ ⵓⵙⵉⵔⵉ ⴳ ⵓⴷⵔⴰⵔ (اشتد الحصار في الجبل)"
+    },
+    {
+      "id": "s10_v2",
+      "tifinagh": "ⴰⵖⵔⵓⵎ",
+      "latin": "Aɣrum",
+      "arabic": "الخبز / القوت",
+      "image": "assets/images/terms/s10_v2.webp",
+      "audio": "assets/audio/words/agrum.mp3",
+      "example": "ⴰⵖⵔⵓⵎ ⵏ ⵢⵉⵎⵏⴷⵉ ⵉⵥⵉⴹ (خبز القمح لذيذ)",
+      "french": "Le pain / La nourriture",
+      "explanation": "ⴰⵖⵔⵓⵎ ⵏ ⵢⵉⵎⵏⴷⵉ ⵉⵥⵉⴹ (خبز القمح لذيذ)"
+    },
+    {
+      "id": "s10_v3",
+      "tifinagh": "ⵜⴰⵖⵔⵙⵉ",
+      "latin": "Taɣrsi",
+      "arabic": "التضحية والفداء",
+      "image": "assets/images/terms/s10_v3.webp",
+      "audio": "assets/audio/words/tagrsi.mp3",
+      "example": "ⵜⴰⵖⵔⵙⵉ ⵖⴼ ⵜⵎⵓⵔⵜ (التضحية من أجل الوطن)",
+      "french": "Le sacrifice héroïque",
+      "explanation": "ⵜⴰⵖⵔⵙⵉ ⵖⴼ ⵜⵎⵓⵔⵜ (التضحية من أجل الوطن)"
+    },
+    {
+      "id": "s10_v4",
+      "tifinagh": "ⴰⵙⵎⵓⵔ",
+      "latin": "Asmur",
+      "arabic": "الوفاء والعهد الصادق",
+      "image": "assets/images/terms/s10_v4.webp",
+      "audio": "assets/audio/words/asmur.mp3",
+      "example": "ⴰⵙⵎⵓⵔ ⴷ ⵓⴼⵔⴰ (الوفاء والسلام)",
+      "french": "Le serment sacré / La fidélité",
+      "explanation": "ⴰⵙⵎⵓⵔ ⴷ ⵓⴼⵔⴰ (الوفاء والسلام)"
+    },
+    {
+      "id": "s10_v5",
+      "tifinagh": "ⵉⵔⴳⴰⵢⵏ",
+      "latin": "Irgayen",
+      "arabic": "الرجال / الأبطال (جمع Argaz)",
+      "image": "assets/images/terms/s10_v5.webp",
+      "audio": "assets/audio/words/irgayen.mp3",
+      "example": "ⵉⵔⴳⴰⵢⵏ ⵏ ⵡⴰⵢⵜ ⵄⵟⵟⴰ (رجال آيت عطا)",
+      "french": "Les hommes braves / Les héros",
+      "explanation": "ⵉⵔⴳⴰⵢⵏ ⵏ ⵡⴰⵢⵜ ⵄⵟⵟⴰ (رجال آيت عطا)"
+    },
+    {
+      "id": "s10_v6",
+      "tifinagh": "ⴰⵔⴳⴰⵣ",
+      "latin": "Argaz",
+      "arabic": "الرجل",
+      "image": "assets/images/terms/s10_v6.webp",
+      "audio": "assets/audio/words/argaz.mp3",
+      "example": "ⴰⵔⴳⴰⵣ ⴰⵏⵣⴱⴰⵢ (الرجل المقاوم)",
+      "french": "L'homme d'honneur",
+      "explanation": "ⴰⵔⴳⴰⵣ ⴰⵏⵣⴱⴰⵢ (الرجل المقاوم)"
+    },
+    {
+      "id": "s10_v7",
+      "tifinagh": "ⵜⴰⴷⵓⴽⴽⵍⵉ",
+      "latin": "Tadukkli",
+      "arabic": "الصداقة والتضامن المتين",
+      "image": "assets/images/terms/s10_v7.webp",
+      "audio": "assets/audio/words/tadukkli.mp3",
+      "example": "ⵜⴰⴷⵓⴽⴽⵍⵉ ⵜⵙⴽⵔ ⵜⴰⵣⵎⵎⴰⵔⵜ (التضامن يصنع القوة)",
+      "french": "L'amitié / La solidarité fraternelle",
+      "explanation": "ⵜⴰⴷⵓⴽⴽⵍⵉ ⵜⵙⴽⵔ ⵜⴰⵣⵎⵎⴰⵔⵜ (التضامن يصنع القوة)"
+    },
+    {
+      "id": "s10_v8",
+      "tifinagh": "ⴰⵥⵕⵓ",
+      "latin": "Aẓru",
+      "arabic": "الصخر الأصم",
+      "image": "assets/images/terms/s10_v8.webp",
+      "audio": "assets/audio/words/azru.mp3",
+      "example": "ⵉⵥⵕⴰⵏ ⵏ ⴱⵓⵖⴰⴼⵔ (صخور بوغافر)",
+      "french": "Le roc inébranlable",
+      "explanation": "ⵉⵥⵕⴰⵏ ⵏ ⴱⵓⵖⴰⴼⵔ (صخور بوغافر)"
+    },
+    {
+      "id": "s10_v9",
+      "tifinagh": "ⴰⵏⴱⴷⴰⴷ",
+      "latin": "Anbdad",
+      "arabic": "الصمود والوقوف الثابت",
+      "image": "assets/images/terms/s10_v9.webp",
+      "audio": "assets/audio/words/anbdad.mp3",
+      "example": "ⴰⵏⴱⴷⴰⴷ ⴰⵎⵇⵔⴰⵏ (الصمود العظيم)",
+      "french": "La résistance résolue",
+      "explanation": "ⴰⵏⴱⴷⴰⴷ ⴰⵎⵇⵔⴰⵏ (الصمود العظيم)"
+    },
+    {
+      "id": "s10_v10",
+      "tifinagh": "ⴰⵣⴰⵔ",
+      "latin": "Azar",
+      "arabic": "الأصل والرسوخ التليد",
+      "image": "assets/images/terms/s10_v10.webp",
+      "audio": "assets/audio/words/azar.mp3",
+      "example": "ⴰⵣⴰⵔ ⴰⵎⴰⵣⵉⵖ ⵉⵇⴱⵓⵔ (الأصل الأمازيغي عريق)",
+      "french": "La racine ancestrale / L'origine",
+      "explanation": "ⴰⵣⴰⵔ ⴰⵎⴰⵣⵉⵖ ⵉⵇⴱⵓⵔ (الأصل الأمازيغي عريق)"
+    }
+  ],
+  "textFrench": "Sur les cimes du mont Boughafer à Saghro, Assou Oubasslam guida les hommes vaillants.\nL'adversaire imposa un siège impitoyable, privant les assiégés d'eau et de pain.\nMais chaque homme et chaque femme consentirent au sacrifice suprême pour leur liberté.\nUnis par une amitié indéfectible et un serment d'honneur dur comme le roc montagnard.\nCette résistance héroïque et ce courage inébranlable illustrent les racines profondes du peuple amazigh.",
+  "genre": "ملحمة تاريخية وطنية (Historical Epic)",
+  "source": "معركة بوغافر (1933) وبطولات قبائل آيت عطا",
+  "culturalContext": "صمود قمة بوغافر الأسطوري بقيادة عسو أوبسلام في جبال صغرو الجرداء، حيث واجه المقاومون الحصار ببسالة استثنائية.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s10_v1",
+      "targetTifinagh": "ⴰⵙⵉⵔⵉ",
+      "targetLatin": "Asiri",
+      "targetArabic": "الحصار والتطويق",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵙⵉⵔⵉ] (Asiri)؟",
+      "options": [
+        "التضحية والفداء",
+        "الحصار والتطويق",
+        "الصخر الأصم",
+        "الصداقة والتضامن المتين"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵙⵉⵔⵉ] (ينطق: Asiri) يعني بالعربية: 'الحصار والتطويق'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s10_v2",
+      "targetTifinagh": "ⴰⵖⵔⵓⵎ",
+      "targetLatin": "Aɣrum",
+      "targetArabic": "الخبز / القوت",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الخبز / القوت'؟",
+      "options": [
+        "ⵜⴰⵖⵔⵙⵉ (Taɣrsi)",
+        "ⵜⴰⴷⵓⴽⴽⵍⵉ (Tadukkli)",
+        "ⴰⵖⵔⵓⵎ (Aɣrum)",
+        "ⴰⵣⴰⵔ (Azar)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵖⵔⵓⵎ] (Aɣrum) وترجمتها: 'الخبز / القوت'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s10_v3",
+      "targetTifinagh": "ⵜⴰⵖⵔⵙⵉ",
+      "targetLatin": "Taɣrsi",
+      "targetArabic": "التضحية والفداء",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵖⵔⵙⵉ] (Taɣrsi)؟",
+      "options": [
+        "التضحية والفداء / ",
+        "الصخر الأصم / ",
+        "الأصل والرسوخ التليد / ",
+        "الوفاء والعهد الصادق / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵖⵔⵙⵉ] (Taɣrsi) ورد في سياق الحكاية للدلالة على: التضحية والفداء ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s10_v4",
+      "targetTifinagh": "ⴰⵙⵎⵓⵔ",
+      "targetLatin": "Asmur",
+      "targetArabic": "الوفاء والعهد الصادق",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵙⵎⵓⵔ] (Asmur)؟",
+      "options": [
+        "الوفاء والعهد الصادق",
+        "الصداقة والتضامن المتين",
+        "الصمود والوقوف الثابت",
+        "الرجال / الأبطال (جمع Argaz)"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵙⵎⵓⵔ] (ينطق: Asmur) يعني بالعربية: 'الوفاء والعهد الصادق'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s10_v5",
+      "targetTifinagh": "ⵉⵔⴳⴰⵢⵏ",
+      "targetLatin": "Irgayen",
+      "targetArabic": "الرجال / الأبطال (جمع Argaz)",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الرجال / الأبطال (جمع Argaz)'؟",
+      "options": [
+        "ⴰⵙⵉⵔⵉ (Asiri)",
+        "ⴰⵔⴳⴰⵣ (Argaz)",
+        "ⵉⵔⴳⴰⵢⵏ (Irgayen)",
+        "ⵜⴰⴷⵓⴽⴽⵍⵉ (Tadukkli)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵉⵔⴳⴰⵢⵏ] (Irgayen) وترجمتها: 'الرجال / الأبطال (جمع Argaz)'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s10_v6",
+      "targetTifinagh": "ⴰⵔⴳⴰⵣ",
+      "targetLatin": "Argaz",
+      "targetArabic": "الرجل",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵔⴳⴰⵣ] (Argaz)؟",
+      "options": [
+        "التضحية والفداء / ",
+        "الوفاء والعهد الصادق / ",
+        "الرجل / ",
+        "الصخر الأصم / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵔⴳⴰⵣ] (Argaz) ورد في سياق الحكاية للدلالة على: الرجل ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s10_v7",
+      "targetTifinagh": "ⵜⴰⴷⵓⴽⴽⵍⵉ",
+      "targetLatin": "Tadukkli",
+      "targetArabic": "الصداقة والتضامن المتين",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴷⵓⴽⴽⵍⵉ] (Tadukkli)؟",
+      "options": [
+        "الرجال / الأبطال (جمع Argaz)",
+        "الأصل والرسوخ التليد",
+        "التضحية والفداء",
+        "الصداقة والتضامن المتين"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴷⵓⴽⴽⵍⵉ] (ينطق: Tadukkli) يعني بالعربية: 'الصداقة والتضامن المتين'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s10_v8",
+      "targetTifinagh": "ⴰⵥⵕⵓ",
+      "targetLatin": "Aẓru",
+      "targetArabic": "الصخر الأصم",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الصخر الأصم'؟",
+      "options": [
+        "ⴰⵖⵔⵓⵎ (Aɣrum)",
+        "ⴰⵥⵕⵓ (Aẓru)",
+        "ⴰⵏⴱⴷⴰⴷ (Anbdad)",
+        "ⴰⵙⵎⵓⵔ (Asmur)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵥⵕⵓ] (Aẓru) وترجمتها: 'الصخر الأصم'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s10_v9",
+      "targetTifinagh": "ⴰⵏⴱⴷⴰⴷ",
+      "targetLatin": "Anbdad",
+      "targetArabic": "الصمود والوقوف الثابت",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵏⴱⴷⴰⴷ] (Anbdad)؟",
+      "options": [
+        "الحصار والتطويق / ",
+        "الخبز / القوت / ",
+        "الصمود والوقوف الثابت / ",
+        "الأصل والرسوخ التليد / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵏⴱⴷⴰⴷ] (Anbdad) ورد في سياق الحكاية للدلالة على: الصمود والوقوف الثابت ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s10_v10",
+      "targetTifinagh": "ⴰⵣⴰⵔ",
+      "targetLatin": "Azar",
+      "targetArabic": "الأصل والرسوخ التليد",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵣⴰⵔ] (Azar)؟",
+      "options": [
+        "الصمود والوقوف الثابت",
+        "الأصل والرسوخ التليد",
+        "التضحية والفداء",
+        "الوفاء والعهد الصادق"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵣⴰⵔ] (ينطق: Azar) يعني بالعربية: 'الأصل والرسوخ التليد'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

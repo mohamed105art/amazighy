@@ -1,0 +1,340 @@
+{
+  "id": "story5",
+  "title": "ذكاء القنفذ إينسي وحكمة الغابة",
+  "titleTifinagh": "ⵉⵏⵙⵉ ⴷ ⵡⴰⵢⵔⴰⴷ ⴷ ⵡⵓⵛⵛⵏ",
+  "titleLatin": "Insi d Wayrad d Wuccn",
+  "region": "الأطلس المتوسط وسوس (خنيفرة وتارودانت)",
+  "dialect": "تشلحيت وتمازيغت (Folk Fable)",
+  "level": "مبتدئ - أطفال (Level 1)",
+  "category": "fables",
+  "categoryName": "حكايات الحكمة والحيوان",
+  "coverImage": "assets/images/stories/story5.jpg",
+  "audio": "assets/audio/stories/story5.mp3",
+  "summary": "حكاية مثلية تراثية تبرز شخصية 'إينسي' (القنفذ) كرمز للحكمة والدهاء في المخيال الشعبي الأمازيغي؛ عندما أراد الأسد المغرور والذئب المخادع أكل حصته، أثبت القنفذ الصغير أن الفطنة تنتصر دائماً على القوة العمياء.",
+  "textTamazight": "ⴳ ⵜⴳⴰⵏⵜ, ⵉⵍⵍⴰ ⵢⴰⵏ ⵉⵏⵙⵉ ⴰⵎⵥⵢⴰⵏ ⵉⵙⵙⵏⵏ ⵜⵉⵃⵕⵛⵉ ⴷ ⵜⵓⵙⵙⵏⴰ ⵏ ⵜⵓⴷⵔⵜ.\nⵢⵓⵎⵥ ⴰⵢⵔⴰⴷ ⴰⴳⵍⵍⵉⴷ ⵏ ⵜⴳⴰⵏⵜ ⴰⴳⵎⴰⵔ ⵏⵏⵙ, ⵢⴰⵡⵉ-ⴷ ⵢⴰⵏ ⴰⵣⴳⴰⵔ ⴷ ⵢⴰⵜ ⵜⴰⵖⴰⵟ ⴷ ⵢⴰⵏ ⴰⵡⵜⵓⵍ.\nⵢⵓⵎⵕ ⵡⵓⵛⵛⵏ ⴰⴷ ⵉⴱⴹⵓ ⵓⵜⵛⵉ, ⵎⴰⵛⴰ ⵢⵓⴼⴰ ⵓⵛⵛⵏ ⵜⵉⵢⵜⵉ ⵙⴳ ⵓⵢⵔⴰⴷ.\nⴳ ⵜⵉⵏⵣⵣⴰⵢⵜ, ⵉⴱⴹⴰ ⵉⵏⵙⵉ ⴰⴳⵎⴰⵔ ⵙ ⵜⵉⵃⵕⵛⵉ: ⴰⵣⴳⴰⵔ ⵉ ⵓⵢⵔⴰⴷ, ⵜⴰⵖⴰⵟ ⵉ ⵜⴰⴷⴳⴳⵯⴰⵜ, ⴰⵡⵜⵓⵍ ⵉ ⵜⵉⵏⵣⵣⴰⵢⵜ.\nⵙ ⵓⵢⴰ, ⵢⵉⵡⵉ ⵉⵏⵙⵉ ⵜⴰⵔⵏⴰⵡⵜ ⵏ ⵓⵏⵍⵍⵉ ⴷ ⵜⵉⵍⴻⵍⵍⵉ ⵏⵏⵙ ⴳ ⵜⴳⴰⵏⵜ.",
+  "textLatin": "G tgant, illa yan insi amẓyan issnn tiḥrci d tussna n tudrt.\nYumẓ ayrad agllid n tgant agmar nnes, yawi-d yan azgar d yat taɣaṭ d yan awtul.\nYumṛ wuccn ad ibḍu utci, maca yufa uccn tiyti sg uyrad.\nG tinzzayt, ibḍa insi agmar s tiḥrci: azgar i uyrad, taɣaṭ i tadggʷat, awtul i tinzzayt.\nS uya, yiwi insi tarnawt n unlli d tilelli nnes g tgant.",
+  "textArabic": "في الغابة الهادئة، عاش قنفذ ذكي فطن يدرك أسرار الحكمة ودروس الحياة.\nاصطاد الأسد ملك الغاب طرائده من رحلة الصيد، فأحضر ثوراً ضخماً و عنزة سمينة و أرنباً سريعاً.\nأمر الأسد الذئب باقتسام الغنيمة، لكن الذئب أخطأ الحكمة فنال عقابه الصارم.\nفي الصباح الباكر، تولى القنفذ التقسيم بحنكة: الثور لوجبة الملك، والعنزة لـالمساء، والأرنب لفطور الصباح الباكر.\nوهكذا حقق القنفذ الصغير الانتصار بذكائه وأنقذ حياته في الغابة.",
+  "grammar": "في الأمازيغية، صيغة حرف الجر 'i' تفيد الملكية أو الغاية (I uglled = للملك / للأسد).",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵉⵙⵙⵏ ⵢⵉⵏⵙⵉ ⵜⵉⵃⵕⵛⵉ ⵏ ⵜⴳⴰⵏⵜ",
+    "sentenceLatin": "Issn yinsi tiḥrci n tgant",
+    "sentenceArabic": "يعرف القنفذُ دهاءَ الغابة",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵉⵙⵙⵏ",
+        "trans": "يعرف / يعلم (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵢⵉⵏⵙⵉ",
+        "trans": "القنفذُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵜⵉⵃⵕⵛⵉ",
+        "trans": "دهاءَ / حيلة (مفعول به)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵏ",
+        "trans": "ـ (حرف الإضافة)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵜⴳⴰⵏⵜ",
+        "trans": "الغابة (مضاف إليه مقيد)"
+      }
+    ],
+    "explanation": "أداة الإضافة 'n' تربط بين المضاف 'tiḥrci' والمضاف إليه 'tgant' مع تحول الأخير للحالة المقيدة."
+  },
+  "vocabulary": [
+    {
+      "id": "s5_v1",
+      "tifinagh": "ⵉⵏⵙⵉ",
+      "latin": "Insi",
+      "arabic": "القنفذ",
+      "image": "assets/images/terms/s5_v1.webp",
+      "audio": "assets/audio/words/insi.mp3",
+      "example": "ⵉⵏⵙⵉ ⴷ ⴰⵎⵥⵢⴰⵏ ⴷ ⵓⵃⵕⵉⵛ (القنفذ صغير وحكيم)",
+      "french": "Le hérisson",
+      "explanation": "ⵉⵏⵙⵉ ⴷ ⴰⵎⵥⵢⴰⵏ ⴷ ⵓⵃⵕⵉⵛ (القنفذ صغير وحكيم)"
+    },
+    {
+      "id": "s5_v2",
+      "tifinagh": "ⴰⵢⵔⴰⴷ",
+      "latin": "Ayrad",
+      "arabic": "الأسد (ملك الغابة)",
+      "image": "assets/images/terms/s5_v2.webp",
+      "audio": "assets/audio/words/ayrad.mp3",
+      "example": "ⴰⵢⵔⴰⴷ ⴷ ⴰⴳⵍⵍⵉⴷ ⵏ ⵜⴳⴰⵏⵜ (الأسد ملك الغابة)",
+      "french": "Le lion (roi des animaux)",
+      "explanation": "ⴰⵢⵔⴰⴷ ⴷ ⴰⴳⵍⵍⵉⴷ ⵏ ⵜⴳⴰⵏⵜ (الأسد ملك الغابة)"
+    },
+    {
+      "id": "s5_v3",
+      "tifinagh": "ⵡⵓⵛⵛⵏ",
+      "latin": "Wuccn",
+      "arabic": "الذئب الأمازيغي",
+      "image": "assets/images/terms/s5_v3.webp",
+      "audio": "assets/audio/words/wuccn.mp3",
+      "example": "ⵡⵓⵛⵛⵏ ⵉⴳⴰ ⴰⵅⴷⴷⴰⵄ (الذئب مخادع)",
+      "french": "Le chacal / Le loup doré",
+      "explanation": "ⵡⵓⵛⵛⵏ ⵉⴳⴰ ⴰⵅⴷⴷⴰⵄ (الذئب مخادع)"
+    },
+    {
+      "id": "s5_v4",
+      "tifinagh": "ⴰⵡⵜⵓⵍ",
+      "latin": "Awtul",
+      "arabic": "الأرنب",
+      "image": "assets/images/terms/s5_v4.webp",
+      "audio": "assets/audio/words/awtul.mp3",
+      "example": "ⴰⵡⵜⵓⵍ ⵉⵜⵜⴰⵣⵣⴰⵍ (الأرنب يجري مسرعاً)",
+      "french": "Le lièvre / Le lapin",
+      "explanation": "ⴰⵡⵜⵓⵍ ⵉⵜⵜⴰⵣⵣⴰⵍ (الأرنب يجري مسرعاً)"
+    },
+    {
+      "id": "s5_v5",
+      "tifinagh": "ⴰⵣⴳⴰⵔ",
+      "latin": "Azgar",
+      "arabic": "الثور",
+      "image": "assets/images/terms/s5_v5.webp",
+      "audio": "assets/audio/words/azgar.mp3",
+      "example": "ⴰⵣⴳⴰⵔ ⵉⴷⵓⵙ (الثور قوي وبنيان)",
+      "french": "Le bœuf",
+      "explanation": "ⴰⵣⴳⴰⵔ ⵉⴷⵓⵙ (الثور قوي وبنيان)"
+    },
+    {
+      "id": "s5_v6",
+      "tifinagh": "ⵜⴰⵖⴰⵟ",
+      "latin": "Taɣaṭ",
+      "arabic": "العنزة / الماعز",
+      "image": "assets/images/terms/s5_v6.webp",
+      "audio": "assets/audio/words/tagat.mp3",
+      "example": "ⵜⴰⵖⴰⵟ ⵜⵜⴰⵍⵉ ⵖⵔ ⵓⵥⵕⵓ (العنزة تتسلق الصخر)",
+      "french": "La chèvre",
+      "explanation": "ⵜⴰⵖⴰⵟ ⵜⵜⴰⵍⵉ ⵖⵔ ⵓⵥⵕⵓ (العنزة تتسلق الصخر)"
+    },
+    {
+      "id": "s5_v7",
+      "tifinagh": "ⴰⴳⵎⴰⵔ",
+      "latin": "Agmar",
+      "arabic": "الصيد / القنص",
+      "image": "assets/images/terms/s5_v7.webp",
+      "audio": "assets/audio/words/agmar.mp3",
+      "example": "ⴷⴷⴰⵏ ⵖⵔ ⵓⴳⵎⴰⵔ (ذهبوا في رحلة صيد)",
+      "french": "La chasse / La prise",
+      "explanation": "ⴷⴷⴰⵏ ⵖⵔ ⵓⴳⵎⴰⵔ (ذهبوا في رحلة صيد)"
+    },
+    {
+      "id": "s5_v8",
+      "tifinagh": "ⵜⵉⵏⵣⵣⴰⵢⵜ",
+      "latin": "Tinzzayt",
+      "arabic": "الصباح الباكر / الفطور",
+      "image": "assets/images/terms/s5_v8.webp",
+      "audio": "assets/audio/words/tinzzayt.mp3",
+      "example": "ⵜⵉⵏⵣⵣⴰⵢⵜ ⵜⴼⴰⵡ (الصباح مشرق)",
+      "french": "Le petit matin / L'aube",
+      "explanation": "ⵜⵉⵏⵣⵣⴰⵢⵜ ⵜⴼⴰⵡ (الصباح مشرق)"
+    },
+    {
+      "id": "s5_v9",
+      "tifinagh": "ⵜⴰⴷⴳⴳⵯⴰⵜ",
+      "latin": "Tadggʷat",
+      "arabic": "المساء / وقت الغروب",
+      "image": "assets/images/terms/s5_v9.webp",
+      "audio": "assets/audio/words/tadggwat.mp3",
+      "example": "ⴳ ⵜⴷⴳⴳⵯⴰⵜ ⵏⵓⵖⴰⵍ (في المساء عدنا)",
+      "french": "Le soir / Le crépuscule",
+      "explanation": "ⴳ ⵜⴷⴳⴳⵯⴰⵜ ⵏⵓⵖⴰⵍ (في المساء عدنا)"
+    },
+    {
+      "id": "s5_v10",
+      "tifinagh": "ⵜⴰⵔⵏⴰⵡⵜ",
+      "latin": "Tarnawt",
+      "arabic": "الانتصار / الظفر",
+      "image": "assets/images/terms/s5_v10.webp",
+      "audio": "assets/audio/words/tarnawt.mp3",
+      "example": "ⵜⴰⵔⵏⴰⵡⵜ ⵉ ⵡⵓⵍ ⵉⵖⵓⴷⴰⵏ (النصر للقلب الصادق)",
+      "french": "La victoire / Le triomphe",
+      "explanation": "ⵜⴰⵔⵏⴰⵡⵜ ⵉ ⵡⵓⵍ ⵉⵖⵓⴷⴰⵏ (النصر للقلب الصادق)"
+    }
+  ],
+  "textFrench": "Dans la forêt, vivait un petit hérisson sage qui maîtrisait la ruse et l'intelligence.\nLe lion roi de la jungle fit sa prise de chasse, rapportant un bœuf, une chèvre et un lièvre.\nLe loup tenta de partager le butin mais échoua et fut puni par le lion.\nAu petit matin, le hérisson partagea la chasse avec tact: le bœuf pour le festin, la chèvre pour le soir, le lièvre pour l'aube.\nAinsi, le hérisson remporta la victoire de l'esprit et préserva sa vie avec brio.",
+  "genre": "حكاية حيوانية رمزية من الخيال الشعبي (Animal Fable)",
+  "source": "خرافات الحيوان في الأدب الشفهي الأمازيغي",
+  "culturalContext": "القنفذ 'إينسي' في الثقافة الأمازيغية هو رمز الدهاء والحكمة الفطرية التي تنتصر على القوة الغاشمة للأسد والذئب.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s5_v1",
+      "targetTifinagh": "ⵉⵏⵙⵉ",
+      "targetLatin": "Insi",
+      "targetArabic": "القنفذ",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵏⵙⵉ] (Insi)؟",
+      "options": [
+        "القنفذ",
+        "الانتصار / الظفر",
+        "الأسد (ملك الغابة)",
+        "العنزة / الماعز"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵉⵏⵙⵉ] (ينطق: Insi) يعني بالعربية: 'القنفذ'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s5_v2",
+      "targetTifinagh": "ⴰⵢⵔⴰⴷ",
+      "targetLatin": "Ayrad",
+      "targetArabic": "الأسد (ملك الغابة)",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الأسد (ملك الغابة)'؟",
+      "options": [
+        "ⵡⵓⵛⵛⵏ (Wuccn)",
+        "ⴰⵢⵔⴰⴷ (Ayrad)",
+        "ⵜⵉⵏⵣⵣⴰⵢⵜ (Tinzzayt)",
+        "ⵜⴰⵖⴰⵟ (Taɣaṭ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵢⵔⴰⴷ] (Ayrad) وترجمتها: 'الأسد (ملك الغابة)'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s5_v3",
+      "targetTifinagh": "ⵡⵓⵛⵛⵏ",
+      "targetLatin": "Wuccn",
+      "targetArabic": "الذئب الأمازيغي",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵡⵓⵛⵛⵏ] (Wuccn)؟",
+      "options": [
+        "الذئب الأمازيغي / ",
+        "المساء / وقت الغروب / ",
+        "الثور / ",
+        "الصباح الباكر / الفطور / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵡⵓⵛⵛⵏ] (Wuccn) ورد في سياق الحكاية للدلالة على: الذئب الأمازيغي ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s5_v4",
+      "targetTifinagh": "ⴰⵡⵜⵓⵍ",
+      "targetLatin": "Awtul",
+      "targetArabic": "الأرنب",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵡⵜⵓⵍ] (Awtul)؟",
+      "options": [
+        "المساء / وقت الغروب",
+        "الذئب الأمازيغي",
+        "الأرنب",
+        "الانتصار / الظفر"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵡⵜⵓⵍ] (ينطق: Awtul) يعني بالعربية: 'الأرنب'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s5_v5",
+      "targetTifinagh": "ⴰⵣⴳⴰⵔ",
+      "targetLatin": "Azgar",
+      "targetArabic": "الثور",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الثور'؟",
+      "options": [
+        "ⴰⵢⵔⴰⴷ (Ayrad)",
+        "ⴰⵣⴳⴰⵔ (Azgar)",
+        "ⴰⴳⵎⴰⵔ (Agmar)",
+        "ⵜⴰⴷⴳⴳⵯⴰⵜ (Tadggʷat)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵣⴳⴰⵔ] (Azgar) وترجمتها: 'الثور'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s5_v6",
+      "targetTifinagh": "ⵜⴰⵖⴰⵟ",
+      "targetLatin": "Taɣaṭ",
+      "targetArabic": "العنزة / الماعز",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵖⴰⵟ] (Taɣaṭ)؟",
+      "options": [
+        "الأسد (ملك الغابة) / ",
+        "الذئب الأمازيغي / ",
+        "العنزة / الماعز / ",
+        "الصباح الباكر / الفطور / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵖⴰⵟ] (Taɣaṭ) ورد في سياق الحكاية للدلالة على: العنزة / الماعز ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s5_v7",
+      "targetTifinagh": "ⴰⴳⵎⴰⵔ",
+      "targetLatin": "Agmar",
+      "targetArabic": "الصيد / القنص",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴳⵎⴰⵔ] (Agmar)؟",
+      "options": [
+        "العنزة / الماعز",
+        "الانتصار / الظفر",
+        "الذئب الأمازيغي",
+        "الصيد / القنص"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⴰⴳⵎⴰⵔ] (ينطق: Agmar) يعني بالعربية: 'الصيد / القنص'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s5_v8",
+      "targetTifinagh": "ⵜⵉⵏⵣⵣⴰⵢⵜ",
+      "targetLatin": "Tinzzayt",
+      "targetArabic": "الصباح الباكر / الفطور",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الصباح الباكر / الفطور'؟",
+      "options": [
+        "ⵜⵉⵏⵣⵣⴰⵢⵜ (Tinzzayt)",
+        "ⴰⵣⴳⴰⵔ (Azgar)",
+        "ⴰⵢⵔⴰⴷ (Ayrad)",
+        "ⴰⵡⵜⵓⵍ (Awtul)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵏⵣⵣⴰⵢⵜ] (Tinzzayt) وترجمتها: 'الصباح الباكر / الفطور'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s5_v9",
+      "targetTifinagh": "ⵜⴰⴷⴳⴳⵯⴰⵜ",
+      "targetLatin": "Tadggʷat",
+      "targetArabic": "المساء / وقت الغروب",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴷⴳⴳⵯⴰⵜ] (Tadggʷat)؟",
+      "options": [
+        "الصيد / القنص / ",
+        "القنفذ / ",
+        "المساء / وقت الغروب / ",
+        "الذئب الأمازيغي / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴷⴳⴳⵯⴰⵜ] (Tadggʷat) ورد في سياق الحكاية للدلالة على: المساء / وقت الغروب ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s5_v10",
+      "targetTifinagh": "ⵜⴰⵔⵏⴰⵡⵜ",
+      "targetLatin": "Tarnawt",
+      "targetArabic": "الانتصار / الظفر",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵔⵏⴰⵡⵜ] (Tarnawt)؟",
+      "options": [
+        "الانتصار / الظفر",
+        "الأسد (ملك الغابة)",
+        "الصيد / القنص",
+        "الأرنب"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵔⵏⴰⵡⵜ] (ينطق: Tarnawt) يعني بالعربية: 'الانتصار / الظفر'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

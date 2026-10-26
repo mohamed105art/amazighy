@@ -1,0 +1,340 @@
+{
+  "id": "story11",
+  "title": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+  "titleTifinagh": "ⵜⴰⴳⵍⵍⵉⴷⵜ ⴷⵉⵀⵢⴰ ⵜⴰⵏⵣⴱⴰⵢⵜ",
+  "titleLatin": "Tagllidt Dihya Tanzbayt",
+  "region": "المغرب وشمال إفريقيا القديم (بلاد تمازغا)",
+  "dialect": "الأمازيغية المعيارية التاريخية",
+  "level": "متوسط (Level 2)",
+  "category": "history",
+  "categoryName": "تاريخ ومقاومة",
+  "coverImage": "assets/images/stories/story11.jpg",
+  "audio": "assets/audio/stories/story11.mp3",
+  "summary": "سيرة الملكة والقائدة الأمازيغية ديهيا (المعروفة بذكائها وشجاعتها القيادية) التي جمعت القبائل تحت راية واحدة ودافعت عن استقلال أرض الأجداد، مجسدة المكانة الرفيعة التي حظيت بها المرأة الأمازيغية كزعيمة وصانعة قرار.",
+  "textTamazight": "ⵜⴰⴳⵍⵍⵉⴷⵜ ⴷⵉⵀⵢⴰ ⵜⴽⴽⴰ-ⵜⵜ ⵜⴳⴰ ⵢⴰⵜ ⵜⴰⵏⵣⴱⴰⵢⵜ ⵜⴰⵎⵇⵔⴰⵏⵜ ⴳ ⵓⵎⵣⵔⵓⵢ.\nⵜⴼⴽⴰ ⵜⵉⴼⴰⵡⵜ ⴷ ⵜⵉⵏⵥⴰⵕ ⵉ ⵉⵎⴰⵣⵉⵖⵏ ⴳ ⴽⵓ ⵜⴰⵙⴳⴰ ⵏ ⵜⵎⴰⵣⵉⵔⵜ.\nⵜⵙⵙⵓⴷⵙ ⵢⴰⵜ ⵜⴰⵙⵔⴷⴰⵙⵜ ⵉⴷⵓⵙⵏ, ⵢⵉⵍⵉ ⴽⵓ ⴰⵙⵔⴷⴰⵙ ⵉⵜⵜⵏⵣⴱⴰⵢ ⴼ ⵡⴰⴽⴰⵍ.\nⵙ ⵜⴰⵢⵔⵉ ⵏ ⵜⵎⵓⵔⵜ, ⵜⵓⵙⵉ ⴰⴳⵍⵉⵎ ⴷ ⵓⵙⴰⴼⴰⵔ ⴰⴼⴰⴷ ⴰⴷ ⵜⵃⴹⵓ ⵜⴰⵎⴰⵣⵖⴰ.\nⵜⵓⵔⴰ ⵉⵙⵎ ⵏⵏⵙ ⵙ ⵜⵉⵔⵔⴰ ⵏ ⵜⵉⴼⵉⵏⴰⵖ ⴳ ⵉⵥⵕⴰⵏ ⴷ ⵡⵓⵍⴰⵡⵏ ⵏ ⵢⵉⵡⴷⴰⵏ.",
+  "textLatin": "Tagllidt Dihya tkka-tt tga yat tanzbayt tamqrant g umzruy.\nTfka tifawt d tinẓaṛ i Imaziɣn g ku tasga n tmazirt.\nTssuds yat tasrdast idusn, yili ku asrdas ittnzbay f wakal.\nS tayri n tmurt, tusi aglim d usafar afad ad thḍu Tamazɣa.\nTura ism nnes s tirra n tifinaɣ g iẓṛan d wulawn n yiwdan.",
+  "textArabic": "كانت الملكة الأمازيغية ديهيا قائدة عظيمة و مقاومة فذة خلد التاريخ أمجادها.\nنشرت النور والضياء وبثت الأنفة والشموخ في نفوس أبناء وطنها الأعزاء.\nنظمت جيشاً باسلاً وحامية عسكرية قوية، حيث هب كل جندي للدفاع عن الأرض.\nوحبـاً وولاءً لأرض أجدادها، تقلدت الدرع والترس الواقي لحماية ربوع تمازغا الشاسعة.\nسُطرت بطولاتها بحروف تيفيناغ الأزلية المنقوشة على صخور الأطلس وفي قلوب الأحرار.",
+  "grammar": "صيغة الملكة في الأمازيغية 'Tagllidt' مؤنث 'Agllid'، و 'Tanzbayt' مؤنث 'Anzbay'.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵜⴳⴰ ⴷⵉⵀⵢⴰ ⵜⴰⴳⵍⵍⵉⴷⵜ ⵏ ⵜⵎⵓⵔⵜ",
+    "sentenceLatin": "Tga Dihya tagllidt n tmurt",
+    "sentenceArabic": "كانت ديهيا ملكةَ الوطن",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵜⴳⴰ",
+        "trans": "كانت / هي (فعل الكينونة)"
+      },
+      {
+        "id": "w2",
+        "text": "ⴷⵉⵀⵢⴰ",
+        "trans": "ديهيا (فاعل علم)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵜⴰⴳⵍⵍⵉⴷⵜ",
+        "trans": "ملكةَ (خبر/اسم مؤنث)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵏ",
+        "trans": "ـ (حرف الإضافة)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵜⵎⵓⵔⵜ",
+        "trans": "الوطن (مضاف إليه مقيد)"
+      }
+    ],
+    "explanation": "فعل الكينونة 'Tga' يطابق الفاعل المؤنث، تليه الصفة والمضاف إليه."
+  },
+  "vocabulary": [
+    {
+      "id": "s11_v1",
+      "tifinagh": "ⵜⴰⴳⵍⵍⵉⴷⵜ",
+      "latin": "Tagllidt",
+      "arabic": "الملكة / القائدة",
+      "image": "assets/images/terms/s11_v1.webp",
+      "audio": "assets/audio/words/tagllidt.mp3",
+      "example": "ⵜⴰⴳⵍⵍⵉⴷⵜ ⵜⵙⵎⵓⵏ ⵜⵉⵇⴱⵉⵍⵉⵏ (الملكة تجمع القبائل)",
+      "french": "La reine",
+      "explanation": "ⵜⴰⴳⵍⵍⵉⴷⵜ ⵜⵙⵎⵓⵏ ⵜⵉⵇⴱⵉⵍⵉⵏ (الملكة تجمع القبائل)"
+    },
+    {
+      "id": "s11_v2",
+      "tifinagh": "ⵜⴰⵏⵣⴱⴰⵢⵜ",
+      "latin": "Tanzbayt",
+      "arabic": "المقاومة / المناضلة",
+      "image": "assets/images/terms/s11_v2.webp",
+      "audio": "assets/audio/words/tanzbayt.mp3",
+      "example": "ⵜⴰⵏⵣⴱⴰⵢⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ (المقاومة الأمازيغية)",
+      "french": "La résistante héroïque",
+      "explanation": "ⵜⴰⵏⵣⴱⴰⵢⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ (المقاومة الأمازيغية)"
+    },
+    {
+      "id": "s11_v3",
+      "tifinagh": "ⵜⵉⴼⴰⵡⵜ",
+      "latin": "Tifawt",
+      "arabic": "النور / الضياء",
+      "image": "assets/images/terms/s11_v3.webp",
+      "audio": "assets/audio/words/tifawt.mp3",
+      "example": "ⵜⵉⴼⴰⵡⵜ ⵏ ⵜⴰⴼⵓⴽⵜ (نور الشمس)",
+      "french": "La lumière éclatante",
+      "explanation": "ⵜⵉⴼⴰⵡⵜ ⵏ ⵜⴰⴼⵓⴽⵜ (نور الشمس)"
+    },
+    {
+      "id": "s11_v4",
+      "tifinagh": "ⵜⵉⵏⵥⴰⵕ",
+      "latin": "Tinẓaṛ",
+      "arabic": "الأنفة والشموخ",
+      "image": "assets/images/terms/s11_v4.webp",
+      "audio": "assets/audio/words/tinzar.mp3",
+      "example": "ⵉⵍⴰ ⵜⵉⵏⵥⴰⵕ (ذو أنفة وعزة)",
+      "french": "La dignité altière",
+      "explanation": "ⵉⵍⴰ ⵜⵉⵏⵥⴰⵕ (ذو أنفة وعزة)"
+    },
+    {
+      "id": "s11_v5",
+      "tifinagh": "ⵜⴰⵙⵔⴷⴰⵙⵜ",
+      "latin": "Tasrdast",
+      "arabic": "الجيش / الحامية العسكرية",
+      "image": "assets/images/terms/s11_v5.webp",
+      "audio": "assets/audio/words/tasrdast.mp3",
+      "example": "ⵜⴰⵙⵔⴷⴰⵙⵜ ⵜⴼⵔⵙ ⵜⴰⵎⵓⵔⵜ (الجيش يحمي الوطن)",
+      "french": "L'armée / Les forces armées",
+      "explanation": "ⵜⴰⵙⵔⴷⴰⵙⵜ ⵜⴼⵔⵙ ⵜⴰⵎⵓⵔⵜ (الجيش يحمي الوطن)"
+    },
+    {
+      "id": "s11_v6",
+      "tifinagh": "ⴰⵙⵔⴷⴰⵙ",
+      "latin": "Asrdas",
+      "arabic": "الجندي / الحامي",
+      "image": "assets/images/terms/s11_v6.webp",
+      "audio": "assets/audio/words/asrdas.mp3",
+      "example": "ⴰⵙⵔⴷⴰⵙ ⵉⴳⴰ ⴰⵏⵣⴱⴰⵢ (الجندي مقاوم)",
+      "french": "Le soldat / Le défenseur",
+      "explanation": "ⴰⵙⵔⴷⴰⵙ ⵉⴳⴰ ⴰⵏⵣⴱⴰⵢ (الجندي مقاوم)"
+    },
+    {
+      "id": "s11_v7",
+      "tifinagh": "ⵜⴰⵢⵔⵉ",
+      "latin": "Tayri",
+      "arabic": "الولاء والحب الصادق",
+      "image": "assets/images/terms/s11_v7.webp",
+      "audio": "assets/audio/words/tayri.mp3",
+      "example": "ⵜⴰⵢⵔⵉ ⵏ ⵜⵎⵓⵔⵜ (حب الوطن)",
+      "french": "L'amour de la patrie",
+      "explanation": "ⵜⴰⵢⵔⵉ ⵏ ⵜⵎⵓⵔⵜ (حب الوطن)"
+    },
+    {
+      "id": "s11_v8",
+      "tifinagh": "ⴰⴳⵍⵉⵎ",
+      "latin": "Aglim",
+      "arabic": "الدرع والترس الواقي",
+      "image": "assets/images/terms/s11_v8.webp",
+      "audio": "assets/audio/words/aglim.mp3",
+      "example": "ⵢⵓⵎⵥ ⴰⴳⵍⵉⵎ (أمسك بالدرع)",
+      "french": "Le bouclier protecteur",
+      "explanation": "ⵢⵓⵎⵥ ⴰⴳⵍⵉⵎ (أمسك بالدرع)"
+    },
+    {
+      "id": "s11_v9",
+      "tifinagh": "ⵜⴰⵎⴰⵣⵖⴰ",
+      "latin": "Tamazɣa",
+      "arabic": "بلاد الأمازيغ (شمال إفريقيا)",
+      "image": "assets/images/terms/s11_v9.webp",
+      "audio": "assets/audio/words/tamazga.mp3",
+      "example": "ⴰⴽⴰⵍ ⵏ ⵜⵎⴰⵣⵖⴰ (أرض تمازغا)",
+      "french": "Tamazgha (Terre des Amazighs)",
+      "explanation": "ⴰⴽⴰⵍ ⵏ ⵜⵎⴰⵣⵖⴰ (أرض تمازغا)"
+    },
+    {
+      "id": "s11_v10",
+      "tifinagh": "ⵜⵉⴼⵉⵏⴰⵖ",
+      "latin": "Tifinaɣ",
+      "arabic": "أبجدية وخط تيفيناغ العريق",
+      "image": "assets/images/terms/s11_v10.webp",
+      "audio": "assets/audio/words/tifinagh.mp3",
+      "example": "ⵜⵉⴼⵉⵏⴰⵖ ⵜⴳⴰ ⵜⵉⵔⵔⴰ ⵏⵏⵖ (تيفيناغ خطنا وأصالتنا)",
+      "french": "L'alphabet Tifinagh",
+      "explanation": "ⵜⵉⴼⵉⵏⴰⵖ ⵜⴳⴰ ⵜⵉⵔⵔⴰ ⵏⵏⵖ (تيفيناغ خطنا وأصالتنا)"
+    }
+  ],
+  "textFrench": "La reine Dihya fut une figure historique majeure et une vaillante résistante.\nElle répandit la lumière de l'espoir et la dignité parmi les siens.\nElle organisa une puissante armée où chaque soldat combattait avec courage pour la terre.\nPar amour pour sa patrie, elle porta le bouclier protecteur pour préserver Tamazgha.\nSon nom légendaire est inscrit en caractères Tifinagh millénaires dans la mémoire collective.",
+  "genre": "سيرة تاريخية وشخصية قيادية (Historical Figure)",
+  "source": "المصادر التاريخية المغاربية / ابن خلدون",
+  "culturalContext": "الملكة والقائدة الأمازيغية ديهيا؛ شخصية تاريخية ترمز لشجاعة المرأة الأمازيغية وقيادتها للدفاع عن أرض الأجداد.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s11_v1",
+      "targetTifinagh": "ⵜⴰⴳⵍⵍⵉⴷⵜ",
+      "targetLatin": "Tagllidt",
+      "targetArabic": "الملكة / القائدة",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴳⵍⵍⵉⴷⵜ] (Tagllidt)؟",
+      "options": [
+        "الجندي / الحامي",
+        "أبجدية وخط تيفيناغ العريق",
+        "بلاد الأمازيغ (شمال إفريقيا)",
+        "الملكة / القائدة"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴳⵍⵍⵉⴷⵜ] (ينطق: Tagllidt) يعني بالعربية: 'الملكة / القائدة'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s11_v2",
+      "targetTifinagh": "ⵜⴰⵏⵣⴱⴰⵢⵜ",
+      "targetLatin": "Tanzbayt",
+      "targetArabic": "المقاومة / المناضلة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'المقاومة / المناضلة'؟",
+      "options": [
+        "ⵜⴰⵏⵣⴱⴰⵢⵜ (Tanzbayt)",
+        "ⴰⵙⵔⴷⴰⵙ (Asrdas)",
+        "ⵜⴰⵙⵔⴷⴰⵙⵜ (Tasrdast)",
+        "ⵜⴰⵎⴰⵣⵖⴰ (Tamazɣa)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵏⵣⴱⴰⵢⵜ] (Tanzbayt) وترجمتها: 'المقاومة / المناضلة'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s11_v3",
+      "targetTifinagh": "ⵜⵉⴼⴰⵡⵜ",
+      "targetLatin": "Tifawt",
+      "targetArabic": "النور / الضياء",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⴼⴰⵡⵜ] (Tifawt)؟",
+      "options": [
+        "النور / الضياء / ",
+        "الولاء والحب الصادق / ",
+        "الملكة / القائدة / ",
+        "الجيش / الحامية العسكرية / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⴼⴰⵡⵜ] (Tifawt) ورد في سياق الحكاية للدلالة على: النور / الضياء ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s11_v4",
+      "targetTifinagh": "ⵜⵉⵏⵥⴰⵕ",
+      "targetLatin": "Tinẓaṛ",
+      "targetArabic": "الأنفة والشموخ",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⵏⵥⴰⵕ] (Tinẓaṛ)؟",
+      "options": [
+        "النور / الضياء",
+        "الدرع والترس الواقي",
+        "الأنفة والشموخ",
+        "أبجدية وخط تيفيناغ العريق"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⵏⵥⴰⵕ] (ينطق: Tinẓaṛ) يعني بالعربية: 'الأنفة والشموخ'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s11_v5",
+      "targetTifinagh": "ⵜⴰⵙⵔⴷⴰⵙⵜ",
+      "targetLatin": "Tasrdast",
+      "targetArabic": "الجيش / الحامية العسكرية",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الجيش / الحامية العسكرية'؟",
+      "options": [
+        "ⵜⵉⵏⵥⴰⵕ (Tinẓaṛ)",
+        "ⴰⴳⵍⵉⵎ (Aglim)",
+        "ⵜⴰⵙⵔⴷⴰⵙⵜ (Tasrdast)",
+        "ⵜⵉⴼⴰⵡⵜ (Tifawt)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵙⵔⴷⴰⵙⵜ] (Tasrdast) وترجمتها: 'الجيش / الحامية العسكرية'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s11_v6",
+      "targetTifinagh": "ⴰⵙⵔⴷⴰⵙ",
+      "targetLatin": "Asrdas",
+      "targetArabic": "الجندي / الحامي",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵙⵔⴷⴰⵙ] (Asrdas)؟",
+      "options": [
+        "الجندي / الحامي / ",
+        "الولاء والحب الصادق / ",
+        "الدرع والترس الواقي / ",
+        "الجيش / الحامية العسكرية / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵙⵔⴷⴰⵙ] (Asrdas) ورد في سياق الحكاية للدلالة على: الجندي / الحامي ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s11_v7",
+      "targetTifinagh": "ⵜⴰⵢⵔⵉ",
+      "targetLatin": "Tayri",
+      "targetArabic": "الولاء والحب الصادق",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵢⵔⵉ] (Tayri)؟",
+      "options": [
+        "النور / الضياء",
+        "الدرع والترس الواقي",
+        "الجندي / الحامي",
+        "الولاء والحب الصادق"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵢⵔⵉ] (ينطق: Tayri) يعني بالعربية: 'الولاء والحب الصادق'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s11_v8",
+      "targetTifinagh": "ⴰⴳⵍⵉⵎ",
+      "targetLatin": "Aglim",
+      "targetArabic": "الدرع والترس الواقي",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الدرع والترس الواقي'؟",
+      "options": [
+        "ⵜⵉⵏⵥⴰⵕ (Tinẓaṛ)",
+        "ⴰⴳⵍⵉⵎ (Aglim)",
+        "ⵜⴰⵏⵣⴱⴰⵢⵜ (Tanzbayt)",
+        "ⴰⵙⵔⴷⴰⵙ (Asrdas)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⴳⵍⵉⵎ] (Aglim) وترجمتها: 'الدرع والترس الواقي'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s11_v9",
+      "targetTifinagh": "ⵜⴰⵎⴰⵣⵖⴰ",
+      "targetLatin": "Tamazɣa",
+      "targetArabic": "بلاد الأمازيغ (شمال إفريقيا)",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵎⴰⵣⵖⴰ] (Tamazɣa)؟",
+      "options": [
+        "بلاد الأمازيغ (شمال إفريقيا) / ",
+        "الجندي / الحامي / ",
+        "أبجدية وخط تيفيناغ العريق / ",
+        "النور / الضياء / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⴰⵣⵖⴰ] (Tamazɣa) ورد في سياق الحكاية للدلالة على: بلاد الأمازيغ (شمال إفريقيا) ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s11_v10",
+      "targetTifinagh": "ⵜⵉⴼⵉⵏⴰⵖ",
+      "targetLatin": "Tifinaɣ",
+      "targetArabic": "أبجدية وخط تيفيناغ العريق",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⴼⵉⵏⴰⵖ] (Tifinaɣ)؟",
+      "options": [
+        "الأنفة والشموخ",
+        "الملكة / القائدة",
+        "بلاد الأمازيغ (شمال إفريقيا)",
+        "أبجدية وخط تيفيناغ العريق"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⴼⵉⵏⴰⵖ] (ينطق: Tifinaɣ) يعني بالعربية: 'أبجدية وخط تيفيناغ العريق'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

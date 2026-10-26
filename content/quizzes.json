@@ -1,0 +1,3802 @@
+[
+  {
+    "storyId": "story1",
+    "storyTitle": "أسطورة الغولة تامزا وحيلة الأخوين",
+    "id": 1,
+    "vocabId": "s1_v1",
+    "targetTifinagh": "ⵜⴰⵎⵣⴰ",
+    "targetLatin": "Tamza",
+    "targetArabic": "الغولة الأسطورية",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵎⵣⴰ] (Tamza)؟",
+    "options": [
+      "الفطنة / الذكاء",
+      "الدار / المنزل",
+      "النهر / الوادي",
+      "الغولة الأسطورية"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⵣⴰ] (ينطق: Tamza) يعني بالعربية: 'الغولة الأسطورية'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story1",
+    "storyTitle": "أسطورة الغولة تامزا وحيلة الأخوين",
+    "id": 2,
+    "vocabId": "s1_v2",
+    "targetTifinagh": "ⴰⵢⵜⵎⴰⵜⵏ",
+    "targetLatin": "Aytmaten",
+    "targetArabic": "الإخوة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الإخوة'؟",
+    "options": [
+      "ⴰⵢⵜⵎⴰⵜⵏ (Aytmaten)",
+      "ⵜⴰⵎⵣⴰ (Tamza)",
+      "ⵜⴰⴳⴰⵏⵜ (Tagant)",
+      "ⴰⵅⴰⵎ (Axam)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵢⵜⵎⴰⵜⵏ] (Aytmaten) وترجمتها: 'الإخوة'."
+  },
+  {
+    "storyId": "story1",
+    "storyTitle": "أسطورة الغولة تامزا وحيلة الأخوين",
+    "id": 3,
+    "vocabId": "s1_v3",
+    "targetTifinagh": "ⵜⴰⴳⴰⵏⵜ",
+    "targetLatin": "Tagant",
+    "targetArabic": "الغابة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴳⴰⵏⵜ] (Tagant)؟",
+    "options": [
+      "الإخوة / ",
+      "الخيمة / المأوى / ",
+      "النهر / الوادي / ",
+      "الغابة / "
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴳⴰⵏⵜ] (Tagant) ورد في سياق الحكاية للدلالة على: الغابة ()."
+  },
+  {
+    "storyId": "story1",
+    "storyTitle": "أسطورة الغولة تامزا وحيلة الأخوين",
+    "id": 4,
+    "vocabId": "s1_v4",
+    "targetTifinagh": "ⴰⴷⵔⴰⵔ",
+    "targetLatin": "Adrar",
+    "targetArabic": "الجبل",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴷⵔⴰⵔ] (Adrar)؟",
+    "options": [
+      "الجبل",
+      "الفطنة / الذكاء",
+      "الغولة الأسطورية",
+      "الإخوة"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⴷⵔⴰⵔ] (ينطق: Adrar) يعني بالعربية: 'الجبل'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story1",
+    "storyTitle": "أسطورة الغولة تامزا وحيلة الأخوين",
+    "id": 5,
+    "vocabId": "s1_v5",
+    "targetTifinagh": "ⴰⵅⴰⵎ",
+    "targetLatin": "Axam",
+    "targetArabic": "الخيمة / المأوى",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الخيمة / المأوى'؟",
+    "options": [
+      "ⴰⵅⴰⵎ (Axam)",
+      "ⵜⵉⵃⵕⵛⵉ (Tiḥrci)",
+      "ⴰⴷⵔⴰⵔ (Adrar)",
+      "ⵜⴰⴷⴷⴰⵔⵜ (Taddart)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵅⴰⵎ] (Axam) وترجمتها: 'الخيمة / المأوى'."
+  },
+  {
+    "storyId": "story1",
+    "storyTitle": "أسطورة الغولة تامزا وحيلة الأخوين",
+    "id": 6,
+    "vocabId": "s1_v6",
+    "targetTifinagh": "ⴰⵖⵢⵓⵍ",
+    "targetLatin": "Aɣyul",
+    "targetArabic": "الحمار",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵖⵢⵓⵍ] (Aɣyul)؟",
+    "options": [
+      "الإخوة / ",
+      "الغولة الأسطورية / ",
+      "الحمار / ",
+      "السلام / الأمان / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵖⵢⵓⵍ] (Aɣyul) ورد في سياق الحكاية للدلالة على: الحمار ()."
+  },
+  {
+    "storyId": "story1",
+    "storyTitle": "أسطورة الغولة تامزا وحيلة الأخوين",
+    "id": 7,
+    "vocabId": "s1_v7",
+    "targetTifinagh": "ⴰⵙⵉⴼ",
+    "targetLatin": "Asif",
+    "targetArabic": "النهر / الوادي",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵙⵉⴼ] (Asif)؟",
+    "options": [
+      "الغابة",
+      "النهر / الوادي",
+      "الفطنة / الذكاء",
+      "الجبل"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵙⵉⴼ] (ينطق: Asif) يعني بالعربية: 'النهر / الوادي'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story1",
+    "storyTitle": "أسطورة الغولة تامزا وحيلة الأخوين",
+    "id": 8,
+    "vocabId": "s1_v8",
+    "targetTifinagh": "ⵜⴰⴷⴷⴰⵔⵜ",
+    "targetLatin": "Taddart",
+    "targetArabic": "الدار / المنزل",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الدار / المنزل'؟",
+    "options": [
+      "ⵜⴰⴷⴷⴰⵔⵜ (Taddart)",
+      "ⵜⴰⴳⴰⵏⵜ (Tagant)",
+      "ⵜⵉⵃⵕⵛⵉ (Tiḥrci)",
+      "ⴰⴼⵔⴰ (Afra)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴷⴷⴰⵔⵜ] (Taddart) وترجمتها: 'الدار / المنزل'."
+  },
+  {
+    "storyId": "story1",
+    "storyTitle": "أسطورة الغولة تامزا وحيلة الأخوين",
+    "id": 9,
+    "vocabId": "s1_v9",
+    "targetTifinagh": "ⵜⵉⵃⵕⵛⵉ",
+    "targetLatin": "Tiḥrci",
+    "targetArabic": "الفطنة / الذكاء",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⵃⵕⵛⵉ] (Tiḥrci)؟",
+    "options": [
+      "السلام / الأمان / ",
+      "الإخوة / ",
+      "الغولة الأسطورية / ",
+      "الفطنة / الذكاء / "
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⵃⵕⵛⵉ] (Tiḥrci) ورد في سياق الحكاية للدلالة على: الفطنة / الذكاء ()."
+  },
+  {
+    "storyId": "story1",
+    "storyTitle": "أسطورة الغولة تامزا وحيلة الأخوين",
+    "id": 10,
+    "vocabId": "s1_v10",
+    "targetTifinagh": "ⴰⴼⵔⴰ",
+    "targetLatin": "Afra",
+    "targetArabic": "السلام / الأمان",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴼⵔⴰ] (Afra)؟",
+    "options": [
+      "الدار / المنزل",
+      "السلام / الأمان",
+      "الجبل",
+      "الإخوة"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⴼⵔⴰ] (ينطق: Afra) يعني بالعربية: 'السلام / الأمان'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story2",
+    "storyTitle": "أسطورة هينة الجميلة وقصر الأطلس",
+    "id": 1,
+    "vocabId": "s2_v1",
+    "targetTifinagh": "ⵜⴰⴼⵔⵓⵅⵜ",
+    "targetLatin": "Tafruxt",
+    "targetArabic": "الفتاة / البنت",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴼⵔⵓⵅⵜ] (Tafruxt)؟",
+    "options": [
+      "الأبيض",
+      "الفتاة / البنت",
+      "القمر / الهلال",
+      "الحمام / اليمام"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴼⵔⵓⵅⵜ] (ينطق: Tafruxt) يعني بالعربية: 'الفتاة / البنت'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story2",
+    "storyTitle": "أسطورة هينة الجميلة وقصر الأطلس",
+    "id": 2,
+    "vocabId": "s2_v2",
+    "targetTifinagh": "ⵜⴰⵍⴰ",
+    "targetLatin": "Tala",
+    "targetArabic": "عين الماء / الساقية",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'عين الماء / الساقية'؟",
+    "options": [
+      "ⵜⴰⴼⵔⵓⵅⵜ (Tafruxt)",
+      "ⵜⴰⵍⴰ (Tala)",
+      "ⵜⴰⵎⴰⵣⵉⵔⵜ (Tamazirt)",
+      "ⴰⵢⵢⵓⵔ (Ayyur)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵍⴰ] (Tala) وترجمتها: 'عين الماء / الساقية'."
+  },
+  {
+    "storyId": "story2",
+    "storyTitle": "أسطورة هينة الجميلة وقصر الأطلس",
+    "id": 3,
+    "vocabId": "s2_v3",
+    "targetTifinagh": "ⴰⵇⵚⵕ",
+    "targetLatin": "Aqṣr",
+    "targetArabic": "القصر / الحصن",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵇⵚⵕ] (Aqṣr)؟",
+    "options": [
+      "عين الماء / الساقية / ",
+      "الجمال / الحُسن / ",
+      "القصر / الحصن / ",
+      "الفتاة / البنت / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵇⵚⵕ] (Aqṣr) ورد في سياق الحكاية للدلالة على: القصر / الحصن ()."
+  },
+  {
+    "storyId": "story2",
+    "storyTitle": "أسطورة هينة الجميلة وقصر الأطلس",
+    "id": 4,
+    "vocabId": "s2_v4",
+    "targetTifinagh": "ⴰⵜⴱⵉⵔ",
+    "targetLatin": "Atbir",
+    "targetArabic": "الحمام / اليمام",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵜⴱⵉⵔ] (Atbir)؟",
+    "options": [
+      "الجمال / الحُسن",
+      "الحمام / اليمام",
+      "القرية / البلدة / الوطن",
+      "الفتاة / البنت"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵜⴱⵉⵔ] (ينطق: Atbir) يعني بالعربية: 'الحمام / اليمام'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story2",
+    "storyTitle": "أسطورة هينة الجميلة وقصر الأطلس",
+    "id": 5,
+    "vocabId": "s2_v5",
+    "targetTifinagh": "ⵜⴰⴱⵔⴰⵜ",
+    "targetLatin": "Tabrat",
+    "targetArabic": "الرسالة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الرسالة'؟",
+    "options": [
+      "ⴰⵎⵍⵍⴰⵍ (Amllal)",
+      "ⴰⵜⴱⵉⵔ (Atbir)",
+      "ⵜⴰⴱⵔⴰⵜ (Tabrat)",
+      "ⵜⴰⵍⴰ (Tala)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴱⵔⴰⵜ] (Tabrat) وترجمتها: 'الرسالة'."
+  },
+  {
+    "storyId": "story2",
+    "storyTitle": "أسطورة هينة الجميلة وقصر الأطلس",
+    "id": 6,
+    "vocabId": "s2_v6",
+    "targetTifinagh": "ⵜⴰⵎⴰⵣⵉⵔⵜ",
+    "targetLatin": "Tamazirt",
+    "targetArabic": "القرية / البلدة / الوطن",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵎⴰⵣⵉⵔⵜ] (Tamazirt)؟",
+    "options": [
+      "الفتاة / البنت / ",
+      "القرية / البلدة / الوطن / ",
+      "عين الماء / الساقية / ",
+      "الحمام / اليمام / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⴰⵣⵉⵔⵜ] (Tamazirt) ورد في سياق الحكاية للدلالة على: القرية / البلدة / الوطن ()."
+  },
+  {
+    "storyId": "story2",
+    "storyTitle": "أسطورة هينة الجميلة وقصر الأطلس",
+    "id": 7,
+    "vocabId": "s2_v7",
+    "targetTifinagh": "ⴰⵎⵍⵍⴰⵍ",
+    "targetLatin": "Amllal",
+    "targetArabic": "الأبيض",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵎⵍⵍⴰⵍ] (Amllal)؟",
+    "options": [
+      "الأبيض",
+      "الحمام / اليمام",
+      "القمر / الهلال",
+      "القرية / البلدة / الوطن"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵎⵍⵍⴰⵍ] (ينطق: Amllal) يعني بالعربية: 'الأبيض'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story2",
+    "storyTitle": "أسطورة هينة الجميلة وقصر الأطلس",
+    "id": 8,
+    "vocabId": "s2_v8",
+    "targetTifinagh": "ⴰⴼⵓⵍⴽⵉ",
+    "targetLatin": "Afulki",
+    "targetArabic": "الجمال / الحُسن",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الجمال / الحُسن'؟",
+    "options": [
+      "ⴰⴼⵓⵍⴽⵉ (Afulki)",
+      "ⴰⵇⵚⵕ (Aqṣr)",
+      "ⴰⵜⴱⵉⵔ (Atbir)",
+      "ⵜⴰⵎⴰⵣⵉⵔⵜ (Tamazirt)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⴼⵓⵍⴽⵉ] (Afulki) وترجمتها: 'الجمال / الحُسن'."
+  },
+  {
+    "storyId": "story2",
+    "storyTitle": "أسطورة هينة الجميلة وقصر الأطلس",
+    "id": 9,
+    "vocabId": "s2_v9",
+    "targetTifinagh": "ⴰⵥⵕⵓ",
+    "targetLatin": "Aẓru",
+    "targetArabic": "الصخر / الحجر",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵥⵕⵓ] (Aẓru)؟",
+    "options": [
+      "الصخر / الحجر / ",
+      "الحمام / اليمام / ",
+      "القصر / الحصن / ",
+      "عين الماء / الساقية / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵥⵕⵓ] (Aẓru) ورد في سياق الحكاية للدلالة على: الصخر / الحجر ()."
+  },
+  {
+    "storyId": "story2",
+    "storyTitle": "أسطورة هينة الجميلة وقصر الأطلس",
+    "id": 10,
+    "vocabId": "s2_v10",
+    "targetTifinagh": "ⴰⵢⵢⵓⵔ",
+    "targetLatin": "Ayyur",
+    "targetArabic": "القمر / الهلال",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵢⵢⵓⵔ] (Ayyur)؟",
+    "options": [
+      "القمر / الهلال",
+      "الصخر / الحجر",
+      "الأبيض",
+      "القرية / البلدة / الوطن"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵢⵢⵓⵔ] (ينطق: Ayyur) يعني بالعربية: 'القمر / الهلال'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story3",
+    "storyTitle": "بحيرتا إيسلي وتيسليت في إملشيل",
+    "id": 1,
+    "vocabId": "s3_v1",
+    "targetTifinagh": "ⵉⵙⵍⵉ",
+    "targetLatin": "Isli",
+    "targetArabic": "العريس",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵙⵍⵉ] (Isli)؟",
+    "options": [
+      "البحيرة",
+      "الأزرق / الأخضر الفاتح",
+      "العروس",
+      "العريس"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵉⵙⵍⵉ] (ينطق: Isli) يعني بالعربية: 'العريس'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story3",
+    "storyTitle": "بحيرتا إيسلي وتيسليت في إملشيل",
+    "id": 2,
+    "vocabId": "s3_v2",
+    "targetTifinagh": "ⵜⵉⵙⵍⵉⵜ",
+    "targetLatin": "Tislit",
+    "targetArabic": "العروس",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'العروس'؟",
+    "options": [
+      "ⵉⵙⵍⵉ (Isli)",
+      "ⵜⴰⵎⵖⵔⴰ (Tamɣra)",
+      "ⵓⵍ (Ul)",
+      "ⵜⵉⵙⵍⵉⵜ (Tislit)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵙⵍⵉⵜ] (Tislit) وترجمتها: 'العروس'."
+  },
+  {
+    "storyId": "story3",
+    "storyTitle": "بحيرتا إيسلي وتيسليت في إملشيل",
+    "id": 3,
+    "vocabId": "s3_v3",
+    "targetTifinagh": "ⴰⴳⵍⵎⴰⵎ",
+    "targetLatin": "Aglmam",
+    "targetArabic": "البحيرة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴳⵍⵎⴰⵎ] (Aglmam)؟",
+    "options": [
+      "العريس / ",
+      "البحيرة / ",
+      "الأزرق / الأخضر الفاتح / ",
+      "المحبة / العشق / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⴳⵍⵎⴰⵎ] (Aglmam) ورد في سياق الحكاية للدلالة على: البحيرة ()."
+  },
+  {
+    "storyId": "story3",
+    "storyTitle": "بحيرتا إيسلي وتيسليت في إملشيل",
+    "id": 4,
+    "vocabId": "s3_v4",
+    "targetTifinagh": "ⵉⵎⵟⵟⴰⵡⵏ",
+    "targetLatin": "Imṭṭawn",
+    "targetArabic": "الدموع",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵎⵟⵟⴰⵡⵏ] (Imṭṭawn)؟",
+    "options": [
+      "البحيرة",
+      "الدموع",
+      "القبيلة",
+      "المحبة / العشق"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵉⵎⵟⵟⴰⵡⵏ] (ينطق: Imṭṭawn) يعني بالعربية: 'الدموع'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story3",
+    "storyTitle": "بحيرتا إيسلي وتيسليت في إملشيل",
+    "id": 5,
+    "vocabId": "s3_v5",
+    "targetTifinagh": "ⵜⴰⵢⵔⵉ",
+    "targetLatin": "Tayri",
+    "targetArabic": "المحبة / العشق",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'المحبة / العشق'؟",
+    "options": [
+      "ⵜⴰⵢⵔⵉ (Tayri)",
+      "ⵜⴰⵎⵖⵔⴰ (Tamɣra)",
+      "ⵜⵉⵙⵍⵉⵜ (Tislit)",
+      "ⵉⵎⵟⵟⴰⵡⵏ (Imṭṭawn)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵢⵔⵉ] (Tayri) وترجمتها: 'المحبة / العشق'."
+  },
+  {
+    "storyId": "story3",
+    "storyTitle": "بحيرتا إيسلي وتيسليت في إملشيل",
+    "id": 6,
+    "vocabId": "s3_v6",
+    "targetTifinagh": "ⵜⴰⵇⴱⵉⵍⵜ",
+    "targetLatin": "Taqbilt",
+    "targetArabic": "القبيلة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵇⴱⵉⵍⵜ] (Taqbilt)؟",
+    "options": [
+      "القبيلة / ",
+      "الموسم السنوي / البذر / ",
+      "العروس / ",
+      "القلب / الفؤاد / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵇⴱⵉⵍⵜ] (Taqbilt) ورد في سياق الحكاية للدلالة على: القبيلة ()."
+  },
+  {
+    "storyId": "story3",
+    "storyTitle": "بحيرتا إيسلي وتيسليت في إملشيل",
+    "id": 7,
+    "vocabId": "s3_v7",
+    "targetTifinagh": "ⵜⴰⵎⵖⵔⴰ",
+    "targetLatin": "Tamɣra",
+    "targetArabic": "حفل الزفاف / العرس",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵎⵖⵔⴰ] (Tamɣra)؟",
+    "options": [
+      "القلب / الفؤاد",
+      "البحيرة",
+      "الموسم السنوي / البذر",
+      "حفل الزفاف / العرس"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⵖⵔⴰ] (ينطق: Tamɣra) يعني بالعربية: 'حفل الزفاف / العرس'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story3",
+    "storyTitle": "بحيرتا إيسلي وتيسليت في إملشيل",
+    "id": 8,
+    "vocabId": "s3_v8",
+    "targetTifinagh": "ⵓⵍ",
+    "targetLatin": "Ul",
+    "targetArabic": "القلب / الفؤاد",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'القلب / الفؤاد'؟",
+    "options": [
+      "ⵜⴰⵎⵖⵔⴰ (Tamɣra)",
+      "ⴰⵎⵓⴷ (Amud)",
+      "ⴰⴳⵍⵎⴰⵎ (Aglmam)",
+      "ⵓⵍ (Ul)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵓⵍ] (Ul) وترجمتها: 'القلب / الفؤاد'."
+  },
+  {
+    "storyId": "story3",
+    "storyTitle": "بحيرتا إيسلي وتيسليت في إملشيل",
+    "id": 9,
+    "vocabId": "s3_v9",
+    "targetTifinagh": "ⴰⵎⵓⴷ",
+    "targetLatin": "Amud",
+    "targetArabic": "الموسم السنوي / البذر",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵎⵓⴷ] (Amud)؟",
+    "options": [
+      "الدموع / ",
+      "الموسم السنوي / البذر / ",
+      "العريس / ",
+      "المحبة / العشق / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵎⵓⴷ] (Amud) ورد في سياق الحكاية للدلالة على: الموسم السنوي / البذر ()."
+  },
+  {
+    "storyId": "story3",
+    "storyTitle": "بحيرتا إيسلي وتيسليت في إملشيل",
+    "id": 10,
+    "vocabId": "s3_v10",
+    "targetTifinagh": "ⴰⵣⴳⵣⴰ",
+    "targetLatin": "Azgza",
+    "targetArabic": "الأزرق / الأخضر الفاتح",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵣⴳⵣⴰ] (Azgza)؟",
+    "options": [
+      "حفل الزفاف / العرس",
+      "الأزرق / الأخضر الفاتح",
+      "الموسم السنوي / البذر",
+      "القلب / الفؤاد"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵣⴳⵣⴰ] (ينطق: Azgza) يعني بالعربية: 'الأزرق / الأخضر الفاتح'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story4",
+    "storyTitle": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+    "id": 1,
+    "vocabId": "s4_v1",
+    "targetTifinagh": "ⴰⵏⵥⴰⵕ",
+    "targetLatin": "Anẓaṛ",
+    "targetArabic": "المطر / الغيث",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵏⵥⴰⵕ] (Anẓaṛ)؟",
+    "options": [
+      "القمح / الحبوب",
+      "الفلاح / المزارع",
+      "الثوب / اللباس",
+      "المطر / الغيث"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⴰⵏⵥⴰⵕ] (ينطق: Anẓaṛ) يعني بالعربية: 'المطر / الغيث'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story4",
+    "storyTitle": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+    "id": 2,
+    "vocabId": "s4_v2",
+    "targetTifinagh": "ⴰⴽⴰⵍ",
+    "targetLatin": "Akal",
+    "targetArabic": "الأرض / التراب",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الأرض / التراب'؟",
+    "options": [
+      "ⴰⵎⴰⵏ (Aman)",
+      "ⴰⴽⴰⵍ (Akal)",
+      "ⵉⵎⵏⴷⵉ (Imndi)",
+      "ⴰⵏⵥⴰⵕ (Anẓaṛ)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⴽⴰⵍ] (Akal) وترجمتها: 'الأرض / التراب'."
+  },
+  {
+    "storyId": "story4",
+    "storyTitle": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+    "id": 3,
+    "vocabId": "s4_v3",
+    "targetTifinagh": "ⵜⴰⵖⵏⵊⴰ",
+    "targetLatin": "Taɣnja",
+    "targetArabic": "الملعقة الخشبية الكبيرة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵖⵏⵊⴰ] (Taɣnja)؟",
+    "options": [
+      "الحقل / المزرعة / ",
+      "الأرض / التراب / ",
+      "الماء / ",
+      "الملعقة الخشبية الكبيرة / "
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵖⵏⵊⴰ] (Taɣnja) ورد في سياق الحكاية للدلالة على: الملعقة الخشبية الكبيرة ()."
+  },
+  {
+    "storyId": "story4",
+    "storyTitle": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+    "id": 4,
+    "vocabId": "s4_v4",
+    "targetTifinagh": "ⵉⴳⵔ",
+    "targetLatin": "Igr",
+    "targetArabic": "الحقل / المزرعة",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⴳⵔ] (Igr)؟",
+    "options": [
+      "المطر / الغيث",
+      "الأرض / التراب",
+      "الماء",
+      "الحقل / المزرعة"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵉⴳⵔ] (ينطق: Igr) يعني بالعربية: 'الحقل / المزرعة'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story4",
+    "storyTitle": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+    "id": 5,
+    "vocabId": "s4_v5",
+    "targetTifinagh": "ⵉⵎⵏⴷⵉ",
+    "targetLatin": "Imndi",
+    "targetArabic": "القمح / الحبوب",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'القمح / الحبوب'؟",
+    "options": [
+      "ⵉⵎⵏⴷⵉ (Imndi)",
+      "ⴰⵏⵥⴰⵕ (Anẓaṛ)",
+      "ⵉⴳⵔ (Igr)",
+      "ⴰⵙⴳⴳⵯⴰⵙ (Asggʷas)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵉⵎⵏⴷⵉ] (Imndi) وترجمتها: 'القمح / الحبوب'."
+  },
+  {
+    "storyId": "story4",
+    "storyTitle": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+    "id": 6,
+    "vocabId": "s4_v6",
+    "targetTifinagh": "ⵜⴰⴷⴷⴰⴳⵜ",
+    "targetLatin": "Taddagt",
+    "targetArabic": "الشجرة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴷⴷⴰⴳⵜ] (Taddagt)؟",
+    "options": [
+      "الأرض / التراب / ",
+      "الشجرة / ",
+      "الفلاح / المزارع / ",
+      "الملعقة الخشبية الكبيرة / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴷⴷⴰⴳⵜ] (Taddagt) ورد في سياق الحكاية للدلالة على: الشجرة ()."
+  },
+  {
+    "storyId": "story4",
+    "storyTitle": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+    "id": 7,
+    "vocabId": "s4_v7",
+    "targetTifinagh": "ⴰⵎⴰⵏ",
+    "targetLatin": "Aman",
+    "targetArabic": "الماء",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵎⴰⵏ] (Aman)؟",
+    "options": [
+      "الحقل / المزرعة",
+      "الفلاح / المزارع",
+      "الماء",
+      "الأرض / التراب"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵎⴰⵏ] (ينطق: Aman) يعني بالعربية: 'الماء'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story4",
+    "storyTitle": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+    "id": 8,
+    "vocabId": "s4_v8",
+    "targetTifinagh": "ⵜⵉⵎⵍⵙⵉⵜ",
+    "targetLatin": "Timlsit",
+    "targetArabic": "الثوب / اللباس",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الثوب / اللباس'؟",
+    "options": [
+      "ⴰⴽⴰⵍ (Akal)",
+      "ⵉⴳⵔ (Igr)",
+      "ⴰⴼⵍⵍⴰⵃ (Afllaḥ)",
+      "ⵜⵉⵎⵍⵙⵉⵜ (Timlsit)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵎⵍⵙⵉⵜ] (Timlsit) وترجمتها: 'الثوب / اللباس'."
+  },
+  {
+    "storyId": "story4",
+    "storyTitle": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+    "id": 9,
+    "vocabId": "s4_v9",
+    "targetTifinagh": "ⴰⵙⴳⴳⵯⴰⵙ",
+    "targetLatin": "Asggʷas",
+    "targetArabic": "السنة / العام",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵙⴳⴳⵯⴰⵙ] (Asggʷas)؟",
+    "options": [
+      "السنة / العام / ",
+      "الأرض / التراب / ",
+      "القمح / الحبوب / ",
+      "الماء / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵙⴳⴳⵯⴰⵙ] (Asggʷas) ورد في سياق الحكاية للدلالة على: السنة / العام ()."
+  },
+  {
+    "storyId": "story4",
+    "storyTitle": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+    "id": 10,
+    "vocabId": "s4_v10",
+    "targetTifinagh": "ⴰⴼⵍⵍⴰⵃ",
+    "targetLatin": "Afllaḥ",
+    "targetArabic": "الفلاح / المزارع",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴼⵍⵍⴰⵃ] (Afllaḥ)؟",
+    "options": [
+      "السنة / العام",
+      "الفلاح / المزارع",
+      "الأرض / التراب",
+      "القمح / الحبوب"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⴼⵍⵍⴰⵃ] (ينطق: Afllaḥ) يعني بالعربية: 'الفلاح / المزارع'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story5",
+    "storyTitle": "ذكاء القنفذ إينسي وحكمة الغابة",
+    "id": 1,
+    "vocabId": "s5_v1",
+    "targetTifinagh": "ⵉⵏⵙⵉ",
+    "targetLatin": "Insi",
+    "targetArabic": "القنفذ",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵏⵙⵉ] (Insi)؟",
+    "options": [
+      "القنفذ",
+      "الانتصار / الظفر",
+      "الأسد (ملك الغابة)",
+      "العنزة / الماعز"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵉⵏⵙⵉ] (ينطق: Insi) يعني بالعربية: 'القنفذ'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story5",
+    "storyTitle": "ذكاء القنفذ إينسي وحكمة الغابة",
+    "id": 2,
+    "vocabId": "s5_v2",
+    "targetTifinagh": "ⴰⵢⵔⴰⴷ",
+    "targetLatin": "Ayrad",
+    "targetArabic": "الأسد (ملك الغابة)",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الأسد (ملك الغابة)'؟",
+    "options": [
+      "ⵡⵓⵛⵛⵏ (Wuccn)",
+      "ⴰⵢⵔⴰⴷ (Ayrad)",
+      "ⵜⵉⵏⵣⵣⴰⵢⵜ (Tinzzayt)",
+      "ⵜⴰⵖⴰⵟ (Taɣaṭ)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵢⵔⴰⴷ] (Ayrad) وترجمتها: 'الأسد (ملك الغابة)'."
+  },
+  {
+    "storyId": "story5",
+    "storyTitle": "ذكاء القنفذ إينسي وحكمة الغابة",
+    "id": 3,
+    "vocabId": "s5_v3",
+    "targetTifinagh": "ⵡⵓⵛⵛⵏ",
+    "targetLatin": "Wuccn",
+    "targetArabic": "الذئب الأمازيغي",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵡⵓⵛⵛⵏ] (Wuccn)؟",
+    "options": [
+      "الذئب الأمازيغي / ",
+      "المساء / وقت الغروب / ",
+      "الثور / ",
+      "الصباح الباكر / الفطور / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵡⵓⵛⵛⵏ] (Wuccn) ورد في سياق الحكاية للدلالة على: الذئب الأمازيغي ()."
+  },
+  {
+    "storyId": "story5",
+    "storyTitle": "ذكاء القنفذ إينسي وحكمة الغابة",
+    "id": 4,
+    "vocabId": "s5_v4",
+    "targetTifinagh": "ⴰⵡⵜⵓⵍ",
+    "targetLatin": "Awtul",
+    "targetArabic": "الأرنب",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵡⵜⵓⵍ] (Awtul)؟",
+    "options": [
+      "المساء / وقت الغروب",
+      "الذئب الأمازيغي",
+      "الأرنب",
+      "الانتصار / الظفر"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵡⵜⵓⵍ] (ينطق: Awtul) يعني بالعربية: 'الأرنب'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story5",
+    "storyTitle": "ذكاء القنفذ إينسي وحكمة الغابة",
+    "id": 5,
+    "vocabId": "s5_v5",
+    "targetTifinagh": "ⴰⵣⴳⴰⵔ",
+    "targetLatin": "Azgar",
+    "targetArabic": "الثور",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الثور'؟",
+    "options": [
+      "ⴰⵢⵔⴰⴷ (Ayrad)",
+      "ⴰⵣⴳⴰⵔ (Azgar)",
+      "ⴰⴳⵎⴰⵔ (Agmar)",
+      "ⵜⴰⴷⴳⴳⵯⴰⵜ (Tadggʷat)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵣⴳⴰⵔ] (Azgar) وترجمتها: 'الثور'."
+  },
+  {
+    "storyId": "story5",
+    "storyTitle": "ذكاء القنفذ إينسي وحكمة الغابة",
+    "id": 6,
+    "vocabId": "s5_v6",
+    "targetTifinagh": "ⵜⴰⵖⴰⵟ",
+    "targetLatin": "Taɣaṭ",
+    "targetArabic": "العنزة / الماعز",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵖⴰⵟ] (Taɣaṭ)؟",
+    "options": [
+      "الأسد (ملك الغابة) / ",
+      "الذئب الأمازيغي / ",
+      "العنزة / الماعز / ",
+      "الصباح الباكر / الفطور / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵖⴰⵟ] (Taɣaṭ) ورد في سياق الحكاية للدلالة على: العنزة / الماعز ()."
+  },
+  {
+    "storyId": "story5",
+    "storyTitle": "ذكاء القنفذ إينسي وحكمة الغابة",
+    "id": 7,
+    "vocabId": "s5_v7",
+    "targetTifinagh": "ⴰⴳⵎⴰⵔ",
+    "targetLatin": "Agmar",
+    "targetArabic": "الصيد / القنص",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴳⵎⴰⵔ] (Agmar)؟",
+    "options": [
+      "العنزة / الماعز",
+      "الانتصار / الظفر",
+      "الذئب الأمازيغي",
+      "الصيد / القنص"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⴰⴳⵎⴰⵔ] (ينطق: Agmar) يعني بالعربية: 'الصيد / القنص'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story5",
+    "storyTitle": "ذكاء القنفذ إينسي وحكمة الغابة",
+    "id": 8,
+    "vocabId": "s5_v8",
+    "targetTifinagh": "ⵜⵉⵏⵣⵣⴰⵢⵜ",
+    "targetLatin": "Tinzzayt",
+    "targetArabic": "الصباح الباكر / الفطور",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الصباح الباكر / الفطور'؟",
+    "options": [
+      "ⵜⵉⵏⵣⵣⴰⵢⵜ (Tinzzayt)",
+      "ⴰⵣⴳⴰⵔ (Azgar)",
+      "ⴰⵢⵔⴰⴷ (Ayrad)",
+      "ⴰⵡⵜⵓⵍ (Awtul)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵏⵣⵣⴰⵢⵜ] (Tinzzayt) وترجمتها: 'الصباح الباكر / الفطور'."
+  },
+  {
+    "storyId": "story5",
+    "storyTitle": "ذكاء القنفذ إينسي وحكمة الغابة",
+    "id": 9,
+    "vocabId": "s5_v9",
+    "targetTifinagh": "ⵜⴰⴷⴳⴳⵯⴰⵜ",
+    "targetLatin": "Tadggʷat",
+    "targetArabic": "المساء / وقت الغروب",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴷⴳⴳⵯⴰⵜ] (Tadggʷat)؟",
+    "options": [
+      "الصيد / القنص / ",
+      "القنفذ / ",
+      "المساء / وقت الغروب / ",
+      "الذئب الأمازيغي / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴷⴳⴳⵯⴰⵜ] (Tadggʷat) ورد في سياق الحكاية للدلالة على: المساء / وقت الغروب ()."
+  },
+  {
+    "storyId": "story5",
+    "storyTitle": "ذكاء القنفذ إينسي وحكمة الغابة",
+    "id": 10,
+    "vocabId": "s5_v10",
+    "targetTifinagh": "ⵜⴰⵔⵏⴰⵡⵜ",
+    "targetLatin": "Tarnawt",
+    "targetArabic": "الانتصار / الظفر",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵔⵏⴰⵡⵜ] (Tarnawt)؟",
+    "options": [
+      "الانتصار / الظفر",
+      "الأسد (ملك الغابة)",
+      "الصيد / القنص",
+      "الأرنب"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵔⵏⴰⵡⵜ] (ينطق: Tarnawt) يعني بالعربية: 'الانتصار / الظفر'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story6",
+    "storyTitle": "حكاية شجرة الأركان وسر الزيت الذهبي",
+    "id": 1,
+    "vocabId": "s6_v1",
+    "targetTifinagh": "ⴰⵔⴳⴰⵏ",
+    "targetLatin": "Argan",
+    "targetArabic": "شجرة وثمر الأركان",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵔⴳⴰⵏ] (Argan)؟",
+    "options": [
+      "شجرة وثمر الأركان",
+      "اليد",
+      "ثمرة الأركان",
+      "الشمس"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵔⴳⴰⵏ] (ينطق: Argan) يعني بالعربية: 'شجرة وثمر الأركان'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story6",
+    "storyTitle": "حكاية شجرة الأركان وسر الزيت الذهبي",
+    "id": 2,
+    "vocabId": "s6_v2",
+    "targetTifinagh": "ⴰⵣⴰⵜⵉⵎ",
+    "targetLatin": "Azatim",
+    "targetArabic": "الزيت (زيت الأركان/الزيتون)",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الزيت (زيت الأركان/الزيتون)'؟",
+    "options": [
+      "ⴰⵔⴳⴰⵏ (Argan)",
+      "ⴰⴼⵓⵙ (Afus)",
+      "ⵜⴰⴼⵓⴽⵜ (Tafukt)",
+      "ⴰⵣⴰⵜⵉⵎ (Azatim)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵣⴰⵜⵉⵎ] (Azatim) وترجمتها: 'الزيت (زيت الأركان/الزيتون)'."
+  },
+  {
+    "storyId": "story6",
+    "storyTitle": "حكاية شجرة الأركان وسر الزيت الذهبي",
+    "id": 3,
+    "vocabId": "s6_v3",
+    "targetTifinagh": "ⴰⵣⵔⴳ",
+    "targetLatin": "Azrg",
+    "targetArabic": "الرحى الحجرية لطحن الحبوب",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵣⵔⴳ] (Azrg)؟",
+    "options": [
+      "ثمرة الأركان / ",
+      "الحياة / المعيشة / ",
+      "الرحى الحجرية لطحن الحبوب / ",
+      "شجرة وثمر الأركان / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵣⵔⴳ] (Azrg) ورد في سياق الحكاية للدلالة على: الرحى الحجرية لطحن الحبوب ()."
+  },
+  {
+    "storyId": "story6",
+    "storyTitle": "حكاية شجرة الأركان وسر الزيت الذهبي",
+    "id": 4,
+    "vocabId": "s6_v4",
+    "targetTifinagh": "ⵜⵉⵢⵢⵉ",
+    "targetLatin": "Tiyyi",
+    "targetArabic": "ثمرة الأركان",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⵢⵢⵉ] (Tiyyi)؟",
+    "options": [
+      "الزيت (زيت الأركان/الزيتون)",
+      "الأصفر / الذهبي",
+      "ثمرة الأركان",
+      "النواة / العظم الصلب"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⵢⵢⵉ] (ينطق: Tiyyi) يعني بالعربية: 'ثمرة الأركان'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story6",
+    "storyTitle": "حكاية شجرة الأركان وسر الزيت الذهبي",
+    "id": 5,
+    "vocabId": "s6_v5",
+    "targetTifinagh": "ⵉⵖⵚ",
+    "targetLatin": "Iɣṣ",
+    "targetArabic": "النواة / العظم الصلب",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'النواة / العظم الصلب'؟",
+    "options": [
+      "ⵜⴰⵎⵖⴰⵔⵜ (Tamɣart)",
+      "ⴰⴼⵓⵙ (Afus)",
+      "ⵉⵖⵚ (Iɣṣ)",
+      "ⵜⴰⴼⵓⴽⵜ (Tafukt)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵉⵖⵚ] (Iɣṣ) وترجمتها: 'النواة / العظم الصلب'."
+  },
+  {
+    "storyId": "story6",
+    "storyTitle": "حكاية شجرة الأركان وسر الزيت الذهبي",
+    "id": 6,
+    "vocabId": "s6_v6",
+    "targetTifinagh": "ⵜⴰⵎⵖⴰⵔⵜ",
+    "targetLatin": "Tamɣart",
+    "targetArabic": "المرأة / السيدة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵎⵖⴰⵔⵜ] (Tamɣart)؟",
+    "options": [
+      "المرأة / السيدة / ",
+      "الحياة / المعيشة / ",
+      "النواة / العظم الصلب / ",
+      "شجرة وثمر الأركان / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⵖⴰⵔⵜ] (Tamɣart) ورد في سياق الحكاية للدلالة على: المرأة / السيدة ()."
+  },
+  {
+    "storyId": "story6",
+    "storyTitle": "حكاية شجرة الأركان وسر الزيت الذهبي",
+    "id": 7,
+    "vocabId": "s6_v7",
+    "targetTifinagh": "ⴰⴼⵓⵙ",
+    "targetLatin": "Afus",
+    "targetArabic": "اليد",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴼⵓⵙ] (Afus)؟",
+    "options": [
+      "الشمس",
+      "النواة / العظم الصلب",
+      "الأصفر / الذهبي",
+      "اليد"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⴰⴼⵓⵙ] (ينطق: Afus) يعني بالعربية: 'اليد'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story6",
+    "storyTitle": "حكاية شجرة الأركان وسر الزيت الذهبي",
+    "id": 8,
+    "vocabId": "s6_v8",
+    "targetTifinagh": "ⵜⴰⴼⵓⴽⵜ",
+    "targetLatin": "Tafukt",
+    "targetArabic": "الشمس",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الشمس'؟",
+    "options": [
+      "ⵉⵖⵚ (Iɣṣ)",
+      "ⴰⵣⵔⴳ (Azrg)",
+      "ⵜⴰⴼⵓⴽⵜ (Tafukt)",
+      "ⴰⵔⴳⴰⵏ (Argan)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴼⵓⴽⵜ] (Tafukt) وترجمتها: 'الشمس'."
+  },
+  {
+    "storyId": "story6",
+    "storyTitle": "حكاية شجرة الأركان وسر الزيت الذهبي",
+    "id": 9,
+    "vocabId": "s6_v9",
+    "targetTifinagh": "ⴰⵡⵔⴰⵖ",
+    "targetLatin": "Awraɣ",
+    "targetArabic": "الأصفر / الذهبي",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵡⵔⴰⵖ] (Awraɣ)؟",
+    "options": [
+      "الأصفر / الذهبي / ",
+      "المرأة / السيدة / ",
+      "الحياة / المعيشة / ",
+      "الزيت (زيت الأركان/الزيتون) / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵡⵔⴰⵖ] (Awraɣ) ورد في سياق الحكاية للدلالة على: الأصفر / الذهبي ()."
+  },
+  {
+    "storyId": "story6",
+    "storyTitle": "حكاية شجرة الأركان وسر الزيت الذهبي",
+    "id": 10,
+    "vocabId": "s6_v10",
+    "targetTifinagh": "ⵜⵓⴷⵔⵜ",
+    "targetLatin": "Tudrt",
+    "targetArabic": "الحياة / المعيشة",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵓⴷⵔⵜ] (Tudrt)؟",
+    "options": [
+      "الأصفر / الذهبي",
+      "النواة / العظم الصلب",
+      "اليد",
+      "الحياة / المعيشة"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⵓⴷⵔⵜ] (ينطق: Tudrt) يعني بالعربية: 'الحياة / المعيشة'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story7",
+    "storyTitle": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+    "id": 1,
+    "vocabId": "s7_v1",
+    "targetTifinagh": "ⴰⴳⵍⵍⵉⴷ",
+    "targetLatin": "Agllid",
+    "targetArabic": "الملك",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴳⵍⵍⵉⴷ] (Agllid)؟",
+    "options": [
+      "المكتبة / خزانة الكتب",
+      "الوطن / البلاد",
+      "الملك",
+      "التاريخ"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⴳⵍⵍⵉⴷ] (ينطق: Agllid) يعني بالعربية: 'الملك'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story7",
+    "storyTitle": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+    "id": 2,
+    "vocabId": "s7_v2",
+    "targetTifinagh": "ⵜⴰⴳⵍⴷⵉⵜ",
+    "targetLatin": "Tagldit",
+    "targetArabic": "المملكة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'المملكة'؟",
+    "options": [
+      "ⵜⴰⴳⵍⴷⵉⵜ (Tagldit)",
+      "ⵜⴰⵎⵓⵔⵜ (Tamurt)",
+      "ⵜⵉⵖⵔⵎⵉⵏ (Tiɣrmin)",
+      "ⴰⴳⵍⵍⵉⴷ (Agllid)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴳⵍⴷⵉⵜ] (Tagldit) وترجمتها: 'المملكة'."
+  },
+  {
+    "storyId": "story7",
+    "storyTitle": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+    "id": 3,
+    "vocabId": "s7_v3",
+    "targetTifinagh": "ⴰⴷⵍⵉⵙ",
+    "targetLatin": "Adlis",
+    "targetArabic": "الكتاب",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴷⵍⵉⵙ] (Adlis)؟",
+    "options": [
+      "الملك / ",
+      "التاريخ / ",
+      "الكتاب / ",
+      "الفن والإبداع / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⴷⵍⵉⵙ] (Adlis) ورد في سياق الحكاية للدلالة على: الكتاب ()."
+  },
+  {
+    "storyId": "story7",
+    "storyTitle": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+    "id": 4,
+    "vocabId": "s7_v4",
+    "targetTifinagh": "ⵜⴰⵙⴷⵍⵉⵙⵜ",
+    "targetLatin": "Tasdlist",
+    "targetArabic": "المكتبة / خزانة الكتب",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵙⴷⵍⵉⵙⵜ] (Tasdlist)؟",
+    "options": [
+      "التاريخ",
+      "المدن والحصون (جمع tiɣrmt)",
+      "الكتاب",
+      "المكتبة / خزانة الكتب"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵙⴷⵍⵉⵙⵜ] (ينطق: Tasdlist) يعني بالعربية: 'المكتبة / خزانة الكتب'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story7",
+    "storyTitle": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+    "id": 5,
+    "vocabId": "s7_v5",
+    "targetTifinagh": "ⵜⵉⵖⵔⵎⵉⵏ",
+    "targetLatin": "Tiɣrmin",
+    "targetArabic": "المدن والحصون (جمع tiɣrmt)",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'المدن والحصون (جمع tiɣrmt)'؟",
+    "options": [
+      "ⵜⵓⵙⵙⵏⴰ (Tussna)",
+      "ⴰⵎⵣⵔⵓⵢ (Amzruy)",
+      "ⴰⴳⵍⵍⵉⴷ (Agllid)",
+      "ⵜⵉⵖⵔⵎⵉⵏ (Tiɣrmin)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵖⵔⵎⵉⵏ] (Tiɣrmin) وترجمتها: 'المدن والحصون (جمع tiɣrmt)'."
+  },
+  {
+    "storyId": "story7",
+    "storyTitle": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+    "id": 6,
+    "vocabId": "s7_v6",
+    "targetTifinagh": "ⴰⵎⵣⵔⵓⵢ",
+    "targetLatin": "Amzruy",
+    "targetArabic": "التاريخ",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵎⵣⵔⵓⵢ] (Amzruy)؟",
+    "options": [
+      "الملك / ",
+      "التاريخ / ",
+      "المكتبة / خزانة الكتب / ",
+      "المدن والحصون (جمع tiɣrmt) / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵎⵣⵔⵓⵢ] (Amzruy) ورد في سياق الحكاية للدلالة على: التاريخ ()."
+  },
+  {
+    "storyId": "story7",
+    "storyTitle": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+    "id": 7,
+    "vocabId": "s7_v7",
+    "targetTifinagh": "ⵜⵓⵙⵙⵏⴰ",
+    "targetLatin": "Tussna",
+    "targetArabic": "المعرفة / العلوم",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵓⵙⵙⵏⴰ] (Tussna)؟",
+    "options": [
+      "الوطن / البلاد",
+      "العالم / الكون",
+      "المملكة",
+      "المعرفة / العلوم"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⵓⵙⵙⵏⴰ] (ينطق: Tussna) يعني بالعربية: 'المعرفة / العلوم'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story7",
+    "storyTitle": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+    "id": 8,
+    "vocabId": "s7_v8",
+    "targetTifinagh": "ⵜⴰⵥⵓⵕⵉ",
+    "targetLatin": "Taẓuṛi",
+    "targetArabic": "الفن والإبداع",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الفن والإبداع'؟",
+    "options": [
+      "ⵜⴰⵥⵓⵕⵉ (Taẓuṛi)",
+      "ⵜⴰⵎⵓⵔⵜ (Tamurt)",
+      "ⴰⵎⴰⴹⴰⵍ (Amaḍal)",
+      "ⴰⴷⵍⵉⵙ (Adlis)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵥⵓⵕⵉ] (Taẓuṛi) وترجمتها: 'الفن والإبداع'."
+  },
+  {
+    "storyId": "story7",
+    "storyTitle": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+    "id": 9,
+    "vocabId": "s7_v9",
+    "targetTifinagh": "ⵜⴰⵎⵓⵔⵜ",
+    "targetLatin": "Tamurt",
+    "targetArabic": "الوطن / البلاد",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵎⵓⵔⵜ] (Tamurt)؟",
+    "options": [
+      "الفن والإبداع / ",
+      "الملك / ",
+      "الوطن / البلاد / ",
+      "الكتاب / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⵓⵔⵜ] (Tamurt) ورد في سياق الحكاية للدلالة على: الوطن / البلاد ()."
+  },
+  {
+    "storyId": "story7",
+    "storyTitle": "الملك يوبا الثاني وحضارة وليلي وطنجة",
+    "id": 10,
+    "vocabId": "s7_v10",
+    "targetTifinagh": "ⴰⵎⴰⴹⴰⵍ",
+    "targetLatin": "Amaḍal",
+    "targetArabic": "العالم / الكون",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵎⴰⴹⴰⵍ] (Amaḍal)؟",
+    "options": [
+      "الفن والإبداع",
+      "المملكة",
+      "العالم / الكون",
+      "المعرفة / العلوم"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵎⴰⴹⴰⵍ] (ينطق: Amaḍal) يعني بالعربية: 'العالم / الكون'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story8",
+    "storyTitle": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+    "id": 1,
+    "vocabId": "s8_v1",
+    "targetTifinagh": "ⵉⵎⵏⵖⵉ",
+    "targetLatin": "Imnɣi",
+    "targetArabic": "المعركة / الملحمة",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵎⵏⵖⵉ] (Imnɣi)؟",
+    "options": [
+      "منطقة الريف المغربية",
+      "الحق / الصدق",
+      "المعركة / الملحمة",
+      "المقاوم / المجاهد"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵉⵎⵏⵖⵉ] (ينطق: Imnɣi) يعني بالعربية: 'المعركة / الملحمة'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story8",
+    "storyTitle": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+    "id": 2,
+    "vocabId": "s8_v2",
+    "targetTifinagh": "ⴰⵏⵣⴱⴰⵢ",
+    "targetLatin": "Anzbay",
+    "targetArabic": "المقاوم / المجاهد",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'المقاوم / المجاهد'؟",
+    "options": [
+      "ⵉⵎⵏⵖⵉ (Imnɣi)",
+      "ⴰⵎⵖⴰⵔ (Amɣar)",
+      "ⵜⴰⵣⵎⵎⴰⵔⵜ (Tazmmart)",
+      "ⴰⵏⵣⴱⴰⵢ (Anzbay)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵏⵣⴱⴰⵢ] (Anzbay) وترجمتها: 'المقاوم / المجاهد'."
+  },
+  {
+    "storyId": "story8",
+    "storyTitle": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+    "id": 3,
+    "vocabId": "s8_v3",
+    "targetTifinagh": "ⵜⵉⵍⴻⵍⵍⵉ",
+    "targetLatin": "Tilelli",
+    "targetArabic": "الحرية",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⵍⴻⵍⵍⵉ] (Tilelli)؟",
+    "options": [
+      "الحرية / ",
+      "منطقة الريف المغربية / ",
+      "الزعيم / القائد / الشيخ / ",
+      "الأمل / الرجاء / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⵍⴻⵍⵍⵉ] (Tilelli) ورد في سياق الحكاية للدلالة على: الحرية ()."
+  },
+  {
+    "storyId": "story8",
+    "storyTitle": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+    "id": 4,
+    "vocabId": "s8_v4",
+    "targetTifinagh": "ⵜⴰⵣⵎⵎⴰⵔⵜ",
+    "targetLatin": "Tazmmart",
+    "targetArabic": "القوة / العزيمة",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵣⵎⵎⴰⵔⵜ] (Tazmmart)؟",
+    "options": [
+      "المقاوم / المجاهد",
+      "منطقة الريف المغربية",
+      "الأمل / الرجاء",
+      "القوة / العزيمة"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵣⵎⵎⴰⵔⵜ] (ينطق: Tazmmart) يعني بالعربية: 'القوة / العزيمة'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story8",
+    "storyTitle": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+    "id": 5,
+    "vocabId": "s8_v5",
+    "targetTifinagh": "ⴰⵎⵖⴰⵔ",
+    "targetLatin": "Amɣar",
+    "targetArabic": "الزعيم / القائد / الشيخ",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الزعيم / القائد / الشيخ'؟",
+    "options": [
+      "ⵜⴰⵏⴼⵍⵉⵜ (Tanflit)",
+      "ⵉⵎⵏⵖⵉ (Imnɣi)",
+      "ⵜⵉⴷⵜ (Tidt)",
+      "ⴰⵎⵖⴰⵔ (Amɣar)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵎⵖⴰⵔ] (Amɣar) وترجمتها: 'الزعيم / القائد / الشيخ'."
+  },
+  {
+    "storyId": "story8",
+    "storyTitle": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+    "id": 6,
+    "vocabId": "s8_v6",
+    "targetTifinagh": "ⵜⵉⴷⵜ",
+    "targetLatin": "Tidt",
+    "targetArabic": "الحق / الصدق",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⴷⵜ] (Tidt)؟",
+    "options": [
+      "المقاوم / المجاهد / ",
+      "الزعيم / القائد / الشيخ / ",
+      "الحق / الصدق / ",
+      "الرمز / الشعار / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⴷⵜ] (Tidt) ورد في سياق الحكاية للدلالة على: الحق / الصدق ()."
+  },
+  {
+    "storyId": "story8",
+    "storyTitle": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+    "id": 7,
+    "vocabId": "s8_v7",
+    "targetTifinagh": "ⴰⵣⴰⵎⵓⵍ",
+    "targetLatin": "Azamul",
+    "targetArabic": "الرمز / الشعار",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵣⴰⵎⵓⵍ] (Azamul)؟",
+    "options": [
+      "الحق / الصدق",
+      "الرمز / الشعار",
+      "الزعيم / القائد / الشيخ",
+      "المعركة / الملحمة"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵣⴰⵎⵓⵍ] (ينطق: Azamul) يعني بالعربية: 'الرمز / الشعار'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story8",
+    "storyTitle": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+    "id": 8,
+    "vocabId": "s8_v8",
+    "targetTifinagh": "ⵜⴰⵏⴼⵍⵉⵜ",
+    "targetLatin": "Tanflit",
+    "targetArabic": "الأنفة / العزة والكرامة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الأنفة / العزة والكرامة'؟",
+    "options": [
+      "ⴰⵣⴰⵎⵓⵍ (Azamul)",
+      "ⴰⵔⵔⵉⴼ (Arrif)",
+      "ⴰⵎⵖⴰⵔ (Amɣar)",
+      "ⵜⴰⵏⴼⵍⵉⵜ (Tanflit)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵏⴼⵍⵉⵜ] (Tanflit) وترجمتها: 'الأنفة / العزة والكرامة'."
+  },
+  {
+    "storyId": "story8",
+    "storyTitle": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+    "id": 9,
+    "vocabId": "s8_v9",
+    "targetTifinagh": "ⴰⵔⵔⵉⴼ",
+    "targetLatin": "Arrif",
+    "targetArabic": "منطقة الريف المغربية",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵔⵔⵉⴼ] (Arrif)؟",
+    "options": [
+      "الأمل / الرجاء / ",
+      "الأنفة / العزة والكرامة / ",
+      "الحق / الصدق / ",
+      "منطقة الريف المغربية / "
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⴰⵔⵔⵉⴼ] (Arrif) ورد في سياق الحكاية للدلالة على: منطقة الريف المغربية ()."
+  },
+  {
+    "storyId": "story8",
+    "storyTitle": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+    "id": 10,
+    "vocabId": "s8_v10",
+    "targetTifinagh": "ⴰⵏⴰⵔⵓⵣ",
+    "targetLatin": "Anaruz",
+    "targetArabic": "الأمل / الرجاء",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵏⴰⵔⵓⵣ] (Anaruz)؟",
+    "options": [
+      "الأمل / الرجاء",
+      "الحق / الصدق",
+      "منطقة الريف المغربية",
+      "الرمز / الشعار"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵏⴰⵔⵓⵣ] (ينطق: Anaruz) يعني بالعربية: 'الأمل / الرجاء'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story9",
+    "storyTitle": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+    "id": 1,
+    "vocabId": "s9_v1",
+    "targetTifinagh": "ⴰⵎⵏⴰⵢ",
+    "targetLatin": "Amnay",
+    "targetArabic": "الفارس الممتطي للفرس",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵎⵏⴰⵢ] (Amnay)؟",
+    "options": [
+      "الحصان / الجواد",
+      "الحراسة واليقظة",
+      "الفارس الممتطي للفرس",
+      "الجبال (جمع Adrar)"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵎⵏⴰⵢ] (ينطق: Amnay) يعني بالعربية: 'الفارس الممتطي للفرس'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story9",
+    "storyTitle": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+    "id": 2,
+    "vocabId": "s9_v2",
+    "targetTifinagh": "ⴰⵢⵉⵙ",
+    "targetLatin": "Ayis",
+    "targetArabic": "الحصان / الجواد",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الحصان / الجواد'؟",
+    "options": [
+      "ⵜⴰⴳⵎⴰⵔⵜ (Tagmart)",
+      "ⴰⵣⴰⵢⴰⵏ (Azayan)",
+      "ⴰⵢⵉⵙ (Ayis)",
+      "ⵜⴰⴷⵓⵙⵉ (Tadusi)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵢⵉⵙ] (Ayis) وترجمتها: 'الحصان / الجواد'."
+  },
+  {
+    "storyId": "story9",
+    "storyTitle": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+    "id": 3,
+    "vocabId": "s9_v3",
+    "targetTifinagh": "ⵜⴰⴳⵎⴰⵔⵜ",
+    "targetLatin": "Tagmart",
+    "targetArabic": "الفرس (أنثى الحصان)",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴳⵎⴰⵔⵜ] (Tagmart)؟",
+    "options": [
+      "الشجاعة والفروسية / ",
+      "الجبال (جمع Adrar) / ",
+      "الفرس (أنثى الحصان) / ",
+      "الفارس الممتطي للفرس / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴳⵎⴰⵔⵜ] (Tagmart) ورد في سياق الحكاية للدلالة على: الفرس (أنثى الحصان) ()."
+  },
+  {
+    "storyId": "story9",
+    "storyTitle": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+    "id": 4,
+    "vocabId": "s9_v4",
+    "targetTifinagh": "ⵜⴰⵣⵉⵡⴰⵍⵜ",
+    "targetLatin": "Taziwalt",
+    "targetArabic": "الشجاعة والفروسية",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵣⵉⵡⴰⵍⵜ] (Taziwalt)؟",
+    "options": [
+      "الفرس (أنثى الحصان)",
+      "الحراسة واليقظة",
+      "الجبال (جمع Adrar)",
+      "الشجاعة والفروسية"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵣⵉⵡⴰⵍⵜ] (ينطق: Taziwalt) يعني بالعربية: 'الشجاعة والفروسية'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story9",
+    "storyTitle": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+    "id": 5,
+    "vocabId": "s9_v5",
+    "targetTifinagh": "ⴰⵙⵍⴰⵙ",
+    "targetLatin": "Aslas",
+    "targetArabic": "العمود / الركيزة والسند",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'العمود / الركيزة والسند'؟",
+    "options": [
+      "ⴰⵙⵍⴰⵙ (Aslas)",
+      "ⵜⴰⵣⵉⵡⴰⵍⵜ (Taziwalt)",
+      "ⵜⴰⴷⵓⵙⵉ (Tadusi)",
+      "ⴰⵢⵉⵙ (Ayis)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵙⵍⴰⵙ] (Aslas) وترجمتها: 'العمود / الركيزة والسند'."
+  },
+  {
+    "storyId": "story9",
+    "storyTitle": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+    "id": 6,
+    "vocabId": "s9_v6",
+    "targetTifinagh": "ⴰⵣⴰⵢⴰⵏ",
+    "targetLatin": "Azayan",
+    "targetArabic": "الزياني (نسبة لقبائل زيان)",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵣⴰⵢⴰⵏ] (Azayan)؟",
+    "options": [
+      "العمود / الركيزة والسند / ",
+      "الزياني (نسبة لقبائل زيان) / ",
+      "القوة والصلابة / ",
+      "الجبال (جمع Adrar) / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵣⴰⵢⴰⵏ] (Azayan) ورد في سياق الحكاية للدلالة على: الزياني (نسبة لقبائل زيان) ()."
+  },
+  {
+    "storyId": "story9",
+    "storyTitle": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+    "id": 7,
+    "vocabId": "s9_v7",
+    "targetTifinagh": "ⵜⴰⴷⵓⵙⵉ",
+    "targetLatin": "Tadusi",
+    "targetArabic": "القوة والصلابة",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴷⵓⵙⵉ] (Tadusi)؟",
+    "options": [
+      "الزياني (نسبة لقبائل زيان)",
+      "الاسم والسمعة الطيبة",
+      "الجبال (جمع Adrar)",
+      "القوة والصلابة"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴷⵓⵙⵉ] (ينطق: Tadusi) يعني بالعربية: 'القوة والصلابة'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story9",
+    "storyTitle": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+    "id": 8,
+    "vocabId": "s9_v8",
+    "targetTifinagh": "ⴰⴼⵔⴰⵙ",
+    "targetLatin": "Afras",
+    "targetArabic": "الحراسة واليقظة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الحراسة واليقظة'؟",
+    "options": [
+      "ⵉⴷⵓⵔⴰⵔ (Idurar)",
+      "ⴰⴼⵔⴰⵙ (Afras)",
+      "ⵜⴰⵣⵉⵡⴰⵍⵜ (Taziwalt)",
+      "ⴰⵢⵉⵙ (Ayis)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⴼⵔⴰⵙ] (Afras) وترجمتها: 'الحراسة واليقظة'."
+  },
+  {
+    "storyId": "story9",
+    "storyTitle": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+    "id": 9,
+    "vocabId": "s9_v9",
+    "targetTifinagh": "ⵉⵙⵎ",
+    "targetLatin": "Ism",
+    "targetArabic": "الاسم والسمعة الطيبة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵉⵙⵎ] (Ism)؟",
+    "options": [
+      "الفرس (أنثى الحصان) / ",
+      "الاسم والسمعة الطيبة / ",
+      "الفارس الممتطي للفرس / ",
+      "العمود / الركيزة والسند / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵉⵙⵎ] (Ism) ورد في سياق الحكاية للدلالة على: الاسم والسمعة الطيبة ()."
+  },
+  {
+    "storyId": "story9",
+    "storyTitle": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+    "id": 10,
+    "vocabId": "s9_v10",
+    "targetTifinagh": "ⵉⴷⵓⵔⴰⵔ",
+    "targetLatin": "Idurar",
+    "targetArabic": "الجبال (جمع Adrar)",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⴷⵓⵔⴰⵔ] (Idurar)؟",
+    "options": [
+      "الاسم والسمعة الطيبة",
+      "الحصان / الجواد",
+      "الفرس (أنثى الحصان)",
+      "الجبال (جمع Adrar)"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵉⴷⵓⵔⴰⵔ] (ينطق: Idurar) يعني بالعربية: 'الجبال (جمع Adrar)'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story10",
+    "storyTitle": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+    "id": 1,
+    "vocabId": "s10_v1",
+    "targetTifinagh": "ⴰⵙⵉⵔⵉ",
+    "targetLatin": "Asiri",
+    "targetArabic": "الحصار والتطويق",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵙⵉⵔⵉ] (Asiri)؟",
+    "options": [
+      "التضحية والفداء",
+      "الحصار والتطويق",
+      "الصخر الأصم",
+      "الصداقة والتضامن المتين"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵙⵉⵔⵉ] (ينطق: Asiri) يعني بالعربية: 'الحصار والتطويق'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story10",
+    "storyTitle": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+    "id": 2,
+    "vocabId": "s10_v2",
+    "targetTifinagh": "ⴰⵖⵔⵓⵎ",
+    "targetLatin": "Aɣrum",
+    "targetArabic": "الخبز / القوت",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الخبز / القوت'؟",
+    "options": [
+      "ⵜⴰⵖⵔⵙⵉ (Taɣrsi)",
+      "ⵜⴰⴷⵓⴽⴽⵍⵉ (Tadukkli)",
+      "ⴰⵖⵔⵓⵎ (Aɣrum)",
+      "ⴰⵣⴰⵔ (Azar)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵖⵔⵓⵎ] (Aɣrum) وترجمتها: 'الخبز / القوت'."
+  },
+  {
+    "storyId": "story10",
+    "storyTitle": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+    "id": 3,
+    "vocabId": "s10_v3",
+    "targetTifinagh": "ⵜⴰⵖⵔⵙⵉ",
+    "targetLatin": "Taɣrsi",
+    "targetArabic": "التضحية والفداء",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵖⵔⵙⵉ] (Taɣrsi)؟",
+    "options": [
+      "التضحية والفداء / ",
+      "الصخر الأصم / ",
+      "الأصل والرسوخ التليد / ",
+      "الوفاء والعهد الصادق / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵖⵔⵙⵉ] (Taɣrsi) ورد في سياق الحكاية للدلالة على: التضحية والفداء ()."
+  },
+  {
+    "storyId": "story10",
+    "storyTitle": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+    "id": 4,
+    "vocabId": "s10_v4",
+    "targetTifinagh": "ⴰⵙⵎⵓⵔ",
+    "targetLatin": "Asmur",
+    "targetArabic": "الوفاء والعهد الصادق",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵙⵎⵓⵔ] (Asmur)؟",
+    "options": [
+      "الوفاء والعهد الصادق",
+      "الصداقة والتضامن المتين",
+      "الصمود والوقوف الثابت",
+      "الرجال / الأبطال (جمع Argaz)"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵙⵎⵓⵔ] (ينطق: Asmur) يعني بالعربية: 'الوفاء والعهد الصادق'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story10",
+    "storyTitle": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+    "id": 5,
+    "vocabId": "s10_v5",
+    "targetTifinagh": "ⵉⵔⴳⴰⵢⵏ",
+    "targetLatin": "Irgayen",
+    "targetArabic": "الرجال / الأبطال (جمع Argaz)",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الرجال / الأبطال (جمع Argaz)'؟",
+    "options": [
+      "ⴰⵙⵉⵔⵉ (Asiri)",
+      "ⴰⵔⴳⴰⵣ (Argaz)",
+      "ⵉⵔⴳⴰⵢⵏ (Irgayen)",
+      "ⵜⴰⴷⵓⴽⴽⵍⵉ (Tadukkli)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵉⵔⴳⴰⵢⵏ] (Irgayen) وترجمتها: 'الرجال / الأبطال (جمع Argaz)'."
+  },
+  {
+    "storyId": "story10",
+    "storyTitle": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+    "id": 6,
+    "vocabId": "s10_v6",
+    "targetTifinagh": "ⴰⵔⴳⴰⵣ",
+    "targetLatin": "Argaz",
+    "targetArabic": "الرجل",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵔⴳⴰⵣ] (Argaz)؟",
+    "options": [
+      "التضحية والفداء / ",
+      "الوفاء والعهد الصادق / ",
+      "الرجل / ",
+      "الصخر الأصم / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵔⴳⴰⵣ] (Argaz) ورد في سياق الحكاية للدلالة على: الرجل ()."
+  },
+  {
+    "storyId": "story10",
+    "storyTitle": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+    "id": 7,
+    "vocabId": "s10_v7",
+    "targetTifinagh": "ⵜⴰⴷⵓⴽⴽⵍⵉ",
+    "targetLatin": "Tadukkli",
+    "targetArabic": "الصداقة والتضامن المتين",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴷⵓⴽⴽⵍⵉ] (Tadukkli)؟",
+    "options": [
+      "الرجال / الأبطال (جمع Argaz)",
+      "الأصل والرسوخ التليد",
+      "التضحية والفداء",
+      "الصداقة والتضامن المتين"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴷⵓⴽⴽⵍⵉ] (ينطق: Tadukkli) يعني بالعربية: 'الصداقة والتضامن المتين'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story10",
+    "storyTitle": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+    "id": 8,
+    "vocabId": "s10_v8",
+    "targetTifinagh": "ⴰⵥⵕⵓ",
+    "targetLatin": "Aẓru",
+    "targetArabic": "الصخر الأصم",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الصخر الأصم'؟",
+    "options": [
+      "ⴰⵖⵔⵓⵎ (Aɣrum)",
+      "ⴰⵥⵕⵓ (Aẓru)",
+      "ⴰⵏⴱⴷⴰⴷ (Anbdad)",
+      "ⴰⵙⵎⵓⵔ (Asmur)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵥⵕⵓ] (Aẓru) وترجمتها: 'الصخر الأصم'."
+  },
+  {
+    "storyId": "story10",
+    "storyTitle": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+    "id": 9,
+    "vocabId": "s10_v9",
+    "targetTifinagh": "ⴰⵏⴱⴷⴰⴷ",
+    "targetLatin": "Anbdad",
+    "targetArabic": "الصمود والوقوف الثابت",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵏⴱⴷⴰⴷ] (Anbdad)؟",
+    "options": [
+      "الحصار والتطويق / ",
+      "الخبز / القوت / ",
+      "الصمود والوقوف الثابت / ",
+      "الأصل والرسوخ التليد / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵏⴱⴷⴰⴷ] (Anbdad) ورد في سياق الحكاية للدلالة على: الصمود والوقوف الثابت ()."
+  },
+  {
+    "storyId": "story10",
+    "storyTitle": "عسو أوبسلام وصمود قمة بوغافر في صغرو",
+    "id": 10,
+    "vocabId": "s10_v10",
+    "targetTifinagh": "ⴰⵣⴰⵔ",
+    "targetLatin": "Azar",
+    "targetArabic": "الأصل والرسوخ التليد",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵣⴰⵔ] (Azar)؟",
+    "options": [
+      "الصمود والوقوف الثابت",
+      "الأصل والرسوخ التليد",
+      "التضحية والفداء",
+      "الوفاء والعهد الصادق"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵣⴰⵔ] (ينطق: Azar) يعني بالعربية: 'الأصل والرسوخ التليد'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story11",
+    "storyTitle": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+    "id": 1,
+    "vocabId": "s11_v1",
+    "targetTifinagh": "ⵜⴰⴳⵍⵍⵉⴷⵜ",
+    "targetLatin": "Tagllidt",
+    "targetArabic": "الملكة / القائدة",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴳⵍⵍⵉⴷⵜ] (Tagllidt)؟",
+    "options": [
+      "الجندي / الحامي",
+      "أبجدية وخط تيفيناغ العريق",
+      "بلاد الأمازيغ (شمال إفريقيا)",
+      "الملكة / القائدة"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴳⵍⵍⵉⴷⵜ] (ينطق: Tagllidt) يعني بالعربية: 'الملكة / القائدة'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story11",
+    "storyTitle": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+    "id": 2,
+    "vocabId": "s11_v2",
+    "targetTifinagh": "ⵜⴰⵏⵣⴱⴰⵢⵜ",
+    "targetLatin": "Tanzbayt",
+    "targetArabic": "المقاومة / المناضلة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'المقاومة / المناضلة'؟",
+    "options": [
+      "ⵜⴰⵏⵣⴱⴰⵢⵜ (Tanzbayt)",
+      "ⴰⵙⵔⴷⴰⵙ (Asrdas)",
+      "ⵜⴰⵙⵔⴷⴰⵙⵜ (Tasrdast)",
+      "ⵜⴰⵎⴰⵣⵖⴰ (Tamazɣa)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵏⵣⴱⴰⵢⵜ] (Tanzbayt) وترجمتها: 'المقاومة / المناضلة'."
+  },
+  {
+    "storyId": "story11",
+    "storyTitle": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+    "id": 3,
+    "vocabId": "s11_v3",
+    "targetTifinagh": "ⵜⵉⴼⴰⵡⵜ",
+    "targetLatin": "Tifawt",
+    "targetArabic": "النور / الضياء",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⴼⴰⵡⵜ] (Tifawt)؟",
+    "options": [
+      "النور / الضياء / ",
+      "الولاء والحب الصادق / ",
+      "الملكة / القائدة / ",
+      "الجيش / الحامية العسكرية / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⴼⴰⵡⵜ] (Tifawt) ورد في سياق الحكاية للدلالة على: النور / الضياء ()."
+  },
+  {
+    "storyId": "story11",
+    "storyTitle": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+    "id": 4,
+    "vocabId": "s11_v4",
+    "targetTifinagh": "ⵜⵉⵏⵥⴰⵕ",
+    "targetLatin": "Tinẓaṛ",
+    "targetArabic": "الأنفة والشموخ",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⵏⵥⴰⵕ] (Tinẓaṛ)؟",
+    "options": [
+      "النور / الضياء",
+      "الدرع والترس الواقي",
+      "الأنفة والشموخ",
+      "أبجدية وخط تيفيناغ العريق"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⵏⵥⴰⵕ] (ينطق: Tinẓaṛ) يعني بالعربية: 'الأنفة والشموخ'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story11",
+    "storyTitle": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+    "id": 5,
+    "vocabId": "s11_v5",
+    "targetTifinagh": "ⵜⴰⵙⵔⴷⴰⵙⵜ",
+    "targetLatin": "Tasrdast",
+    "targetArabic": "الجيش / الحامية العسكرية",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الجيش / الحامية العسكرية'؟",
+    "options": [
+      "ⵜⵉⵏⵥⴰⵕ (Tinẓaṛ)",
+      "ⴰⴳⵍⵉⵎ (Aglim)",
+      "ⵜⴰⵙⵔⴷⴰⵙⵜ (Tasrdast)",
+      "ⵜⵉⴼⴰⵡⵜ (Tifawt)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵙⵔⴷⴰⵙⵜ] (Tasrdast) وترجمتها: 'الجيش / الحامية العسكرية'."
+  },
+  {
+    "storyId": "story11",
+    "storyTitle": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+    "id": 6,
+    "vocabId": "s11_v6",
+    "targetTifinagh": "ⴰⵙⵔⴷⴰⵙ",
+    "targetLatin": "Asrdas",
+    "targetArabic": "الجندي / الحامي",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵙⵔⴷⴰⵙ] (Asrdas)؟",
+    "options": [
+      "الجندي / الحامي / ",
+      "الولاء والحب الصادق / ",
+      "الدرع والترس الواقي / ",
+      "الجيش / الحامية العسكرية / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵙⵔⴷⴰⵙ] (Asrdas) ورد في سياق الحكاية للدلالة على: الجندي / الحامي ()."
+  },
+  {
+    "storyId": "story11",
+    "storyTitle": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+    "id": 7,
+    "vocabId": "s11_v7",
+    "targetTifinagh": "ⵜⴰⵢⵔⵉ",
+    "targetLatin": "Tayri",
+    "targetArabic": "الولاء والحب الصادق",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵢⵔⵉ] (Tayri)؟",
+    "options": [
+      "النور / الضياء",
+      "الدرع والترس الواقي",
+      "الجندي / الحامي",
+      "الولاء والحب الصادق"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵢⵔⵉ] (ينطق: Tayri) يعني بالعربية: 'الولاء والحب الصادق'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story11",
+    "storyTitle": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+    "id": 8,
+    "vocabId": "s11_v8",
+    "targetTifinagh": "ⴰⴳⵍⵉⵎ",
+    "targetLatin": "Aglim",
+    "targetArabic": "الدرع والترس الواقي",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الدرع والترس الواقي'؟",
+    "options": [
+      "ⵜⵉⵏⵥⴰⵕ (Tinẓaṛ)",
+      "ⴰⴳⵍⵉⵎ (Aglim)",
+      "ⵜⴰⵏⵣⴱⴰⵢⵜ (Tanzbayt)",
+      "ⴰⵙⵔⴷⴰⵙ (Asrdas)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⴳⵍⵉⵎ] (Aglim) وترجمتها: 'الدرع والترس الواقي'."
+  },
+  {
+    "storyId": "story11",
+    "storyTitle": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+    "id": 9,
+    "vocabId": "s11_v9",
+    "targetTifinagh": "ⵜⴰⵎⴰⵣⵖⴰ",
+    "targetLatin": "Tamazɣa",
+    "targetArabic": "بلاد الأمازيغ (شمال إفريقيا)",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵎⴰⵣⵖⴰ] (Tamazɣa)؟",
+    "options": [
+      "بلاد الأمازيغ (شمال إفريقيا) / ",
+      "الجندي / الحامي / ",
+      "أبجدية وخط تيفيناغ العريق / ",
+      "النور / الضياء / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⴰⵣⵖⴰ] (Tamazɣa) ورد في سياق الحكاية للدلالة على: بلاد الأمازيغ (شمال إفريقيا) ()."
+  },
+  {
+    "storyId": "story11",
+    "storyTitle": "الملكة ديهيا حارسة تمازغا وحرية الأرض",
+    "id": 10,
+    "vocabId": "s11_v10",
+    "targetTifinagh": "ⵜⵉⴼⵉⵏⴰⵖ",
+    "targetLatin": "Tifinaɣ",
+    "targetArabic": "أبجدية وخط تيفيناغ العريق",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⴼⵉⵏⴰⵖ] (Tifinaɣ)؟",
+    "options": [
+      "الأنفة والشموخ",
+      "الملكة / القائدة",
+      "بلاد الأمازيغ (شمال إفريقيا)",
+      "أبجدية وخط تيفيناغ العريق"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⴼⵉⵏⴰⵖ] (ينطق: Tifinaɣ) يعني بالعربية: 'أبجدية وخط تيفيناغ العريق'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story12",
+    "storyTitle": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+    "id": 1,
+    "vocabId": "s12_v1",
+    "targetTifinagh": "ⴰⴷⴼⵍ",
+    "targetLatin": "Adfl",
+    "targetArabic": "الثلج",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴷⴼⵍ] (Adfl)؟",
+    "options": [
+      "الحصن / المخزن الجماعي العتيق",
+      "فصل الشتاء",
+      "الثلج",
+      "فصل الربيع المزهر"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⴷⴼⵍ] (ينطق: Adfl) يعني بالعربية: 'الثلج'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story12",
+    "storyTitle": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+    "id": 2,
+    "vocabId": "s12_v2",
+    "targetTifinagh": "ⵜⴰⵇⵛⵛⵓⵛⵜ",
+    "targetLatin": "Taqccuct",
+    "targetArabic": "قمة الجبل الشاهقة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'قمة الجبل الشاهقة'؟",
+    "options": [
+      "ⵜⴰⴼⵙⵓⵜ (Tafsut)",
+      "ⴰⴷⴼⵍ (Adfl)",
+      "ⵉⵣⴷⴷⵉⴳ (Izddig)",
+      "ⵜⴰⵇⵛⵛⵓⵛⵜ (Taqccuct)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵇⵛⵛⵓⵛⵜ] (Taqccuct) وترجمتها: 'قمة الجبل الشاهقة'."
+  },
+  {
+    "storyId": "story12",
+    "storyTitle": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+    "id": 3,
+    "vocabId": "s12_v3",
+    "targetTifinagh": "ⵜⴰⴳⵔⵙⵜ",
+    "targetLatin": "Tagrst",
+    "targetArabic": "فصل الشتاء",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴳⵔⵙⵜ] (Tagrst)؟",
+    "options": [
+      "فصل الشتاء / ",
+      "السلهام المغربي التقليدي / ",
+      "الريح / النسيم / ",
+      "نقي / صافٍ وطاهر / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴳⵔⵙⵜ] (Tagrst) ورد في سياق الحكاية للدلالة على: فصل الشتاء ()."
+  },
+  {
+    "storyId": "story12",
+    "storyTitle": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+    "id": 4,
+    "vocabId": "s12_v4",
+    "targetTifinagh": "ⵜⴰⴼⵙⵓⵜ",
+    "targetLatin": "Tafsut",
+    "targetArabic": "فصل الربيع المزهر",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴼⵙⵓⵜ] (Tafsut)؟",
+    "options": [
+      "فصل الربيع المزهر",
+      "السلهام المغربي التقليدي",
+      "الحصن / المخزن الجماعي العتيق",
+      "الثلج"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴼⵙⵓⵜ] (ينطق: Tafsut) يعني بالعربية: 'فصل الربيع المزهر'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story12",
+    "storyTitle": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+    "id": 5,
+    "vocabId": "s12_v5",
+    "targetTifinagh": "ⴰⵙⵍⵀⴰⵎ",
+    "targetLatin": "Aslham",
+    "targetArabic": "السلهام المغربي التقليدي",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'السلهام المغربي التقليدي'؟",
+    "options": [
+      "ⴰⵙⵍⵀⴰⵎ (Aslham)",
+      "ⴰⴳⴰⴷⵉⵔ (Agadir)",
+      "ⴰⴹⵓ (Aḍu)",
+      "ⴰⴷⴼⵍ (Adfl)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵙⵍⵀⴰⵎ] (Aslham) وترجمتها: 'السلهام المغربي التقليدي'."
+  },
+  {
+    "storyId": "story12",
+    "storyTitle": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+    "id": 6,
+    "vocabId": "s12_v6",
+    "targetTifinagh": "ⴰⴹⵓ",
+    "targetLatin": "Aḍu",
+    "targetArabic": "الريح / النسيم",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴹⵓ] (Aḍu)؟",
+    "options": [
+      "الريح / النسيم / ",
+      "السلهام المغربي التقليدي / ",
+      "الممر الجبلي / الفج (مثل تيزي نتيشكا) / ",
+      "الثلج / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⴹⵓ] (Aḍu) ورد في سياق الحكاية للدلالة على: الريح / النسيم ()."
+  },
+  {
+    "storyId": "story12",
+    "storyTitle": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+    "id": 7,
+    "vocabId": "s12_v7",
+    "targetTifinagh": "ⵉⵜⵔⴰⵏ",
+    "targetLatin": "Itran",
+    "targetArabic": "النجوم (جمع Itri)",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵜⵔⴰⵏ] (Itran)؟",
+    "options": [
+      "النجوم (جمع Itri)",
+      "السلهام المغربي التقليدي",
+      "قمة الجبل الشاهقة",
+      "الممر الجبلي / الفج (مثل تيزي نتيشكا)"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵉⵜⵔⴰⵏ] (ينطق: Itran) يعني بالعربية: 'النجوم (جمع Itri)'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story12",
+    "storyTitle": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+    "id": 8,
+    "vocabId": "s12_v8",
+    "targetTifinagh": "ⵜⵉⵣⵉ",
+    "targetLatin": "Tizi",
+    "targetArabic": "الممر الجبلي / الفج (مثل تيزي نتيشكا)",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الممر الجبلي / الفج (مثل تيزي نتيشكا)'؟",
+    "options": [
+      "ⵉⵣⴷⴷⵉⴳ (Izddig)",
+      "ⵜⵉⵣⵉ (Tizi)",
+      "ⴰⴷⴼⵍ (Adfl)",
+      "ⵉⵜⵔⴰⵏ (Itran)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵣⵉ] (Tizi) وترجمتها: 'الممر الجبلي / الفج (مثل تيزي نتيشكا)'."
+  },
+  {
+    "storyId": "story12",
+    "storyTitle": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+    "id": 9,
+    "vocabId": "s12_v9",
+    "targetTifinagh": "ⴰⴳⴰⴷⵉⵔ",
+    "targetLatin": "Agadir",
+    "targetArabic": "الحصن / المخزن الجماعي العتيق",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴳⴰⴷⵉⵔ] (Agadir)؟",
+    "options": [
+      "الحصن / المخزن الجماعي العتيق / ",
+      "الثلج / ",
+      "النجوم (جمع Itri) / ",
+      "فصل الشتاء / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⴳⴰⴷⵉⵔ] (Agadir) ورد في سياق الحكاية للدلالة على: الحصن / المخزن الجماعي العتيق ()."
+  },
+  {
+    "storyId": "story12",
+    "storyTitle": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+    "id": 10,
+    "vocabId": "s12_v10",
+    "targetTifinagh": "ⵉⵣⴷⴷⵉⴳ",
+    "targetLatin": "Izddig",
+    "targetArabic": "نقي / صافٍ وطاهر",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵣⴷⴷⵉⴳ] (Izddig)؟",
+    "options": [
+      "فصل الربيع المزهر",
+      "نقي / صافٍ وطاهر",
+      "الممر الجبلي / الفج (مثل تيزي نتيشكا)",
+      "الثلج"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵉⵣⴷⴷⵉⴳ] (ينطق: Izddig) يعني بالعربية: 'نقي / صافٍ وطاهر'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story13",
+    "storyTitle": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+    "id": 1,
+    "vocabId": "s13_v1",
+    "targetTifinagh": "ⵜⴰⵣⵔⴱⵉⵜ",
+    "targetLatin": "Tazrbit",
+    "targetArabic": "الزربية / السجاد التقليدي",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵣⵔⴱⵉⵜ] (Tazrbit)؟",
+    "options": [
+      "الصوف الطبيعي",
+      "حرف الياز (رمز الإنسان الحر)",
+      "الزربية / السجاد التقليدي",
+      "الصباغة الطبيعية / العلاج"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵣⵔⴱⵉⵜ] (ينطق: Tazrbit) يعني بالعربية: 'الزربية / السجاد التقليدي'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story13",
+    "storyTitle": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+    "id": 2,
+    "vocabId": "s13_v2",
+    "targetTifinagh": "ⵜⴰⴹⵓⵟ",
+    "targetLatin": "Taḍuṭ",
+    "targetArabic": "الصوف الطبيعي",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الصوف الطبيعي'؟",
+    "options": [
+      "ⵜⵉⴼⵉⵏⴰⵖ (Tifinaɣ)",
+      "ⵜⴰⴹⵓⵟ (Taḍuṭ)",
+      "ⵉⵥⵍⵉ (Iẓli)",
+      "ⴰⵣⴳⴳⵯⴰⵖ (Azggʷaɣ)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴹⵓⵟ] (Taḍuṭ) وترجمتها: 'الصوف الطبيعي'."
+  },
+  {
+    "storyId": "story13",
+    "storyTitle": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+    "id": 3,
+    "vocabId": "s13_v3",
+    "targetTifinagh": "ⴰⵙⵜⵜⴰ",
+    "targetLatin": "Astta",
+    "targetArabic": "المنسج / النول اليدوي",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵙⵜⵜⴰ] (Astta)؟",
+    "options": [
+      "الصوف الطبيعي / ",
+      "المنسج / النول اليدوي / ",
+      "حرف الياز (رمز الإنسان الحر) / ",
+      "الخيط / اللون / البيت الشعري / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵙⵜⵜⴰ] (Astta) ورد في سياق الحكاية للدلالة على: المنسج / النول اليدوي ()."
+  },
+  {
+    "storyId": "story13",
+    "storyTitle": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+    "id": 4,
+    "vocabId": "s13_v4",
+    "targetTifinagh": "ⵉⵥⵍⵉ",
+    "targetLatin": "Iẓli",
+    "targetArabic": "الخيط / اللون / البيت الشعري",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵥⵍⵉ] (Iẓli)؟",
+    "options": [
+      "الخيط / اللون / البيت الشعري",
+      "اللون الأحمر",
+      "الصوف الطبيعي",
+      "الصباغة الطبيعية / العلاج"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵉⵥⵍⵉ] (ينطق: Iẓli) يعني بالعربية: 'الخيط / اللون / البيت الشعري'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story13",
+    "storyTitle": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+    "id": 5,
+    "vocabId": "s13_v5",
+    "targetTifinagh": "ⴰⵣⴳⴳⵯⴰⵖ",
+    "targetLatin": "Azggʷaɣ",
+    "targetArabic": "اللون الأحمر",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'اللون الأحمر'؟",
+    "options": [
+      "ⴰⵣⴳⴳⵯⴰⵖ (Azggʷaɣ)",
+      "ⵢⴰⵣ (Yaz (ⵣ))",
+      "ⵜⵉⴼⵉⵏⴰⵖ (Tifinaɣ)",
+      "ⴰⵙⵜⵜⴰ (Astta)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵣⴳⴳⵯⴰⵖ] (Azggʷaɣ) وترجمتها: 'اللون الأحمر'."
+  },
+  {
+    "storyId": "story13",
+    "storyTitle": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+    "id": 6,
+    "vocabId": "s13_v6",
+    "targetTifinagh": "ⴰⵣⴳⵣⴰ",
+    "targetLatin": "Azgza",
+    "targetArabic": "اللون الأخضر / الأزرق",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵣⴳⵣⴰ] (Azgza)؟",
+    "options": [
+      "المنسج / النول اليدوي / ",
+      "اللون الأخضر / الأزرق / ",
+      "حرف الياز (رمز الإنسان الحر) / ",
+      "الخيط / اللون / البيت الشعري / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵣⴳⵣⴰ] (Azgza) ورد في سياق الحكاية للدلالة على: اللون الأخضر / الأزرق ()."
+  },
+  {
+    "storyId": "story13",
+    "storyTitle": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+    "id": 7,
+    "vocabId": "s13_v7",
+    "targetTifinagh": "ⵢⴰⵣ",
+    "targetLatin": "Yaz (ⵣ)",
+    "targetArabic": "حرف الياز (رمز الإنسان الحر)",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵢⴰⵣ] (Yaz (ⵣ))؟",
+    "options": [
+      "المنسج / النول اليدوي",
+      "الخيط / اللون / البيت الشعري",
+      "الحرفية والإتقان",
+      "حرف الياز (رمز الإنسان الحر)"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵢⴰⵣ] (ينطق: Yaz (ⵣ)) يعني بالعربية: 'حرف الياز (رمز الإنسان الحر)'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story13",
+    "storyTitle": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+    "id": 8,
+    "vocabId": "s13_v8",
+    "targetTifinagh": "ⵜⴰⵎⵙⵙⵓⵔⵜ",
+    "targetLatin": "Tamssurt",
+    "targetArabic": "الحرفية والإتقان",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الحرفية والإتقان'؟",
+    "options": [
+      "ⴰⵣⴳⴳⵯⴰⵖ (Azggʷaɣ)",
+      "ⵜⴰⵎⵙⵙⵓⵔⵜ (Tamssurt)",
+      "ⴰⵣⴳⵣⴰ (Azgza)",
+      "ⵜⴰⴹⵓⵟ (Taḍuṭ)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵎⵙⵙⵓⵔⵜ] (Tamssurt) وترجمتها: 'الحرفية والإتقان'."
+  },
+  {
+    "storyId": "story13",
+    "storyTitle": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+    "id": 9,
+    "vocabId": "s13_v9",
+    "targetTifinagh": "ⵜⵉⴼⵉⵏⴰⵖ",
+    "targetLatin": "Tifinaɣ",
+    "targetArabic": "رموز وخط تيفيناغ",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⴼⵉⵏⴰⵖ] (Tifinaɣ)؟",
+    "options": [
+      "رموز وخط تيفيناغ / ",
+      "اللون الأخضر / الأزرق / ",
+      "المنسج / النول اليدوي / ",
+      "الزربية / السجاد التقليدي / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⴼⵉⵏⴰⵖ] (Tifinaɣ) ورد في سياق الحكاية للدلالة على: رموز وخط تيفيناغ ()."
+  },
+  {
+    "storyId": "story13",
+    "storyTitle": "أسرار الزربية الأمازيغية ورموز التيفيناغ في تازناخت",
+    "id": 10,
+    "vocabId": "s13_v10",
+    "targetTifinagh": "ⴰⵙⴼⴰⵔ",
+    "targetLatin": "Asfar",
+    "targetArabic": "الصباغة الطبيعية / العلاج",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵙⴼⴰⵔ] (Asfar)؟",
+    "options": [
+      "الصباغة الطبيعية / العلاج",
+      "حرف الياز (رمز الإنسان الحر)",
+      "الزربية / السجاد التقليدي",
+      "رموز وخط تيفيناغ"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵙⴼⴰⵔ] (ينطق: Asfar) يعني بالعربية: 'الصباغة الطبيعية / العلاج'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story14",
+    "storyTitle": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+    "id": 1,
+    "vocabId": "s14_v1",
+    "targetTifinagh": "ⵢⵏⵏⴰⵢⵔ",
+    "targetLatin": "Ynnayer",
+    "targetArabic": "يناير (أول شهور السنة الأمازيغية)",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵢⵏⵏⴰⵢⵔ] (Ynnayer)؟",
+    "options": [
+      "يناير (أول شهور السنة الأمازيغية)",
+      "الحكاية / القصة الشعبية",
+      "حساء إيركمن (الحبوب السبعة)",
+      "الجدة (أو إنّا)"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵢⵏⵏⴰⵢⵔ] (ينطق: Ynnayer) يعني بالعربية: 'يناير (أول شهور السنة الأمازيغية)'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story14",
+    "storyTitle": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+    "id": 2,
+    "vocabId": "s14_v2",
+    "targetTifinagh": "ⵜⴰⴽⵍⵍⴰ",
+    "targetLatin": "Taklla",
+    "targetArabic": "عصيدة التاكلا الاحتفالية",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'عصيدة التاكلا الاحتفالية'؟",
+    "options": [
+      "ⵜⴰⴽⵍⵍⴰ (Taklla)",
+      "ⵊⴷⴷⴰ (Jdda)",
+      "ⵜⴰⵡⵊⴰ (Tawja)",
+      "ⴰⵙⵓⴼ (Asuf)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴽⵍⵍⴰ] (Taklla) وترجمتها: 'عصيدة التاكلا الاحتفالية'."
+  },
+  {
+    "storyId": "story14",
+    "storyTitle": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+    "id": 3,
+    "vocabId": "s14_v3",
+    "targetTifinagh": "ⵉⵔⴽⵎⵎⵏ",
+    "targetLatin": "Irkmmn",
+    "targetArabic": "حساء إيركمن (الحبوب السبعة)",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵉⵔⴽⵎⵎⵏ] (Irkmmn)؟",
+    "options": [
+      "السمن البلدي الأمازيغي / ",
+      "يناير (أول شهور السنة الأمازيغية) / ",
+      "حساء إيركمن (الحبوب السبعة) / ",
+      "عسل النحل الطبيعي / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵉⵔⴽⵎⵎⵏ] (Irkmmn) ورد في سياق الحكاية للدلالة على: حساء إيركمن (الحبوب السبعة) ()."
+  },
+  {
+    "storyId": "story14",
+    "storyTitle": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+    "id": 4,
+    "vocabId": "s14_v4",
+    "targetTifinagh": "ⵜⴰⵡⵊⴰ",
+    "targetLatin": "Tawja",
+    "targetArabic": "الأسرة / العائلة",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵡⵊⴰ] (Tawja)؟",
+    "options": [
+      "الأسرة / العائلة",
+      "عصيدة التاكلا الاحتفالية",
+      "الجدة (أو إنّا)",
+      "الحكاية / القصة الشعبية"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵡⵊⴰ] (ينطق: Tawja) يعني بالعربية: 'الأسرة / العائلة'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story14",
+    "storyTitle": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+    "id": 5,
+    "vocabId": "s14_v5",
+    "targetTifinagh": "ⴰⵎⴰⵢⵏⵓ",
+    "targetLatin": "Amaynu",
+    "targetArabic": "الجديد",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الجديد'؟",
+    "options": [
+      "ⴰⵎⴰⵢⵏⵓ (Amaynu)",
+      "ⵜⴰⵏⴼⵓⵙⵜ (Tanfust)",
+      "ⵉⵔⴽⵎⵎⵏ (Irkmmn)",
+      "ⵢⵏⵏⴰⵢⵔ (Ynnayer)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵎⴰⵢⵏⵓ] (Amaynu) وترجمتها: 'الجديد'."
+  },
+  {
+    "storyId": "story14",
+    "storyTitle": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+    "id": 6,
+    "vocabId": "s14_v6",
+    "targetTifinagh": "ⵓⴷⵉ",
+    "targetLatin": "Udi",
+    "targetArabic": "السمن البلدي الأمازيغي",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵓⴷⵉ] (Udi)؟",
+    "options": [
+      "عسل النحل الطبيعي / ",
+      "الجدة (أو إنّا) / ",
+      "السمن البلدي الأمازيغي / ",
+      "الحكاية / القصة الشعبية / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵓⴷⵉ] (Udi) ورد في سياق الحكاية للدلالة على: السمن البلدي الأمازيغي ()."
+  },
+  {
+    "storyId": "story14",
+    "storyTitle": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+    "id": 7,
+    "vocabId": "s14_v7",
+    "targetTifinagh": "ⵜⴰⵎⵏⵜ",
+    "targetLatin": "Tament",
+    "targetArabic": "عسل النحل الطبيعي",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵎⵏⵜ] (Tament)؟",
+    "options": [
+      "البركة واليمن والخير",
+      "السمن البلدي الأمازيغي",
+      "الجديد",
+      "عسل النحل الطبيعي"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⵏⵜ] (ينطق: Tament) يعني بالعربية: 'عسل النحل الطبيعي'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story14",
+    "storyTitle": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+    "id": 8,
+    "vocabId": "s14_v8",
+    "targetTifinagh": "ⴰⵙⵓⴼ",
+    "targetLatin": "Asuf",
+    "targetArabic": "البركة واليمن والخير",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'البركة واليمن والخير'؟",
+    "options": [
+      "ⵓⴷⵉ (Udi)",
+      "ⵊⴷⴷⴰ (Jdda)",
+      "ⴰⵙⵓⴼ (Asuf)",
+      "ⵢⵏⵏⴰⵢⵔ (Ynnayer)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵙⵓⴼ] (Asuf) وترجمتها: 'البركة واليمن والخير'."
+  },
+  {
+    "storyId": "story14",
+    "storyTitle": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+    "id": 9,
+    "vocabId": "s14_v9",
+    "targetTifinagh": "ⵊⴷⴷⴰ",
+    "targetLatin": "Jdda",
+    "targetArabic": "الجدة (أو إنّا)",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵊⴷⴷⴰ] (Jdda)؟",
+    "options": [
+      "الأسرة / العائلة / ",
+      "عسل النحل الطبيعي / ",
+      "الجدة (أو إنّا) / ",
+      "يناير (أول شهور السنة الأمازيغية) / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵊⴷⴷⴰ] (Jdda) ورد في سياق الحكاية للدلالة على: الجدة (أو إنّا) ()."
+  },
+  {
+    "storyId": "story14",
+    "storyTitle": "ليلة إيض يناير ورأس السنة الأمازيغية مع طبق إيركمن",
+    "id": 10,
+    "vocabId": "s14_v10",
+    "targetTifinagh": "ⵜⴰⵏⴼⵓⵙⵜ",
+    "targetLatin": "Tanfust",
+    "targetArabic": "الحكاية / القصة الشعبية",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵏⴼⵓⵙⵜ] (Tanfust)؟",
+    "options": [
+      "الجدة (أو إنّا)",
+      "الحكاية / القصة الشعبية",
+      "يناير (أول شهور السنة الأمازيغية)",
+      "عسل النحل الطبيعي"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵏⴼⵓⵙⵜ] (ينطق: Tanfust) يعني بالعربية: 'الحكاية / القصة الشعبية'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story15",
+    "storyTitle": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+    "id": 1,
+    "vocabId": "s15_v1",
+    "targetTifinagh": "ⵉⴼⴽⵔ",
+    "targetLatin": "Ifkr",
+    "targetArabic": "السلحفاة (أو بوفكرون)",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⴼⴽⵔ] (Ifkr)؟",
+    "options": [
+      "الطريق / المسار",
+      "السرعة والجري",
+      "الصبر والأناة",
+      "السلحفاة (أو بوفكرون)"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵉⴼⴽⵔ] (ينطق: Ifkr) يعني بالعربية: 'السلحفاة (أو بوفكرون)'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story15",
+    "storyTitle": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+    "id": 2,
+    "vocabId": "s15_v2",
+    "targetTifinagh": "ⴰⵡⵜⵓⵍ",
+    "targetLatin": "Awtul",
+    "targetArabic": "الأرنب",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الأرنب'؟",
+    "options": [
+      "ⴰⵡⵜⵓⵍ (Awtul)",
+      "ⴰⵎⴰⵍⵓ (Amalu)",
+      "ⵉⴼⴽⵔ (Ifkr)",
+      "ⵜⴰⵡⵏⵣⵉⵜ (Tawnzit)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵡⵜⵓⵍ] (Awtul) وترجمتها: 'الأرنب'."
+  },
+  {
+    "storyId": "story15",
+    "storyTitle": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+    "id": 3,
+    "vocabId": "s15_v3",
+    "targetTifinagh": "ⵜⴰⵡⵏⵣⵉⵜ",
+    "targetLatin": "Tawnzit",
+    "targetArabic": "الصبر والأناة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵡⵏⵣⵉⵜ] (Tawnzit)؟",
+    "options": [
+      "التأني والتمهل الهادئ / ",
+      "الصبر والأناة / ",
+      "الهدف وخط النهاية / ",
+      "الأرنب / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵡⵏⵣⵉⵜ] (Tawnzit) ورد في سياق الحكاية للدلالة على: الصبر والأناة ()."
+  },
+  {
+    "storyId": "story15",
+    "storyTitle": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+    "id": 4,
+    "vocabId": "s15_v4",
+    "targetTifinagh": "ⴰⴼⵓⵍⵓ",
+    "targetLatin": "Afulu",
+    "targetArabic": "الهدف وخط النهاية",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴼⵓⵍⵓ] (Afulu)؟",
+    "options": [
+      "الصبر والأناة",
+      "التأني والتمهل الهادئ",
+      "السلحفاة (أو بوفكرون)",
+      "الهدف وخط النهاية"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⴰⴼⵓⵍⵓ] (ينطق: Afulu) يعني بالعربية: 'الهدف وخط النهاية'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story15",
+    "storyTitle": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+    "id": 5,
+    "vocabId": "s15_v5",
+    "targetTifinagh": "ⴰⵎⴰⵍⵓ",
+    "targetLatin": "Amalu",
+    "targetArabic": "الظل الظليل",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الظل الظليل'؟",
+    "options": [
+      "ⵜⵉⵎⵍⵍⵉ (Timlli)",
+      "ⵜⴰⵣⵣⵍⴰ (Tazzla)",
+      "ⴰⵎⴰⵍⵓ (Amalu)",
+      "ⵉⴼⴽⵔ (Ifkr)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵎⴰⵍⵓ] (Amalu) وترجمتها: 'الظل الظليل'."
+  },
+  {
+    "storyId": "story15",
+    "storyTitle": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+    "id": 6,
+    "vocabId": "s15_v6",
+    "targetTifinagh": "ⴰⴽⵓⴷ",
+    "targetLatin": "Akud",
+    "targetArabic": "الوقت / الزمن",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴽⵓⴷ] (Akud)؟",
+    "options": [
+      "الظل الظليل / ",
+      "العمل والاجتهاد / ",
+      "الوقت / الزمن / ",
+      "السلحفاة (أو بوفكرون) / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⴽⵓⴷ] (Akud) ورد في سياق الحكاية للدلالة على: الوقت / الزمن ()."
+  },
+  {
+    "storyId": "story15",
+    "storyTitle": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+    "id": 7,
+    "vocabId": "s15_v7",
+    "targetTifinagh": "ⵜⴰⵣⵣⵍⴰ",
+    "targetLatin": "Tazzla",
+    "targetArabic": "السرعة والجري",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵣⵣⵍⴰ] (Tazzla)؟",
+    "options": [
+      "السلحفاة (أو بوفكرون)",
+      "السرعة والجري",
+      "الصبر والأناة",
+      "العمل والاجتهاد"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵣⵣⵍⴰ] (ينطق: Tazzla) يعني بالعربية: 'السرعة والجري'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story15",
+    "storyTitle": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+    "id": 8,
+    "vocabId": "s15_v8",
+    "targetTifinagh": "ⴰⵙⵡⵓⵔⵉ",
+    "targetLatin": "Aswuri",
+    "targetArabic": "العمل والاجتهاد",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'العمل والاجتهاد'؟",
+    "options": [
+      "ⵜⴰⵡⵏⵣⵉⵜ (Tawnzit)",
+      "ⴰⴽⵓⴷ (Akud)",
+      "ⴰⵙⵡⵓⵔⵉ (Aswuri)",
+      "ⴰⵡⵜⵓⵍ (Awtul)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵙⵡⵓⵔⵉ] (Aswuri) وترجمتها: 'العمل والاجتهاد'."
+  },
+  {
+    "storyId": "story15",
+    "storyTitle": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+    "id": 9,
+    "vocabId": "s15_v9",
+    "targetTifinagh": "ⴰⴱⵔⵉⴷ",
+    "targetLatin": "Abrid",
+    "targetArabic": "الطريق / المسار",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴱⵔⵉⴷ] (Abrid)؟",
+    "options": [
+      "الطريق / المسار / ",
+      "التأني والتمهل الهادئ / ",
+      "الأرنب / ",
+      "الوقت / الزمن / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⴱⵔⵉⴷ] (Abrid) ورد في سياق الحكاية للدلالة على: الطريق / المسار ()."
+  },
+  {
+    "storyId": "story15",
+    "storyTitle": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+    "id": 10,
+    "vocabId": "s15_v10",
+    "targetTifinagh": "ⵜⵉⵎⵍⵍⵉ",
+    "targetLatin": "Timlli",
+    "targetArabic": "التأني والتمهل الهادئ",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⵎⵍⵍⵉ] (Timlli)؟",
+    "options": [
+      "الصبر والأناة",
+      "العمل والاجتهاد",
+      "الطريق / المسار",
+      "التأني والتمهل الهادئ"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⵎⵍⵍⵉ] (ينطق: Timlli) يعني بالعربية: 'التأني والتمهل الهادئ'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story16",
+    "storyTitle": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+    "id": 1,
+    "vocabId": "s16_v1",
+    "targetTifinagh": "ⵣⵣⴰⵄⴼⵔⴰⵏ",
+    "targetLatin": "Zzaɛfran",
+    "targetArabic": "الزعفران (الذهب الأحمر)",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵣⵣⴰⵄⴼⵔⴰⵏ] (Zzaɛfran)؟",
+    "options": [
+      "الحلاوة والمذاق الطيب",
+      "القطعة الفلاحية / الحقل الصغير",
+      "التويزة (العمل التطوعي التضامني)",
+      "الزعفران (الذهب الأحمر)"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵣⵣⴰⵄⴼⵔⴰⵏ] (ينطق: Zzaɛfran) يعني بالعربية: 'الزعفران (الذهب الأحمر)'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story16",
+    "storyTitle": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+    "id": 2,
+    "vocabId": "s16_v2",
+    "targetTifinagh": "ⵜⴰⵡⵉⵣⴰ",
+    "targetLatin": "Tawiza",
+    "targetArabic": "التويزة (العمل التطوعي التضامني)",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'التويزة (العمل التطوعي التضامني)'؟",
+    "options": [
+      "ⵜⴰⵥⵉⴹⴰⵏⵜ (Taẓiḍant)",
+      "ⵜⴰⴼⴰⵙⴽⴰ (Tafaska)",
+      "ⵣⵣⴰⵄⴼⵔⴰⵏ (Zzaɛfran)",
+      "ⵜⴰⵡⵉⵣⴰ (Tawiza)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵡⵉⵣⴰ] (Tawiza) وترجمتها: 'التويزة (العمل التطوعي التضامني)'."
+  },
+  {
+    "storyId": "story16",
+    "storyTitle": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+    "id": 3,
+    "vocabId": "s16_v3",
+    "targetTifinagh": "ⴰⵊⴷⴷⵉⴳ",
+    "targetLatin": "Ajddig",
+    "targetArabic": "الزهرة / الوردة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵊⴷⴷⵉⴳ] (Ajddig)؟",
+    "options": [
+      "القطعة الفلاحية / الحقل الصغير / ",
+      "الأعشاب الطبية والعطرية / ",
+      "الزهرة / الوردة / ",
+      "البركة والنعمة والعيد / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵊⴷⴷⵉⴳ] (Ajddig) ورد في سياق الحكاية للدلالة على: الزهرة / الوردة ()."
+  },
+  {
+    "storyId": "story16",
+    "storyTitle": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+    "id": 4,
+    "vocabId": "s16_v4",
+    "targetTifinagh": "ⵜⴰⵣⵡⵉⵜ",
+    "targetLatin": "Tazwit",
+    "targetArabic": "النحلة صانعة العسل",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵣⵡⵉⵜ] (Tazwit)؟",
+    "options": [
+      "موسم الحصاد والجني",
+      "الحلاوة والمذاق الطيب",
+      "التويزة (العمل التطوعي التضامني)",
+      "النحلة صانعة العسل"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵣⵡⵉⵜ] (ينطق: Tazwit) يعني بالعربية: 'النحلة صانعة العسل'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story16",
+    "storyTitle": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+    "id": 5,
+    "vocabId": "s16_v5",
+    "targetTifinagh": "ⴰⵎⴳⴳⴰⵔ",
+    "targetLatin": "Amggar",
+    "targetArabic": "موسم الحصاد والجني",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'موسم الحصاد والجني'؟",
+    "options": [
+      "ⵜⴰⴼⴰⵙⴽⴰ (Tafaska)",
+      "ⴰⵣⴰⵍ (Azal)",
+      "ⵜⴰⵣⵡⵉⵜ (Tazwit)",
+      "ⴰⵎⴳⴳⴰⵔ (Amggar)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵎⴳⴳⴰⵔ] (Amggar) وترجمتها: 'موسم الحصاد والجني'."
+  },
+  {
+    "storyId": "story16",
+    "storyTitle": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+    "id": 6,
+    "vocabId": "s16_v6",
+    "targetTifinagh": "ⵜⴰⴼⵔⴽⴰ",
+    "targetLatin": "Tafrka",
+    "targetArabic": "القطعة الفلاحية / الحقل الصغير",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴼⵔⴽⴰ] (Tafrka)؟",
+    "options": [
+      "القطعة الفلاحية / الحقل الصغير / ",
+      "التويزة (العمل التطوعي التضامني) / ",
+      "النحلة صانعة العسل / ",
+      "وضح النهار والشمس المشرقة / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴼⵔⴽⴰ] (Tafrka) ورد في سياق الحكاية للدلالة على: القطعة الفلاحية / الحقل الصغير ()."
+  },
+  {
+    "storyId": "story16",
+    "storyTitle": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+    "id": 7,
+    "vocabId": "s16_v7",
+    "targetTifinagh": "ⵜⴰⴼⴰⵙⴽⴰ",
+    "targetLatin": "Tafaska",
+    "targetArabic": "البركة والنعمة والعيد",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴼⴰⵙⴽⴰ] (Tafaska)؟",
+    "options": [
+      "التويزة (العمل التطوعي التضامني)",
+      "الحلاوة والمذاق الطيب",
+      "البركة والنعمة والعيد",
+      "النحلة صانعة العسل"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴼⴰⵙⴽⴰ] (ينطق: Tafaska) يعني بالعربية: 'البركة والنعمة والعيد'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story16",
+    "storyTitle": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+    "id": 8,
+    "vocabId": "s16_v8",
+    "targetTifinagh": "ⴰⵣⴰⵍ",
+    "targetLatin": "Azal",
+    "targetArabic": "وضح النهار والشمس المشرقة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'وضح النهار والشمس المشرقة'؟",
+    "options": [
+      "ⴰⵎⴳⴳⴰⵔ (Amggar)",
+      "ⴰⵣⴰⵍ (Azal)",
+      "ⵜⴰⴼⵔⴽⴰ (Tafrka)",
+      "ⵣⵣⴰⵄⴼⵔⴰⵏ (Zzaɛfran)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵣⴰⵍ] (Azal) وترجمتها: 'وضح النهار والشمس المشرقة'."
+  },
+  {
+    "storyId": "story16",
+    "storyTitle": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+    "id": 9,
+    "vocabId": "s16_v9",
+    "targetTifinagh": "ⵜⴰⵥⵉⴹⴰⵏⵜ",
+    "targetLatin": "Taẓiḍant",
+    "targetArabic": "الحلاوة والمذاق الطيب",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵥⵉⴹⴰⵏⵜ] (Taẓiḍant)؟",
+    "options": [
+      "موسم الحصاد والجني / ",
+      "الحلاوة والمذاق الطيب / ",
+      "الزعفران (الذهب الأحمر) / ",
+      "القطعة الفلاحية / الحقل الصغير / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵥⵉⴹⴰⵏⵜ] (Taẓiḍant) ورد في سياق الحكاية للدلالة على: الحلاوة والمذاق الطيب ()."
+  },
+  {
+    "storyId": "story16",
+    "storyTitle": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+    "id": 10,
+    "vocabId": "s16_v10",
+    "targetTifinagh": "ⵉⵙⴰⴼⴰⵔⵏ",
+    "targetLatin": "Isafarn",
+    "targetArabic": "الأعشاب الطبية والعطرية",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵙⴰⴼⴰⵔⵏ] (Isafarn)؟",
+    "options": [
+      "النحلة صانعة العسل",
+      "الأعشاب الطبية والعطرية",
+      "وضح النهار والشمس المشرقة",
+      "البركة والنعمة والعيد"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵉⵙⴰⴼⴰⵔⵏ] (ينطق: Isafarn) يعني بالعربية: 'الأعشاب الطبية والعطرية'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story17",
+    "storyTitle": "فارس القصبة ودادا حمو حكيم الواحة",
+    "id": 1,
+    "vocabId": "s17_v1",
+    "targetTifinagh": "ⵜⵉⵖⵔⵎⵜ",
+    "targetLatin": "Tiɣrmt",
+    "targetArabic": "القصبة / الحصن الطيني",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⵖⵔⵎⵜ] (Tiɣrmt)؟",
+    "options": [
+      "التبن الممزوج بالطين",
+      "القصبة / الحصن الطيني",
+      "الحائط / الجدار المرتفع",
+      "الباب / البوابة الكبيرة"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⵖⵔⵎⵜ] (ينطق: Tiɣrmt) يعني بالعربية: 'القصبة / الحصن الطيني'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story17",
+    "storyTitle": "فارس القصبة ودادا حمو حكيم الواحة",
+    "id": 2,
+    "vocabId": "s17_v2",
+    "targetTifinagh": "ⴷⴰⴷⴷⴰ",
+    "targetLatin": "Dadda",
+    "targetArabic": "العم الحكيم / الشيخ الموقر",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'العم الحكيم / الشيخ الموقر'؟",
+    "options": [
+      "ⵉⵎⵣⵡⵓⵔⴰ (Imzwwura)",
+      "ⴰⵍⵉⵎ (Alim)",
+      "ⴷⴰⴷⴷⴰ (Dadda)",
+      "ⵜⴰⵡⵡⵓⵔⵜ (Tawwurt)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴷⴰⴷⴷⴰ] (Dadda) وترجمتها: 'العم الحكيم / الشيخ الموقر'."
+  },
+  {
+    "storyId": "story17",
+    "storyTitle": "فارس القصبة ودادا حمو حكيم الواحة",
+    "id": 3,
+    "vocabId": "s17_v3",
+    "targetTifinagh": "ⵜⴰⵡⵡⵓⵔⵜ",
+    "targetLatin": "Tawwurt",
+    "targetArabic": "الباب / البوابة الكبيرة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵡⵡⵓⵔⵜ] (Tawwurt)؟",
+    "options": [
+      "البناء والمعمار / ",
+      "الباب / البوابة الكبيرة / ",
+      "العم الحكيم / الشيخ الموقر / ",
+      "الأمان والسكينة / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵡⵡⵓⵔⵜ] (Tawwurt) ورد في سياق الحكاية للدلالة على: الباب / البوابة الكبيرة ()."
+  },
+  {
+    "storyId": "story17",
+    "storyTitle": "فارس القصبة ودادا حمو حكيم الواحة",
+    "id": 4,
+    "vocabId": "s17_v4",
+    "targetTifinagh": "ⴰⵍⵉⵎ",
+    "targetLatin": "Alim",
+    "targetArabic": "التبن الممزوج بالطين",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵍⵉⵎ] (Alim)؟",
+    "options": [
+      "الباب / البوابة الكبيرة",
+      "التراث والإرث الثقافي",
+      "العم الحكيم / الشيخ الموقر",
+      "التبن الممزوج بالطين"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⴰⵍⵉⵎ] (ينطق: Alim) يعني بالعربية: 'التبن الممزوج بالطين'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story17",
+    "storyTitle": "فارس القصبة ودادا حمو حكيم الواحة",
+    "id": 5,
+    "vocabId": "s17_v5",
+    "targetTifinagh": "ⴰⵖⵔⴰⴱ",
+    "targetLatin": "Aɣrab",
+    "targetArabic": "الحائط / الجدار المرتفع",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الحائط / الجدار المرتفع'؟",
+    "options": [
+      "ⵜⴰⵏⴰⴼⵓⵜ (Tanafut)",
+      "ⵜⵉⵖⵔⵎⵜ (Tiɣrmt)",
+      "ⴰⵖⵔⴰⴱ (Aɣrab)",
+      "ⴰⵍⵉⵎ (Alim)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵖⵔⴰⴱ] (Aɣrab) وترجمتها: 'الحائط / الجدار المرتفع'."
+  },
+  {
+    "storyId": "story17",
+    "storyTitle": "فارس القصبة ودادا حمو حكيم الواحة",
+    "id": 6,
+    "vocabId": "s17_v6",
+    "targetTifinagh": "ⵜⴰⵏⴰⴼⵓⵜ",
+    "targetLatin": "Tanafut",
+    "targetArabic": "الأمان والسكينة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵏⴰⴼⵓⵜ] (Tanafut)؟",
+    "options": [
+      "التراث والإرث الثقافي / ",
+      "الحراسة والصيانة / ",
+      "الحائط / الجدار المرتفع / ",
+      "الأمان والسكينة / "
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵏⴰⴼⵓⵜ] (Tanafut) ورد في سياق الحكاية للدلالة على: الأمان والسكينة ()."
+  },
+  {
+    "storyId": "story17",
+    "storyTitle": "فارس القصبة ودادا حمو حكيم الواحة",
+    "id": 7,
+    "vocabId": "s17_v7",
+    "targetTifinagh": "ⴰⵚⴽⴰⵡ",
+    "targetLatin": "Aṣkaw",
+    "targetArabic": "البناء والمعمار",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵚⴽⴰⵡ] (Aṣkaw)؟",
+    "options": [
+      "البناء والمعمار",
+      "التراث والإرث الثقافي",
+      "الأجداد والأوائل",
+      "الحراسة والصيانة"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⵚⴽⴰⵡ] (ينطق: Aṣkaw) يعني بالعربية: 'البناء والمعمار'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story17",
+    "storyTitle": "فارس القصبة ودادا حمو حكيم الواحة",
+    "id": 8,
+    "vocabId": "s17_v8",
+    "targetTifinagh": "ⵉⵎⵣⵡⵓⵔⴰ",
+    "targetLatin": "Imzwwura",
+    "targetArabic": "الأجداد والأوائل",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الأجداد والأوائل'؟",
+    "options": [
+      "ⵉⵎⵣⵡⵓⵔⴰ (Imzwwura)",
+      "ⵜⴰⵏⴰⴼⵓⵜ (Tanafut)",
+      "ⴰⴼⵔⴰⵙ (Afras)",
+      "ⴰⵖⵔⴰⴱ (Aɣrab)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵉⵎⵣⵡⵓⵔⴰ] (Imzwwura) وترجمتها: 'الأجداد والأوائل'."
+  },
+  {
+    "storyId": "story17",
+    "storyTitle": "فارس القصبة ودادا حمو حكيم الواحة",
+    "id": 9,
+    "vocabId": "s17_v9",
+    "targetTifinagh": "ⴰⴼⵔⴰⵙ",
+    "targetLatin": "Afras",
+    "targetArabic": "الحراسة والصيانة",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴼⵔⴰⵙ] (Afras)؟",
+    "options": [
+      "البناء والمعمار / ",
+      "الحراسة والصيانة / ",
+      "العم الحكيم / الشيخ الموقر / ",
+      "القصبة / الحصن الطيني / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⴼⵔⴰⵙ] (Afras) ورد في سياق الحكاية للدلالة على: الحراسة والصيانة ()."
+  },
+  {
+    "storyId": "story17",
+    "storyTitle": "فارس القصبة ودادا حمو حكيم الواحة",
+    "id": 10,
+    "vocabId": "s17_v10",
+    "targetTifinagh": "ⴰⵢⴷⴰ",
+    "targetLatin": "Ayda",
+    "targetArabic": "التراث والإرث الثقافي",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵢⴷⴰ] (Ayda)؟",
+    "options": [
+      "الباب / البوابة الكبيرة",
+      "التبن الممزوج بالطين",
+      "التراث والإرث الثقافي",
+      "الحائط / الجدار المرتفع"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵢⴷⴰ] (ينطق: Ayda) يعني بالعربية: 'التراث والإرث الثقافي'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story18",
+    "storyTitle": "صياد تاغزوت وأمواج المحيط الأطلسي",
+    "id": 1,
+    "vocabId": "s18_v1",
+    "targetTifinagh": "ⵉⵍⵍ",
+    "targetLatin": "Ill",
+    "targetArabic": "البحر / المحيط",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵍⵍ] (Ill)؟",
+    "options": [
+      "الخشب الأصيل",
+      "البحر / المحيط",
+      "الرزق والخير المكتوب",
+      "شبكة الصيد"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵉⵍⵍ] (ينطق: Ill) يعني بالعربية: 'البحر / المحيط'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story18",
+    "storyTitle": "صياد تاغزوت وأمواج المحيط الأطلسي",
+    "id": 2,
+    "vocabId": "s18_v2",
+    "targetTifinagh": "ⴰⵎⴳⵎⴰⵔ",
+    "targetLatin": "Amgmar",
+    "targetArabic": "الصياد البحري",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الصياد البحري'؟",
+    "options": [
+      "ⵜⴰⵙⴰⵙⵜ (Tasast)",
+      "ⵉⵍⵍ (Ill)",
+      "ⵉⵙⵍⵎ (Islm)",
+      "ⴰⵎⴳⵎⴰⵔ (Amgmar)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵎⴳⵎⴰⵔ] (Amgmar) وترجمتها: 'الصياد البحري'."
+  },
+  {
+    "storyId": "story18",
+    "storyTitle": "صياد تاغزوت وأمواج المحيط الأطلسي",
+    "id": 3,
+    "vocabId": "s18_v3",
+    "targetTifinagh": "ⴰⵖⵔⵔⴰⴱⵓ",
+    "targetLatin": "Aɣrrabu",
+    "targetArabic": "القارب / الفلوكة الخشبية",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵖⵔⵔⴰⴱⵓ] (Aɣrrabu)؟",
+    "options": [
+      "الشاطئ / الساحل والمرسى / ",
+      "القارب / الفلوكة الخشبية / ",
+      "الموجة العالية / ",
+      "الخشب الأصيل / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵖⵔⵔⴰⴱⵓ] (Aɣrrabu) ورد في سياق الحكاية للدلالة على: القارب / الفلوكة الخشبية ()."
+  },
+  {
+    "storyId": "story18",
+    "storyTitle": "صياد تاغزوت وأمواج المحيط الأطلسي",
+    "id": 4,
+    "vocabId": "s18_v4",
+    "targetTifinagh": "ⵉⵙⵍⵎ",
+    "targetLatin": "Islm",
+    "targetArabic": "السمك (جمع: Islman)",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵙⵍⵎ] (Islm)؟",
+    "options": [
+      "الموجة العالية",
+      "السمك (جمع: Islman)",
+      "الرزق والخير المكتوب",
+      "الشاطئ / الساحل والمرسى"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵉⵙⵍⵎ] (ينطق: Islm) يعني بالعربية: 'السمك (جمع: Islman)'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story18",
+    "storyTitle": "صياد تاغزوت وأمواج المحيط الأطلسي",
+    "id": 5,
+    "vocabId": "s18_v5",
+    "targetTifinagh": "ⵜⴰⴹⵓⵜ",
+    "targetLatin": "Taḍut",
+    "targetArabic": "شبكة الصيد",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'شبكة الصيد'؟",
+    "options": [
+      "ⴰⴽⵛⵛⵓⴹ (Akccuḍ)",
+      "ⵜⴰⴹⵓⵜ (Taḍut)",
+      "ⴰⴼⵜⴰⵙ (Aftas)",
+      "ⴰⵖⵔⵔⴰⴱⵓ (Aɣrrabu)"
+    ],
+    "correctIndex": 1,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴹⵓⵜ] (Taḍut) وترجمتها: 'شبكة الصيد'."
+  },
+  {
+    "storyId": "story18",
+    "storyTitle": "صياد تاغزوت وأمواج المحيط الأطلسي",
+    "id": 6,
+    "vocabId": "s18_v6",
+    "targetTifinagh": "ⴰⴼⵜⴰⵙ",
+    "targetLatin": "Aftas",
+    "targetArabic": "الشاطئ / الساحل والمرسى",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴼⵜⴰⵙ] (Aftas)؟",
+    "options": [
+      "الشاطئ / الساحل والمرسى / ",
+      "الخشب الأصيل / ",
+      "شبكة الصيد / ",
+      "الرزق والخير المكتوب / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⴼⵜⴰⵙ] (Aftas) ورد في سياق الحكاية للدلالة على: الشاطئ / الساحل والمرسى ()."
+  },
+  {
+    "storyId": "story18",
+    "storyTitle": "صياد تاغزوت وأمواج المحيط الأطلسي",
+    "id": 7,
+    "vocabId": "s18_v7",
+    "targetTifinagh": "ⵜⴰⵙⴰⵙⵜ",
+    "targetLatin": "Tasast",
+    "targetArabic": "الرزق والخير المكتوب",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵙⴰⵙⵜ] (Tasast)؟",
+    "options": [
+      "الشاطئ / الساحل والمرسى",
+      "القارب / الفلوكة الخشبية",
+      "الرزق والخير المكتوب",
+      "الموجة العالية"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵙⴰⵙⵜ] (ينطق: Tasast) يعني بالعربية: 'الرزق والخير المكتوب'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story18",
+    "storyTitle": "صياد تاغزوت وأمواج المحيط الأطلسي",
+    "id": 8,
+    "vocabId": "s18_v8",
+    "targetTifinagh": "ⵜⴰⴹⴰⵏⴳⴰ",
+    "targetLatin": "Taḍanga",
+    "targetArabic": "الموجة العالية",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الموجة العالية'؟",
+    "options": [
+      "ⵜⴰⵙⴰⵙⵜ (Tasast)",
+      "ⴰⵎⴳⵎⴰⵔ (Amgmar)",
+      "ⴰⵖⵔⵔⴰⴱⵓ (Aɣrrabu)",
+      "ⵜⴰⴹⴰⵏⴳⴰ (Taḍanga)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴹⴰⵏⴳⴰ] (Taḍanga) وترجمتها: 'الموجة العالية'."
+  },
+  {
+    "storyId": "story18",
+    "storyTitle": "صياد تاغزوت وأمواج المحيط الأطلسي",
+    "id": 9,
+    "vocabId": "s18_v9",
+    "targetTifinagh": "ⴰⵙⵏⵙⵓ",
+    "targetLatin": "Asnsu",
+    "targetArabic": "المرسى والمأوى الآمن",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵙⵏⵙⵓ] (Asnsu)؟",
+    "options": [
+      "الخشب الأصيل / ",
+      "السمك (جمع: Islman) / ",
+      "الرزق والخير المكتوب / ",
+      "المرسى والمأوى الآمن / "
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⴰⵙⵏⵙⵓ] (Asnsu) ورد في سياق الحكاية للدلالة على: المرسى والمأوى الآمن ()."
+  },
+  {
+    "storyId": "story18",
+    "storyTitle": "صياد تاغزوت وأمواج المحيط الأطلسي",
+    "id": 10,
+    "vocabId": "s18_v10",
+    "targetTifinagh": "ⴰⴽⵛⵛⵓⴹ",
+    "targetLatin": "Akccuḍ",
+    "targetArabic": "الخشب الأصيل",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴽⵛⵛⵓⴹ] (Akccuḍ)؟",
+    "options": [
+      "السمك (جمع: Islman)",
+      "البحر / المحيط",
+      "الخشب الأصيل",
+      "الموجة العالية"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⴽⵛⵛⵓⴹ] (ينطق: Akccuḍ) يعني بالعربية: 'الخشب الأصيل'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story19",
+    "storyTitle": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+    "id": 1,
+    "vocabId": "s19_v1",
+    "targetTifinagh": "ⵜⴰⴼⵓⴽⵜ",
+    "targetLatin": "Tafukt",
+    "targetArabic": "الشمس",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴼⵓⴽⵜ] (Tafukt)؟",
+    "options": [
+      "النور والضياء",
+      "الشمس",
+      "السماء / الفضاء الأزرق",
+      "الظلام والعتمة"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⴼⵓⴽⵜ] (ينطق: Tafukt) يعني بالعربية: 'الشمس'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story19",
+    "storyTitle": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+    "id": 2,
+    "vocabId": "s19_v2",
+    "targetTifinagh": "ⴰⵢⵢⵓⵔ",
+    "targetLatin": "Ayyur",
+    "targetArabic": "القمر / الشهر",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'القمر / الشهر'؟",
+    "options": [
+      "ⴰⵢⵢⵓⵔ (Ayyur)",
+      "ⵉⴳⵏⵏⵉ (Ignni)",
+      "ⵜⵉⵍⵍⴰⵙ (Tillas)",
+      "ⵉⵜⵔⵉ (Itri)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵢⵢⵓⵔ] (Ayyur) وترجمتها: 'القمر / الشهر'."
+  },
+  {
+    "storyId": "story19",
+    "storyTitle": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+    "id": 3,
+    "vocabId": "s19_v3",
+    "targetTifinagh": "ⵉⴳⵏⵏⵉ",
+    "targetLatin": "Ignni",
+    "targetArabic": "السماء / الفضاء الأزرق",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵉⴳⵏⵏⵉ] (Ignni)؟",
+    "options": [
+      "السماء / الفضاء الأزرق / ",
+      "الليل والسكون / ",
+      "القمر / الشهر / ",
+      "الدفء والحرارة اللطيفة / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⵉⴳⵏⵏⵉ] (Ignni) ورد في سياق الحكاية للدلالة على: السماء / الفضاء الأزرق ()."
+  },
+  {
+    "storyId": "story19",
+    "storyTitle": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+    "id": 4,
+    "vocabId": "s19_v4",
+    "targetTifinagh": "ⵜⵉⴼⴰⵡⵜ",
+    "targetLatin": "Tifawt",
+    "targetArabic": "النور والضياء",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⴼⴰⵡⵜ] (Tifawt)؟",
+    "options": [
+      "النهار / وقت الظهيرة",
+      "الدفء والحرارة اللطيفة",
+      "النور والضياء",
+      "النجم (جمع Itran)"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⴼⴰⵡⵜ] (ينطق: Tifawt) يعني بالعربية: 'النور والضياء'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story19",
+    "storyTitle": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+    "id": 5,
+    "vocabId": "s19_v5",
+    "targetTifinagh": "ⵜⵉⵍⵍⴰⵙ",
+    "targetLatin": "Tillas",
+    "targetArabic": "الظلام والعتمة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الظلام والعتمة'؟",
+    "options": [
+      "ⵜⵉⵍⵍⴰⵙ (Tillas)",
+      "ⴰⵢⵢⵓⵔ (Ayyur)",
+      "ⵜⴰⴼⵓⴽⵜ (Tafukt)",
+      "ⴰⵙⵉⴷ (Asid)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵍⵍⴰⵙ] (Tillas) وترجمتها: 'الظلام والعتمة'."
+  },
+  {
+    "storyId": "story19",
+    "storyTitle": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+    "id": 6,
+    "vocabId": "s19_v6",
+    "targetTifinagh": "ⵉⵜⵔⵉ",
+    "targetLatin": "Itri",
+    "targetArabic": "النجم (جمع Itran)",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵉⵜⵔⵉ] (Itri)؟",
+    "options": [
+      "الشمس / ",
+      "النجم (جمع Itran) / ",
+      "النور والضياء / ",
+      "الظلام والعتمة / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵉⵜⵔⵉ] (Itri) ورد في سياق الحكاية للدلالة على: النجم (جمع Itran) ()."
+  },
+  {
+    "storyId": "story19",
+    "storyTitle": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+    "id": 7,
+    "vocabId": "s19_v7",
+    "targetTifinagh": "ⴰⵙⵉⴷ",
+    "targetLatin": "Asid",
+    "targetArabic": "الإشراق والسطوع",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵙⵉⴷ] (Asid)؟",
+    "options": [
+      "الظلام والعتمة",
+      "الإشراق والسطوع",
+      "الشمس",
+      "القمر / الشهر"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⴰⵙⵉⴷ] (ينطق: Asid) يعني بالعربية: 'الإشراق والسطوع'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story19",
+    "storyTitle": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+    "id": 8,
+    "vocabId": "s19_v8",
+    "targetTifinagh": "ⴰⵣⴰⵍ",
+    "targetLatin": "Azal",
+    "targetArabic": "النهار / وقت الظهيرة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'النهار / وقت الظهيرة'؟",
+    "options": [
+      "ⴰⵣⴰⵍ (Azal)",
+      "ⵓⵥⵖⵓⵕ (Uẓɣuṛ)",
+      "ⵜⵉⵍⵍⴰⵙ (Tillas)",
+      "ⵉⵜⵔⵉ (Itri)"
+    ],
+    "correctIndex": 0,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵣⴰⵍ] (Azal) وترجمتها: 'النهار / وقت الظهيرة'."
+  },
+  {
+    "storyId": "story19",
+    "storyTitle": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+    "id": 9,
+    "vocabId": "s19_v9",
+    "targetTifinagh": "ⵉⴹ",
+    "targetLatin": "Iḍ",
+    "targetArabic": "الليل والسكون",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵉⴹ] (Iḍ)؟",
+    "options": [
+      "الشمس / ",
+      "الليل والسكون / ",
+      "القمر / الشهر / ",
+      "الظلام والعتمة / "
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵉⴹ] (Iḍ) ورد في سياق الحكاية للدلالة على: الليل والسكون ()."
+  },
+  {
+    "storyId": "story19",
+    "storyTitle": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+    "id": 10,
+    "vocabId": "s19_v10",
+    "targetTifinagh": "ⵓⵥⵖⵓⵕ",
+    "targetLatin": "Uẓɣuṛ",
+    "targetArabic": "الدفء والحرارة اللطيفة",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵓⵥⵖⵓⵕ] (Uẓɣuṛ)؟",
+    "options": [
+      "الشمس",
+      "النجم (جمع Itran)",
+      "الدفء والحرارة اللطيفة",
+      "النهار / وقت الظهيرة"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵓⵥⵖⵓⵕ] (ينطق: Uẓɣuṛ) يعني بالعربية: 'الدفء والحرارة اللطيفة'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story20",
+    "storyTitle": "راعي الماعز والذئب وشّن في جبل بويبلان",
+    "id": 1,
+    "vocabId": "s20_v1",
+    "targetTifinagh": "ⴰⵎⴽⵙⴰⵡ",
+    "targetLatin": "Amksaw",
+    "targetArabic": "الراعي",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵎⴽⵙⴰⵡ] (Amksaw)؟",
+    "options": [
+      "عصا الراعي من الزيتون",
+      "الزريبة والمأوى للقطيع",
+      "الراعي",
+      "الماعز (جمع Taɣaṭ)"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⴰⵎⴽⵙⴰⵡ] (ينطق: Amksaw) يعني بالعربية: 'الراعي'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story20",
+    "storyTitle": "راعي الماعز والذئب وشّن في جبل بويبلان",
+    "id": 2,
+    "vocabId": "s20_v2",
+    "targetTifinagh": "ⵡⵓⵛⵛⵏ",
+    "targetLatin": "Wuccn",
+    "targetArabic": "الذئب الجبلي",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الذئب الجبلي'؟",
+    "options": [
+      "ⵜⵉⵖⴰⵟⵉⵏ (Tiɣaṭin)",
+      "ⴰⵣⴰⵎⵎⵓⵔ (Azammur)",
+      "ⵡⵓⵛⵛⵏ (Wuccn)",
+      "ⵎⵉⴷⴷⵏ (Middn)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵡⵓⵛⵛⵏ] (Wuccn) وترجمتها: 'الذئب الجبلي'."
+  },
+  {
+    "storyId": "story20",
+    "storyTitle": "راعي الماعز والذئب وشّن في جبل بويبلان",
+    "id": 3,
+    "vocabId": "s20_v3",
+    "targetTifinagh": "ⵜⵉⵖⴰⵟⵉⵏ",
+    "targetLatin": "Tiɣaṭin",
+    "targetArabic": "الماعز (جمع Taɣaṭ)",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⵖⴰⵟⵉⵏ] (Tiɣaṭin)؟",
+    "options": [
+      "المفتاح والسر / ",
+      "الناس وأهل القرية / ",
+      "الماعز (جمع Taɣaṭ) / ",
+      "عصا الراعي من الزيتون / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⵖⴰⵟⵉⵏ] (Tiɣaṭin) ورد في سياق الحكاية للدلالة على: الماعز (جمع Taɣaṭ) ()."
+  },
+  {
+    "storyId": "story20",
+    "storyTitle": "راعي الماعز والذئب وشّن في جبل بويبلان",
+    "id": 4,
+    "vocabId": "s20_v4",
+    "targetTifinagh": "ⵜⵉⴽⵔⴽⴰⵙ",
+    "targetLatin": "Tikrkas",
+    "targetArabic": "الكذب والبهتان",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⴽⵔⴽⴰⵙ] (Tikrkas)؟",
+    "options": [
+      "الصدق والحقيقة",
+      "الكذب والبهتان",
+      "عصا الراعي من الزيتون",
+      "الناس وأهل القرية"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصطلح الأمازيغي [ⵜⵉⴽⵔⴽⴰⵙ] (ينطق: Tikrkas) يعني بالعربية: 'الكذب والبهتان'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story20",
+    "storyTitle": "راعي الماعز والذئب وشّن في جبل بويبلان",
+    "id": 5,
+    "vocabId": "s20_v5",
+    "targetTifinagh": "ⵜⵉⴷⵜ",
+    "targetLatin": "Tidt",
+    "targetArabic": "الصدق والحقيقة",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الصدق والحقيقة'؟",
+    "options": [
+      "ⴰⴼⵔⴰⴳ (Afrag)",
+      "ⵜⵉⴽⵔⴽⴰⵙ (Tikrkas)",
+      "ⵜⵉⴷⵜ (Tidt)",
+      "ⵜⵉⵖⴰⵟⵉⵏ (Tiɣaṭin)"
+    ],
+    "correctIndex": 2,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⴷⵜ] (Tidt) وترجمتها: 'الصدق والحقيقة'."
+  },
+  {
+    "storyId": "story20",
+    "storyTitle": "راعي الماعز والذئب وشّن في جبل بويبلان",
+    "id": 6,
+    "vocabId": "s20_v6",
+    "targetTifinagh": "ⴰⴼⵔⴰⴳ",
+    "targetLatin": "Afrag",
+    "targetArabic": "الزريبة والمأوى للقطيع",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴼⵔⴰⴳ] (Afrag)؟",
+    "options": [
+      "الزريبة والمأوى للقطيع / ",
+      "الراعي / ",
+      "الماعز (جمع Taɣaṭ) / ",
+      "الكلب الحارس للقطيع / "
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الأمازيغي [ⴰⴼⵔⴰⴳ] (Afrag) ورد في سياق الحكاية للدلالة على: الزريبة والمأوى للقطيع ()."
+  },
+  {
+    "storyId": "story20",
+    "storyTitle": "راعي الماعز والذئب وشّن في جبل بويبلان",
+    "id": 7,
+    "vocabId": "s20_v7",
+    "targetTifinagh": "ⴰⵣⴰⵎⵎⵓⵔ",
+    "targetLatin": "Azammur",
+    "targetArabic": "عصا الراعي من الزيتون",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵣⴰⵎⵎⵓⵔ] (Azammur)؟",
+    "options": [
+      "المفتاح والسر",
+      "الصدق والحقيقة",
+      "الذئب الجبلي",
+      "عصا الراعي من الزيتون"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⴰⵣⴰⵎⵎⵓⵔ] (ينطق: Azammur) يعني بالعربية: 'عصا الراعي من الزيتون'، ويقابله بالفرنسية: ''."
+  },
+  {
+    "storyId": "story20",
+    "storyTitle": "راعي الماعز والذئب وشّن في جبل بويبلان",
+    "id": 8,
+    "vocabId": "s20_v8",
+    "targetTifinagh": "ⴰⵢⴷⵉ",
+    "targetLatin": "Aydi",
+    "targetArabic": "الكلب الحارس للقطيع",
+    "targetFrench": "",
+    "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الكلب الحارس للقطيع'؟",
+    "options": [
+      "ⴰⵣⴰⵎⵎⵓⵔ (Azammur)",
+      "ⵎⵉⴷⴷⵏ (Middn)",
+      "ⵡⵓⵛⵛⵏ (Wuccn)",
+      "ⴰⵢⴷⵉ (Aydi)"
+    ],
+    "correctIndex": 3,
+    "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵢⴷⵉ] (Aydi) وترجمتها: 'الكلب الحارس للقطيع'."
+  },
+  {
+    "storyId": "story20",
+    "storyTitle": "راعي الماعز والذئب وشّن في جبل بويبلان",
+    "id": 9,
+    "vocabId": "s20_v9",
+    "targetTifinagh": "ⵎⵉⴷⴷⵏ",
+    "targetLatin": "Middn",
+    "targetArabic": "الناس وأهل القرية",
+    "targetFrench": "",
+    "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵎⵉⴷⴷⵏ] (Middn)؟",
+    "options": [
+      "الصدق والحقيقة / ",
+      "الذئب الجبلي / ",
+      "الناس وأهل القرية / ",
+      "الكلب الحارس للقطيع / "
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الأمازيغي [ⵎⵉⴷⴷⵏ] (Middn) ورد في سياق الحكاية للدلالة على: الناس وأهل القرية ()."
+  },
+  {
+    "storyId": "story20",
+    "storyTitle": "راعي الماعز والذئب وشّن في جبل بويبلان",
+    "id": 10,
+    "vocabId": "s20_v10",
+    "targetTifinagh": "ⵜⴰⵙⴰⵔⵓⵜ",
+    "targetLatin": "Tasarut",
+    "targetArabic": "المفتاح والسر",
+    "targetFrench": "",
+    "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵙⴰⵔⵓⵜ] (Tasarut)؟",
+    "options": [
+      "الذئب الجبلي",
+      "الراعي",
+      "عصا الراعي من الزيتون",
+      "المفتاح والسر"
+    ],
+    "correctIndex": 3,
+    "explanation": "المصطلح الأمازيغي [ⵜⴰⵙⴰⵔⵓⵜ] (ينطق: Tasarut) يعني بالعربية: 'المفتاح والسر'، ويقابله بالفرنسية: ''."
+  }
+]

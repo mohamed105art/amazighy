@@ -1,0 +1,345 @@
+{
+  "id": "story16",
+  "title": "سر الزعفران وعسل السدر في تالوين وتارودانت",
+  "titleTifinagh": "ⵣⵣⴰⵄⴼⵔⴰⵏ ⴷ ⵜⴰⵎⵏⵜ ⵏ ⵜⴰⵍⵡⵉⵏ",
+  "titleLatin": "Zzaɛfran d Tament n Talwin",
+  "region": "تالوين وسوس وحوض سوس (إقليم تارودانت)",
+  "dialect": "تشلحيت (Tacelḥit)",
+  "level": "مبتدئ (Level 1)",
+  "category": "heritage",
+  "categoryName": "تراث وطبيعة",
+  "coverImage": "assets/images/stories/story16.jpg",
+  "audio": "assets/audio/stories/story16.mp3",
+  "summary": "حكاية الذهب الأحمر في تالوين؛ عندما تتفتح زهور الزعفران البنفسجية في فجر الخريف، يجتمع أهل القرية في 'التويزة' ليجنوا خيوطه الثمينة قبل شروق الشمس، ويمزجونه بعسل السدر الجبلي النقي رمزاً للشفاء والكرم.",
+  "textTamazight": "ⵜⴰⵎⴰⵣⵉⵔⵜ ⵏ ⵜⴰⵍⵉⵡⵉⵏ ⵜⴻⵜⵜⵡⴰⵙⵙⵏ ⵙ ⵓⵣⴳⴳⵯⴰⵖ ⵏ ⵣⵣⴰⵄⴼⵔⴰⵏ ⵉⵥⵉⵍⵏ.\nⴷⴰ ⵜⵜⵎⵓⵏⵏ ⵢⵉⵡⴷⴰⵏ ⴳ ⵜⴰⵡⵉⵣⴰ ⵉ ⴰⵎⴳⴳⴰⵔ ⵏ ⴰⵊⴷⴷⵉⴳ ⵏ ⵣⵣⴰⵄⴼⵔⴰⵏ.\nⴷⴰ ⵜⴻⵜⵜⴰⴼⴳ ⵜⴰⵣⵡⵉⵜ ⴳ ⵜⴰⴼⵔⴽⴰ ⵏ ⵉⵊⴷⴷⵉⴳⵏ, ⵜⵙⴽⵔ ⵜⴰⵎⵏⵜ ⵜⴰⵎⵉⵎⵜ.\nⴳ ⵡⴰⵣⴰⵍ ⵏ ⵜⴼⵓⴽⵜ, ⴷⴰ ⵜⵜⵔⵉⵏ ⵎⵉⴷⴷⵏ ⵜⴰⴼⴰⵙⴽⴰ ⴷ ⵜⵓⴷⵔⵜ ⵜⴰⵥⵉⴹⴰⵏⵜ.\nⵙⵙⵎⵔⵙⵏ ⵉⵙⴰⴼⴰⵔⵏ ⴷ ⵣⵣⴰⵄⴼⵔⴰⵏ ⴳ ⵓⵙⴰⴼⴰⵔ ⴷ ⵓⵙⵡⵡⵉ ⴷ ⵜⵓⴷⵔⵜ ⵏⵏⵙⵏ.",
+  "textLatin": "Tamazirt n Taliwin tettwassn s uzggʷaɣ n Zzaɛfran iẓiln.\nDa ttmunn yiwdan g tawiza i umggar n ujddig n zzaɛfran.\nDa tttafg tazwit g tafrka n ijddign, tskr tament tamimt.\nG wazal n tfukt, da ttrn middn tafaska d tudrt taẓiḍant.\nSsmrsn isafarn d zzaɛfran g usafar d uswwi d tudrt nnsen.",
+  "textArabic": "تشتهر بلدة تالوين العريقة بجودة الذهب الأحمر، بهار الزعفران النفيس.\nيجتمع الأهالي في روح الـتويزة والتضامن الجماعي خلال موسم الحصاد لقطف زهرة الزعفران النضرة.\nوتحلق النحلة النشيطة فوق الحقل والمزرعة الصغيرة لتصنع عسلاً طبيعياً لذيذاً.\nفي وضح النهار المشرق، يستبشر الناس بالبركة والنعمة متذوقين حلاوة العيش الرغيد.\nويستخدمون الأعشاب الطبية والزعفران في التداوي الصحي والطبخ المغربي الأصيل.",
+  "grammar": "مفهوم 'Tawiza' في الثقافة الأمازيغية يعني العمل الجماعي التطوعي والتضامن الأهلي في مواسم الحصاد والبناء.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵙⴽⵔⵏ ⵡⴰⵢⵜ ⵜⵎⴰⵣⵉⵔⵜ ⵜⴰⵡⵉⵣⴰ ⴳ ⵓⵎⴳⴳⴰⵔ",
+    "sentenceLatin": "Skrn wayt tmazirt tawiza g umggar",
+    "sentenceArabic": "أقام أهل القرية تويزة في الحصاد",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵙⴽⵔⵏ",
+        "trans": "أقاموا / صنعوا (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵡⴰⵢⵜ",
+        "trans": "أهلُ (فاعل)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵜⵎⴰⵣⵉⵔⵜ",
+        "trans": "القرية (مضاف إليه مقيد)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵜⴰⵡⵉⵣⴰ",
+        "trans": "تويزة (مفعول به)"
+      },
+      {
+        "id": "w5",
+        "text": "ⴳ",
+        "trans": "في (حرف ظرف)"
+      },
+      {
+        "id": "w6",
+        "text": "ⵓⵎⴳⴳⴰⵔ",
+        "trans": "الحصاد / الجني (اسم مقيد)"
+      }
+    ],
+    "explanation": "التويزة 'Tawiza' تمثل جوهر التعاون الإنساني الأمازيغي في مواسم القطاف."
+  },
+  "vocabulary": [
+    {
+      "id": "s16_v1",
+      "tifinagh": "ⵣⵣⴰⵄⴼⵔⴰⵏ",
+      "latin": "Zzaɛfran",
+      "arabic": "الزعفران (الذهب الأحمر)",
+      "image": "assets/images/terms/s16_v1.webp",
+      "audio": "assets/audio/words/saffron.mp3",
+      "example": "ⵣⵣⴰⵄⴼⵔⴰⵏ ⵏ ⵜⴰⵍⵡⵉⵏ ⵉⵜⵜⵡⴰⵙⵙⵏ (زعفران تالوين مشهور عالمياً)",
+      "french": "Le safran pur (l'or rouge)",
+      "explanation": "ⵣⵣⴰⵄⴼⵔⴰⵏ ⵏ ⵜⴰⵍⵡⵉⵏ ⵉⵜⵜⵡⴰⵙⵙⵏ (زعفران تالوين مشهور عالمياً)"
+    },
+    {
+      "id": "s16_v2",
+      "tifinagh": "ⵜⴰⵡⵉⵣⴰ",
+      "latin": "Tawiza",
+      "arabic": "التويزة (العمل التطوعي التضامني)",
+      "image": "assets/images/terms/s16_v2.webp",
+      "audio": "assets/audio/words/tawiza.mp3",
+      "example": "ⵜⴰⵡⵉⵣⴰ ⵜⵙⵎⵓⵏ ⵉⵡⴷⴰⵏ (التويزة تجمع القلوب)",
+      "french": "La Tawiza (entraide solidaire)",
+      "explanation": "ⵜⴰⵡⵉⵣⴰ ⵜⵙⵎⵓⵏ ⵉⵡⴷⴰⵏ (التويزة تجمع القلوب)"
+    },
+    {
+      "id": "s16_v3",
+      "tifinagh": "ⴰⵊⴷⴷⵉⴳ",
+      "latin": "Ajddig",
+      "arabic": "الزهرة / الوردة",
+      "image": "assets/images/terms/s16_v3.webp",
+      "audio": "assets/audio/words/ajddig.mp3",
+      "example": "ⴰⵊⴷⴷⵉⴳ ⵏ ⵣⵣⴰⵄⴼⵔⴰⵏ ⵉⴼⵓⵍⴽⵉ (زهرة الزعفران بنفسجية)",
+      "french": "La fleur / La corolle",
+      "explanation": "ⴰⵊⴷⴷⵉⴳ ⵏ ⵣⵣⴰⵄⴼⵔⴰⵏ ⵉⴼⵓⵍⴽⵉ (زهرة الزعفران بنفسجية)"
+    },
+    {
+      "id": "s16_v4",
+      "tifinagh": "ⵜⴰⵣⵡⵉⵜ",
+      "latin": "Tazwit",
+      "arabic": "النحلة صانعة العسل",
+      "image": "assets/images/terms/s16_v4.webp",
+      "audio": "assets/audio/words/tazwit.mp3",
+      "example": "ⵜⴰⵣⵡⵉⵜ ⵜⵙⴽⴰⵔ ⵜⴰⵎⵏⵜ (النحلة تصنع العسل)",
+      "french": "L'abeille ouvrière",
+      "explanation": "ⵜⴰⵣⵡⵉⵜ ⵜⵙⴽⴰⵔ ⵜⴰⵎⵏⵜ (النحلة تصنع العسل)"
+    },
+    {
+      "id": "s16_v5",
+      "tifinagh": "ⴰⵎⴳⴳⴰⵔ",
+      "latin": "Amggar",
+      "arabic": "موسم الحصاد والجني",
+      "image": "assets/images/terms/s16_v5.webp",
+      "audio": "assets/audio/words/amggar.mp3",
+      "example": "ⵉⵡⴹ-ⴷ ⵓⵎⴳⴳⴰⵔ (حلّ أوان الحصاد)",
+      "french": "La cueillette / La moisson",
+      "explanation": "ⵉⵡⴹ-ⴷ ⵓⵎⴳⴳⴰⵔ (حلّ أوان الحصاد)"
+    },
+    {
+      "id": "s16_v6",
+      "tifinagh": "ⵜⴰⴼⵔⴽⴰ",
+      "latin": "Tafrka",
+      "arabic": "القطعة الفلاحية / الحقل الصغير",
+      "image": "assets/images/terms/s16_v6.webp",
+      "audio": "assets/audio/words/tafrka.mp3",
+      "example": "ⵜⴰⴼⵔⴽⴰ ⵏ ⵣⵣⴰⵄⴼⵔⴰⵏ (حقل الزعفران)",
+      "french": "La parcelle de culture",
+      "explanation": "ⵜⴰⴼⵔⴽⴰ ⵏ ⵣⵣⴰⵄⴼⵔⴰⵏ (حقل الزعفران)"
+    },
+    {
+      "id": "s16_v7",
+      "tifinagh": "ⵜⴰⴼⴰⵙⴽⴰ",
+      "latin": "Tafaska",
+      "arabic": "البركة والنعمة والعيد",
+      "image": "assets/images/terms/s16_v7.webp",
+      "audio": "assets/audio/words/tafaska.mp3",
+      "example": "ⵜⴰⴼⴰⵙⴽⴰ ⵜⴰⵎⵇⵔⴰⵏⵜ (نعمة وبركة عظيمة)",
+      "french": "La fête de la récolte et de la grâce",
+      "explanation": "ⵜⴰⴼⴰⵙⴽⴰ ⵜⴰⵎⵇⵔⴰⵏⵜ (نعمة وبركة عظيمة)"
+    },
+    {
+      "id": "s16_v8",
+      "tifinagh": "ⴰⵣⴰⵍ",
+      "latin": "Azal",
+      "arabic": "وضح النهار والشمس المشرقة",
+      "image": "assets/images/terms/s16_v8.webp",
+      "audio": "assets/audio/words/azal.mp3",
+      "example": "ⴳ ⵓⵣⴰⵍ ⵏⵙⵡⵓⵔⵉ (في وضح النهار نعمل)",
+      "french": "Le plein midi ensoleillé",
+      "explanation": "ⴳ ⵓⵣⴰⵍ ⵏⵙⵡⵓⵔⵉ (في وضح النهار نعمل)"
+    },
+    {
+      "id": "s16_v9",
+      "tifinagh": "ⵜⴰⵥⵉⴹⴰⵏⵜ",
+      "latin": "Taẓiḍant",
+      "arabic": "الحلاوة والمذاق الطيب",
+      "image": "assets/images/terms/s16_v9.webp",
+      "audio": "assets/audio/words/tazidant.mp3",
+      "example": "ⵜⴰⵎⵏⵜ ⵜⵍⴰ ⵜⴰⵥⵉⴹⴰⵏⵜ (العسل ذو حلاوة طيبة)",
+      "french": "La douceur sucrée / La saveur",
+      "explanation": "ⵜⴰⵎⵏⵜ ⵜⵍⴰ ⵜⴰⵥⵉⴹⴰⵏⵜ (العسل ذو حلاوة طيبة)"
+    },
+    {
+      "id": "s16_v10",
+      "tifinagh": "ⵉⵙⴰⴼⴰⵔⵏ",
+      "latin": "Isafarn",
+      "arabic": "الأعشاب الطبية والعطرية",
+      "image": "assets/images/terms/s16_v10.webp",
+      "audio": "assets/audio/words/isafarn.mp3",
+      "example": "ⵉⵙⴰⴼⴰⵔⵏ ⵏ ⵡⴰⵟⵍⴰⵙ (أعشاب الأطلس الطبية)",
+      "french": "Les remèdes aux herbes médicinales",
+      "explanation": "ⵉⵙⴰⴼⴰⵔⵏ ⵏ ⵡⴰⵟⵍⴰⵙ (أعشاب الأطلس الطبية)"
+    }
+  ],
+  "textFrench": "La région de Taliouine est réputée pour son précieux safran rouge d'excellence.\nLes villageois s'unissent dans la tradition de Tawiza pour la récolte de la fleur de safran.\nL'abeille butine avec ardeur sur chaque parcelle pour fabriquer un miel exquis.\nEn plein jour sous le soleil, les habitants célèbrent l'abondance et la douceur de vivre.\nIls utilisent les plantes médicinales et le safran dans les remèdes naturels et la cuisine.",
+  "genre": "ثقافة زراعية وتضامن تويزة (Agricultural Heritage)",
+  "source": "مهرجان الزعفران بتالوين / التراث الزراعي السوسي",
+  "culturalContext": "زهرة الزعفران (الذهب الأحمر) بتالوين؛ تُجنى فجراً في تلاحم اجتماعي بديع يجسد قيمة 'التويزة' والتكافل القروي.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s16_v1",
+      "targetTifinagh": "ⵣⵣⴰⵄⴼⵔⴰⵏ",
+      "targetLatin": "Zzaɛfran",
+      "targetArabic": "الزعفران (الذهب الأحمر)",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵣⵣⴰⵄⴼⵔⴰⵏ] (Zzaɛfran)؟",
+      "options": [
+        "الحلاوة والمذاق الطيب",
+        "القطعة الفلاحية / الحقل الصغير",
+        "التويزة (العمل التطوعي التضامني)",
+        "الزعفران (الذهب الأحمر)"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵣⵣⴰⵄⴼⵔⴰⵏ] (ينطق: Zzaɛfran) يعني بالعربية: 'الزعفران (الذهب الأحمر)'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s16_v2",
+      "targetTifinagh": "ⵜⴰⵡⵉⵣⴰ",
+      "targetLatin": "Tawiza",
+      "targetArabic": "التويزة (العمل التطوعي التضامني)",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'التويزة (العمل التطوعي التضامني)'؟",
+      "options": [
+        "ⵜⴰⵥⵉⴹⴰⵏⵜ (Taẓiḍant)",
+        "ⵜⴰⴼⴰⵙⴽⴰ (Tafaska)",
+        "ⵣⵣⴰⵄⴼⵔⴰⵏ (Zzaɛfran)",
+        "ⵜⴰⵡⵉⵣⴰ (Tawiza)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵡⵉⵣⴰ] (Tawiza) وترجمتها: 'التويزة (العمل التطوعي التضامني)'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s16_v3",
+      "targetTifinagh": "ⴰⵊⴷⴷⵉⴳ",
+      "targetLatin": "Ajddig",
+      "targetArabic": "الزهرة / الوردة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵊⴷⴷⵉⴳ] (Ajddig)؟",
+      "options": [
+        "القطعة الفلاحية / الحقل الصغير / ",
+        "الأعشاب الطبية والعطرية / ",
+        "الزهرة / الوردة / ",
+        "البركة والنعمة والعيد / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵊⴷⴷⵉⴳ] (Ajddig) ورد في سياق الحكاية للدلالة على: الزهرة / الوردة ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s16_v4",
+      "targetTifinagh": "ⵜⴰⵣⵡⵉⵜ",
+      "targetLatin": "Tazwit",
+      "targetArabic": "النحلة صانعة العسل",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵣⵡⵉⵜ] (Tazwit)؟",
+      "options": [
+        "موسم الحصاد والجني",
+        "الحلاوة والمذاق الطيب",
+        "التويزة (العمل التطوعي التضامني)",
+        "النحلة صانعة العسل"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵣⵡⵉⵜ] (ينطق: Tazwit) يعني بالعربية: 'النحلة صانعة العسل'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s16_v5",
+      "targetTifinagh": "ⴰⵎⴳⴳⴰⵔ",
+      "targetLatin": "Amggar",
+      "targetArabic": "موسم الحصاد والجني",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'موسم الحصاد والجني'؟",
+      "options": [
+        "ⵜⴰⴼⴰⵙⴽⴰ (Tafaska)",
+        "ⴰⵣⴰⵍ (Azal)",
+        "ⵜⴰⵣⵡⵉⵜ (Tazwit)",
+        "ⴰⵎⴳⴳⴰⵔ (Amggar)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵎⴳⴳⴰⵔ] (Amggar) وترجمتها: 'موسم الحصاد والجني'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s16_v6",
+      "targetTifinagh": "ⵜⴰⴼⵔⴽⴰ",
+      "targetLatin": "Tafrka",
+      "targetArabic": "القطعة الفلاحية / الحقل الصغير",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴼⵔⴽⴰ] (Tafrka)؟",
+      "options": [
+        "القطعة الفلاحية / الحقل الصغير / ",
+        "التويزة (العمل التطوعي التضامني) / ",
+        "النحلة صانعة العسل / ",
+        "وضح النهار والشمس المشرقة / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴼⵔⴽⴰ] (Tafrka) ورد في سياق الحكاية للدلالة على: القطعة الفلاحية / الحقل الصغير ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s16_v7",
+      "targetTifinagh": "ⵜⴰⴼⴰⵙⴽⴰ",
+      "targetLatin": "Tafaska",
+      "targetArabic": "البركة والنعمة والعيد",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴼⴰⵙⴽⴰ] (Tafaska)؟",
+      "options": [
+        "التويزة (العمل التطوعي التضامني)",
+        "الحلاوة والمذاق الطيب",
+        "البركة والنعمة والعيد",
+        "النحلة صانعة العسل"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴼⴰⵙⴽⴰ] (ينطق: Tafaska) يعني بالعربية: 'البركة والنعمة والعيد'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s16_v8",
+      "targetTifinagh": "ⴰⵣⴰⵍ",
+      "targetLatin": "Azal",
+      "targetArabic": "وضح النهار والشمس المشرقة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'وضح النهار والشمس المشرقة'؟",
+      "options": [
+        "ⴰⵎⴳⴳⴰⵔ (Amggar)",
+        "ⴰⵣⴰⵍ (Azal)",
+        "ⵜⴰⴼⵔⴽⴰ (Tafrka)",
+        "ⵣⵣⴰⵄⴼⵔⴰⵏ (Zzaɛfran)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵣⴰⵍ] (Azal) وترجمتها: 'وضح النهار والشمس المشرقة'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s16_v9",
+      "targetTifinagh": "ⵜⴰⵥⵉⴹⴰⵏⵜ",
+      "targetLatin": "Taẓiḍant",
+      "targetArabic": "الحلاوة والمذاق الطيب",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵥⵉⴹⴰⵏⵜ] (Taẓiḍant)؟",
+      "options": [
+        "موسم الحصاد والجني / ",
+        "الحلاوة والمذاق الطيب / ",
+        "الزعفران (الذهب الأحمر) / ",
+        "القطعة الفلاحية / الحقل الصغير / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵥⵉⴹⴰⵏⵜ] (Taẓiḍant) ورد في سياق الحكاية للدلالة على: الحلاوة والمذاق الطيب ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s16_v10",
+      "targetTifinagh": "ⵉⵙⴰⴼⴰⵔⵏ",
+      "targetLatin": "Isafarn",
+      "targetArabic": "الأعشاب الطبية والعطرية",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵙⴰⴼⴰⵔⵏ] (Isafarn)؟",
+      "options": [
+        "النحلة صانعة العسل",
+        "الأعشاب الطبية والعطرية",
+        "وضح النهار والشمس المشرقة",
+        "البركة والنعمة والعيد"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵉⵙⴰⴼⴰⵔⵏ] (ينطق: Isafarn) يعني بالعربية: 'الأعشاب الطبية والعطرية'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

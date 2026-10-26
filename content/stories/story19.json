@@ -1,0 +1,340 @@
+{
+  "id": "story19",
+  "title": "تافوكت والليل: أسطورة الشمس وقمر تيداس في الميثولوجيا",
+  "titleTifinagh": "ⵜⴰⴼⵓⴽⵜ ⴷ ⵡⴰⵢⵢⵓⵔ ⴳ ⵉⴳⵏⵏⵉ",
+  "titleLatin": "Tafukt d Wayyur g Yignni",
+  "region": "الميثولوجيا الأمازيغية المغربية",
+  "dialect": "الأمازيغية المشتركة (Tamazight)",
+  "level": "متوسط (Level 2)",
+  "category": "legends",
+  "categoryName": "أساطير وفلك",
+  "coverImage": "assets/images/stories/story19.jpg",
+  "audio": "assets/audio/stories/story19.mp3",
+  "summary": "أسطورة الشروق والغروب في الخيال الأمازيغي القديم؛ تافوكت (الشمس الجميلة) وأيور (القمر الوفي)، كيف يتعاقبان بلطف ومحبة لتهب تافوكت النور والدفء للزرع نهاراً، ويسهر أيور مع النجوم لحراسة نوم الكائنات ليلاً.",
+  "textTamazight": "ⴳ ⵉⴳⵏⵏⵉ ⴰⵥⵕⵡⴰⵏ, ⴷⴰ ⵜⵜⴼⴰⵡ ⵜⴰⴼⵓⴽⵜ ⴳ ⵡⴰⵣⴰⵍ, ⵜⴼⴽ ⵓⵥⵖⵓⵕ ⴷ ⵜⵓⴷⵔⵜ ⵉ ⵡⴰⴽⴰⵍ.\nⴽⵓⴷⵏⵏⴰ ⵉⵍⴽⵎ ⵉⴹ, ⴷⴰ ⵜⴽⵛⵛⵎ ⵜⵉⵍⵍⴰⵙ, ⵉⴼⴼⵖ-ⴷ ⴰⵢⵢⵓⵔ ⴷ ⴽⵓ ⵉⵜⵔⵉ ⵉⵜⵜⴼⴰⵡⵏ.\nⴷⴰ ⵉⵜⵜⵎⵙⴽⴰⵔ ⴰⵙⵉⴷ ⵏ ⵓⵢⵢⵓⵔ ⴷ ⵜⵉⴼⴰⵡⵜ ⵏ ⵜⴼⵓⴽⵜ ⴰⴼⴰⴷ ⴰⴷ ⵉⵙⵙⵉⴷⵙ ⴰⵎⴰⴹⴰⵍ.\nⵙ ⵓⵎⵙⴰⵙⴰ-ⴰⴷ ⴰⴳⴰⵎⴰⵏ, ⴷⴰ ⵜⴻⵜⵜⵉⵍⵉ ⵜⵓⴷⵔⵜ ⴳ ⵓⴼⵔⴰ ⴷ ⵜⵓⵎⵔⵜ.\nⵜⴳⴰ ⵜⴰⵏⴼⵓⵙⵜ ⵏ ⵜⴼⵓⴽⵜ ⴷ ⵓⵢⵢⵓⵔ ⵜⴰⵢⵙⵉ ⵏ ⵜⵎⵙⵙⵓⵔⵜ ⴷ ⵓⵏⵍⵍⵉ ⴰⵎⴰⵣⵉⵖ.",
+  "textLatin": "G ignni aẓṛwan, da ttfaw tafukt g wazal, tfk uẓɣuṛ d tudrt i wakal.\nKudnna ilkm iḍ, da tkccm tillas, iffɣ-d ayyur d ku itri ittfawn.\nDa ittmskar usid n uyyur d tifawt n tfukt afad ad issids amaḍal.\nS umsasa-ad agaman, da tttili tudrt g afra d tumrt.\nTga tanfust n tfukt d uyyur taysi n tmssurt d unlli amaziɣ.",
+  "textArabic": "في أعالي السماء الزرقاء الصافية، تسطع الشمس بالنور في وضح النهار وتهب الدفء والحرارة اللطيفة للأرض.\nوحينما يحل الليل الهادئ، تنحسر العتمة و الظلام بإشراقة الـقمر المنير وبزوغ كل نـجم و كوكب متلألئ.\nيتكامل إشراق القمر وسطوعه مع ضياء الشمس الوهاج ليضمنا التوازن الدائم للكون والوجود.\nوبفضل هذا الانسجام الكوني البديع، تستمر الحياة في سلام وطمأنينة وجمال لا ينتهي.\nتمثل أسطورة الشمس والقمر إرثاً فلسفياً عميقاً يعكس عبقرية الفكر والتأمل الأمازيغي.",
+  "grammar": "كلمة 'Tafukt' (الشمس) مؤنثة، و 'Ayyur' (القمر) مذكر، وهي قاعدة بلاغية محورية في اللغة الأمازيغية.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵜⴼⴽⴰ ⵜⴼⵓⴽⵜ ⵜⵉⴼⴰⵡⵜ ⵉ ⵡⴰⴽⴰⵍ",
+    "sentenceLatin": "Tfka tfukt tifawt i wakal",
+    "sentenceArabic": "أعطت الشمسُ النورَ للأرض",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵜⴼⴽⴰ",
+        "trans": "أعطت / وهبت (فعل مؤنث)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵜⴼⵓⴽⵜ",
+        "trans": "الشمسُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵜⵉⴼⴰⵡⵜ",
+        "trans": "النورَ / الضياء (مفعول به)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵉ",
+        "trans": "لـ (حرف جر)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵡⴰⴽⴰⵍ",
+        "trans": "الأرضِ (اسم مقيد)"
+      }
+    ],
+    "explanation": "الجملة تعبر عن دور الشمس في منح الحياة والضياء للأرض."
+  },
+  "vocabulary": [
+    {
+      "id": "s19_v1",
+      "tifinagh": "ⵜⴰⴼⵓⴽⵜ",
+      "latin": "Tafukt",
+      "arabic": "الشمس",
+      "image": "assets/images/terms/s19_v1.webp",
+      "audio": "assets/audio/words/tafukt.mp3",
+      "example": "ⵜⴰⴼⵓⴽⵜ ⵜⴼⴰⵡ (الشمس مشرقة وساطعة)",
+      "french": "Le soleil",
+      "explanation": "ⵜⴰⴼⵓⴽⵜ ⵜⴼⴰⵡ (الشمس مشرقة وساطعة)"
+    },
+    {
+      "id": "s19_v2",
+      "tifinagh": "ⴰⵢⵢⵓⵔ",
+      "latin": "Ayyur",
+      "arabic": "القمر / الشهر",
+      "image": "assets/images/terms/s19_v2.webp",
+      "audio": "assets/audio/words/ayyur.mp3",
+      "example": "ⴰⵢⵢⵓⵔ ⴳ ⵉⴳⵏⵏⵉ (القمر في كبد السماء)",
+      "french": "La lune",
+      "explanation": "ⴰⵢⵢⵓⵔ ⴳ ⵉⴳⵏⵏⵉ (القمر في كبد السماء)"
+    },
+    {
+      "id": "s19_v3",
+      "tifinagh": "ⵉⴳⵏⵏⵉ",
+      "latin": "Ignni",
+      "arabic": "السماء / الفضاء الأزرق",
+      "image": "assets/images/terms/s19_v3.webp",
+      "audio": "assets/audio/words/ignni.mp3",
+      "example": "ⵉⴳⵏⵏⵉ ⵉⵣⴳⵣⴰ (السماء زرقاء وصافية)",
+      "french": "Le firmament / Le ciel",
+      "explanation": "ⵉⴳⵏⵏⵉ ⵉⵣⴳⵣⴰ (السماء زرقاء وصافية)"
+    },
+    {
+      "id": "s19_v4",
+      "tifinagh": "ⵜⵉⴼⴰⵡⵜ",
+      "latin": "Tifawt",
+      "arabic": "النور والضياء",
+      "image": "assets/images/terms/s19_v4.webp",
+      "audio": "assets/audio/words/tifawt.mp3",
+      "example": "ⵜⵉⴼⴰⵡⵜ ⵏ ⵓⵣⴰⵍ (نور النهار)",
+      "french": "La clarté lumineuse",
+      "explanation": "ⵜⵉⴼⴰⵡⵜ ⵏ ⵓⵣⴰⵍ (نور النهار)"
+    },
+    {
+      "id": "s19_v5",
+      "tifinagh": "ⵜⵉⵍⵍⴰⵙ",
+      "latin": "Tillas",
+      "arabic": "الظلام والعتمة",
+      "image": "assets/images/terms/s19_v5.webp",
+      "audio": "assets/audio/words/tillas.mp3",
+      "example": "ⵜⵉⵍⵍⴰⵙ ⵏ ⵢⵉⴹ (ظلام الليل الدامس)",
+      "french": "L'obscurité / Les ombres de la nuit",
+      "explanation": "ⵜⵉⵍⵍⴰⵙ ⵏ ⵢⵉⴹ (ظلام الليل الدامس)"
+    },
+    {
+      "id": "s19_v6",
+      "tifinagh": "ⵉⵜⵔⵉ",
+      "latin": "Itri",
+      "arabic": "النجم (جمع Itran)",
+      "image": "assets/images/terms/s19_v6.webp",
+      "audio": "assets/audio/words/itri.mp3",
+      "example": "ⵉⵜⵔⵉ ⴰⵎⵥⵢⴰⵏ ⵉⵜⵜⴼⴰⵡ (النجم الصغير يلمع)",
+      "french": "L'astre étincelant / L'étoile",
+      "explanation": "ⵉⵜⵔⵉ ⴰⵎⵥⵢⴰⵏ ⵉⵜⵜⴼⴰⵡ (النجم الصغير يلمع)"
+    },
+    {
+      "id": "s19_v7",
+      "tifinagh": "ⴰⵙⵉⴷ",
+      "latin": "Asid",
+      "arabic": "الإشراق والسطوع",
+      "image": "assets/images/terms/s19_v7.webp",
+      "audio": "assets/audio/words/asid.mp3",
+      "example": "ⴰⵙⵉⴷ ⵏ ⵜⴼⴰⵡⵜ (إشراق النور)",
+      "french": "Le rayonnement bienfaisant",
+      "explanation": "ⴰⵙⵉⴷ ⵏ ⵜⴼⴰⵡⵜ (إشراق النور)"
+    },
+    {
+      "id": "s19_v8",
+      "tifinagh": "ⴰⵣⴰⵍ",
+      "latin": "Azal",
+      "arabic": "النهار / وقت الظهيرة",
+      "image": "assets/images/terms/s19_v8.webp",
+      "audio": "assets/audio/words/azal.mp3",
+      "example": "ⴳ ⵓⵣⴰⵍ ⵏⵜⵜⴰⴼⴰ ⵜⴰⴼⵓⴽⵜ (في النهار نرى الشمس)",
+      "french": "Le jour et la lumière diurne",
+      "explanation": "ⴳ ⵓⵣⴰⵍ ⵏⵜⵜⴰⴼⴰ ⵜⴰⴼⵓⴽⵜ (في النهار نرى الشمس)"
+    },
+    {
+      "id": "s19_v9",
+      "tifinagh": "ⵉⴹ",
+      "latin": "Iḍ",
+      "arabic": "الليل والسكون",
+      "image": "assets/images/terms/s19_v9.webp",
+      "audio": "assets/audio/words/id.mp3",
+      "example": "ⵉⴹ ⵉⵚⵎⵎⵉⴹ (الليل هادئ وبارد)",
+      "french": "La nuit et le repos",
+      "explanation": "ⵉⴹ ⵉⵚⵎⵎⵉⴹ (الليل هادئ وبارد)"
+    },
+    {
+      "id": "s19_v10",
+      "tifinagh": "ⵓⵥⵖⵓⵕ",
+      "latin": "Uẓɣuṛ",
+      "arabic": "الدفء والحرارة اللطيفة",
+      "image": "assets/images/terms/s19_v10.webp",
+      "audio": "assets/audio/words/uzgur.mp3",
+      "example": "ⵓⵥⵖⵓⵕ ⵏ ⵜⴼⵓⴽⵜ (دفء أشعة الشمس)",
+      "french": "La douce chaleur vitale",
+      "explanation": "ⵓⵥⵖⵓⵕ ⵏ ⵜⴼⵓⴽⵜ (دفء أشعة الشمس)"
+    }
+  ],
+  "textFrench": "Dans l'azur infini du ciel, le soleil resplendit en plein jour, offrant chaleur et vie à la terre.\nLorsque survient la nuit, l'obscurité s'efface devant la lune bienveillante et chaque étoile brillante.\nL'éclat rayonnant lunaire succède à la clarté solaire pour maintenir l'harmonie du monde.\nGrâce à ce rythme naturel parfait, la vie prospère dans la paix et l'équilibre.\nLe mythe du soleil et de la lune illustre la poésie et la sagesse cosmologique amazighe.",
+  "genre": "أسطورة كونية فلسفية (Cosmological Legend)",
+  "source": "الميثولوجيا الأمازيغية في شمال إفريقيا / التراث الفلكي الشعبي",
+  "culturalContext": "أسطورة الشمس (تافوكت) والقمر (أيور)؛ تأمل فلسفي أمازيغي قديم في تعاقب الليل والنهار والتوازن البيئي الكوني.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s19_v1",
+      "targetTifinagh": "ⵜⴰⴼⵓⴽⵜ",
+      "targetLatin": "Tafukt",
+      "targetArabic": "الشمس",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴼⵓⴽⵜ] (Tafukt)؟",
+      "options": [
+        "النور والضياء",
+        "الشمس",
+        "السماء / الفضاء الأزرق",
+        "الظلام والعتمة"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴼⵓⴽⵜ] (ينطق: Tafukt) يعني بالعربية: 'الشمس'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s19_v2",
+      "targetTifinagh": "ⴰⵢⵢⵓⵔ",
+      "targetLatin": "Ayyur",
+      "targetArabic": "القمر / الشهر",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'القمر / الشهر'؟",
+      "options": [
+        "ⴰⵢⵢⵓⵔ (Ayyur)",
+        "ⵉⴳⵏⵏⵉ (Ignni)",
+        "ⵜⵉⵍⵍⴰⵙ (Tillas)",
+        "ⵉⵜⵔⵉ (Itri)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵢⵢⵓⵔ] (Ayyur) وترجمتها: 'القمر / الشهر'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s19_v3",
+      "targetTifinagh": "ⵉⴳⵏⵏⵉ",
+      "targetLatin": "Ignni",
+      "targetArabic": "السماء / الفضاء الأزرق",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵉⴳⵏⵏⵉ] (Ignni)؟",
+      "options": [
+        "السماء / الفضاء الأزرق / ",
+        "الليل والسكون / ",
+        "القمر / الشهر / ",
+        "الدفء والحرارة اللطيفة / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵉⴳⵏⵏⵉ] (Ignni) ورد في سياق الحكاية للدلالة على: السماء / الفضاء الأزرق ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s19_v4",
+      "targetTifinagh": "ⵜⵉⴼⴰⵡⵜ",
+      "targetLatin": "Tifawt",
+      "targetArabic": "النور والضياء",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⴼⴰⵡⵜ] (Tifawt)؟",
+      "options": [
+        "النهار / وقت الظهيرة",
+        "الدفء والحرارة اللطيفة",
+        "النور والضياء",
+        "النجم (جمع Itran)"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⴼⴰⵡⵜ] (ينطق: Tifawt) يعني بالعربية: 'النور والضياء'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s19_v5",
+      "targetTifinagh": "ⵜⵉⵍⵍⴰⵙ",
+      "targetLatin": "Tillas",
+      "targetArabic": "الظلام والعتمة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الظلام والعتمة'؟",
+      "options": [
+        "ⵜⵉⵍⵍⴰⵙ (Tillas)",
+        "ⴰⵢⵢⵓⵔ (Ayyur)",
+        "ⵜⴰⴼⵓⴽⵜ (Tafukt)",
+        "ⴰⵙⵉⴷ (Asid)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵍⵍⴰⵙ] (Tillas) وترجمتها: 'الظلام والعتمة'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s19_v6",
+      "targetTifinagh": "ⵉⵜⵔⵉ",
+      "targetLatin": "Itri",
+      "targetArabic": "النجم (جمع Itran)",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵉⵜⵔⵉ] (Itri)؟",
+      "options": [
+        "الشمس / ",
+        "النجم (جمع Itran) / ",
+        "النور والضياء / ",
+        "الظلام والعتمة / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵉⵜⵔⵉ] (Itri) ورد في سياق الحكاية للدلالة على: النجم (جمع Itran) ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s19_v7",
+      "targetTifinagh": "ⴰⵙⵉⴷ",
+      "targetLatin": "Asid",
+      "targetArabic": "الإشراق والسطوع",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵙⵉⴷ] (Asid)؟",
+      "options": [
+        "الظلام والعتمة",
+        "الإشراق والسطوع",
+        "الشمس",
+        "القمر / الشهر"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵙⵉⴷ] (ينطق: Asid) يعني بالعربية: 'الإشراق والسطوع'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s19_v8",
+      "targetTifinagh": "ⴰⵣⴰⵍ",
+      "targetLatin": "Azal",
+      "targetArabic": "النهار / وقت الظهيرة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'النهار / وقت الظهيرة'؟",
+      "options": [
+        "ⴰⵣⴰⵍ (Azal)",
+        "ⵓⵥⵖⵓⵕ (Uẓɣuṛ)",
+        "ⵜⵉⵍⵍⴰⵙ (Tillas)",
+        "ⵉⵜⵔⵉ (Itri)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵣⴰⵍ] (Azal) وترجمتها: 'النهار / وقت الظهيرة'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s19_v9",
+      "targetTifinagh": "ⵉⴹ",
+      "targetLatin": "Iḍ",
+      "targetArabic": "الليل والسكون",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵉⴹ] (Iḍ)؟",
+      "options": [
+        "الشمس / ",
+        "الليل والسكون / ",
+        "القمر / الشهر / ",
+        "الظلام والعتمة / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵉⴹ] (Iḍ) ورد في سياق الحكاية للدلالة على: الليل والسكون ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s19_v10",
+      "targetTifinagh": "ⵓⵥⵖⵓⵕ",
+      "targetLatin": "Uẓɣuṛ",
+      "targetArabic": "الدفء والحرارة اللطيفة",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵓⵥⵖⵓⵕ] (Uẓɣuṛ)؟",
+      "options": [
+        "الشمس",
+        "النجم (جمع Itran)",
+        "الدفء والحرارة اللطيفة",
+        "النهار / وقت الظهيرة"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵓⵥⵖⵓⵕ] (ينطق: Uẓɣuṛ) يعني بالعربية: 'الدفء والحرارة اللطيفة'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

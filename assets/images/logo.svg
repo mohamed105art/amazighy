@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient (Deep Navy with subtle glow) -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="50%" stop-color="#0f2744"/>
+      <stop offset="100%" stop-color="#081422"/>
+    </linearGradient>
+
+    <!-- Blue Bubble Gradient (Sea & Sky) -->
+    <radialGradient id="blueBubble" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="60%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </radialGradient>
+
+    <!-- Green Bubble Gradient (Land & Atlas) -->
+    <radialGradient id="greenBubble" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="60%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </radialGradient>
+
+    <!-- Yellow Bubble Gradient (Sahara Sand & Sunshine) -->
+    <radialGradient id="yellowBubble" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="60%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </radialGradient>
+
+    <!-- Red Yaz Symbol Gradient (Freedom & Life) -->
+    <linearGradient id="redYaz" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff4d4d"/>
+      <stop offset="50%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#991b1b"/>
+    </linearGradient>
+
+    <!-- Drop Shadow for the central Yaz -->
+    <filter id="yazGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#ef4444" flood-opacity="0.45"/>
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+
+    <filter id="bubbleBlur" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+
+  <!-- App Icon Base: Rounded Square with Subtle Gold Border -->
+  <rect width="512" height="512" rx="120" fill="url(#bgGrad)"/>
+  <rect x="4" y="4" width="504" height="504" rx="116" fill="none" stroke="rgba(245, 158, 11, 0.4)" stroke-width="6"/>
+
+  <!-- Artistic Bubbles in Amazigh Flag Colors -->
+  <!-- Top Blue Bubble (Sky & Sea) -->
+  <circle cx="160" cy="150" r="130" fill="url(#blueBubble)" opacity="0.85"/>
+  <circle cx="140" cy="120" r="40" fill="#ffffff" opacity="0.25"/>
+
+  <!-- Middle/Right Green Bubble (Land & Mountains) -->
+  <circle cx="360" cy="200" r="140" fill="url(#greenBubble)" opacity="0.85"/>
+  <circle cx="380" cy="170" r="45" fill="#ffffff" opacity="0.25"/>
+
+  <!-- Bottom Yellow Bubble (Desert Sand & Sunshine) -->
+  <circle cx="230" cy="380" r="145" fill="url(#yellowBubble)" opacity="0.85"/>
+  <circle cx="200" cy="350" r="45" fill="#ffffff" opacity="0.3"/>
+
+  <!-- Small decorative colorful accent bubbles -->
+  <circle cx="90" cy="310" r="35" fill="url(#greenBubble)" opacity="0.7"/>
+  <circle cx="410" cy="370" r="40" fill="url(#blueBubble)" opacity="0.7"/>
+  <circle cx="280" cy="90" r="28" fill="url(#yellowBubble)" opacity="0.8"/>
+  <circle cx="110" cy="190" r="18" fill="#ffffff" opacity="0.4"/>
+  <circle cx="390" cy="130" r="16" fill="#ffffff" opacity="0.4"/>
+
+  <!-- Soft Central Frosted Glass Disc Behind the Yaz for High Contrast -->
+  <circle cx="256" cy="256" r="165" fill="#0b1728" opacity="0.75" stroke="rgba(255, 255, 255, 0.15)" stroke-width="3"/>
+
+  <!-- The Sacred Amazigh Symbol: YAZ (ⵣ) in Brilliant Ruby Red -->
+  <g filter="url(#yazGlow)">
+    <!-- Central Vertical Stem -->
+    <line x1="256" y1="125" x2="256" y2="387" stroke="url(#redYaz)" stroke-width="38" stroke-linecap="round"/>
+
+    <!-- Upper Crescent (Arms raised to sky) -->
+    <path d="M150 175 C150 245, 362 245, 362 175" fill="none" stroke="url(#redYaz)" stroke-width="36" stroke-linecap="round"/>
+
+    <!-- Lower Crescent (Feet rooted in land) -->
+    <path d="M150 337 C150 267, 362 267, 362 337" fill="none" stroke="url(#redYaz)" stroke-width="36" stroke-linecap="round"/>
+
+    <!-- Inner Highlight on Yaz for 3D look -->
+    <line x1="256" y1="140" x2="256" y2="372" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.4"/>
+  </g>
+</svg>

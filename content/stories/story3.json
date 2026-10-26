@@ -1,0 +1,335 @@
+{
+  "id": "story3",
+  "title": "بحيرتا إيسلي وتيسليت في إملشيل",
+  "titleTifinagh": "ⵉⵙⵍⵉ ⴷ ⵜⵉⵙⵍⵉⵜ ⴳ ⵉⵎⵉⵍⵛⵉⵍ",
+  "titleLatin": "Isli d Tislit g Yimilcil",
+  "region": "الأطلس الكبير الشرقي (إملشيل وبومية)",
+  "dialect": "تمازيغت (Tamaziɣt n Waṭlaṣ)",
+  "level": "مبتدئ (Level 1)",
+  "category": "legends",
+  "categoryName": "أساطير وتراث",
+  "coverImage": "assets/images/stories/story3.jpg",
+  "audio": "assets/audio/stories/story3.mp3",
+  "summary": "أسطورة روميو وجولييت الأمازيغية الخالدة في قمم إملشيل؛ حب الفارس 'إيسلي' والفتاة 'تيسليت' اللذين حالت عداوة قبيلتيهما دون زواجهما، فبكت عيونهما حتى تشكلت بحيرتا إيسلي وتيسليت وولد موسم الخطوبة الشهير تكفيراً عن العناد.",
+  "textTamazight": "ⴳ ⵓⴷⵔⴰⵔ ⵏ ⵉⵎⵉⵍⵛⵉⵍ, ⵉⵍⵍⴰ ⵢⴰⵏ ⵓⴼⵔⵓⵅ ⵉⵙⵎ ⵏⵏⵙ ⵉⵙⵍⵉ ⴷ ⵢⴰⵜ ⵜⴼⵔⵓⵅⵜ ⵉⵙⵎ ⵏⵏⵙ ⵜⵉⵙⵍⵉⵜ.\nⵜⴻⵜⵜⵡⴰⴳⴷⴰⵍ ⵜⴰⵎⵖⵔⴰ ⵏⵏⵙⵏ ⵙ ⵓⵙⵔⴰⴳ ⵏ ⵓⵎⵏⵖⵉ ⵏⴳⵔ ⵜⴰⵇⴱⵉⵍⵜ ⴷ ⵜⴰⵢⵢⴰⴹ.\nⵢⵓⵔⴰⵔ ⵓⵍ ⵏⵏⵙⵏ ⵙ ⵜⴰⵢⵔⵉ ⵉⴷⵓⵙⵏ, ⵎⴰⵛⴰ ⵓⵔ ⵓⴼⵉⵏ ⴰⵏⴰⵔⵓⵣ ⴳ ⵓⵎⴰⴹⴰⵍ.\nⵕⵥⴰⵏ ⵉⵎⵟⵟⴰⵡⵏ ⵏⵏⵙⵏ ⴳ ⵡⴰⴽⴰⵍ, ⵙⵙⵓⴼⵖⵏ-ⴷ ⵙⵉⵏ ⵉⴳⵍⵎⴰⵎⵏ: ⴰⴳⵍⵎⴰⵎ ⵏ ⵉⵙⵍⵉ ⴷ ⵡⵉⵏ ⵜⵉⵙⵍⵉⵜ.\nⴳ ⴽⵓ ⴰⵎⵓⴷ, ⴷⴰ ⵜⵜⵎⵓⵏⵏ ⵎⵉⴷⴷⵏ ⴳ ⵓⵏⵎⵓⴳⴳⴰⵔ ⵜⴰⵎⴰ ⵏ ⵡⴰⵎⴰⵏ ⴰⵣⴳⵣⴰ ⵏ ⵜⵎⵖⵔⵉⵡⵉⵏ.",
+  "textLatin": "G udrar n Imilcil, illa yan ufrux ism nnes Isli d yat tfruxt ism nnes Tislit.\nTettwagdal tamɣra nnsen s usrag n umnɣi ngr taqbilt d tayyaḍ.\nYurar ul nnsen s tayri idusn, maca ur ufin anaruz g umaḍal.\nṚzan imṭṭawn nnsen g wakal, ssufɣn-d sin iglmamn: aglmam n Isli d win Tislit.\nG ku amud, da ttmunn middn g unmuggar tama n waman azgza n tmɣriwin.",
+  "textArabic": "في جبال إملشيل العالية، أحب العريس الشاب إيسلي الفتاة الحسناء العروس تيسليت.\nمُنِع حفل الزفاف بسبب نزاع تاريخي بين قبيلة وأخرى مجاورة.\nفاض قلب العاشقين بمحبة صادقة وعشق خالد تعالت أصداؤه بين القمم.\nانهمرت الدموع الغزيرة حتى كونت بحيرتين شهيرتين، فتشكل بحيرة إيسلي وبحيرة تيسليت.\nوفي كل موسم سنوي (أمـود)، يجتمع الناس لإحياء ذكرى الوفاء قرب مياه البحيرة ذات اللون الأزرق الصافي.",
+  "grammar": "كلمة 'Isli' تعني حرفياً العريس، بينما 'Tislit' تعني العروس، وهي قاعدة تذكير وتأنيث نموذجية بإضافة التاء في البداية والنهاية.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵙⴽⵔⵏ ⵉⵎⵟⵟⴰⵡⵏ ⵙⵉⵏ ⵢⵉⴳⵍⵎⴰⵎⵏ",
+    "sentenceLatin": "Skrn imṭṭawn sin yiglmamn",
+    "sentenceArabic": "صنعت الدموعُ بحيرتين اثنتين",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵙⴽⵔⵏ",
+        "trans": "صنعت (فعل ماض للجمع)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵉⵎⵟⵟⴰⵡⵏ",
+        "trans": "الدموع (فاعل)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵙⵉⵏ",
+        "trans": "اثنتين (عدد مذكر)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵢⵉⴳⵍⵎⴰⵎⵏ",
+        "trans": "بحيرتين (جمع aglmam)"
+      }
+    ],
+    "explanation": "الفعل 'skrn' يتطابق مع الفاعل الجمع المذكر 'imṭṭawn'، والعدد يسبق المعدود."
+  },
+  "vocabulary": [
+    {
+      "id": "s3_v1",
+      "tifinagh": "ⵉⵙⵍⵉ",
+      "latin": "Isli",
+      "arabic": "العريس",
+      "image": "assets/images/terms/s3_v1.webp",
+      "audio": "assets/audio/words/isli.mp3",
+      "example": "ⵉⵍⵙⴰ ⵢⵉⵙⵍⵉ ⴰⵙⵍⵀⴰⵎ (لبس العريس السلهام)",
+      "french": "Le fiancé / Le marié",
+      "explanation": "ⵉⵍⵙⴰ ⵢⵉⵙⵍⵉ ⴰⵙⵍⵀⴰⵎ (لبس العريس السلهام)"
+    },
+    {
+      "id": "s3_v2",
+      "tifinagh": "ⵜⵉⵙⵍⵉⵜ",
+      "latin": "Tislit",
+      "arabic": "العروس",
+      "image": "assets/images/terms/s3_v2.webp",
+      "audio": "assets/audio/words/tislit.mp3",
+      "example": "ⵜⵓⵎⵔ ⵜⵉⵙⵍⵉⵜ ⵙ ⵜⵎⵖⵔⴰ (فرحت العروس بالعرس)",
+      "french": "La fiancée / La mariée",
+      "explanation": "ⵜⵓⵎⵔ ⵜⵉⵙⵍⵉⵜ ⵙ ⵜⵎⵖⵔⴰ (فرحت العروس بالعرس)"
+    },
+    {
+      "id": "s3_v3",
+      "tifinagh": "ⴰⴳⵍⵎⴰⵎ",
+      "latin": "Aglmam",
+      "arabic": "البحيرة",
+      "image": "assets/images/terms/s3_v3.webp",
+      "audio": "assets/audio/words/aglmam.mp3",
+      "example": "ⴰⴳⵍⵎⴰⵎ ⵏ ⵢⵉⵙⵍⵉ ⵉⴼⵓⵍⴽⵉ (بحيرة إيسلي بديعة)",
+      "french": "Le lac naturel",
+      "explanation": "ⴰⴳⵍⵎⴰⵎ ⵏ ⵢⵉⵙⵍⵉ ⵉⴼⵓⵍⴽⵉ (بحيرة إيسلي بديعة)"
+    },
+    {
+      "id": "s3_v4",
+      "tifinagh": "ⵉⵎⵟⵟⴰⵡⵏ",
+      "latin": "Imṭṭawn",
+      "arabic": "الدموع",
+      "image": "assets/images/terms/s3_v4.webp",
+      "audio": "assets/audio/words/imttawn.mp3",
+      "example": "ⴹⵕⵏ ⵉⵎⵟⵟⴰⵡⵏ ⵖⴼ ⵡⴰⴽⴰⵍ (سقطت الدموع على الثرى)",
+      "french": "Les larmes",
+      "explanation": "ⴹⵕⵏ ⵉⵎⵟⵟⴰⵡⵏ ⵖⴼ ⵡⴰⴽⴰⵍ (سقطت الدموع على الثرى)"
+    },
+    {
+      "id": "s3_v5",
+      "tifinagh": "ⵜⴰⵢⵔⵉ",
+      "latin": "Tayri",
+      "arabic": "المحبة / العشق",
+      "image": "assets/images/terms/s3_v5.webp",
+      "audio": "assets/audio/words/tayri.mp3",
+      "example": "ⵜⴰⵢⵔⵉ ⵜⵙⵎⵓⵏ ⵉⵡⴷⴰⵏ (المحبة تجمع الناس)",
+      "french": "L'amour profond",
+      "explanation": "ⵜⴰⵢⵔⵉ ⵜⵙⵎⵓⵏ ⵉⵡⴷⴰⵏ (المحبة تجمع الناس)"
+    },
+    {
+      "id": "s3_v6",
+      "tifinagh": "ⵜⴰⵇⴱⵉⵍⵜ",
+      "latin": "Taqbilt",
+      "arabic": "القبيلة",
+      "image": "assets/images/terms/s3_v6.webp",
+      "audio": "assets/audio/words/taqbilt.mp3",
+      "example": "ⵜⴰⵇⴱⵉⵍⵜ ⵏ ⵡⴰⵢⵜ ⵃⴷⵉⴷⵓ (قبيلة آيت حديدو)",
+      "french": "La tribu",
+      "explanation": "ⵜⴰⵇⴱⵉⵍⵜ ⵏ ⵡⴰⵢⵜ ⵃⴷⵉⴷⵓ (قبيلة آيت حديدو)"
+    },
+    {
+      "id": "s3_v7",
+      "tifinagh": "ⵜⴰⵎⵖⵔⴰ",
+      "latin": "Tamɣra",
+      "arabic": "حفل الزفاف / العرس",
+      "image": "assets/images/terms/s3_v7.webp",
+      "audio": "assets/audio/words/tamgra.mp3",
+      "example": "ⵜⵍⵍⴰ ⵜⵎⵖⵔⴰ ⴳ ⵓⵙⵓⵏ (يقام العرس في القرية)",
+      "french": "La fête de mariage",
+      "explanation": "ⵜⵍⵍⴰ ⵜⵎⵖⵔⴰ ⴳ ⵓⵙⵓⵏ (يقام العرس في القرية)"
+    },
+    {
+      "id": "s3_v8",
+      "tifinagh": "ⵓⵍ",
+      "latin": "Ul",
+      "arabic": "القلب / الفؤاد",
+      "image": "assets/images/terms/s3_v8.webp",
+      "audio": "assets/audio/words/ul.mp3",
+      "example": "ⵓⵍ ⵉⵥⵉⴹⴰⵏ ⵉⵜⵜⴰⴼ ⴰⴼⵔⴰ (القلب الطيب يجد السلام)",
+      "french": "Le cœur",
+      "explanation": "ⵓⵍ ⵉⵥⵉⴹⴰⵏ ⵉⵜⵜⴰⴼ ⴰⴼⵔⴰ (القلب الطيب يجد السلام)"
+    },
+    {
+      "id": "s3_v9",
+      "tifinagh": "ⴰⵎⵓⴷ",
+      "latin": "Amud",
+      "arabic": "الموسم السنوي / البذر",
+      "image": "assets/images/terms/s3_v9.webp",
+      "audio": "assets/audio/words/amud.mp3",
+      "example": "ⵉⵡⴹ-ⴷ ⵓⵎⵓⴷ ⵏ ⵢⵉⵎⵉⵍⵛⵉⵍ (حلّ موسم إملشيل)",
+      "french": "La saison / Les semailles",
+      "explanation": "ⵉⵡⴹ-ⴷ ⵓⵎⵓⴷ ⵏ ⵢⵉⵎⵉⵍⵛⵉⵍ (حلّ موسم إملشيل)"
+    },
+    {
+      "id": "s3_v10",
+      "tifinagh": "ⴰⵣⴳⵣⴰ",
+      "latin": "Azgza",
+      "arabic": "الأزرق / الأخضر الفاتح",
+      "image": "assets/images/terms/s3_v10.webp",
+      "audio": "assets/audio/words/azgza.mp3",
+      "example": "ⴰⵎⴰⵏ ⵉⵣⴳⵣⴰⵡⵏ (مياه زرقاء خضراء)",
+      "french": "Bleu azur / Vert clair",
+      "explanation": "ⴰⵎⴰⵏ ⵉⵣⴳⵣⴰⵡⵏ (مياه زرقاء خضراء)"
+    }
+  ],
+  "textFrench": "Dans les montagnes d'Imilchil, un jeune promis nommé Isli aimait la belle fiancée Tislit.\nLeur mariage fut empêché par une querelle d'honneur entre une tribu et une autre.\nLeur cœur débordait d'un amour puissant et immortel.\nLeurs larmes abondantes formèrent deux splendides étendues d'eau: le lac Isli et le lac Tislit.\nÀ chaque saison annuelle d'Amud, les gens se rassemblent au grand moussem près des eaux bleu azur.",
+  "genre": "أسطورة شعبية وتراث شفهي (Folk Legend)",
+  "source": "موسم الخطوبة بإملشيل / التراث الشفهي لقبائل آيت حديدو",
+  "culturalContext": "أسطورة روميو وجولييت الأمازيغية؛ حب العريس 'إيسلي' والعروس 'تيسليت' اللذين شكلت دموعهما بحيرتين متجاورتين يحيي تخليدهما موسم الزواج السنوي.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s3_v1",
+      "targetTifinagh": "ⵉⵙⵍⵉ",
+      "targetLatin": "Isli",
+      "targetArabic": "العريس",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵙⵍⵉ] (Isli)؟",
+      "options": [
+        "البحيرة",
+        "الأزرق / الأخضر الفاتح",
+        "العروس",
+        "العريس"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵉⵙⵍⵉ] (ينطق: Isli) يعني بالعربية: 'العريس'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s3_v2",
+      "targetTifinagh": "ⵜⵉⵙⵍⵉⵜ",
+      "targetLatin": "Tislit",
+      "targetArabic": "العروس",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'العروس'؟",
+      "options": [
+        "ⵉⵙⵍⵉ (Isli)",
+        "ⵜⴰⵎⵖⵔⴰ (Tamɣra)",
+        "ⵓⵍ (Ul)",
+        "ⵜⵉⵙⵍⵉⵜ (Tislit)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵙⵍⵉⵜ] (Tislit) وترجمتها: 'العروس'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s3_v3",
+      "targetTifinagh": "ⴰⴳⵍⵎⴰⵎ",
+      "targetLatin": "Aglmam",
+      "targetArabic": "البحيرة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴳⵍⵎⴰⵎ] (Aglmam)؟",
+      "options": [
+        "العريس / ",
+        "البحيرة / ",
+        "الأزرق / الأخضر الفاتح / ",
+        "المحبة / العشق / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⴳⵍⵎⴰⵎ] (Aglmam) ورد في سياق الحكاية للدلالة على: البحيرة ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s3_v4",
+      "targetTifinagh": "ⵉⵎⵟⵟⴰⵡⵏ",
+      "targetLatin": "Imṭṭawn",
+      "targetArabic": "الدموع",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵎⵟⵟⴰⵡⵏ] (Imṭṭawn)؟",
+      "options": [
+        "البحيرة",
+        "الدموع",
+        "القبيلة",
+        "المحبة / العشق"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵉⵎⵟⵟⴰⵡⵏ] (ينطق: Imṭṭawn) يعني بالعربية: 'الدموع'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s3_v5",
+      "targetTifinagh": "ⵜⴰⵢⵔⵉ",
+      "targetLatin": "Tayri",
+      "targetArabic": "المحبة / العشق",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'المحبة / العشق'؟",
+      "options": [
+        "ⵜⴰⵢⵔⵉ (Tayri)",
+        "ⵜⴰⵎⵖⵔⴰ (Tamɣra)",
+        "ⵜⵉⵙⵍⵉⵜ (Tislit)",
+        "ⵉⵎⵟⵟⴰⵡⵏ (Imṭṭawn)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵢⵔⵉ] (Tayri) وترجمتها: 'المحبة / العشق'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s3_v6",
+      "targetTifinagh": "ⵜⴰⵇⴱⵉⵍⵜ",
+      "targetLatin": "Taqbilt",
+      "targetArabic": "القبيلة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵇⴱⵉⵍⵜ] (Taqbilt)؟",
+      "options": [
+        "القبيلة / ",
+        "الموسم السنوي / البذر / ",
+        "العروس / ",
+        "القلب / الفؤاد / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵇⴱⵉⵍⵜ] (Taqbilt) ورد في سياق الحكاية للدلالة على: القبيلة ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s3_v7",
+      "targetTifinagh": "ⵜⴰⵎⵖⵔⴰ",
+      "targetLatin": "Tamɣra",
+      "targetArabic": "حفل الزفاف / العرس",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵎⵖⵔⴰ] (Tamɣra)؟",
+      "options": [
+        "القلب / الفؤاد",
+        "البحيرة",
+        "الموسم السنوي / البذر",
+        "حفل الزفاف / العرس"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⵖⵔⴰ] (ينطق: Tamɣra) يعني بالعربية: 'حفل الزفاف / العرس'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s3_v8",
+      "targetTifinagh": "ⵓⵍ",
+      "targetLatin": "Ul",
+      "targetArabic": "القلب / الفؤاد",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'القلب / الفؤاد'؟",
+      "options": [
+        "ⵜⴰⵎⵖⵔⴰ (Tamɣra)",
+        "ⴰⵎⵓⴷ (Amud)",
+        "ⴰⴳⵍⵎⴰⵎ (Aglmam)",
+        "ⵓⵍ (Ul)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵓⵍ] (Ul) وترجمتها: 'القلب / الفؤاد'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s3_v9",
+      "targetTifinagh": "ⴰⵎⵓⴷ",
+      "targetLatin": "Amud",
+      "targetArabic": "الموسم السنوي / البذر",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵎⵓⴷ] (Amud)؟",
+      "options": [
+        "الدموع / ",
+        "الموسم السنوي / البذر / ",
+        "العريس / ",
+        "المحبة / العشق / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵎⵓⴷ] (Amud) ورد في سياق الحكاية للدلالة على: الموسم السنوي / البذر ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s3_v10",
+      "targetTifinagh": "ⴰⵣⴳⵣⴰ",
+      "targetLatin": "Azgza",
+      "targetArabic": "الأزرق / الأخضر الفاتح",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵣⴳⵣⴰ] (Azgza)؟",
+      "options": [
+        "حفل الزفاف / العرس",
+        "الأزرق / الأخضر الفاتح",
+        "الموسم السنوي / البذر",
+        "القلب / الفؤاد"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵣⴳⵣⴰ] (ينطق: Azgza) يعني بالعربية: 'الأزرق / الأخضر الفاتح'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

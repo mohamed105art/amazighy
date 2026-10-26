@@ -1,0 +1,335 @@
+{
+  "id": "story4",
+  "title": "تاونزا وأنزّار ملك المطر وعروس الغيث",
+  "titleTifinagh": "ⵜⴰⵡⵏⵣⴰ ⴷ ⵓⵏⵥⴰⵕ ⴰⴳⵍⵍⵉⴷ",
+  "titleLatin": "Tawnza d Unẓaṛ Agllid",
+  "region": "الريف والأطلس وسوس (تراث مغربي مشترك)",
+  "dialect": "الأمازيغية المشتركة (Tamazight)",
+  "level": "مبتدئ (Level 1)",
+  "category": "folklore",
+  "categoryName": "أساطير وطقوس المطر",
+  "coverImage": "assets/images/stories/story4.jpg",
+  "audio": "assets/audio/stories/story4.mp3",
+  "summary": "طقس 'تاغنجا' العريق وعروس المطر الأمازيغية 'تاونزا'؛ عندما يحل الجفاف بالأرض، يصنع الأطفال ملعقة خشبية مزينة ويتجولون في الحقول منشدين لملك المطر 'أنزار' ليهب الأرض الحياة والبركة.",
+  "textTamazight": "ⵉⵖⴰⵔ ⵡⴰⴽⴰⵍ ⴷ ⵉⴳⵔ ⴳ ⵢⴰⵏ ⴰⵙⴳⴳⵯⴰⵙ ⴱⵍⴰ ⴰⵏⵥⴰⵕ ⴷ ⴱⵍⴰ ⴰⵎⴰⵏ.\nⵢⵓⵙⵉ ⴰⴼⵍⵍⴰⵃ ⴷ ⵜⴰⵡⵊⴰ ⵏⵏⵙ ⵜⴰⵖⵏⵊⴰ ⵜⴰⵎⵇⵔⴰⵏⵜ ⴰⴼⴰⴷ ⴰⴷ ⵜⵜⵉⵔⵉⵏ ⴰⵏⵥⴰⵕ.\nⵜⵍⵙⴰ ⵜⴰⴼⵔⵓⵅⵜ ⵜⴰⵡⵏⵣⴰ ⵢⴰⵜ ⵜⵉⵎⵍⵙⵉⵜ ⵉⴼⵓⵍⴽⵉⵏ ⵏ ⵜⵙⵍⵉⵜ ⵏ ⵓⵏⵥⴰⵕ.\nⴷⴷⴰⵏ ⵎⵉⴷⴷⵏ ⵖⵔ ⵜⴰⴷⴷⴰⴳⵜ ⵜⴰⵣⴳⵣⴰⵡⵜ, ⵜⵜⵔⵏ ⴰⵎⴰⵏ ⵉ ⵡⴰⴽⴰⵍ ⴷ ⵓⵔⵜⵉ.\nⵢⵓⴹⴰ-ⴷ ⵓⵏⵥⴰⵕ ⵙ ⵓⴳⴰⴷⵉⵔ, ⵢⵉⵎⵖⵓⵔ ⵉⵎⵏⴷⵉ ⴳ ⴽⵓ ⵉⴳⵔ, ⵜⵓⵖⴰⵍ-ⴷ ⵜⵓⴷⵔⵜ.",
+  "textLatin": "Iɣar wakal d igr g yan usggʷas bla anẓaṛ d bla aman.\nYusi ufllaḥ d tawja nnes taɣnja tamqrant afad ad ttirin anẓaṛ.\nTlsa tafruxt Tawenza yat timlsit ifulkin n tslit n unẓaṛ.\nDdan middn ɣer taddagt tazgzawt, ttrn aman i wakal d urti.\nYuḍa-d unẓaṛ s ugadir, yimɣur imndi g ku igr, tuɣal-d tudrt.",
+  "textArabic": "جفت الأرض الطيبة والحقل الخصيب في سنة قاسية غاب فيها المطر والماء العذب.\nحمل الفلاح الصابر وعائلته الملعقة الخشبية الكبيرة (تاغنـجا) طلباً لغيث السماء.\nارتدت الفتاة الحسناء تاونزا ثوباً بهياً لتكون عروساً للمطر (تيسليت ن ونـزار).\nسار الناس في موكب بهيج نحو الشجرة العتيقة متضرعين لسقي الأرض والتراب.\nهطل المطر مدراراً، فنما القمح والحبوب في كل حقل، وعادت الحياة والبركة إلى ربوع الأطلس.",
+  "grammar": "كلمة 'Akal' (الأرض/التراب) تتحول إلى 'Wakal' في حالة الإعراب المقيد (État d'annexion) بعد الفعل أو حروف الجر.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵉⴹⵕ ⵓⵏⵥⴰⵕ ⵖⴼ ⵡⴰⴽⴰⵍ",
+    "sentenceLatin": "Iḍṛ unẓaṛ ɣf wakal",
+    "sentenceArabic": "سقط المطرُ على الأرض",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵉⴹⵕ",
+        "trans": "سقط / هطل (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵓⵏⵥⴰⵕ",
+        "trans": "المطرُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵖⴼ",
+        "trans": "على (حرف جر)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵡⴰⴽⴰⵍ",
+        "trans": "الأرضِ (اسم مقيد)"
+      }
+    ],
+    "explanation": "حرف الجر 'ɣf' (على) يفرض الحالة المقيدة على الكلمة اللاحقة فتصبح 'wakal' بدلاً من 'akal'."
+  },
+  "vocabulary": [
+    {
+      "id": "s4_v1",
+      "tifinagh": "ⴰⵏⵥⴰⵕ",
+      "latin": "Anẓaṛ",
+      "arabic": "المطر / الغيث",
+      "image": "assets/images/terms/s4_v1.webp",
+      "audio": "assets/audio/words/anzar.mp3",
+      "example": "ⵉⴹⵕ-ⴷ ⵓⵏⵥⴰⵕ ⴰⵎⵇⵔⴰⵏ (هطل مطر غزير)",
+      "french": "La pluie bienfaisante",
+      "explanation": "ⵉⴹⵕ-ⴷ ⵓⵏⵥⴰⵕ ⴰⵎⵇⵔⴰⵏ (هطل مطر غزير)"
+    },
+    {
+      "id": "s4_v2",
+      "tifinagh": "ⴰⴽⴰⵍ",
+      "latin": "Akal",
+      "arabic": "الأرض / التراب",
+      "image": "assets/images/terms/s4_v2.webp",
+      "audio": "assets/audio/words/akal.mp3",
+      "example": "ⴰⴽⴰⵍ ⴰⵎⴰⵣⵉⵖ ⵉⵖⵓⴷⴰ (الأرض الأمازيغية طيبة)",
+      "french": "La terre / Le sol",
+      "explanation": "ⴰⴽⴰⵍ ⴰⵎⴰⵣⵉⵖ ⵉⵖⵓⴷⴰ (الأرض الأمازيغية طيبة)"
+    },
+    {
+      "id": "s4_v3",
+      "tifinagh": "ⵜⴰⵖⵏⵊⴰ",
+      "latin": "Taɣnja",
+      "arabic": "الملعقة الخشبية الكبيرة",
+      "image": "assets/images/terms/s4_v3.webp",
+      "audio": "assets/audio/words/tagnja.mp3",
+      "example": "ⵜⴰⵖⵏⵊⴰ ⵏ ⵓⴽⵛⵛⵓⴹ (ملعقة الخشب)",
+      "french": "La grande cuillère rituelle en bois",
+      "explanation": "ⵜⴰⵖⵏⵊⴰ ⵏ ⵓⴽⵛⵛⵓⴹ (ملعقة الخشب)"
+    },
+    {
+      "id": "s4_v4",
+      "tifinagh": "ⵉⴳⵔ",
+      "latin": "Igr",
+      "arabic": "الحقل / المزرعة",
+      "image": "assets/images/terms/s4_v4.webp",
+      "audio": "assets/audio/words/igr.mp3",
+      "example": "ⵉⴽⵔⵣ ⵓⴼⵍⵍⴰⵃ ⵉⴳⵔ (حرث الفلاح الحقل)",
+      "french": "Le champ cultivé",
+      "explanation": "ⵉⴽⵔⵣ ⵓⴼⵍⵍⴰⵃ ⵉⴳⵔ (حرث الفلاح الحقل)"
+    },
+    {
+      "id": "s4_v5",
+      "tifinagh": "ⵉⵎⵏⴷⵉ",
+      "latin": "Imndi",
+      "arabic": "القمح / الحبوب",
+      "image": "assets/images/terms/s4_v5.webp",
+      "audio": "assets/audio/words/imndi.mp3",
+      "example": "ⵢⵉⵎⵖⵓⵔ ⵢⵉⵎⵏⴷⵉ (نما القمح ونضج)",
+      "french": "Le blé / Les céréales",
+      "explanation": "ⵢⵉⵎⵖⵓⵔ ⵢⵉⵎⵏⴷⵉ (نما القمح ونضج)"
+    },
+    {
+      "id": "s4_v6",
+      "tifinagh": "ⵜⴰⴷⴷⴰⴳⵜ",
+      "latin": "Taddagt",
+      "arabic": "الشجرة",
+      "image": "assets/images/terms/s4_v6.webp",
+      "audio": "assets/audio/words/taddagt.mp3",
+      "example": "ⵜⴰⴷⴷⴰⴳⵜ ⵏ ⵓⵣⵎⵎⵓⵔ (شجرة الزيتون)",
+      "french": "L'arbre",
+      "explanation": "ⵜⴰⴷⴷⴰⴳⵜ ⵏ ⵓⵣⵎⵎⵓⵔ (شجرة الزيتون)"
+    },
+    {
+      "id": "s4_v7",
+      "tifinagh": "ⴰⵎⴰⵏ",
+      "latin": "Aman",
+      "arabic": "الماء",
+      "image": "assets/images/terms/s4_v7.webp",
+      "audio": "assets/audio/words/aman.mp3",
+      "example": "ⴰⵎⴰⵏ ⴷ ⵜⵓⴷⵔⵜ (الماء هو الحياة)",
+      "french": "L'eau",
+      "explanation": "ⴰⵎⴰⵏ ⴷ ⵜⵓⴷⵔⵜ (الماء هو الحياة)"
+    },
+    {
+      "id": "s4_v8",
+      "tifinagh": "ⵜⵉⵎⵍⵙⵉⵜ",
+      "latin": "Timlsit",
+      "arabic": "الثوب / اللباس",
+      "image": "assets/images/terms/s4_v8.webp",
+      "audio": "assets/audio/words/timlsit.mp3",
+      "example": "ⵜⵉⵎⵍⵙⵉⵜ ⵜⴰⵇⴱⵓⵔⵜ (اللباس التقليدي)",
+      "french": "L'habit / Le vêtement d'apparat",
+      "explanation": "ⵜⵉⵎⵍⵙⵉⵜ ⵜⴰⵇⴱⵓⵔⵜ (اللباس التقليدي)"
+    },
+    {
+      "id": "s4_v9",
+      "tifinagh": "ⴰⵙⴳⴳⵯⴰⵙ",
+      "latin": "Asggʷas",
+      "arabic": "السنة / العام",
+      "image": "assets/images/terms/s4_v9.webp",
+      "audio": "assets/audio/words/asggwas.mp3",
+      "example": "ⴰⵙⴳⴳⵯⴰⵙ ⴰⵎⴱⴰⵔⴽⵉ (عام مبارك)",
+      "french": "L'année / L'an",
+      "explanation": "ⴰⵙⴳⴳⵯⴰⵙ ⴰⵎⴱⴰⵔⴽⵉ (عام مبارك)"
+    },
+    {
+      "id": "s4_v10",
+      "tifinagh": "ⴰⴼⵍⵍⴰⵃ",
+      "latin": "Afllaḥ",
+      "arabic": "الفلاح / المزارع",
+      "image": "assets/images/terms/s4_v10.webp",
+      "audio": "assets/audio/words/afllah.mp3",
+      "example": "ⵉⵙⵡⵓⵔⵉ ⵓⴼⵍⵍⴰⵃ (يعمل الفلاح بجد)",
+      "french": "L'agriculteur / Le paysan",
+      "explanation": "ⵉⵙⵡⵓⵔⵉ ⵓⴼⵍⵍⴰⵃ (يعمل الفلاح بجد)"
+    }
+  ],
+  "textFrench": "La terre et les champs s'étaient desséchés durant une année sans pluie et sans eau.\nLe paysan et sa famille levèrent la grande cuillère en bois Taɣnja pour implorer la pluie.\nLa jeune fille vêtit un bel habit traditionnel pour incarner la mariée d'Anzar.\nLe cortège se dirigea vers le grand arbre verdoyant pour demander l'eau vivifiante.\nLa pluie bienfaisante tomba en abondance, le blé mûrit dans chaque champ et la vie reprit.",
+  "genre": "طقس تراثي واحتفالي (Traditional Ritual Legend)",
+  "source": "طقوس الاستسقاء (تاغنـجا) في التراث المغربي الأمازيغي",
+  "culturalContext": "طقس 'تاونزا' وعروس المطر 'أنـزار'؛ ممارسة فلاحية عريقة يحمل فيها الأطفال والنساء الملعقة الخشبية طلباً للغيث والبركة.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s4_v1",
+      "targetTifinagh": "ⴰⵏⵥⴰⵕ",
+      "targetLatin": "Anẓaṛ",
+      "targetArabic": "المطر / الغيث",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵏⵥⴰⵕ] (Anẓaṛ)؟",
+      "options": [
+        "القمح / الحبوب",
+        "الفلاح / المزارع",
+        "الثوب / اللباس",
+        "المطر / الغيث"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⴰⵏⵥⴰⵕ] (ينطق: Anẓaṛ) يعني بالعربية: 'المطر / الغيث'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s4_v2",
+      "targetTifinagh": "ⴰⴽⴰⵍ",
+      "targetLatin": "Akal",
+      "targetArabic": "الأرض / التراب",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الأرض / التراب'؟",
+      "options": [
+        "ⴰⵎⴰⵏ (Aman)",
+        "ⴰⴽⴰⵍ (Akal)",
+        "ⵉⵎⵏⴷⵉ (Imndi)",
+        "ⴰⵏⵥⴰⵕ (Anẓaṛ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⴽⴰⵍ] (Akal) وترجمتها: 'الأرض / التراب'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s4_v3",
+      "targetTifinagh": "ⵜⴰⵖⵏⵊⴰ",
+      "targetLatin": "Taɣnja",
+      "targetArabic": "الملعقة الخشبية الكبيرة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵖⵏⵊⴰ] (Taɣnja)؟",
+      "options": [
+        "الحقل / المزرعة / ",
+        "الأرض / التراب / ",
+        "الماء / ",
+        "الملعقة الخشبية الكبيرة / "
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵖⵏⵊⴰ] (Taɣnja) ورد في سياق الحكاية للدلالة على: الملعقة الخشبية الكبيرة ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s4_v4",
+      "targetTifinagh": "ⵉⴳⵔ",
+      "targetLatin": "Igr",
+      "targetArabic": "الحقل / المزرعة",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⴳⵔ] (Igr)؟",
+      "options": [
+        "المطر / الغيث",
+        "الأرض / التراب",
+        "الماء",
+        "الحقل / المزرعة"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵉⴳⵔ] (ينطق: Igr) يعني بالعربية: 'الحقل / المزرعة'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s4_v5",
+      "targetTifinagh": "ⵉⵎⵏⴷⵉ",
+      "targetLatin": "Imndi",
+      "targetArabic": "القمح / الحبوب",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'القمح / الحبوب'؟",
+      "options": [
+        "ⵉⵎⵏⴷⵉ (Imndi)",
+        "ⴰⵏⵥⴰⵕ (Anẓaṛ)",
+        "ⵉⴳⵔ (Igr)",
+        "ⴰⵙⴳⴳⵯⴰⵙ (Asggʷas)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵉⵎⵏⴷⵉ] (Imndi) وترجمتها: 'القمح / الحبوب'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s4_v6",
+      "targetTifinagh": "ⵜⴰⴷⴷⴰⴳⵜ",
+      "targetLatin": "Taddagt",
+      "targetArabic": "الشجرة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴷⴷⴰⴳⵜ] (Taddagt)؟",
+      "options": [
+        "الأرض / التراب / ",
+        "الشجرة / ",
+        "الفلاح / المزارع / ",
+        "الملعقة الخشبية الكبيرة / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴷⴷⴰⴳⵜ] (Taddagt) ورد في سياق الحكاية للدلالة على: الشجرة ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s4_v7",
+      "targetTifinagh": "ⴰⵎⴰⵏ",
+      "targetLatin": "Aman",
+      "targetArabic": "الماء",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵎⴰⵏ] (Aman)؟",
+      "options": [
+        "الحقل / المزرعة",
+        "الفلاح / المزارع",
+        "الماء",
+        "الأرض / التراب"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵎⴰⵏ] (ينطق: Aman) يعني بالعربية: 'الماء'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s4_v8",
+      "targetTifinagh": "ⵜⵉⵎⵍⵙⵉⵜ",
+      "targetLatin": "Timlsit",
+      "targetArabic": "الثوب / اللباس",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الثوب / اللباس'؟",
+      "options": [
+        "ⴰⴽⴰⵍ (Akal)",
+        "ⵉⴳⵔ (Igr)",
+        "ⴰⴼⵍⵍⴰⵃ (Afllaḥ)",
+        "ⵜⵉⵎⵍⵙⵉⵜ (Timlsit)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵎⵍⵙⵉⵜ] (Timlsit) وترجمتها: 'الثوب / اللباس'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s4_v9",
+      "targetTifinagh": "ⴰⵙⴳⴳⵯⴰⵙ",
+      "targetLatin": "Asggʷas",
+      "targetArabic": "السنة / العام",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵙⴳⴳⵯⴰⵙ] (Asggʷas)؟",
+      "options": [
+        "السنة / العام / ",
+        "الأرض / التراب / ",
+        "القمح / الحبوب / ",
+        "الماء / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵙⴳⴳⵯⴰⵙ] (Asggʷas) ورد في سياق الحكاية للدلالة على: السنة / العام ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s4_v10",
+      "targetTifinagh": "ⴰⴼⵍⵍⴰⵃ",
+      "targetLatin": "Afllaḥ",
+      "targetArabic": "الفلاح / المزارع",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴼⵍⵍⴰⵃ] (Afllaḥ)؟",
+      "options": [
+        "السنة / العام",
+        "الفلاح / المزارع",
+        "الأرض / التراب",
+        "القمح / الحبوب"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⴼⵍⵍⴰⵃ] (ينطق: Afllaḥ) يعني بالعربية: 'الفلاح / المزارع'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

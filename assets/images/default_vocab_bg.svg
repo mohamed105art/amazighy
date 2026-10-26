@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="warmBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="50%" stop-color="#312e81"/>
+      <stop offset="100%" stop-color="#431407"/>
+    </linearGradient>
+    <linearGradient id="tagineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="50%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#92400e"/>
+    </linearGradient>
+    <linearGradient id="carpetGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#991b1b"/>
+      <stop offset="100%" stop-color="#7f1d1d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="400" fill="url(#warmBg)"/>
+  
+  <!-- Berber Carpet Backdrop -->
+  <rect x="40" y="30" width="520" height="240" rx="8" fill="url(#carpetGrad)" stroke="#f59e0b" stroke-width="4"/>
+  <!-- Carpet geometric diamond patterns -->
+  <g stroke="#fef08a" stroke-width="3" fill="none">
+    <polygon points="120,150 170,90 220,150 170,210"/>
+    <polygon points="170,150 185,130 200,150 185,170" fill="#047857"/>
+    <polygon points="250,150 300,90 350,150 300,210"/>
+    <polygon points="300,150 315,130 330,150 315,170" fill="#0284c7"/>
+    <polygon points="380,150 430,90 480,150 430,210"/>
+    <polygon points="430,150 445,130 460,150 445,170" fill="#d97706"/>
+  </g>
+
+  <!-- Wooden Table Shelf -->
+  <rect x="0" y="270" width="600" height="130" fill="#451a03"/>
+  <rect x="0" y="270" width="600" height="14" fill="#78350f"/>
+
+  <!-- Traditional Tagine Center -->
+  <!-- Tagine Base Plate -->
+  <ellipse cx="300" cy="335" rx="90" ry="24" fill="#78350f"/>
+  <ellipse cx="300" cy="330" rx="84" ry="20" fill="url(#tagineGrad)"/>
+  <!-- Tagine Conical Lid -->
+  <polygon points="230,325 300,195 370,325" fill="url(#tagineGrad)"/>
+  <polygon points="230,325 300,195 300,325" fill="#f59e0b" opacity="0.3"/>
+  <!-- Tagine Knob Top -->
+  <rect x="290" y="180" width="20" height="22" rx="4" fill="#92400e"/>
+  <circle cx="300" cy="180" r="14" fill="#b45309"/>
+
+  <!-- Traditional Berber Pottery Vase Left -->
+  <path d="M120 335 C100 320 90 280 120 250 C125 240 135 240 140 250 C170 280 160 320 140 335 Z" fill="#c2410c"/>
+  <ellipse cx="130" cy="245" rx="18" ry="6" fill="#9a3412"/>
+  <!-- Vase Berber black geometric markings -->
+  <path d="M108 285 L120 275 L132 285 L144 275" stroke="#1c1917" stroke-width="4" fill="none"/>
+  <path d="M110 305 L122 295 L134 305 L146 295" stroke="#1c1917" stroke-width="4" fill="none"/>
+
+  <!-- Silver Moroccan Teapot Right -->
+  <path d="M460 335 C430 330 430 280 460 260 C470 250 490 250 500 260 C530 280 530 330 500 335 Z" fill="#cbd5e1"/>
+  <!-- Teapot Spout -->
+  <path d="M440 295 Q415 270 420 250 Q430 250 445 280" fill="#94a3b8"/>
+  <!-- Teapot Handle -->
+  <path d="M500 270 Q535 290 500 325" fill="none" stroke="#94a3b8" stroke-width="8" stroke-linecap="round"/>
+  <!-- Teapot Lid & Finial -->
+  <ellipse cx="480" cy="256" rx="20" ry="7" fill="#e2e8f0"/>
+  <circle cx="480" cy="246" r="6" fill="#f59e0b"/>
+
+  <!-- Tifinagh Yaz Symbol Watermark -->
+  <text x="300" y="110" font-family="system-ui, sans-serif" font-size="48" font-weight="bold" fill="#fde047" opacity="0.3" text-anchor="middle">ⵣ</text>
+</svg>

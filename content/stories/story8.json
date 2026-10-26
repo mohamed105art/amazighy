@@ -1,0 +1,340 @@
+{
+  "id": "story8",
+  "title": "معركة أنوال وبطولة عبد الكريم الخطابي في الريف",
+  "titleTifinagh": "ⵉⵎⵏⵖⵉ ⵏ ⵡⴰⵏⵡⴰⵍ ⴷ ⵎⵓⵍⴰⵢ ⵎⵓⵃⵏⴷ",
+  "titleLatin": "Imnɣi n Walwal d Mulay Muḥend",
+  "region": "جبال الريف (أنوال، أجدير، الدريوش)",
+  "dialect": "تاريفيت (Tarifit)",
+  "level": "متوسط (Level 2)",
+  "category": "history",
+  "categoryName": "تاريخ ومقاومة",
+  "coverImage": "assets/images/stories/story8.jpg",
+  "audio": "assets/audio/stories/story8.mp3",
+  "summary": "ملحمة معركة أنوال الخالدة سنة 1921 في جبال الريف المغربي، حيث قاد محمد بن عبد الكريم الخطابي (مولاي موحند) المقاومين الأمازيغ الشرفاء وحققوا نصراً تاريخياً أذهل العالم في سبيل استقلال الوطن.",
+  "textTamazight": "ⴳ ⵓⴷⵔⴰⵔ ⵏ ⴰⵔⵔⵉⴼ, ⵉⵙⵙⵉⵅⴼ ⴰⵎⵖⴰⵔ ⵎⵓⵃⵏⴷ ⴰⴱⴷ ⵍⴽⵔⵉⵎ ⵉⵎⵏⵖⵉ ⵏ ⵓⵏⵡⴰⵍ.\nⵉⴳⴰ ⵢⴰⵏ ⴰⵏⵣⴱⴰⵢ ⵉⴷⵓⵙⵏ ⵉⵜⵜⵉⵔⵉⵏ ⵜⵉⵍⴻⵍⵍⵉ ⴷ ⵜⴰⵏⴼⵍⵉⵜ ⵏ ⵜⵎⵓⵔⵜ.\nⵙⵙⵎⵔⵙⵏ ⵉⵎⴰⵣⵉⵖⵏ ⵜⴰⵣⵎⵎⴰⵔⵜ ⵏⵏⵙⵏ ⴷ ⵜⵉⴷⵜ ⴰⴼⴰⴷ ⴰⴷ ⵔⵥⵏ ⵉⵏⴽⵔⴰⴼ.\nⵉⴳⴰ ⴰⵣⴰⵎⵓⵍ ⵏ ⵜⵔⵏⴰⵡⵜ ⴷ ⵜⵏⵣⴱⴰⵢⵜ ⴳ ⴽⵓ ⵜⴰⵙⴳⴰ ⵏ ⵓⵎⴰⴹⴰⵍ.\nⵢⵓⴼⴰ ⵓⵖⵔⴼ ⴰⵏⴰⵔⵓⵣ ⴳ ⵜⵣⵎⵎⴰⵔⵜ ⵏ ⵉⵎⴰⵖⵏⴰⵙⵏ ⵏⵏⵙ ⵉⵏⵣⴱⴰⵢⵏ.",
+  "textLatin": "G udrar n Arrif, issixf umɣar Muḥnd Abd Lkrim imnɣi n Unwal.\nIga yan anzbay idusn ittirin tilelli d tanflit n tmurt.\nSsmrsn Imaziɣn tazmmart nnsen d tidt afad ad rẓn inkraf.\nIga azamul n trnawt d tnzbayt g ku tasga n umaḍal.\nYufa uɣrf anaruz g tzmmart n imaɣnasn nnes inzbayn.",
+  "textArabic": "في جبال منطقة الريف الشامخة، قاد الزعيم عبد الكريم الخطابي ملحمة معركة أنوال الخالدة.\nكان مقاوماً بطلاً ومجاهداً فذاً يضحي بروحه فداءً لـالحرية و الأنفة والكرامة.\nتسلح أبطال الأمازيغ بـالقوة والعزيمة وتمسكوا بـالحق والصدق لطرد الغزاة.\nغدت هذه المعركة رمـزاً وشعاراً عالمياً للتحرر والمقاومة والصمود الأسطوري.\nاستعاد الشعب الأمل والرجاء بفضل إصرار المقاومين وتضحياتهم الجليلة.",
+  "grammar": "كلمة 'Tilelli' تعني الحرية، و 'Anzbay' تعني المقاوم، وجمعها 'Inzbayn' بإضافة الياء والنون.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵜⵔⵏⴰ ⵜⵣⵎⵎⴰⵔⵜ ⵏ ⵡⴰⵢⵜ ⵓⴷⵔⴰⵔ",
+    "sentenceLatin": "Trna tzmmart n wayt udrar",
+    "sentenceArabic": "انتصرت قوةُ أهل الجبل",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵜⵔⵏⴰ",
+        "trans": "انتصرت / غلبت (فعل مؤنث)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵜⵣⵎⵎⴰⵔⵜ",
+        "trans": "قوةُ / عزم (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵏ",
+        "trans": "ـ (حرف الإضافة)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵡⴰⵢⵜ",
+        "trans": "أهل / أصحاب (اسم جمع)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵓⴷⵔⴰⵔ",
+        "trans": "الجبل (مضاف إليه مقيد)"
+      }
+    ],
+    "explanation": "التركيب الإضافي 'Tazmmart n wayt udrar' يوضح صمود وعزم أهل الجبال."
+  },
+  "vocabulary": [
+    {
+      "id": "s8_v1",
+      "tifinagh": "ⵉⵎⵏⵖⵉ",
+      "latin": "Imnɣi",
+      "arabic": "المعركة / الملحمة",
+      "image": "assets/images/terms/s8_v1.webp",
+      "audio": "assets/audio/words/imngi.mp3",
+      "example": "ⵉⵎⵏⵖⵉ ⵏ ⵡⴰⵏⵡⴰⵍ ⵉⴳⴰ ⴰⵎⵣⵔⵓⵢ (معركة أنوال تاريخ خالد)",
+      "french": "La bataille / Le combat épique",
+      "explanation": "ⵉⵎⵏⵖⵉ ⵏ ⵡⴰⵏⵡⴰⵍ ⵉⴳⴰ ⴰⵎⵣⵔⵓⵢ (معركة أنوال تاريخ خالد)"
+    },
+    {
+      "id": "s8_v2",
+      "tifinagh": "ⴰⵏⵣⴱⴰⵢ",
+      "latin": "Anzbay",
+      "arabic": "المقاوم / المجاهد",
+      "image": "assets/images/terms/s8_v2.webp",
+      "audio": "assets/audio/words/anzbay.mp3",
+      "example": "ⴰⵏⵣⴱⴰⵢ ⵉⴱⴷⴷ ⵖⴼ ⵜⵎⵓⵔⵜ (المقاوم يدافع عن الوطن)",
+      "french": "Le résistant / Le combattant",
+      "explanation": "ⴰⵏⵣⴱⴰⵢ ⵉⴱⴷⴷ ⵖⴼ ⵜⵎⵓⵔⵜ (المقاوم يدافع عن الوطن)"
+    },
+    {
+      "id": "s8_v3",
+      "tifinagh": "ⵜⵉⵍⴻⵍⵍⵉ",
+      "latin": "Tilelli",
+      "arabic": "الحرية",
+      "image": "assets/images/terms/s8_v3.webp",
+      "audio": "assets/audio/words/tilelli.mp3",
+      "example": "ⵜⵉⵍⴻⵍⵍⵉ ⵜⴳⴰ ⴰⵣⵔⴼ ⵏ ⴽⵓ ⵢⴰⵏ (الحرية حق للجميع)",
+      "french": "La liberté",
+      "explanation": "ⵜⵉⵍⴻⵍⵍⵉ ⵜⴳⴰ ⴰⵣⵔⴼ ⵏ ⴽⵓ ⵢⴰⵏ (الحرية حق للجميع)"
+    },
+    {
+      "id": "s8_v4",
+      "tifinagh": "ⵜⴰⵣⵎⵎⴰⵔⵜ",
+      "latin": "Tazmmart",
+      "arabic": "القوة / العزيمة",
+      "image": "assets/images/terms/s8_v4.webp",
+      "audio": "assets/audio/words/tazmmart.mp3",
+      "example": "ⵜⴰⵣⵎⵎⴰⵔⵜ ⵏ ⵡⵓⵍ (قوة الإرادة)",
+      "french": "La force / La détermination",
+      "explanation": "ⵜⴰⵣⵎⵎⴰⵔⵜ ⵏ ⵡⵓⵍ (قوة الإرادة)"
+    },
+    {
+      "id": "s8_v5",
+      "tifinagh": "ⴰⵎⵖⴰⵔ",
+      "latin": "Amɣar",
+      "arabic": "الزعيم / القائد / الشيخ",
+      "image": "assets/images/terms/s8_v5.webp",
+      "audio": "assets/audio/words/amgar.mp3",
+      "example": "ⴰⵎⵖⴰⵔ ⵏ ⵓⴷⵔⴰⵔ (زعيم الجبل)",
+      "french": "Le chef / Le sage respecté",
+      "explanation": "ⴰⵎⵖⴰⵔ ⵏ ⵓⴷⵔⴰⵔ (زعيم الجبل)"
+    },
+    {
+      "id": "s8_v6",
+      "tifinagh": "ⵜⵉⴷⵜ",
+      "latin": "Tidt",
+      "arabic": "الحق / الصدق",
+      "image": "assets/images/terms/s8_v6.webp",
+      "audio": "assets/audio/words/tidt.mp3",
+      "example": "ⵜⵉⴷⵜ ⵜⵔⵏⴰ (الحق ينتصر دائماً)",
+      "french": "La vérité / Le bon droit",
+      "explanation": "ⵜⵉⴷⵜ ⵜⵔⵏⴰ (الحق ينتصر دائماً)"
+    },
+    {
+      "id": "s8_v7",
+      "tifinagh": "ⴰⵣⴰⵎⵓⵍ",
+      "latin": "Azamul",
+      "arabic": "الرمز / الشعار",
+      "image": "assets/images/terms/s8_v7.webp",
+      "audio": "assets/audio/words/azamul.mp3",
+      "example": "ⴰⵣⴰⵎⵓⵍ ⵏ ⵜⵎⴰⵣⵖⴰ (رمز الأمازيغ)",
+      "french": "Le symbole / L'emblème",
+      "explanation": "ⴰⵣⴰⵎⵓⵍ ⵏ ⵜⵎⴰⵣⵖⴰ (رمز الأمازيغ)"
+    },
+    {
+      "id": "s8_v8",
+      "tifinagh": "ⵜⴰⵏⴼⵍⵉⵜ",
+      "latin": "Tanflit",
+      "arabic": "الأنفة / العزة والكرامة",
+      "image": "assets/images/terms/s8_v8.webp",
+      "audio": "assets/audio/words/tanflit.mp3",
+      "example": "ⵉⵎⴰⵣⵉⵖⵏ ⵍⴰⵏ ⵜⴰⵏⴼⵍⵉⵜ (الأمازيغ أهل أنفة وعزة)",
+      "french": "La fierté / La dignité",
+      "explanation": "ⵉⵎⴰⵣⵉⵖⵏ ⵍⴰⵏ ⵜⴰⵏⴼⵍⵉⵜ (الأمازيغ أهل أنفة وعزة)"
+    },
+    {
+      "id": "s8_v9",
+      "tifinagh": "ⴰⵔⵔⵉⴼ",
+      "latin": "Arrif",
+      "arabic": "منطقة الريف المغربية",
+      "image": "assets/images/terms/s8_v9.webp",
+      "audio": "assets/audio/words/arrif.mp3",
+      "example": "ⵉⴷⵓⵔⴰⵔ ⵏ ⵡⴰⵔⵔⵉⴼ (جبال الريف)",
+      "french": "Le Rif (région du Maroc)",
+      "explanation": "ⵉⴷⵓⵔⴰⵔ ⵏ ⵡⴰⵔⵔⵉⴼ (جبال الريف)"
+    },
+    {
+      "id": "s8_v10",
+      "tifinagh": "ⴰⵏⴰⵔⵓⵣ",
+      "latin": "Anaruz",
+      "arabic": "الأمل / الرجاء",
+      "image": "assets/images/terms/s8_v10.webp",
+      "audio": "assets/audio/words/anaruz.mp3",
+      "example": "ⴰⵏⴰⵔⵓⵣ ⴳ ⵓⵎⴰⵍⵓ (الأمل في المستقبل)",
+      "french": "L'espoir",
+      "explanation": "ⴰⵏⴰⵔⵓⵣ ⴳ ⵓⵎⴰⵍⵓ (الأمل في المستقبل)"
+    }
+  ],
+  "textFrench": "Dans les montagnes du Rif, le vaillant chef Abdelkrim mena la bataille d'Anoual.\nCe grand résistant lutta corps et âme pour la liberté et la fierté de son peuple.\nLes combattants amazighs puisèrent dans leur force morale et dans la vérité pour triompher.\nLeur épopée devint un puissant symbole d'émancipation admiré à travers le monde.\nLe peuple nourrit un immense espoir grâce au courage héroïque de ses vaillants défenseurs.",
+  "genre": "ملحمة وطنية وتاريخية خالدة (National Historical Epic)",
+  "source": "معركة أنوال (1921) ومذكرات المقاومة الريفية",
+  "culturalContext": "ملحمة أنوال الخالدة بقيادة محمد بن عبد الكريم الخطابي؛ معركة بطولية جسدت تلاحم القبائل دفاعاً عن الحرية والكرامة والوطن.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s8_v1",
+      "targetTifinagh": "ⵉⵎⵏⵖⵉ",
+      "targetLatin": "Imnɣi",
+      "targetArabic": "المعركة / الملحمة",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵎⵏⵖⵉ] (Imnɣi)؟",
+      "options": [
+        "منطقة الريف المغربية",
+        "الحق / الصدق",
+        "المعركة / الملحمة",
+        "المقاوم / المجاهد"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵉⵎⵏⵖⵉ] (ينطق: Imnɣi) يعني بالعربية: 'المعركة / الملحمة'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s8_v2",
+      "targetTifinagh": "ⴰⵏⵣⴱⴰⵢ",
+      "targetLatin": "Anzbay",
+      "targetArabic": "المقاوم / المجاهد",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'المقاوم / المجاهد'؟",
+      "options": [
+        "ⵉⵎⵏⵖⵉ (Imnɣi)",
+        "ⴰⵎⵖⴰⵔ (Amɣar)",
+        "ⵜⴰⵣⵎⵎⴰⵔⵜ (Tazmmart)",
+        "ⴰⵏⵣⴱⴰⵢ (Anzbay)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵏⵣⴱⴰⵢ] (Anzbay) وترجمتها: 'المقاوم / المجاهد'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s8_v3",
+      "targetTifinagh": "ⵜⵉⵍⴻⵍⵍⵉ",
+      "targetLatin": "Tilelli",
+      "targetArabic": "الحرية",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⵍⴻⵍⵍⵉ] (Tilelli)؟",
+      "options": [
+        "الحرية / ",
+        "منطقة الريف المغربية / ",
+        "الزعيم / القائد / الشيخ / ",
+        "الأمل / الرجاء / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⵍⴻⵍⵍⵉ] (Tilelli) ورد في سياق الحكاية للدلالة على: الحرية ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s8_v4",
+      "targetTifinagh": "ⵜⴰⵣⵎⵎⴰⵔⵜ",
+      "targetLatin": "Tazmmart",
+      "targetArabic": "القوة / العزيمة",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵣⵎⵎⴰⵔⵜ] (Tazmmart)؟",
+      "options": [
+        "المقاوم / المجاهد",
+        "منطقة الريف المغربية",
+        "الأمل / الرجاء",
+        "القوة / العزيمة"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵣⵎⵎⴰⵔⵜ] (ينطق: Tazmmart) يعني بالعربية: 'القوة / العزيمة'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s8_v5",
+      "targetTifinagh": "ⴰⵎⵖⴰⵔ",
+      "targetLatin": "Amɣar",
+      "targetArabic": "الزعيم / القائد / الشيخ",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الزعيم / القائد / الشيخ'؟",
+      "options": [
+        "ⵜⴰⵏⴼⵍⵉⵜ (Tanflit)",
+        "ⵉⵎⵏⵖⵉ (Imnɣi)",
+        "ⵜⵉⴷⵜ (Tidt)",
+        "ⴰⵎⵖⴰⵔ (Amɣar)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵎⵖⴰⵔ] (Amɣar) وترجمتها: 'الزعيم / القائد / الشيخ'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s8_v6",
+      "targetTifinagh": "ⵜⵉⴷⵜ",
+      "targetLatin": "Tidt",
+      "targetArabic": "الحق / الصدق",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⴷⵜ] (Tidt)؟",
+      "options": [
+        "المقاوم / المجاهد / ",
+        "الزعيم / القائد / الشيخ / ",
+        "الحق / الصدق / ",
+        "الرمز / الشعار / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⴷⵜ] (Tidt) ورد في سياق الحكاية للدلالة على: الحق / الصدق ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s8_v7",
+      "targetTifinagh": "ⴰⵣⴰⵎⵓⵍ",
+      "targetLatin": "Azamul",
+      "targetArabic": "الرمز / الشعار",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵣⴰⵎⵓⵍ] (Azamul)؟",
+      "options": [
+        "الحق / الصدق",
+        "الرمز / الشعار",
+        "الزعيم / القائد / الشيخ",
+        "المعركة / الملحمة"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵣⴰⵎⵓⵍ] (ينطق: Azamul) يعني بالعربية: 'الرمز / الشعار'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s8_v8",
+      "targetTifinagh": "ⵜⴰⵏⴼⵍⵉⵜ",
+      "targetLatin": "Tanflit",
+      "targetArabic": "الأنفة / العزة والكرامة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الأنفة / العزة والكرامة'؟",
+      "options": [
+        "ⴰⵣⴰⵎⵓⵍ (Azamul)",
+        "ⴰⵔⵔⵉⴼ (Arrif)",
+        "ⴰⵎⵖⴰⵔ (Amɣar)",
+        "ⵜⴰⵏⴼⵍⵉⵜ (Tanflit)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵏⴼⵍⵉⵜ] (Tanflit) وترجمتها: 'الأنفة / العزة والكرامة'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s8_v9",
+      "targetTifinagh": "ⴰⵔⵔⵉⴼ",
+      "targetLatin": "Arrif",
+      "targetArabic": "منطقة الريف المغربية",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵔⵔⵉⴼ] (Arrif)؟",
+      "options": [
+        "الأمل / الرجاء / ",
+        "الأنفة / العزة والكرامة / ",
+        "الحق / الصدق / ",
+        "منطقة الريف المغربية / "
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⴰⵔⵔⵉⴼ] (Arrif) ورد في سياق الحكاية للدلالة على: منطقة الريف المغربية ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s8_v10",
+      "targetTifinagh": "ⴰⵏⴰⵔⵓⵣ",
+      "targetLatin": "Anaruz",
+      "targetArabic": "الأمل / الرجاء",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵏⴰⵔⵓⵣ] (Anaruz)؟",
+      "options": [
+        "الأمل / الرجاء",
+        "الحق / الصدق",
+        "منطقة الريف المغربية",
+        "الرمز / الشعار"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵏⴰⵔⵓⵣ] (ينطق: Anaruz) يعني بالعربية: 'الأمل / الرجاء'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

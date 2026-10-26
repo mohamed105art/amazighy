@@ -1,0 +1,340 @@
+{
+  "id": "story9",
+  "title": "موحا أوحمو الزياني وأسود خنيفرة في ملحمة الهري",
+  "titleTifinagh": "ⵎⵓⵃⴰ ⵓ ⵃⵎⵎⵓ ⴷ ⵍⵀⵔⵉ",
+  "titleLatin": "Muḥa u Ḥmmu d Lhri",
+  "region": "الأطلس المتوسط (خنيفرة وقبائل زيان)",
+  "dialect": "تمازيغت (Tamaziɣt n Waṭlaṣ)",
+  "level": "متوسط (Level 2)",
+  "category": "history",
+  "categoryName": "تاريخ ومقاومة",
+  "coverImage": "assets/images/stories/story9.jpg",
+  "audio": "assets/audio/stories/story9.mp3",
+  "summary": "معركة الهري سنة 1914 قرب خنيفرة، ملحمة موحا أوحمو الزياني وقبائل زيان الباسلة في الأطلس المتوسط؛ قصة فروسية أصيلة جسدت التشبث بحرية الجبال ورفض الانكسار حتى الشهادة.",
+  "textTamazight": "ⵎⵓⵃⴰ ⵓ ⵃⵎⵎⵓ ⴰⵣⴰⵢⴰⵏ ⵉⴳⴰ ⴰⵎⵖⴰⵔ ⵉⵜⵜⵡⴰⵙⵙⵏⵏ ⴳ ⵉⴷⵓⵔⴰⵔ ⵏ ⵓⵟⵍⴰⵚ.\nⵉⴳⴰ ⵢⴰⵏ ⴰⵎⵏⴰⵢ ⵉⵥⵉⵍⵏ ⵉⵜⵜⵉⵏⵉⵏ ⴼ ⵢⴰⵏ ⴰⵢⵉⵙ ⵉⴷⵓⵙⵏ ⴷ ⵢⴰⵜ ⵜⴰⴳⵎⴰⵔⵜ ⵜⴰⴼⴰⵍⴽⴰⵢⵜ.\nⵜⴻⵜⵜⵡⴰⵙⵙⵏ ⵜⴰⵣⵉⵡⴰⵍⵜ ⵏⵏⵙ ⴳ ⵓⵎⵏⵖⵉ ⵏ ⵍⵀⵔⵉ ⵙ ⵜⴰⴷⵓⵙⵉ ⴷ ⴰⴼⵔⴰⵙ.\nⵉⴳⴰ ⵢⴰⵏ ⴰⵙⵍⴰⵙ ⵉⴷⵓⵙⵏ ⵉ ⵜⵇⴱⵉⵍⵉⵏ ⵏ ⵡⴰⵟⵍⴰⵚ ⵎⵔⴰⵡ ⴷ ⵙⵎⵎⵓⵙ.\nⵢⵖⵔⴰ ⵉⵙⵎ ⵏⵏⵙ ⴳ ⵓⵎⵣⵔⵓⵢ ⵏ ⵍⵎⵖⵔⵉⴱ ⵙ ⵡⵓⵔⵖ ⴷ ⵓⵙⵎⵓⵔ.",
+  "textLatin": "Muḥa u Ḥmmu Azayan iga amɣar ittwassnn g idurar n Uṭlaṣ.\nIga yan amnay iẓiln ittinin f yan ayis idusn d yat tagmart tafalkayt.\nTettwassn taziwalt nnes g umnɣi n Lhri s tadusi d afras.\nIga yan aslas idusn i tqbilin n Waṭlaṣ mraw d smmus.\nYɣra ism nnes g umzruy n Lmɣrib s wurɣ d usmur.",
+  "textArabic": "يعد موحا أوحمو الزياني زعيماً مغربياً أسطورياً في جبال الأطلس المتوسط الشامخة.\nكان فارساً مغواراً يمتطي حصاناً أصيلاً وإلى جانبه فرس سريعة كـالريح.\nأبان عن منتهى الشجاعة والفروسية في معركة الهري بقوته ويقظة حراسته الدائمة.\nشكل ركيزة ودعامة متينة استندت إليها قبائل الأطلس لصد العدوان الأجنبي.\nسُجل اسمه المشرف في تاريخ المغرب المعاصر بأحرف من نور ووفاء خالد.",
+  "grammar": "أداة النفي في الأمازيغية 'Ur' تدخل على الفعل الماضي (Ur yugi = لم يرضَ / لم يتنازل).",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵉⵏⵢⴰ ⵓⵎⵏⴰⵢ ⴰⵢⵉⵙ ⵙ ⵜⵣⵉⵡⴰⵍⵜ",
+    "sentenceLatin": "Inya umnay ayis s tziwalt",
+    "sentenceArabic": "ركب الفارسُ الحصانَ بشجاعة",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵉⵏⵢⴰ",
+        "trans": "ركب / امتطى (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵓⵎⵏⴰⵢ",
+        "trans": "الفارسُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⴰⵢⵉⵙ",
+        "trans": "الحصانَ (مفعول به)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵙ",
+        "trans": "بـ (حرف حال)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵜⵣⵉⵡⴰⵍⵜ",
+        "trans": "الشجاعة / البسالة (اسم)"
+      }
+    ],
+    "explanation": "شبه الجملة 's tziwalt' تبين هيئة الفارس وشجاعته أثناء امتطاء فرسه."
+  },
+  "vocabulary": [
+    {
+      "id": "s9_v1",
+      "tifinagh": "ⴰⵎⵏⴰⵢ",
+      "latin": "Amnay",
+      "arabic": "الفارس الممتطي للفرس",
+      "image": "assets/images/terms/s9_v1.webp",
+      "audio": "assets/audio/words/amnay.mp3",
+      "example": "ⴰⵎⵏⴰⵢ ⵉⵏⵢⴰ ⴰⵢⵉⵙ (الفارس ركب الحصان)",
+      "french": "Le cavalier",
+      "explanation": "ⴰⵎⵏⴰⵢ ⵉⵏⵢⴰ ⴰⵢⵉⵙ (الفارس ركب الحصان)"
+    },
+    {
+      "id": "s9_v2",
+      "tifinagh": "ⴰⵢⵉⵙ",
+      "latin": "Ayis",
+      "arabic": "الحصان / الجواد",
+      "image": "assets/images/terms/s9_v2.webp",
+      "audio": "assets/audio/words/ayis.mp3",
+      "example": "ⴰⵢⵉⵙ ⴰⵎⴰⵣⵉⵖ ⵉⴷⵓⵙ (الجواد الأمازيغي سريع)",
+      "french": "Le cheval",
+      "explanation": "ⴰⵢⵉⵙ ⴰⵎⴰⵣⵉⵖ ⵉⴷⵓⵙ (الجواد الأمازيغي سريع)"
+    },
+    {
+      "id": "s9_v3",
+      "tifinagh": "ⵜⴰⴳⵎⴰⵔⵜ",
+      "latin": "Tagmart",
+      "arabic": "الفرس (أنثى الحصان)",
+      "image": "assets/images/terms/s9_v3.webp",
+      "audio": "assets/audio/words/tagmart.mp3",
+      "example": "ⵜⴰⴳⵎⴰⵔⵜ ⵜⵣⵣⵍ (الفرس تعدو بنشاط)",
+      "french": "La jument",
+      "explanation": "ⵜⴰⴳⵎⴰⵔⵜ ⵜⵣⵣⵍ (الفرس تعدو بنشاط)"
+    },
+    {
+      "id": "s9_v4",
+      "tifinagh": "ⵜⴰⵣⵉⵡⴰⵍⵜ",
+      "latin": "Taziwalt",
+      "arabic": "الشجاعة والفروسية",
+      "image": "assets/images/terms/s9_v4.webp",
+      "audio": "assets/audio/words/taziwalt.mp3",
+      "example": "ⵜⴰⵣⵉⵡⴰⵍⵜ ⵏ ⵉⵎⵏⴰⵢⵏ (شجاعة الفرسان)",
+      "french": "La bravoure chevaleresque",
+      "explanation": "ⵜⴰⵣⵉⵡⴰⵍⵜ ⵏ ⵉⵎⵏⴰⵢⵏ (شجاعة الفرسان)"
+    },
+    {
+      "id": "s9_v5",
+      "tifinagh": "ⴰⵙⵍⴰⵙ",
+      "latin": "Aslas",
+      "arabic": "العمود / الركيزة والسند",
+      "image": "assets/images/terms/s9_v5.webp",
+      "audio": "assets/audio/words/aslas.mp3",
+      "example": "ⴰⵙⵍⴰⵙ ⵏ ⵜⴰⴷⴷⴰⵔⵜ (عمود البيت وركيزته)",
+      "french": "Le pilier / Le soutien solide",
+      "explanation": "ⴰⵙⵍⴰⵙ ⵏ ⵜⴰⴷⴷⴰⵔⵜ (عمود البيت وركيزته)"
+    },
+    {
+      "id": "s9_v6",
+      "tifinagh": "ⴰⵣⴰⵢⴰⵏ",
+      "latin": "Azayan",
+      "arabic": "الزياني (نسبة لقبائل زيان)",
+      "image": "assets/images/terms/s9_v6.webp",
+      "audio": "assets/audio/words/azayan.mp3",
+      "example": "ⴰⵢⵜ ⵣⴰⵢⴰⵏ ⴳ ⵡⴰⵟⵍⴰⵙ (أهل زيان في الأطلس)",
+      "french": "Le Zayani (combattant de Zayane)",
+      "explanation": "ⴰⵢⵜ ⵣⴰⵢⴰⵏ ⴳ ⵡⴰⵟⵍⴰⵙ (أهل زيان في الأطلس)"
+    },
+    {
+      "id": "s9_v7",
+      "tifinagh": "ⵜⴰⴷⵓⵙⵉ",
+      "latin": "Tadusi",
+      "arabic": "القوة والصلابة",
+      "image": "assets/images/terms/s9_v7.webp",
+      "audio": "assets/audio/words/tadusi.mp3",
+      "example": "ⵜⴰⴷⵓⵙⵉ ⵏ ⵓⴷⵔⴰⵔ (صلابة الجبل)",
+      "french": "La vigueur / La puissance",
+      "explanation": "ⵜⴰⴷⵓⵙⵉ ⵏ ⵓⴷⵔⴰⵔ (صلابة الجبل)"
+    },
+    {
+      "id": "s9_v8",
+      "tifinagh": "ⴰⴼⵔⴰⵙ",
+      "latin": "Afras",
+      "arabic": "الحراسة واليقظة",
+      "image": "assets/images/terms/s9_v8.webp",
+      "audio": "assets/audio/words/afras.mp3",
+      "example": "ⵉⵍⵍⴰ ⵓⴼⵔⴰⵙ ⴳ ⵢⵉⴹ (الحراسة مستمرة في الليل)",
+      "french": "La garde / La vigilance",
+      "explanation": "ⵉⵍⵍⴰ ⵓⴼⵔⴰⵙ ⴳ ⵢⵉⴹ (الحراسة مستمرة في الليل)"
+    },
+    {
+      "id": "s9_v9",
+      "tifinagh": "ⵉⵙⵎ",
+      "latin": "Ism",
+      "arabic": "الاسم والسمعة الطيبة",
+      "image": "assets/images/terms/s9_v9.webp",
+      "audio": "assets/audio/words/ism.mp3",
+      "example": "ⵉⵙⵎ ⵏⵏⵙ ⵉⵜⵜⵡⴰⵙⵙⵏ (اسمه معروف بالخير)",
+      "french": "Le nom illustre / La réputation",
+      "explanation": "ⵉⵙⵎ ⵏⵏⵙ ⵉⵜⵜⵡⴰⵙⵙⵏ (اسمه معروف بالخير)"
+    },
+    {
+      "id": "s9_v10",
+      "tifinagh": "ⵉⴷⵓⵔⴰⵔ",
+      "latin": "Idurar",
+      "arabic": "الجبال (جمع Adrar)",
+      "image": "assets/images/terms/s9_v10.webp",
+      "audio": "assets/audio/words/idurar.mp3",
+      "example": "ⵉⴷⵓⵔⴰⵔ ⵏ ⵡⴰⵟⵍⴰⵙ ⵢⴰⵜⵜⵓⵢⵏ (جبال الأطلس الشاهقة)",
+      "french": "Les montagnes",
+      "explanation": "ⵉⴷⵓⵔⴰⵔ ⵏ ⵡⴰⵟⵍⴰⵙ ⵢⴰⵜⵜⵓⵢⵏ (جبال الأطلس الشاهقة)"
+    }
+  ],
+  "textFrench": "Moha Ou Hammou Azayani fut un chef légendaire des hautes montagnes de l'Atlas.\nCavalier émérite, il montait un fier cheval et menait au combat une jument vigoureuse.\nSa haute bravoure éclata lors de la bataille d'El Herri grâce à sa force et sa vigilance.\nIl fut un pilier inébranlable pour l'union des tribus amazighes d'Ifrane et de Khénifra.\nSon illustre nom reste gravé dans l'histoire héroïque du Maroc avec gloire et fidélité.",
+  "genre": "ملحمة تاريخية موثقة (Historical Epic)",
+  "source": "معركة الهري (1914) / سجلات المقاومة بالأطلس المتوسط",
+  "culturalContext": "ملحمة الهري وبطولة موحا أوحمو الزياني؛ قائد شجاع وفرسان بواسل دافعوا عن جبالهم وغابات الأرز بشهامة نادرة.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s9_v1",
+      "targetTifinagh": "ⴰⵎⵏⴰⵢ",
+      "targetLatin": "Amnay",
+      "targetArabic": "الفارس الممتطي للفرس",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵎⵏⴰⵢ] (Amnay)؟",
+      "options": [
+        "الحصان / الجواد",
+        "الحراسة واليقظة",
+        "الفارس الممتطي للفرس",
+        "الجبال (جمع Adrar)"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵎⵏⴰⵢ] (ينطق: Amnay) يعني بالعربية: 'الفارس الممتطي للفرس'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s9_v2",
+      "targetTifinagh": "ⴰⵢⵉⵙ",
+      "targetLatin": "Ayis",
+      "targetArabic": "الحصان / الجواد",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الحصان / الجواد'؟",
+      "options": [
+        "ⵜⴰⴳⵎⴰⵔⵜ (Tagmart)",
+        "ⴰⵣⴰⵢⴰⵏ (Azayan)",
+        "ⴰⵢⵉⵙ (Ayis)",
+        "ⵜⴰⴷⵓⵙⵉ (Tadusi)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵢⵉⵙ] (Ayis) وترجمتها: 'الحصان / الجواد'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s9_v3",
+      "targetTifinagh": "ⵜⴰⴳⵎⴰⵔⵜ",
+      "targetLatin": "Tagmart",
+      "targetArabic": "الفرس (أنثى الحصان)",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴳⵎⴰⵔⵜ] (Tagmart)؟",
+      "options": [
+        "الشجاعة والفروسية / ",
+        "الجبال (جمع Adrar) / ",
+        "الفرس (أنثى الحصان) / ",
+        "الفارس الممتطي للفرس / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴳⵎⴰⵔⵜ] (Tagmart) ورد في سياق الحكاية للدلالة على: الفرس (أنثى الحصان) ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s9_v4",
+      "targetTifinagh": "ⵜⴰⵣⵉⵡⴰⵍⵜ",
+      "targetLatin": "Taziwalt",
+      "targetArabic": "الشجاعة والفروسية",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵣⵉⵡⴰⵍⵜ] (Taziwalt)؟",
+      "options": [
+        "الفرس (أنثى الحصان)",
+        "الحراسة واليقظة",
+        "الجبال (جمع Adrar)",
+        "الشجاعة والفروسية"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵣⵉⵡⴰⵍⵜ] (ينطق: Taziwalt) يعني بالعربية: 'الشجاعة والفروسية'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s9_v5",
+      "targetTifinagh": "ⴰⵙⵍⴰⵙ",
+      "targetLatin": "Aslas",
+      "targetArabic": "العمود / الركيزة والسند",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'العمود / الركيزة والسند'؟",
+      "options": [
+        "ⴰⵙⵍⴰⵙ (Aslas)",
+        "ⵜⴰⵣⵉⵡⴰⵍⵜ (Taziwalt)",
+        "ⵜⴰⴷⵓⵙⵉ (Tadusi)",
+        "ⴰⵢⵉⵙ (Ayis)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵙⵍⴰⵙ] (Aslas) وترجمتها: 'العمود / الركيزة والسند'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s9_v6",
+      "targetTifinagh": "ⴰⵣⴰⵢⴰⵏ",
+      "targetLatin": "Azayan",
+      "targetArabic": "الزياني (نسبة لقبائل زيان)",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵣⴰⵢⴰⵏ] (Azayan)؟",
+      "options": [
+        "العمود / الركيزة والسند / ",
+        "الزياني (نسبة لقبائل زيان) / ",
+        "القوة والصلابة / ",
+        "الجبال (جمع Adrar) / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵣⴰⵢⴰⵏ] (Azayan) ورد في سياق الحكاية للدلالة على: الزياني (نسبة لقبائل زيان) ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s9_v7",
+      "targetTifinagh": "ⵜⴰⴷⵓⵙⵉ",
+      "targetLatin": "Tadusi",
+      "targetArabic": "القوة والصلابة",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴷⵓⵙⵉ] (Tadusi)؟",
+      "options": [
+        "الزياني (نسبة لقبائل زيان)",
+        "الاسم والسمعة الطيبة",
+        "الجبال (جمع Adrar)",
+        "القوة والصلابة"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴷⵓⵙⵉ] (ينطق: Tadusi) يعني بالعربية: 'القوة والصلابة'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s9_v8",
+      "targetTifinagh": "ⴰⴼⵔⴰⵙ",
+      "targetLatin": "Afras",
+      "targetArabic": "الحراسة واليقظة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الحراسة واليقظة'؟",
+      "options": [
+        "ⵉⴷⵓⵔⴰⵔ (Idurar)",
+        "ⴰⴼⵔⴰⵙ (Afras)",
+        "ⵜⴰⵣⵉⵡⴰⵍⵜ (Taziwalt)",
+        "ⴰⵢⵉⵙ (Ayis)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⴼⵔⴰⵙ] (Afras) وترجمتها: 'الحراسة واليقظة'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s9_v9",
+      "targetTifinagh": "ⵉⵙⵎ",
+      "targetLatin": "Ism",
+      "targetArabic": "الاسم والسمعة الطيبة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵉⵙⵎ] (Ism)؟",
+      "options": [
+        "الفرس (أنثى الحصان) / ",
+        "الاسم والسمعة الطيبة / ",
+        "الفارس الممتطي للفرس / ",
+        "العمود / الركيزة والسند / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵉⵙⵎ] (Ism) ورد في سياق الحكاية للدلالة على: الاسم والسمعة الطيبة ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s9_v10",
+      "targetTifinagh": "ⵉⴷⵓⵔⴰⵔ",
+      "targetLatin": "Idurar",
+      "targetArabic": "الجبال (جمع Adrar)",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⴷⵓⵔⴰⵔ] (Idurar)؟",
+      "options": [
+        "الاسم والسمعة الطيبة",
+        "الحصان / الجواد",
+        "الفرس (أنثى الحصان)",
+        "الجبال (جمع Adrar)"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵉⴷⵓⵔⴰⵔ] (ينطق: Idurar) يعني بالعربية: 'الجبال (جمع Adrar)'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

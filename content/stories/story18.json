@@ -1,0 +1,340 @@
+{
+  "id": "story18",
+  "title": "صياد تاغزوت وأمواج المحيط الأطلسي",
+  "titleTifinagh": "ⴰⵎⴳⵎⴰⵔ ⵏ ⵢⵉⵍⵍ ⴳ ⵜⴰⵖⵣⵓⵜ",
+  "titleLatin": "Amgmar n Yill g Taɣzut",
+  "region": "تاغزوت وأكادير (سواحل المحيط الأطلسي)",
+  "dialect": "تشلحيت (Tacelḥit)",
+  "level": "مبتدئ (Level 1)",
+  "category": "heritage",
+  "categoryName": "تراث بحري",
+  "coverImage": "assets/images/stories/story18.jpg",
+  "audio": "assets/audio/stories/story18.mp3",
+  "summary": "التراث البحري الأمازيغي في ساحل تاغزوت الشهير؛ قصة الصياد الصبور وقاربه الخشبي الملون 'أغرابو' الذي يخوض عباب المحيط الأطلسي متسلحاً باحترام أسرار البحر (إيل) وقوانين الطبيعة دون إفراط.",
+  "textTamazight": "ⴳ ⴰⴼⵜⴰⵙ ⵏ ⵜⴰⵖⴰⵣⵓⵜ, ⴷⴰ ⵉⵜⵜⴰⵙⵉ ⴰⵎⴳⵎⴰⵔ ⴰⵖⵔⵔⴰⴱⵓ ⵏⵏⵙ ⵉⵜⵜⵡⴰⵙⴽⴰⵔⵏ ⵙ ⴰⴽⵛⵛⵓⴹ.\nⵉⴷⴷⴰ ⵖⵔ ⵉⵍⵍ ⴰⵎⵇⵔⴰⵏ ⴰⴼⴰⴷ ⴰⴷ ⵢⴰⵡⵉ ⵉⵙⵍⵎ ⴷ ⵜⴰⵙⴰⵙⵜ ⵉ ⵜⴰⵡⵊⴰ.\nⵉⵙⵙⵔⵙ ⵜⴰⴹⵓⵜ ⵏⵏⵙ ⴳ ⵡⴰⵎⴰⵏ, ⵢⴰⵔⵄ ⵜⴰⴹⴰⵏⴳⴰ ⵢⴰⵜⵜⵓⵢⵏ ⵏ ⵡⴰⴹⵓ.\nⵢⵓⵖⴰⵍ-ⴷ ⵙ ⴰⵙⵏⵙⵓ ⴰⵎⴱⴰⵔⴽ ⵙ ⵜⵓⵎⵔⵜ ⴷ ⵉⵙⵍⵎⴰⵏ ⵉⵎⵍⵍⴰⵍⵏ.\nⵉⴳⴰ ⴰⵎⴳⵎⴰⵔ ⴰⵎⴰⵣⵉⵖ ⴰⵎⴷⵢⴰ ⵏ ⵓⵥⵡⵉⵕ ⴷ ⵜⴰⵡⵏⵣⵉⵜ ⴳ ⵜⵓⴷⵔⵜ.",
+  "textLatin": "G uftas n Taɣazut, da ittasi umgmar aɣrrabu nnes ittwaskarn s ukccuḍ.\nIdda ɣer ill amqran afad ad yawi islm d tasast i tawja.\nIssrs taḍut nnes g waman, yarɛ taḍanga yattuyen n waḍu.\nYuɣal-d s usnsu ambark s tumrt d islman imllaln.\nIga umgmar amaziɣ amdya n uẓwiṛ d tawnzit g tudrt.",
+  "textArabic": "على شاطئ تاغازوت الفسيح، يسحب الصياد البحري قاربه الخشبي المصنوع من أجود أنواع الخشب الأصيل.\nيمخر عباب البحر والمحيط الأطلسي الهادر سعياً وراء صيد الـسمك الطري واكتساب الرزق الحلال لأسرته.\nيلقي شبكة الصيد في المياه الهادئة، متفادياً الـموجة العالية التي تحدثها الرياح القوية.\nيعود سالماً إلى المرسى والمأوى الآمن مستبشراً بوفرة الأسماك وخير البحر العميم.\nيظل الصياد الأمازيغي نموذجاً للصبر والكد والشجاعة في مجابهة أمواج الحياة.",
+  "grammar": "كلمة 'Ill' تعني البحر أو المحيط، و'Amgmar' صيغة فاعل من فعل 'Gmr' (صاد يصيد).",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵢⵓⵎⵥ ⵓⵎⴳⵎⴰⵔ ⵉⵙⵍⵎ ⵙ ⵜⴹⵓⵜ",
+    "sentenceLatin": "Yumẓ umgmar islm s tḍut",
+    "sentenceArabic": "أمسك الصيادُ السمكَ بالشبكة",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵢⵓⵎⵥ",
+        "trans": "أمسك / قبض (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵓⵎⴳⵎⴰⵔ",
+        "trans": "الصيادُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵉⵙⵍⵎ",
+        "trans": "السمك / الحوت (مفعول به)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵙ",
+        "trans": "بـ (حرف أداة)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵜⴹⵓⵜ",
+        "trans": "الشبكة (اسم مجرور)"
+      }
+    ],
+    "explanation": "الجملة تعبر عن النشاط اليومي للصياد الأمازيغي على شواطئ سوس."
+  },
+  "vocabulary": [
+    {
+      "id": "s18_v1",
+      "tifinagh": "ⵉⵍⵍ",
+      "latin": "Ill",
+      "arabic": "البحر / المحيط",
+      "image": "assets/images/terms/s18_v1.webp",
+      "audio": "assets/audio/words/ill.mp3",
+      "example": "ⵉⵍⵍ ⵏ ⵡⴰⵟⵍⴰⵙ (المحيط الأطلسي)",
+      "french": "La mer / L'océan",
+      "explanation": "ⵉⵍⵍ ⵏ ⵡⴰⵟⵍⴰⵙ (المحيط الأطلسي)"
+    },
+    {
+      "id": "s18_v2",
+      "tifinagh": "ⴰⵎⴳⵎⴰⵔ",
+      "latin": "Amgmar",
+      "arabic": "الصياد البحري",
+      "image": "assets/images/terms/s18_v2.webp",
+      "audio": "assets/audio/words/amgmar.mp3",
+      "example": "ⴰⵎⴳⵎⴰⵔ ⵉⵙⵙⵏ ⵉⵍⵍ (الصياد خبير بالبحر)",
+      "french": "Le pêcheur artisan",
+      "explanation": "ⴰⵎⴳⵎⴰⵔ ⵉⵙⵙⵏ ⵉⵍⵍ (الصياد خبير بالبحر)"
+    },
+    {
+      "id": "s18_v3",
+      "tifinagh": "ⴰⵖⵔⵔⴰⴱⵓ",
+      "latin": "Aɣrrabu",
+      "arabic": "القارب / الفلوكة الخشبية",
+      "image": "assets/images/terms/s18_v3.webp",
+      "audio": "assets/audio/words/agrrabu.mp3",
+      "example": "ⴰⵖⵔⵔⴰⴱⵓ ⴳ ⵡⴰⵎⴰⵏ (القارب يمخر عباب الماء)",
+      "french": "La barque de pêche en bois",
+      "explanation": "ⴰⵖⵔⵔⴰⴱⵓ ⴳ ⵡⴰⵎⴰⵏ (القارب يمخر عباب الماء)"
+    },
+    {
+      "id": "s18_v4",
+      "tifinagh": "ⵉⵙⵍⵎ",
+      "latin": "Islm",
+      "arabic": "السمك (جمع: Islman)",
+      "image": "assets/images/terms/s18_v4.webp",
+      "audio": "assets/audio/words/islm.mp3",
+      "example": "ⵉⵙⵍⵎ ⴰⵎⵍⵍⴰⵍ (سمك طري ونقي)",
+      "french": "Le poisson frais",
+      "explanation": "ⵉⵙⵍⵎ ⴰⵎⵍⵍⴰⵍ (سمك طري ونقي)"
+    },
+    {
+      "id": "s18_v5",
+      "tifinagh": "ⵜⴰⴹⵓⵜ",
+      "latin": "Taḍut",
+      "arabic": "شبكة الصيد",
+      "image": "assets/images/terms/s18_v5.webp",
+      "audio": "assets/audio/words/tadut_net.mp3",
+      "example": "ⵜⴰⴹⵓⵜ ⵏ ⵓⴳⵎⴰⵔ (شبكة الصيد المتينة)",
+      "french": "Le filet de pêcheur",
+      "explanation": "ⵜⴰⴹⵓⵜ ⵏ ⵓⴳⵎⴰⵔ (شبكة الصيد المتينة)"
+    },
+    {
+      "id": "s18_v6",
+      "tifinagh": "ⴰⴼⵜⴰⵙ",
+      "latin": "Aftas",
+      "arabic": "الشاطئ / الساحل والمرسى",
+      "image": "assets/images/terms/s18_v6.webp",
+      "audio": "assets/audio/words/aftas.mp3",
+      "example": "ⴰⴼⵜⴰⵙ ⵏ ⵜⴰⵖⵣⵓⵜ (ساحل تاغزوت البديع)",
+      "french": "La côte maritime / Le port naturel",
+      "explanation": "ⴰⴼⵜⴰⵙ ⵏ ⵜⴰⵖⵣⵓⵜ (ساحل تاغزوت البديع)"
+    },
+    {
+      "id": "s18_v7",
+      "tifinagh": "ⵜⴰⵙⴰⵙⵜ",
+      "latin": "Tasast",
+      "arabic": "الرزق والخير المكتوب",
+      "image": "assets/images/terms/s18_v7.webp",
+      "audio": "assets/audio/words/tasast.mp3",
+      "example": "ⵜⴰⵙⴰⵙⵜ ⵏ ⵡⴰⵎⴰⵏ (خيرات البحر)",
+      "french": "La subsistance honorable",
+      "explanation": "ⵜⴰⵙⴰⵙⵜ ⵏ ⵡⴰⵎⴰⵏ (خيرات البحر)"
+    },
+    {
+      "id": "s18_v8",
+      "tifinagh": "ⵜⴰⴹⴰⵏⴳⴰ",
+      "latin": "Taḍanga",
+      "arabic": "الموجة العالية",
+      "image": "assets/images/terms/s18_v8.webp",
+      "audio": "assets/audio/words/tadanga.mp3",
+      "example": "ⵜⴰⴹⴰⵏⴳⴰ ⵜⴰⵜⵜⵓⵢⵜ (موجة المحيط العاتية)",
+      "french": "La puissante vague océanique",
+      "explanation": "ⵜⴰⴹⴰⵏⴳⴰ ⵜⴰⵜⵜⵓⵢⵜ (موجة المحيط العاتية)"
+    },
+    {
+      "id": "s18_v9",
+      "tifinagh": "ⴰⵙⵏⵙⵓ",
+      "latin": "Asnsu",
+      "arabic": "المرسى والمأوى الآمن",
+      "image": "assets/images/terms/s18_v9.webp",
+      "audio": "assets/audio/words/asnsu.mp3",
+      "example": "ⵢⵓⵖⴰⵍ ⵖⵔ ⵓⵙⵏⵙⵓ (عاد إلى المرسى بأمان)",
+      "french": "L'abri côtier / Le mouillage sûr",
+      "explanation": "ⵢⵓⵖⴰⵍ ⵖⵔ ⵓⵙⵏⵙⵓ (عاد إلى المرسى بأمان)"
+    },
+    {
+      "id": "s18_v10",
+      "tifinagh": "ⴰⴽⵛⵛⵓⴹ",
+      "latin": "Akccuḍ",
+      "arabic": "الخشب الأصيل",
+      "image": "assets/images/terms/s18_v10.webp",
+      "audio": "assets/audio/words/akccud.mp3",
+      "example": "ⴰⴽⵛⵛⵓⴹ ⵏ ⵓⵖⵔⵔⴰⴱⵓ (خشب القارب القوي)",
+      "french": "Le bois robuste",
+      "explanation": "ⴰⴽⵛⵛⵓⴹ ⵏ ⵓⵖⵔⵔⴰⴱⵓ (خشب القارب القوي)"
+    }
+  ],
+  "textFrench": "Sur la plage de Taghazout, le brave pêcheur prend sa barque façonnée dans le bois robuste.\nIl vogue sur la vaste mer pour pêcher le poisson frais et rapporter la subsistance aux siens.\nIl jette son filet de pêche dans l'eau, esquivant la haute vague soulevée par la brise.\nIl regagne le havre et le mouillage sûr avec bonheur et des prises étincelantes.\nLe marin amazigh offre un modèle de patience, de courage et d'harmonie avec l'océan.",
+  "genre": "ثقافة البحر والصيد التقليدي (Maritime Cultural Tale)",
+  "source": "تراث قوارب الصيد التقليدي بسواحل سوس",
+  "culturalContext": "علاقة الأمازيغي بالبحر والمحيط الأطلسي وقوارب الخشب التقليدية (أغرابو)؛ الصبر في مواجهة الأمواج لطلب الرزق الحلال.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s18_v1",
+      "targetTifinagh": "ⵉⵍⵍ",
+      "targetLatin": "Ill",
+      "targetArabic": "البحر / المحيط",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵍⵍ] (Ill)؟",
+      "options": [
+        "الخشب الأصيل",
+        "البحر / المحيط",
+        "الرزق والخير المكتوب",
+        "شبكة الصيد"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵉⵍⵍ] (ينطق: Ill) يعني بالعربية: 'البحر / المحيط'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s18_v2",
+      "targetTifinagh": "ⴰⵎⴳⵎⴰⵔ",
+      "targetLatin": "Amgmar",
+      "targetArabic": "الصياد البحري",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الصياد البحري'؟",
+      "options": [
+        "ⵜⴰⵙⴰⵙⵜ (Tasast)",
+        "ⵉⵍⵍ (Ill)",
+        "ⵉⵙⵍⵎ (Islm)",
+        "ⴰⵎⴳⵎⴰⵔ (Amgmar)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵎⴳⵎⴰⵔ] (Amgmar) وترجمتها: 'الصياد البحري'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s18_v3",
+      "targetTifinagh": "ⴰⵖⵔⵔⴰⴱⵓ",
+      "targetLatin": "Aɣrrabu",
+      "targetArabic": "القارب / الفلوكة الخشبية",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵖⵔⵔⴰⴱⵓ] (Aɣrrabu)؟",
+      "options": [
+        "الشاطئ / الساحل والمرسى / ",
+        "القارب / الفلوكة الخشبية / ",
+        "الموجة العالية / ",
+        "الخشب الأصيل / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵖⵔⵔⴰⴱⵓ] (Aɣrrabu) ورد في سياق الحكاية للدلالة على: القارب / الفلوكة الخشبية ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s18_v4",
+      "targetTifinagh": "ⵉⵙⵍⵎ",
+      "targetLatin": "Islm",
+      "targetArabic": "السمك (جمع: Islman)",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵙⵍⵎ] (Islm)؟",
+      "options": [
+        "الموجة العالية",
+        "السمك (جمع: Islman)",
+        "الرزق والخير المكتوب",
+        "الشاطئ / الساحل والمرسى"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵉⵙⵍⵎ] (ينطق: Islm) يعني بالعربية: 'السمك (جمع: Islman)'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s18_v5",
+      "targetTifinagh": "ⵜⴰⴹⵓⵜ",
+      "targetLatin": "Taḍut",
+      "targetArabic": "شبكة الصيد",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'شبكة الصيد'؟",
+      "options": [
+        "ⴰⴽⵛⵛⵓⴹ (Akccuḍ)",
+        "ⵜⴰⴹⵓⵜ (Taḍut)",
+        "ⴰⴼⵜⴰⵙ (Aftas)",
+        "ⴰⵖⵔⵔⴰⴱⵓ (Aɣrrabu)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴹⵓⵜ] (Taḍut) وترجمتها: 'شبكة الصيد'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s18_v6",
+      "targetTifinagh": "ⴰⴼⵜⴰⵙ",
+      "targetLatin": "Aftas",
+      "targetArabic": "الشاطئ / الساحل والمرسى",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴼⵜⴰⵙ] (Aftas)؟",
+      "options": [
+        "الشاطئ / الساحل والمرسى / ",
+        "الخشب الأصيل / ",
+        "شبكة الصيد / ",
+        "الرزق والخير المكتوب / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⴼⵜⴰⵙ] (Aftas) ورد في سياق الحكاية للدلالة على: الشاطئ / الساحل والمرسى ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s18_v7",
+      "targetTifinagh": "ⵜⴰⵙⴰⵙⵜ",
+      "targetLatin": "Tasast",
+      "targetArabic": "الرزق والخير المكتوب",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵙⴰⵙⵜ] (Tasast)؟",
+      "options": [
+        "الشاطئ / الساحل والمرسى",
+        "القارب / الفلوكة الخشبية",
+        "الرزق والخير المكتوب",
+        "الموجة العالية"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵙⴰⵙⵜ] (ينطق: Tasast) يعني بالعربية: 'الرزق والخير المكتوب'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s18_v8",
+      "targetTifinagh": "ⵜⴰⴹⴰⵏⴳⴰ",
+      "targetLatin": "Taḍanga",
+      "targetArabic": "الموجة العالية",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الموجة العالية'؟",
+      "options": [
+        "ⵜⴰⵙⴰⵙⵜ (Tasast)",
+        "ⴰⵎⴳⵎⴰⵔ (Amgmar)",
+        "ⴰⵖⵔⵔⴰⴱⵓ (Aɣrrabu)",
+        "ⵜⴰⴹⴰⵏⴳⴰ (Taḍanga)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴹⴰⵏⴳⴰ] (Taḍanga) وترجمتها: 'الموجة العالية'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s18_v9",
+      "targetTifinagh": "ⴰⵙⵏⵙⵓ",
+      "targetLatin": "Asnsu",
+      "targetArabic": "المرسى والمأوى الآمن",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵙⵏⵙⵓ] (Asnsu)؟",
+      "options": [
+        "الخشب الأصيل / ",
+        "السمك (جمع: Islman) / ",
+        "الرزق والخير المكتوب / ",
+        "المرسى والمأوى الآمن / "
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⴰⵙⵏⵙⵓ] (Asnsu) ورد في سياق الحكاية للدلالة على: المرسى والمأوى الآمن ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s18_v10",
+      "targetTifinagh": "ⴰⴽⵛⵛⵓⴹ",
+      "targetLatin": "Akccuḍ",
+      "targetArabic": "الخشب الأصيل",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴽⵛⵛⵓⴹ] (Akccuḍ)؟",
+      "options": [
+        "السمك (جمع: Islman)",
+        "البحر / المحيط",
+        "الخشب الأصيل",
+        "الموجة العالية"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⴽⵛⵛⵓⴹ] (ينطق: Akccuḍ) يعني بالعربية: 'الخشب الأصيل'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

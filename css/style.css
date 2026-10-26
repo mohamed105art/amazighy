@@ -1,0 +1,48 @@
+/* Custom Styles for Amazigh Learn Platform */
+body {
+  font-family: 'Tajawal', system-ui, -apple-system, sans-serif;
+}
+
+.tifinagh-font {
+  font-family: 'Noto Sans Tifinagh', system-ui, sans-serif;
+  letter-spacing: 0.05em;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05);
+}
+.dark ::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+}
+::-webkit-scrollbar-thumb {
+  background: #d97706;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b45309;
+}
+
+/* Berber Pattern Background Overlay */
+.berber-pattern {
+  background-image: radial-gradient(#d97706 0.75px, transparent 0.75px), radial-gradient(#d97706 0.75px, #f8fafc 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+}
+.dark .berber-pattern {
+  background-image: radial-gradient(#0284c7 0.75px, transparent 0.75px), radial-gradient(#0284c7 0.75px, #0f172a 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+}
+
+/* Card Transitions */
+.card-hover {
+  transition: all 0.25s ease-in-out;
+}
+.card-hover:hover {
+  transform: translateY(-4px);
+}

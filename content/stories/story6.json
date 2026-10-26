@@ -1,0 +1,340 @@
+{
+  "id": "story6",
+  "title": "حكاية شجرة الأركان وسر الزيت الذهبي",
+  "titleTifinagh": "ⵜⴰⴷⴷⴰⴳⵜ ⵏ ⵡⴰⵔⴳⴰⵏ ⵜⴰⵡⵔⴰⵖⵜ",
+  "titleLatin": "Taddagt n Wargan Tawraɣt",
+  "region": "سوس وحاحا والصويرة (المثلث الذهبي للأركان)",
+  "dialect": "تشلحيت (Tacelḥit)",
+  "level": "مبتدئ (Level 1)",
+  "category": "heritage",
+  "categoryName": "تراث وطبيعة",
+  "coverImage": "assets/images/stories/story6.jpg",
+  "audio": "assets/audio/stories/story6.mp3",
+  "summary": "شجرة الأركان، الشجرة المباركة الفريدة في المغرب وعالم التراث الأمازيغي الإنساني؛ قصة الجدات اللواتي يحافظن على الشجرة، يجمعن ثمارها (أفيّاش)، ويستخرجن الزيت الذهبي برحى 'أزرك' الحجرية مع ترانيم الأجداد.",
+  "textTamazight": "ⵜⴰⴷⴷⴰⴳⵜ ⵏ ⴰⵔⴳⴰⵏ ⵜⴳⴰ ⵜⴰⵢⵙⵉ ⵉⵥⵍⵉⵏ ⵏ ⵡⴰⴽⴰⵍ ⵏ ⵙⵓⵙ ⴷ ⵍⵎⵖⵔⵉⴱ.\nⵜⴻⵜⵜⴰⵙⵉ ⵜⴰⵎⵖⴰⵔⵜ ⵜⵉⵢⵢⵉ ⵏ ⵡⴰⵔⴳⴰⵏ ⵙ ⴰⴼⵓⵙ ⵏⵏⵙ ⵉⵥⵉⵍⵏ.\nⵜⵕⵥⴰ ⵉⵖⵚ ⴰⵇⵓⵔⴰⵏ, ⵜⵙⵙⵎⵔⵙ ⴰⵣⵔⴳ ⴰⵥⵕⵡⴰⵏ ⴰⴼⴰⴷ ⴰⴷ ⵜⵙⵙⵓⴼⵖ ⴰⵣⴰⵜⵉⵎ.\nⵉⴳⴰ ⵓⵣⴰⵜⵉⵎ-ⴰⴷ ⵣⵓⵏ ⴷ ⵡⵓⵔⵖ ⴰⵡⵔⴰⵖ ⴷⴷⴰⵡ ⵜⵉⴼⴰⵡⵜ ⵏ ⵜⴰⴼⵓⴽⵜ ⵜⴰⵎⵙⴽⴰⵔⵜ.\nⵉⴼⴽⴰ ⵓⵔⴳⴰⵏ ⵜⵓⴷⵔⵜ ⴷ ⵜⴷⵓⵙⵉ ⵉ ⵢⵉⵡⴷⴰⵏ ⴷ ⵡⴰⴽⴰⵍ ⵙ ⵓⵎⴰⵜⴰ.",
+  "textLatin": "Taddagt n argan tga taysi iẓlin n wakal n Sus d Lmɣrib.\nTettasi tamɣart tiyyi n wargan s afus nnes iẓiln.\nTṛza iɣṣ aquran, tssmrs azrg aẓṛwan afad ad tssufɣ azatim.\nIga uzatim-ad zun d wurɣ awraɣ ddaw tifawt n tafukt tamskart.\nIfka urgan tudrt d tadusi i yiwdan d wakal s umata.",
+  "textArabic": "تعد شجرة الأركان العريقة كنزاً تراثياً فريداً لأرض سوس والمغرب الحبيب.\nتجمع المرأة السوسية المكافحة ثمرة الأركان الناضجة بـيدها الحنونة الماهرة.\nتكسر النواة الصلبة، وتدير الرحى الحجرية التراثية لتستخرج قطرات الـزيت الصافي.\nيلمع هذا الزيت الثمين كالذهب الأصفر تحت خيوط الـشمس المشرقة الدافئة.\nيمنح الأركان الحياة والصحة والعافية لأهل المنطقة وجبالها الشامخة.",
+  "grammar": "الفعل مع نون النسوة في الأمازيغية ينتهي بـ 'nt' (مثل: Kksnt = جمعن، Ṛẓant = كسرن، Ẓḍant = طحنّ).",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵜⵥⴹⴰ ⵜⵎⵖⴰⵔⵜ ⴰⵔⴳⴰⵏ ⵙ ⵓⵣⵔⴳ",
+    "sentenceLatin": "Tẓḍa tmɣart argan s uzrg",
+    "sentenceArabic": "طحنت المرأة الأركانَ بالرحى",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵜⵥⴹⴰ",
+        "trans": "طحنت (فعل مؤنث)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵜⵎⵖⴰⵔⵜ",
+        "trans": "المرأةُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⴰⵔⴳⴰⵏ",
+        "trans": "الأركانَ (مفعول به)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵙ",
+        "trans": "بـ (حرف أداة واستعانة)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵓⵣⵔⴳ",
+        "trans": "الرحى الحجرية (اسم مقيد)"
+      }
+    ],
+    "explanation": "أداة الاستعانة 's' (بواسطة) تقيد الاسم المذكر 'azrg' ليصبح 'uzrg'."
+  },
+  "vocabulary": [
+    {
+      "id": "s6_v1",
+      "tifinagh": "ⴰⵔⴳⴰⵏ",
+      "latin": "Argan",
+      "arabic": "شجرة وثمر الأركان",
+      "image": "assets/images/terms/s6_v1.webp",
+      "audio": "assets/audio/words/argan.mp3",
+      "example": "ⴰⵔⴳⴰⵏ ⵉⵍⴰ ⵜⴰⵙⵓⵍⵜ (الأركان رمز البقاء)",
+      "french": "L'arganier / Le fruit d'argan",
+      "explanation": "ⴰⵔⴳⴰⵏ ⵉⵍⴰ ⵜⴰⵙⵓⵍⵜ (الأركان رمز البقاء)"
+    },
+    {
+      "id": "s6_v2",
+      "tifinagh": "ⴰⵣⴰⵜⵉⵎ",
+      "latin": "Azatim",
+      "arabic": "الزيت (زيت الأركان/الزيتون)",
+      "image": "assets/images/terms/s6_v2.webp",
+      "audio": "assets/audio/words/azatim.mp3",
+      "example": "ⴰⵣⴰⵜⵉⵎ ⴰⵡⵔⴰⵖ ⵉⴼⵓⵍⴽⵉ (الزيت الذهبي نقي)",
+      "french": "L'huile précieuse",
+      "explanation": "ⴰⵣⴰⵜⵉⵎ ⴰⵡⵔⴰⵖ ⵉⴼⵓⵍⴽⵉ (الزيت الذهبي نقي)"
+    },
+    {
+      "id": "s6_v3",
+      "tifinagh": "ⴰⵣⵔⴳ",
+      "latin": "Azrg",
+      "arabic": "الرحى الحجرية لطحن الحبوب",
+      "image": "assets/images/terms/s6_v3.webp",
+      "audio": "assets/audio/words/azrg.mp3",
+      "example": "ⵜⵙⵙⵎⵓⵜⵜⵓⵢ ⴰⵣⵔⴳ (تدير الرحى بيديها)",
+      "french": "La meule de pierre traditionnelle",
+      "explanation": "ⵜⵙⵙⵎⵓⵜⵜⵓⵢ ⴰⵣⵔⴳ (تدير الرحى بيديها)"
+    },
+    {
+      "id": "s6_v4",
+      "tifinagh": "ⵜⵉⵢⵢⵉ",
+      "latin": "Tiyyi",
+      "arabic": "ثمرة الأركان",
+      "image": "assets/images/terms/s6_v4.webp",
+      "audio": "assets/audio/words/tiyyi.mp3",
+      "example": "ⵜⴹⵕ ⵜⵉⵢⵢⵉ ⵖⴼ ⵡⴰⴽⴰⵍ (سقطت الثمرة على الأرض)",
+      "french": "Le fruit d'argan mûr",
+      "explanation": "ⵜⴹⵕ ⵜⵉⵢⵢⵉ ⵖⴼ ⵡⴰⴽⴰⵍ (سقطت الثمرة على الأرض)"
+    },
+    {
+      "id": "s6_v5",
+      "tifinagh": "ⵉⵖⵚ",
+      "latin": "Iɣṣ",
+      "arabic": "النواة / العظم الصلب",
+      "image": "assets/images/terms/s6_v5.webp",
+      "audio": "assets/audio/words/igs.mp3",
+      "example": "ⵉⵖⵚ ⵏ ⵡⴰⵔⴳⴰⵏ ⵉⵇⵇⵓⵔ (نواة الأركان صلبة)",
+      "french": "Le noyau dur / L'amandon",
+      "explanation": "ⵉⵖⵚ ⵏ ⵡⴰⵔⴳⴰⵏ ⵉⵇⵇⵓⵔ (نواة الأركان صلبة)"
+    },
+    {
+      "id": "s6_v6",
+      "tifinagh": "ⵜⴰⵎⵖⴰⵔⵜ",
+      "latin": "Tamɣart",
+      "arabic": "المرأة / السيدة",
+      "image": "assets/images/terms/s6_v6.webp",
+      "audio": "assets/audio/words/tamgart.mp3",
+      "example": "ⵜⴰⵎⵖⴰⵔⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⵛⵇⴰ (المرأة الأمازيغية مكافحة)",
+      "french": "La femme / L'épouse",
+      "explanation": "ⵜⴰⵎⵖⴰⵔⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⵛⵇⴰ (المرأة الأمازيغية مكافحة)"
+    },
+    {
+      "id": "s6_v7",
+      "tifinagh": "ⴰⴼⵓⵙ",
+      "latin": "Afus",
+      "arabic": "اليد",
+      "image": "assets/images/terms/s6_v7.webp",
+      "audio": "assets/audio/words/afus.mp3",
+      "example": "ⴰⴼⵓⵙ ⴳ ⵓⴼⵓⵙ ⵉⵜⵜⵉⵡⵉ ⴰⵎⵓⵔⵙ (يد في يد تحقق النجاح)",
+      "french": "La main",
+      "explanation": "ⴰⴼⵓⵙ ⴳ ⵓⴼⵓⵙ ⵉⵜⵜⵉⵡⵉ ⴰⵎⵓⵔⵙ (يد في يد تحقق النجاح)"
+    },
+    {
+      "id": "s6_v8",
+      "tifinagh": "ⵜⴰⴼⵓⴽⵜ",
+      "latin": "Tafukt",
+      "arabic": "الشمس",
+      "image": "assets/images/terms/s6_v8.webp",
+      "audio": "assets/audio/words/tafukt.mp3",
+      "example": "ⵜⴼⴰⵡ ⵜⴼⵓⴽⵜ ⵖⴼ ⵙⵓⵙ (أشرقت الشمس فوق سوس)",
+      "french": "Le soleil",
+      "explanation": "ⵜⴼⴰⵡ ⵜⴼⵓⴽⵜ ⵖⴼ ⵙⵓⵙ (أشرقت الشمس فوق سوس)"
+    },
+    {
+      "id": "s6_v9",
+      "tifinagh": "ⴰⵡⵔⴰⵖ",
+      "latin": "Awraɣ",
+      "arabic": "الأصفر / الذهبي",
+      "image": "assets/images/terms/s6_v9.webp",
+      "audio": "assets/audio/words/awrag.mp3",
+      "example": "ⵓⵔⵖ ⴰⵡⵔⴰⵖ (الذهب الأصفر)",
+      "french": "Jaune / Doré",
+      "explanation": "ⵓⵔⵖ ⴰⵡⵔⴰⵖ (الذهب الأصفر)"
+    },
+    {
+      "id": "s6_v10",
+      "tifinagh": "ⵜⵓⴷⵔⵜ",
+      "latin": "Tudrt",
+      "arabic": "الحياة / المعيشة",
+      "image": "assets/images/terms/s6_v10.webp",
+      "audio": "assets/audio/words/tudrt.mp3",
+      "example": "ⵜⵓⴷⵔⵜ ⵜⵣⴷⴷⵉⴳ (الحياة هادئة وطيبة)",
+      "french": "La vie",
+      "explanation": "ⵜⵓⴷⵔⵜ ⵜⵣⴷⴷⵉⴳ (الحياة هادئة وطيبة)"
+    }
+  ],
+  "textFrench": "L'arbre d'argan est un patrimoine exceptionnel de la terre du Souss et du Maroc.\nLa femme laborieuse ramasse le fruit d'argan avec sa main habile et patiente.\nElle casse le noyau dur et tourne la meule de pierre traditionnelle pour extraire l'huile.\nCette huile dorée brille de couleur jaune étincelante sous la lumière du soleil.\nL'arganier apporte la vie, la santé et la prospérité à toute la communauté locale.",
+  "genre": "تراث بيئي ومادي أصيل (Ecological Cultural Tale)",
+  "source": "التراث الزراعي لبلاد سوس / منظمة اليونسكو (تراث غير مادي)",
+  "culturalContext": "شجرة الأركان المباركة كنز فريد للمغرب ومصدر عيش كريم للمرأة القروية السوسية، صُنفت تراثاً إنسانياً عالمياً.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s6_v1",
+      "targetTifinagh": "ⴰⵔⴳⴰⵏ",
+      "targetLatin": "Argan",
+      "targetArabic": "شجرة وثمر الأركان",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵔⴳⴰⵏ] (Argan)؟",
+      "options": [
+        "شجرة وثمر الأركان",
+        "اليد",
+        "ثمرة الأركان",
+        "الشمس"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵔⴳⴰⵏ] (ينطق: Argan) يعني بالعربية: 'شجرة وثمر الأركان'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s6_v2",
+      "targetTifinagh": "ⴰⵣⴰⵜⵉⵎ",
+      "targetLatin": "Azatim",
+      "targetArabic": "الزيت (زيت الأركان/الزيتون)",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الزيت (زيت الأركان/الزيتون)'؟",
+      "options": [
+        "ⴰⵔⴳⴰⵏ (Argan)",
+        "ⴰⴼⵓⵙ (Afus)",
+        "ⵜⴰⴼⵓⴽⵜ (Tafukt)",
+        "ⴰⵣⴰⵜⵉⵎ (Azatim)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵣⴰⵜⵉⵎ] (Azatim) وترجمتها: 'الزيت (زيت الأركان/الزيتون)'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s6_v3",
+      "targetTifinagh": "ⴰⵣⵔⴳ",
+      "targetLatin": "Azrg",
+      "targetArabic": "الرحى الحجرية لطحن الحبوب",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵣⵔⴳ] (Azrg)؟",
+      "options": [
+        "ثمرة الأركان / ",
+        "الحياة / المعيشة / ",
+        "الرحى الحجرية لطحن الحبوب / ",
+        "شجرة وثمر الأركان / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵣⵔⴳ] (Azrg) ورد في سياق الحكاية للدلالة على: الرحى الحجرية لطحن الحبوب ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s6_v4",
+      "targetTifinagh": "ⵜⵉⵢⵢⵉ",
+      "targetLatin": "Tiyyi",
+      "targetArabic": "ثمرة الأركان",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⵢⵢⵉ] (Tiyyi)؟",
+      "options": [
+        "الزيت (زيت الأركان/الزيتون)",
+        "الأصفر / الذهبي",
+        "ثمرة الأركان",
+        "النواة / العظم الصلب"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⵢⵢⵉ] (ينطق: Tiyyi) يعني بالعربية: 'ثمرة الأركان'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s6_v5",
+      "targetTifinagh": "ⵉⵖⵚ",
+      "targetLatin": "Iɣṣ",
+      "targetArabic": "النواة / العظم الصلب",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'النواة / العظم الصلب'؟",
+      "options": [
+        "ⵜⴰⵎⵖⴰⵔⵜ (Tamɣart)",
+        "ⴰⴼⵓⵙ (Afus)",
+        "ⵉⵖⵚ (Iɣṣ)",
+        "ⵜⴰⴼⵓⴽⵜ (Tafukt)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵉⵖⵚ] (Iɣṣ) وترجمتها: 'النواة / العظم الصلب'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s6_v6",
+      "targetTifinagh": "ⵜⴰⵎⵖⴰⵔⵜ",
+      "targetLatin": "Tamɣart",
+      "targetArabic": "المرأة / السيدة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵎⵖⴰⵔⵜ] (Tamɣart)؟",
+      "options": [
+        "المرأة / السيدة / ",
+        "الحياة / المعيشة / ",
+        "النواة / العظم الصلب / ",
+        "شجرة وثمر الأركان / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⵖⴰⵔⵜ] (Tamɣart) ورد في سياق الحكاية للدلالة على: المرأة / السيدة ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s6_v7",
+      "targetTifinagh": "ⴰⴼⵓⵙ",
+      "targetLatin": "Afus",
+      "targetArabic": "اليد",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴼⵓⵙ] (Afus)؟",
+      "options": [
+        "الشمس",
+        "النواة / العظم الصلب",
+        "الأصفر / الذهبي",
+        "اليد"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⴰⴼⵓⵙ] (ينطق: Afus) يعني بالعربية: 'اليد'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s6_v8",
+      "targetTifinagh": "ⵜⴰⴼⵓⴽⵜ",
+      "targetLatin": "Tafukt",
+      "targetArabic": "الشمس",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الشمس'؟",
+      "options": [
+        "ⵉⵖⵚ (Iɣṣ)",
+        "ⴰⵣⵔⴳ (Azrg)",
+        "ⵜⴰⴼⵓⴽⵜ (Tafukt)",
+        "ⴰⵔⴳⴰⵏ (Argan)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴼⵓⴽⵜ] (Tafukt) وترجمتها: 'الشمس'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s6_v9",
+      "targetTifinagh": "ⴰⵡⵔⴰⵖ",
+      "targetLatin": "Awraɣ",
+      "targetArabic": "الأصفر / الذهبي",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵡⵔⴰⵖ] (Awraɣ)؟",
+      "options": [
+        "الأصفر / الذهبي / ",
+        "المرأة / السيدة / ",
+        "الحياة / المعيشة / ",
+        "الزيت (زيت الأركان/الزيتون) / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵡⵔⴰⵖ] (Awraɣ) ورد في سياق الحكاية للدلالة على: الأصفر / الذهبي ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s6_v10",
+      "targetTifinagh": "ⵜⵓⴷⵔⵜ",
+      "targetLatin": "Tudrt",
+      "targetArabic": "الحياة / المعيشة",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵓⴷⵔⵜ] (Tudrt)؟",
+      "options": [
+        "الأصفر / الذهبي",
+        "النواة / العظم الصلب",
+        "اليد",
+        "الحياة / المعيشة"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⵓⴷⵔⵜ] (ينطق: Tudrt) يعني بالعربية: 'الحياة / المعيشة'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

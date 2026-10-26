@@ -1,0 +1,340 @@
+{
+  "id": "story20",
+  "title": "راعي الماعز والذئب وشّن في جبل بويبلان",
+  "titleTifinagh": "ⴰⵎⴽⵙⴰⵡ ⴷ ⵡⵓⵛⵛⵏ ⴳ ⵓⴷⵔⴰⵔ",
+  "titleLatin": "Amksaw d Wuccn g Udrar",
+  "region": "جبل بويبلان والأطلس المتوسط (تازة وصفرو)",
+  "dialect": "تمازيغت (Tamaziɣt n Waṭlaṣ)",
+  "level": "مبتدئ - أطفال (Level 1)",
+  "category": "fables",
+  "categoryName": "حكايات الجبل والأخلاق",
+  "coverImage": "assets/images/stories/story20.jpg",
+  "audio": "assets/audio/stories/story20.mp3",
+  "summary": "حكاية الراعي الصغير والذئب في أعالي جبال بويبلان المكسوة بالثلج؛ كيف تعلم الراعي درساً لا ينسى في أهمية الصدق والوفاء بالعهد، لأن الكذب يفقد ثقة الجيران ويجعل المرء وحيداً عند الخطر الحقيقي.",
+  "textTamazight": "ⴳ ⵓⴷⵔⴰⵔ ⵏ ⴱⵓⵢⴱⵍⴰⵏ, ⴷⴰ ⵉⴽⵙⵙⴰ ⴰⵎⴽⵙⴰⵡ ⵜⵉⵖⴰⵟⵉⵏ ⵏⵏⵙ ⵜⴰⵎⴰ ⵏ ⴰⴼⵔⴰⴳ.\nⵉⵍⵍⴰ ⵖⵓⵔⵙ ⵢⴰⵏ ⴰⵢⴷⵉ ⵉⵃⴹⴰⵏ ⵜⴰⵇⵇⴰⵢⵜ ⴷ ⵢⴰⵜ ⵜⵄⴽⴽⴰⵣⵜ ⵏ ⴰⵣⴰⵎⵎⵓⵔ.\nⵢⵓⵔⴰⵔ ⴰⵎⴽⵙⴰⵡ ⵙ ⵜⵉⴽⵔⴽⴰⵙ: ⵢⵓⵛⴽⴰ-ⴷ ⵡⵓⵛⵛⵏ! ⵎⴰⵛⴰ ⵎⵉⴷⴷⵏ ⵓⴼⴰⵏ ⵜⴰⴽⵔⴽⴰⵙⵜ.\nⴽⵓⴷⵏⵏⴰ ⴷ-ⵢⵓⵛⴽⴰ ⵡⵓⵛⵛⵏ ⵜⵉⴷⵜ, ⵓⵔ ⴰⵙ ⵓⵎⵏⵏ ⵢⵉⵡⴷⴰⵏ, ⵉⴳ ⵜⵉⴷⵜ ⵜⴰⵙⴰⵔⵓⵜ ⵏ ⵜⵓⴷⵔⵜ.\nⵉⵍⵎⴷ ⴰⵎⴽⵙⴰⵡ ⵉⵙ ⵜⴳⴰ ⵜⵉⴷⵜ ⵜⴰⵙⴰⵔⵓⵜ ⵉⵥⵉⵍⵏ ⵉ ⴽⵓ ⴰⴼⴳⴰⵏ ⴰⵍⴻⵍⵍⵉ.",
+  "textLatin": "G udrar n Buyblan, da ikssa umksaw tiɣaṭin nnes tama n ufrag.\nIlla ɣurs yan aydi ihḍan taqqayt d yat tɛkkazt n azammur.\nYurar umksaw s tikrkas: Yucka-d wuccn! Maca middn ufan takrkast.\nKudnna d-yucka wuccn tidt, ur as umnn yiwdan, ig tidt tasarut n tudrt.\nIlmd umksaw is tga tidt tasarut iẓiln i ku afgan alelli.",
+  "textArabic": "في سفوح جبل بويبلان بالأطلس، يرعى الراعي الشاب قطيع الـماعز بالقرب من الـزريبة الآمنة.\nرافقه كلب حارس وفي لحماية الماشية وعصا متينة مصنوعة من خشب الـزيتون البري.\nمزح الراعي ذات يوم ونادى بـالكذب والبهتان: لقد هجم الـذئب! فخرج الناس ليكتشفوا الخديعة.\nوحينما داهم الذئب القطيع على وجه الـحق والصدق، لم يصدقه أحد، فـالصدق هو مفتاح النجاة في الحياة.\nتعلم الراعي درساً بليغاً في أن الصدق والنزاهة هما المفتاح الحقيقي لكرامة كل إنسان حر.",
+  "grammar": "كلمة 'Tikrkas' تعني الكذب أو الخداع، وضدها 'Tidt' الصدق والحقيقة، و'Amksaw' اسم فاعل يعني الراعي.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵢⵓⵎⵥ ⵓⵎⴽⵙⴰⵡ ⵜⵉⴷⵜ ⴷ ⵓⴼⵔⴰⴳ",
+    "sentenceLatin": "Yumẓ umksaw tidt d ufrag",
+    "sentenceArabic": "لزم الراعي الصدقَ وحمى القطيع",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵢⵓⵎⵥ",
+        "trans": "لزم / تمسك بـ (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵓⵎⴽⵙⴰⵡ",
+        "trans": "الراعي (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵜⵉⴷⵜ",
+        "trans": "الصدقَ (مفعول به)"
+      },
+      {
+        "id": "w4",
+        "text": "ⴷ",
+        "trans": "و (حرف عطف)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵓⴼⵔⴰⴳ",
+        "trans": "حماية القطيع / الزريبة (اسم مقيد)"
+      }
+    ],
+    "explanation": "الجملة تختصر الحكمة الأخلاقية: الصدق 'Tidt' هو الحصن المنيع للإنسان."
+  },
+  "vocabulary": [
+    {
+      "id": "s20_v1",
+      "tifinagh": "ⴰⵎⴽⵙⴰⵡ",
+      "latin": "Amksaw",
+      "arabic": "الراعي",
+      "image": "assets/images/terms/s20_v1.webp",
+      "audio": "assets/audio/words/amksaw.mp3",
+      "example": "ⴰⵎⴽⵙⴰⵡ ⵉⵜⵜⵉⵍⵉ ⴳ ⵓⴷⵔⴰⵔ (الراعي يسرح في الجبل)",
+      "french": "Le jeune berger",
+      "explanation": "ⴰⵎⴽⵙⴰⵡ ⵉⵜⵜⵉⵍⵉ ⴳ ⵓⴷⵔⴰⵔ (الراعي يسرح في الجبل)"
+    },
+    {
+      "id": "s20_v2",
+      "tifinagh": "ⵡⵓⵛⵛⵏ",
+      "latin": "Wuccn",
+      "arabic": "الذئب الجبلي",
+      "image": "assets/images/terms/s20_v2.webp",
+      "audio": "assets/audio/words/wuccn.mp3",
+      "example": "ⵡⵓⵛⵛن ⵉⵜⵜⴰⴽⵔ ⵜⵉⵖⴰⵟⵉⵏ (الذئب يتربص بالقطيع)",
+      "french": "Le loup de montagne",
+      "explanation": "ⵡⵓⵛⵛن ⵉⵜⵜⴰⴽⵔ ⵜⵉⵖⴰⵟⵉⵏ (الذئب يتربص بالقطيع)"
+    },
+    {
+      "id": "s20_v3",
+      "tifinagh": "ⵜⵉⵖⴰⵟⵉⵏ",
+      "latin": "Tiɣaṭin",
+      "arabic": "الماعز (جمع Taɣaṭ)",
+      "image": "assets/images/terms/s20_v3.webp",
+      "audio": "assets/audio/words/tigatin.mp3",
+      "example": "ⵜⵉⵖⴰⵟⵉⵏ ⵜⵜⴰⵜⵜⵓⵢⵏⵜ (الماعز تتسلق المنحدر)",
+      "french": "Les chèvres du troupeau",
+      "explanation": "ⵜⵉⵖⴰⵟⵉⵏ ⵜⵜⴰⵜⵜⵓⵢⵏⵜ (الماعز تتسلق المنحدر)"
+    },
+    {
+      "id": "s20_v4",
+      "tifinagh": "ⵜⵉⴽⵔⴽⴰⵙ",
+      "latin": "Tikrkas",
+      "arabic": "الكذب والبهتان",
+      "image": "assets/images/terms/s20_v4.webp",
+      "audio": "assets/audio/words/tikrkas.mp3",
+      "example": "ⵜⵉⴽⵔⴽⴰⵙ ⵓⵔ ⵍⴰⵏⵜ ⴰⴱⵔⵉⴷ (الكذب حبله قصير)",
+      "french": "Le mensonge trompeur",
+      "explanation": "ⵜⵉⴽⵔⴽⴰⵙ ⵓⵔ ⵍⴰⵏⵜ ⴰⴱⵔⵉⴷ (الكذب حبله قصير)"
+    },
+    {
+      "id": "s20_v5",
+      "tifinagh": "ⵜⵉⴷⵜ",
+      "latin": "Tidt",
+      "arabic": "الصدق والحقيقة",
+      "image": "assets/images/terms/s20_v5.webp",
+      "audio": "assets/audio/words/tidt.mp3",
+      "example": "ⵜⵉⴷⵜ ⵜⵙⵙⵓⴼⵖ (الصدق ينجي صاحبه)",
+      "french": "La vérité sincère",
+      "explanation": "ⵜⵉⴷⵜ ⵜⵙⵙⵓⴼⵖ (الصدق ينجي صاحبه)"
+    },
+    {
+      "id": "s20_v6",
+      "tifinagh": "ⴰⴼⵔⴰⴳ",
+      "latin": "Afrag",
+      "arabic": "الزريبة والمأوى للقطيع",
+      "image": "assets/images/terms/s20_v6.webp",
+      "audio": "assets/audio/words/afrag.mp3",
+      "example": "ⴽⵛⵎⵏⵜ ⵜⵖⴰⵟⵉⵏ ⵖⵔ ⵓⴼⵔⴰⴳ (دخل الماعز إلى الزريبة)",
+      "french": "L'enclos protecteur du bétail",
+      "explanation": "ⴽⵛⵎⵏⵜ ⵜⵖⴰⵟⵉⵏ ⵖⵔ ⵓⴼⵔⴰⴳ (دخل الماعز إلى الزريبة)"
+    },
+    {
+      "id": "s20_v7",
+      "tifinagh": "ⴰⵣⴰⵎⵎⵓⵔ",
+      "latin": "Azammur",
+      "arabic": "عصا الراعي من الزيتون",
+      "image": "assets/images/terms/s20_v7.webp",
+      "audio": "assets/audio/words/azammur.mp3",
+      "example": "ⵢⵓⵎⵥ ⴰⵣⴰⵎⵎⵓⵔ ⴳ ⵓⴼⵓⵙ (أمسك عصاه بيده)",
+      "french": "La houlette taillée dans l'olivier",
+      "explanation": "ⵢⵓⵎⵥ ⴰⵣⴰⵎⵎⵓⵔ ⴳ ⵓⴼⵓⵙ (أمسك عصاه بيده)"
+    },
+    {
+      "id": "s20_v8",
+      "tifinagh": "ⴰⵢⴷⵉ",
+      "latin": "Aydi",
+      "arabic": "الكلب الحارس للقطيع",
+      "image": "assets/images/terms/s20_v8.webp",
+      "audio": "assets/audio/words/aydi.mp3",
+      "example": "ⴰⵢⴷⵉ ⵉⴼⵔⵙ ⵜⵉⵖⴰⵟⵉⵏ (الكلب يحرس القطيع بنباحه)",
+      "french": "Le chien gardien du troupeau",
+      "explanation": "ⴰⵢⴷⵉ ⵉⴼⵔⵙ ⵜⵉⵖⴰⵟⵉⵏ (الكلب يحرس القطيع بنباحه)"
+    },
+    {
+      "id": "s20_v9",
+      "tifinagh": "ⵎⵉⴷⴷⵏ",
+      "latin": "Middn",
+      "arabic": "الناس وأهل القرية",
+      "image": "assets/images/terms/s20_v9.webp",
+      "audio": "assets/audio/words/middn.mp3",
+      "example": "ⵎⵉⴷⴷⵏ ⵏ ⵜⵎⴰⵣⵉⵔⵜ (أهل القرية الطيبون)",
+      "french": "Les villageois et les voisins",
+      "explanation": "ⵎⵉⴷⴷⵏ ⵏ ⵜⵎⴰⵣⵉⵔⵜ (أهل القرية الطيبون)"
+    },
+    {
+      "id": "s20_v10",
+      "tifinagh": "ⵜⴰⵙⴰⵔⵓⵜ",
+      "latin": "Tasarut",
+      "arabic": "المفتاح والسر",
+      "image": "assets/images/terms/s20_v10.webp",
+      "audio": "assets/audio/words/tasarut.mp3",
+      "example": "ⵜⴰⵙⴰⵔⵓⵜ ⵏ ⵓⵎⵓⵔⵙ (مفتاح النجاح والسلامة)",
+      "french": "La clé de la confiance",
+      "explanation": "ⵜⴰⵙⴰⵔⵓⵜ ⵏ ⵓⵎⵓⵔⵙ (مفتاح النجاح والسلامة)"
+    }
+  ],
+  "textFrench": "Sur les pentes du mont Bouiblane, le jeune berger gardait ses chèvres près de l'enclos protecteur.\nIl avait un chien fidèle pour veiller sur le troupeau et un bâton taillé dans l'olivier rustique.\nUn jour, le berger cria par mensonge: Le loup arrive! Mais les gens découvrirent la farce.\nLorsque le loup surgit en vérité, nul ne le crut; la vérité étant la clef de toute confiance.\nLe berger comprit pour toujours que la sincérité est la clef précieuse de la dignité humaine.",
+  "genre": "حكاية أخلاقية عن الصدق ورعي الأطلس (Moral Fable)",
+  "source": "نوادر الرعاة في جبال بويبلان / الأدب الشعبي المغربي",
+  "culturalContext": "حكاية الراعي والذئب في أعالي بويبلان؛ رسالة تربوية ملهمة للأطفال بأن الصدق هو مفتاح الكرامة والثقة في الحياة.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s20_v1",
+      "targetTifinagh": "ⴰⵎⴽⵙⴰⵡ",
+      "targetLatin": "Amksaw",
+      "targetArabic": "الراعي",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵎⴽⵙⴰⵡ] (Amksaw)؟",
+      "options": [
+        "عصا الراعي من الزيتون",
+        "الزريبة والمأوى للقطيع",
+        "الراعي",
+        "الماعز (جمع Taɣaṭ)"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵎⴽⵙⴰⵡ] (ينطق: Amksaw) يعني بالعربية: 'الراعي'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s20_v2",
+      "targetTifinagh": "ⵡⵓⵛⵛⵏ",
+      "targetLatin": "Wuccn",
+      "targetArabic": "الذئب الجبلي",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الذئب الجبلي'؟",
+      "options": [
+        "ⵜⵉⵖⴰⵟⵉⵏ (Tiɣaṭin)",
+        "ⴰⵣⴰⵎⵎⵓⵔ (Azammur)",
+        "ⵡⵓⵛⵛⵏ (Wuccn)",
+        "ⵎⵉⴷⴷⵏ (Middn)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵡⵓⵛⵛⵏ] (Wuccn) وترجمتها: 'الذئب الجبلي'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s20_v3",
+      "targetTifinagh": "ⵜⵉⵖⴰⵟⵉⵏ",
+      "targetLatin": "Tiɣaṭin",
+      "targetArabic": "الماعز (جمع Taɣaṭ)",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⵖⴰⵟⵉⵏ] (Tiɣaṭin)؟",
+      "options": [
+        "المفتاح والسر / ",
+        "الناس وأهل القرية / ",
+        "الماعز (جمع Taɣaṭ) / ",
+        "عصا الراعي من الزيتون / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⵖⴰⵟⵉⵏ] (Tiɣaṭin) ورد في سياق الحكاية للدلالة على: الماعز (جمع Taɣaṭ) ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s20_v4",
+      "targetTifinagh": "ⵜⵉⴽⵔⴽⴰⵙ",
+      "targetLatin": "Tikrkas",
+      "targetArabic": "الكذب والبهتان",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⴽⵔⴽⴰⵙ] (Tikrkas)؟",
+      "options": [
+        "الصدق والحقيقة",
+        "الكذب والبهتان",
+        "عصا الراعي من الزيتون",
+        "الناس وأهل القرية"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⴽⵔⴽⴰⵙ] (ينطق: Tikrkas) يعني بالعربية: 'الكذب والبهتان'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s20_v5",
+      "targetTifinagh": "ⵜⵉⴷⵜ",
+      "targetLatin": "Tidt",
+      "targetArabic": "الصدق والحقيقة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الصدق والحقيقة'؟",
+      "options": [
+        "ⴰⴼⵔⴰⴳ (Afrag)",
+        "ⵜⵉⴽⵔⴽⴰⵙ (Tikrkas)",
+        "ⵜⵉⴷⵜ (Tidt)",
+        "ⵜⵉⵖⴰⵟⵉⵏ (Tiɣaṭin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⴷⵜ] (Tidt) وترجمتها: 'الصدق والحقيقة'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s20_v6",
+      "targetTifinagh": "ⴰⴼⵔⴰⴳ",
+      "targetLatin": "Afrag",
+      "targetArabic": "الزريبة والمأوى للقطيع",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴼⵔⴰⴳ] (Afrag)؟",
+      "options": [
+        "الزريبة والمأوى للقطيع / ",
+        "الراعي / ",
+        "الماعز (جمع Taɣaṭ) / ",
+        "الكلب الحارس للقطيع / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⴼⵔⴰⴳ] (Afrag) ورد في سياق الحكاية للدلالة على: الزريبة والمأوى للقطيع ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s20_v7",
+      "targetTifinagh": "ⴰⵣⴰⵎⵎⵓⵔ",
+      "targetLatin": "Azammur",
+      "targetArabic": "عصا الراعي من الزيتون",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵣⴰⵎⵎⵓⵔ] (Azammur)؟",
+      "options": [
+        "المفتاح والسر",
+        "الصدق والحقيقة",
+        "الذئب الجبلي",
+        "عصا الراعي من الزيتون"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⴰⵣⴰⵎⵎⵓⵔ] (ينطق: Azammur) يعني بالعربية: 'عصا الراعي من الزيتون'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s20_v8",
+      "targetTifinagh": "ⴰⵢⴷⵉ",
+      "targetLatin": "Aydi",
+      "targetArabic": "الكلب الحارس للقطيع",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الكلب الحارس للقطيع'؟",
+      "options": [
+        "ⴰⵣⴰⵎⵎⵓⵔ (Azammur)",
+        "ⵎⵉⴷⴷⵏ (Middn)",
+        "ⵡⵓⵛⵛⵏ (Wuccn)",
+        "ⴰⵢⴷⵉ (Aydi)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵢⴷⵉ] (Aydi) وترجمتها: 'الكلب الحارس للقطيع'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s20_v9",
+      "targetTifinagh": "ⵎⵉⴷⴷⵏ",
+      "targetLatin": "Middn",
+      "targetArabic": "الناس وأهل القرية",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵎⵉⴷⴷⵏ] (Middn)؟",
+      "options": [
+        "الصدق والحقيقة / ",
+        "الذئب الجبلي / ",
+        "الناس وأهل القرية / ",
+        "الكلب الحارس للقطيع / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⵎⵉⴷⴷⵏ] (Middn) ورد في سياق الحكاية للدلالة على: الناس وأهل القرية ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s20_v10",
+      "targetTifinagh": "ⵜⴰⵙⴰⵔⵓⵜ",
+      "targetLatin": "Tasarut",
+      "targetArabic": "المفتاح والسر",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵙⴰⵔⵓⵜ] (Tasarut)؟",
+      "options": [
+        "الذئب الجبلي",
+        "الراعي",
+        "عصا الراعي من الزيتون",
+        "المفتاح والسر"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵙⴰⵔⵓⵜ] (ينطق: Tasarut) يعني بالعربية: 'المفتاح والسر'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

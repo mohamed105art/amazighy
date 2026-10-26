@@ -1,0 +1,340 @@
+{
+  "id": "story2",
+  "title": "أسطورة هينة الجميلة وقصر الأطلس",
+  "titleTifinagh": "ⵀⵉⵏⴰ ⴷ ⵓⵇⵚⵕ ⵏ ⵡⴰⵟⵍⴰⵙ",
+  "titleLatin": "Hina d Uqṣr n Waṭlas",
+  "region": "الحوز والأطلس الكبير (مراكش ودمنات)",
+  "dialect": "تشلحيت وتمازيغت (Tacelḥit / Tamaziɣt)",
+  "level": "مبتدئ - أطفال (Level 1)",
+  "category": "folklore",
+  "categoryName": "أساطير وفلكلور",
+  "coverImage": "assets/images/stories/story2.jpg",
+  "audio": "assets/audio/stories/story2.mp3",
+  "summary": "حكاية هينة الشهيرة في الحكي الشعبي المغربي، الفتاة الوفية والشجاعة التي اختُطفت إلى قصر منيع، فاستعانت بصديقاتها وصوت العصافير لتهتدي لطريق الأهل والحرية.",
+  "textTamazight": "ⵜⵍⵍⴰ ⵢⴰⵜ ⵜⴰⴼⵔⵓⵅⵜ ⵉⵙⵎ ⵏⵏⵙ ⵀⵉⵏⴰ, ⴷⴰ ⵜⴻⵜⵜⴰⵙⵉ ⴰⵎⴰⵏ ⵙⴳ ⵜⴰⵍⴰ ⵏ ⵜⵎⴰⵣⵉⵔⵜ.\nⵢⵓⵎⵥ-ⵜ ⵢⴰⵏ ⵓⵎⵖⴰⵔ ⴳ ⵢⴰⵏ ⴰⵇⵚⵕ ⵢⴰⵜⵜⵓⵢⵏ ⵉⵍⵍⴰⵏ ⵜⴰⵎⴰ ⵏ ⴰⵥⵕⵓ ⴰⵎⵇⵔⴰⵏ.\nⵢⵓⵣⵏ ⵢⴰⵏ ⴰⵜⴱⵉⵔ ⴰⵎⵍⵍⴰⵍ ⵢⴰⵜ ⵜⴰⴱⵔⴰⵜ ⵏ ⵜⴰⵢⵔⵉ ⵖⵔ ⴰⵢⵜ ⵜⵎⴰⵣⵉⵔⵜ ⵏⵏⵙ.\nⵜⵓⴼⴰ ⵀⵉⵏⴰ ⵜⵉⵍⴻⵍⵍⵉ ⵙ ⵜⵉⵃⵕⵛⵉ, ⵜⵓⵖⴰⵍ ⵖⵔ ⵜⴰⵎⴰⵣⵉⵔⵜ ⵙ ⴰⴼⵓⵍⴽⵉ ⴷ ⵜⵓⵎⵔⵜ.\nⵥⵕⴰⵏ-ⵜⵜ ⵎⵉⴷⴷⵏ ⵣⵓⵏ ⴷ ⴰⵢⵢⵓⵔ ⵉⵜⵜⴼⴰⵡⵏ ⴳ ⵉⴳⵏⵏⵉ ⵏ ⵡⴰⴹⴰⵏ.",
+  "textLatin": "Tlla yat tafruxt ism nnes Hina, da tettasi aman sg tala n tmazirt.\nYumẓ-tt yan umɣar g yan aqṣr yattuyen illan tama n aẓru amqran.\nYuzn yan atbir amllal yat tabrat n tayri ɣer ayt tmazirt nnes.\nTufa Hina tilelli s tiḥrci, tuɣal ɣer tamazirt s afulki d tumrt.\nẒran-tt middn zun d ayyur ittfawn g ignni n waḍan.",
+  "textArabic": "كانت هناك فتاة جميلة اسمها هينة تستقي الماء العذب من عين الماء في قريتها.\nاحتجزها حاكم ظالم داخل قصر مشيد بجوار صخر عظيم في أعالي الجبال.\nأرسل حمام أبيض رسالة محبة ونجدة إلى أهل قريتها الأوفياء.\nنالت هينة حريتها بفضل فطنتها وشجاعتها، وعادت إلى قريتها في أبهى صور الجمال والبهاء.\nرآها الناس ساطعة كالـقمر المضمار الذي ينير سماء الليالي الصافية.",
+  "grammar": "النعوت في الأمازيغية تأتي غالباً بعد المنعوت (Atbir amllal = حمام أبيض، Tafruxt tafulkit = فتاة جميلة).",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵜⵣⴷⵖ ⵀⵉⵏⴰ ⴳ ⵜⴰⴷⴷⴰⵔⵜ ⵜⴰⵎⵇⵔⴰⵏⵜ",
+    "sentenceLatin": "Tzdɣ Hina g taddart tamqrant",
+    "sentenceArabic": "تسكن هينة في الدار الكبيرة",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵜⵣⴷⵖ",
+        "trans": "تسكن (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵀⵉⵏⴰ",
+        "trans": "هينة (فاعل)"
+      },
+      {
+        "id": "w3",
+        "text": "ⴳ",
+        "trans": "في (حرف جر)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵜⴰⴷⴷⴰⵔⵜ",
+        "trans": "الدار (اسم)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵜⴰⵎⵇⵔⴰⵏⵜ",
+        "trans": "الكبيرة (نعت)"
+      }
+    ],
+    "explanation": "النعت 'tamqrant' يتبع المنعوت 'taddart' في الجنس (مؤنث) والعدد ويأتي بعده مباشرة."
+  },
+  "vocabulary": [
+    {
+      "id": "s2_v1",
+      "tifinagh": "ⵜⴰⴼⵔⵓⵅⵜ",
+      "latin": "Tafruxt",
+      "arabic": "الفتاة / البنت",
+      "image": "assets/images/terms/s2_v1.webp",
+      "audio": "assets/audio/words/tafruxt.mp3",
+      "example": "ⵜⴰⴼⵔⵓⵅⵜ ⵜⴰⵎⵥⵢⴰⵏⵜ ⵜⵓⵎⵔ (الفتاة الصغيرة فرحة)",
+      "french": "La jeune fille",
+      "explanation": "ⵜⴰⴼⵔⵓⵅⵜ ⵜⴰⵎⵥⵢⴰⵏⵜ ⵜⵓⵎⵔ (الفتاة الصغيرة فرحة)"
+    },
+    {
+      "id": "s2_v2",
+      "tifinagh": "ⵜⴰⵍⴰ",
+      "latin": "Tala",
+      "arabic": "عين الماء / الساقية",
+      "image": "assets/images/terms/s2_v2.webp",
+      "audio": "assets/audio/words/tala.mp3",
+      "example": "ⴰⵎⴰⵏ ⵏ ⵜⴰⵍⴰ ⵚⵎⵎⵉⴹⵏ (ماء العين بارد)",
+      "french": "La source d'eau / La fontaine",
+      "explanation": "ⴰⵎⴰⵏ ⵏ ⵜⴰⵍⴰ ⵚⵎⵎⵉⴹⵏ (ماء العين بارد)"
+    },
+    {
+      "id": "s2_v3",
+      "tifinagh": "ⴰⵇⵚⵕ",
+      "latin": "Aqṣr",
+      "arabic": "القصر / الحصن",
+      "image": "assets/images/terms/s2_v3.webp",
+      "audio": "assets/audio/words/aqsr.mp3",
+      "example": "ⵉⴱⵏⴰ ⵓⵇⵚⵕ ⵖⴼ ⵓⵥⵕⵓ (بُني القصر فوق الصخر)",
+      "french": "Le palais / Le château fort",
+      "explanation": "ⵉⴱⵏⴰ ⵓⵇⵚⵕ ⵖⴼ ⵓⵥⵕⵓ (بُني القصر فوق الصخر)"
+    },
+    {
+      "id": "s2_v4",
+      "tifinagh": "ⴰⵜⴱⵉⵔ",
+      "latin": "Atbir",
+      "arabic": "الحمام / اليمام",
+      "image": "assets/images/terms/s2_v4.webp",
+      "audio": "assets/audio/words/atbir.mp3",
+      "example": "ⵉⵜⵜⴰⵢⵍⴰⵍ ⵓⵜⴱⵉⵔ ⴳ ⵉⴳⵏⵏⵉ (يطير الحمام في السماء)",
+      "french": "La colombe / Le pigeon",
+      "explanation": "ⵉⵜⵜⴰⵢⵍⴰⵍ ⵓⵜⴱⵉⵔ ⴳ ⵉⴳⵏⵏⵉ (يطير الحمام في السماء)"
+    },
+    {
+      "id": "s2_v5",
+      "tifinagh": "ⵜⴰⴱⵔⴰⵜ",
+      "latin": "Tabrat",
+      "arabic": "الرسالة",
+      "image": "assets/images/terms/s2_v5.webp",
+      "audio": "assets/audio/words/tabrat.mp3",
+      "example": "ⵓⵔⵉⵖ ⵜⴰⴱⵔⴰⵜ ⵉ ⵓⵎⴷⴷⴰⴽⴽⵯⵍ (كتبت رسالة لصديقي)",
+      "french": "La lettre / Le message",
+      "explanation": "ⵓⵔⵉⵖ ⵜⴰⴱⵔⴰⵜ ⵉ ⵓⵎⴷⴷⴰⴽⴽⵯⵍ (كتبت رسالة لصديقي)"
+    },
+    {
+      "id": "s2_v6",
+      "tifinagh": "ⵜⴰⵎⴰⵣⵉⵔⵜ",
+      "latin": "Tamazirt",
+      "arabic": "القرية / البلدة / الوطن",
+      "image": "assets/images/terms/s2_v6.webp",
+      "audio": "assets/audio/words/tamazirt.mp3",
+      "example": "ⵜⴰⵎⴰⵣⵉⵔⵜ ⵏⵏⵖ ⴳ ⵡⴰⵟⵍⴰⵙ (بلدتنا في الأطلس)",
+      "french": "Le village natal / Le pays",
+      "explanation": "ⵜⴰⵎⴰⵣⵉⵔⵜ ⵏⵏⵖ ⴳ ⵡⴰⵟⵍⴰⵙ (بلدتنا في الأطلس)"
+    },
+    {
+      "id": "s2_v7",
+      "tifinagh": "ⴰⵎⵍⵍⴰⵍ",
+      "latin": "Amllal",
+      "arabic": "الأبيض",
+      "image": "assets/images/terms/s2_v7.webp",
+      "audio": "assets/audio/words/amllal.mp3",
+      "example": "ⵢⵓⵍⵙ ⵓⴷⴼⵍ ⴰⵎⵍⵍⴰⵍ (اكتسى الثلج الأبيض)",
+      "french": "Blanc / Éclatant",
+      "explanation": "ⵢⵓⵍⵙ ⵓⴷⴼⵍ ⴰⵎⵍⵍⴰⵍ (اكتسى الثلج الأبيض)"
+    },
+    {
+      "id": "s2_v8",
+      "tifinagh": "ⴰⴼⵓⵍⴽⵉ",
+      "latin": "Afulki",
+      "arabic": "الجمال / الحُسن",
+      "image": "assets/images/terms/s2_v8.webp",
+      "audio": "assets/audio/words/afulki.mp3",
+      "example": "ⵜⴰⴼⵓⴽⵜ ⵜⵍⴰ ⴰⴼⵓⵍⴽⵉ (الشمس ذات جمال)",
+      "french": "La beauté / La grâce",
+      "explanation": "ⵜⴰⴼⵓⴽⵜ ⵜⵍⴰ ⴰⴼⵓⵍⴽⵉ (الشمس ذات جمال)"
+    },
+    {
+      "id": "s2_v9",
+      "tifinagh": "ⴰⵥⵕⵓ",
+      "latin": "Aẓru",
+      "arabic": "الصخر / الحجر",
+      "image": "assets/images/terms/s2_v9.webp",
+      "audio": "assets/audio/words/azru.mp3",
+      "example": "ⴰⵥⵕⵓ ⵉⵇⵇⵓⵔ (الصخر صلب)",
+      "french": "Le rocher / La pierre",
+      "explanation": "ⴰⵥⵕⵓ ⵉⵇⵇⵓⵔ (الصخر صلب)"
+    },
+    {
+      "id": "s2_v10",
+      "tifinagh": "ⴰⵢⵢⵓⵔ",
+      "latin": "Ayyur",
+      "arabic": "القمر / الهلال",
+      "image": "assets/images/terms/s2_v10.webp",
+      "audio": "assets/audio/words/ayyur.mp3",
+      "example": "ⵉⵜⵜⴼⴰⵡ ⵡⴰⵢⵢⵓⵔ ⴳ ⵢⵉⴹ (يضيء القمر في الليل)",
+      "french": "La lune / Le croissant",
+      "explanation": "ⵉⵜⵜⴼⴰⵡ ⵡⴰⵢⵢⵓⵔ ⴳ ⵢⵉⴹ (يضيء القمر في الليل)"
+    }
+  ],
+  "textFrench": "Il était une fois une jeune fille nommée Hina qui puisait l'eau à la source de son village.\nUn souverain l'enferma dans un haut palais bâti près d'un grand rocher.\nUne colombe blanche porta une lettre d'amour et d'espoir aux habitants de son village.\nHina retrouva sa liberté par son esprit et revint dans son cher village avec beauté et grâce.\nLes gens la contemplèrent, éclatante comme la lune illuminant le ciel nocturne.",
+  "genre": "حكاية شعبية متوارثة (Folklore Legend)",
+  "source": "الحكايات الشعبية المغربية / المعهد الملكي للثقافة الأمازيغية",
+  "culturalContext": "أسطورة 'هينة' تجسد قيم الشجاعة والوفاء للأصل، حيث تستعين بالحمامة البيضاء للتواصل مع قريتها ونيل حريتها.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s2_v1",
+      "targetTifinagh": "ⵜⴰⴼⵔⵓⵅⵜ",
+      "targetLatin": "Tafruxt",
+      "targetArabic": "الفتاة / البنت",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴼⵔⵓⵅⵜ] (Tafruxt)؟",
+      "options": [
+        "الأبيض",
+        "الفتاة / البنت",
+        "القمر / الهلال",
+        "الحمام / اليمام"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴼⵔⵓⵅⵜ] (ينطق: Tafruxt) يعني بالعربية: 'الفتاة / البنت'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s2_v2",
+      "targetTifinagh": "ⵜⴰⵍⴰ",
+      "targetLatin": "Tala",
+      "targetArabic": "عين الماء / الساقية",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'عين الماء / الساقية'؟",
+      "options": [
+        "ⵜⴰⴼⵔⵓⵅⵜ (Tafruxt)",
+        "ⵜⴰⵍⴰ (Tala)",
+        "ⵜⴰⵎⴰⵣⵉⵔⵜ (Tamazirt)",
+        "ⴰⵢⵢⵓⵔ (Ayyur)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵍⴰ] (Tala) وترجمتها: 'عين الماء / الساقية'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s2_v3",
+      "targetTifinagh": "ⴰⵇⵚⵕ",
+      "targetLatin": "Aqṣr",
+      "targetArabic": "القصر / الحصن",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵇⵚⵕ] (Aqṣr)؟",
+      "options": [
+        "عين الماء / الساقية / ",
+        "الجمال / الحُسن / ",
+        "القصر / الحصن / ",
+        "الفتاة / البنت / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵇⵚⵕ] (Aqṣr) ورد في سياق الحكاية للدلالة على: القصر / الحصن ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s2_v4",
+      "targetTifinagh": "ⴰⵜⴱⵉⵔ",
+      "targetLatin": "Atbir",
+      "targetArabic": "الحمام / اليمام",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵜⴱⵉⵔ] (Atbir)؟",
+      "options": [
+        "الجمال / الحُسن",
+        "الحمام / اليمام",
+        "القرية / البلدة / الوطن",
+        "الفتاة / البنت"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵜⴱⵉⵔ] (ينطق: Atbir) يعني بالعربية: 'الحمام / اليمام'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s2_v5",
+      "targetTifinagh": "ⵜⴰⴱⵔⴰⵜ",
+      "targetLatin": "Tabrat",
+      "targetArabic": "الرسالة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الرسالة'؟",
+      "options": [
+        "ⴰⵎⵍⵍⴰⵍ (Amllal)",
+        "ⴰⵜⴱⵉⵔ (Atbir)",
+        "ⵜⴰⴱⵔⴰⵜ (Tabrat)",
+        "ⵜⴰⵍⴰ (Tala)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴱⵔⴰⵜ] (Tabrat) وترجمتها: 'الرسالة'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s2_v6",
+      "targetTifinagh": "ⵜⴰⵎⴰⵣⵉⵔⵜ",
+      "targetLatin": "Tamazirt",
+      "targetArabic": "القرية / البلدة / الوطن",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵎⴰⵣⵉⵔⵜ] (Tamazirt)؟",
+      "options": [
+        "الفتاة / البنت / ",
+        "القرية / البلدة / الوطن / ",
+        "عين الماء / الساقية / ",
+        "الحمام / اليمام / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⴰⵣⵉⵔⵜ] (Tamazirt) ورد في سياق الحكاية للدلالة على: القرية / البلدة / الوطن ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s2_v7",
+      "targetTifinagh": "ⴰⵎⵍⵍⴰⵍ",
+      "targetLatin": "Amllal",
+      "targetArabic": "الأبيض",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵎⵍⵍⴰⵍ] (Amllal)؟",
+      "options": [
+        "الأبيض",
+        "الحمام / اليمام",
+        "القمر / الهلال",
+        "القرية / البلدة / الوطن"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵎⵍⵍⴰⵍ] (ينطق: Amllal) يعني بالعربية: 'الأبيض'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s2_v8",
+      "targetTifinagh": "ⴰⴼⵓⵍⴽⵉ",
+      "targetLatin": "Afulki",
+      "targetArabic": "الجمال / الحُسن",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الجمال / الحُسن'؟",
+      "options": [
+        "ⴰⴼⵓⵍⴽⵉ (Afulki)",
+        "ⴰⵇⵚⵕ (Aqṣr)",
+        "ⴰⵜⴱⵉⵔ (Atbir)",
+        "ⵜⴰⵎⴰⵣⵉⵔⵜ (Tamazirt)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⴼⵓⵍⴽⵉ] (Afulki) وترجمتها: 'الجمال / الحُسن'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s2_v9",
+      "targetTifinagh": "ⴰⵥⵕⵓ",
+      "targetLatin": "Aẓru",
+      "targetArabic": "الصخر / الحجر",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵥⵕⵓ] (Aẓru)؟",
+      "options": [
+        "الصخر / الحجر / ",
+        "الحمام / اليمام / ",
+        "القصر / الحصن / ",
+        "عين الماء / الساقية / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵥⵕⵓ] (Aẓru) ورد في سياق الحكاية للدلالة على: الصخر / الحجر ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s2_v10",
+      "targetTifinagh": "ⴰⵢⵢⵓⵔ",
+      "targetLatin": "Ayyur",
+      "targetArabic": "القمر / الهلال",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵢⵢⵓⵔ] (Ayyur)؟",
+      "options": [
+        "القمر / الهلال",
+        "الصخر / الحجر",
+        "الأبيض",
+        "القرية / البلدة / الوطن"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵢⵢⵓⵔ] (ينطق: Ayyur) يعني بالعربية: 'القمر / الهلال'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

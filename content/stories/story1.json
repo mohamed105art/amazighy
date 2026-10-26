@@ -1,0 +1,340 @@
+{
+  "id": "story1",
+  "title": "أسطورة الغولة تامزا وحيلة الأخوين",
+  "titleTifinagh": "ⵜⴰⵎⵣⴰ ⴷ ⵙⵉⵏ ⴰⵢⵜⵎⴰⵜⵏ",
+  "titleLatin": "Tamza d Sin Aytmaten",
+  "region": "سوس والأطلس الصغير (تارودانت وتيزنيت)",
+  "dialect": "تشلحيت (Tacelḥit)",
+  "level": "مبتدئ - أطفال (Level 1)",
+  "category": "folklore",
+  "categoryName": "أساطير وفلكلور",
+  "coverImage": "assets/images/stories/story1.jpg",
+  "audio": "assets/audio/stories/story1.mp3",
+  "summary": "حكاية تراثية مغربية شهيرة عن الغولة الأسطورية 'تامزا' التي تسكن كهوف الجبل، وذكاء الأخوين الصغيرين اللذين استطاعا النجاة بحيلة ذكية تبرز الفطنة والتعاون الأسري في الثقافة الأمازيغية.",
+  "textTamazight": "ⴳ ⵢⴰⵏ ⵡⴰⵙⵙ, ⴷⴷⴰⵏ ⵙⵉⵏ ⴰⵢⵜⵎⴰⵜⵏ ⵖⵔ ⵜⴰⴳⴰⵏⵜ ⵜⴰⵎⴰ ⵏ ⴰⴷⵔⴰⵔ ⴰⵎⵇⵔⴰⵏ ⴰⴼⴰⴷ ⴰⴷ ⴰⵡⵢⵏ ⵉⵙⵖⴰⵔⵏ.\nⵜⵓⴼⴰ-ⵜⵏ ⵜⴰⵎⵣⴰ ⵜⴰⵎⵇⵔⴰⵏⵜ ⴳ ⵓⴱⵔⵉⴷ, ⵜⵔⴰ ⴰⴷ ⵜⵏ-ⵜⴰⵡⵉ ⵖⵔ ⴰⵅⴰⵎ ⵏⵏⵙ ⵢⴰⵜⵜⵓⵢⵏ.\nⵎⴰⵛⴰ ⵉⴼⵔⴰⵅⵏ ⵙⵙⵎⵔⵙⵏ ⵜⵉⵃⵕⵛⵉ ⴷ ⵓⵏⵍⵍⵉ, ⴼⴽⴰⵏ ⴰⵙ ⵢⴰⵏ ⴰⵖⵢⵓⵍ ⴰⵎⵥⵢⴰⵏ ⴰⴷ ⵜⵜ-ⵉⵙⵡⵓⵔⵉ.\nⵔⵡⵍⵏ ⵉⴼⵔⴰⵅⵏ ⵙ ⵜⵣⵣⵍⴰ ⵖⵔ ⴰⵙⵉⴼ ⴰⵎⵇⵔⴰⵏ, ⵣⴳⵔⵏ ⴰⵎⴰⵏ ⵙ ⵓⴼⵓⵍⴽⵉ.\nⵍⴽⵎⵏ ⵙ ⵜⴰⴷⴷⴰⵔⵜ ⵏⵏⵙⵏ ⵜⴰⵎⴱⴰⵔⴽⵜ, ⴷⴷⵔⵏ ⴳ ⴰⴼⵔⴰ ⴷ ⵜⵓⵎⵔⵜ ⴷ ⵜⴰⵡⵊⴰ ⵏⵏⵙⵏ.",
+  "textLatin": "G yan wass, ddan sin aytmaten ɣer tgant tama n adrar amqran afad ad awyen isɣaren.\nTufa-ten Tamza tamqrant g ubrid, tra ad ten-tawi ɣer axam nnes yattuyen.\nMaca ifraxen ssmersen tiḥrci d unlli, fkan as yan aɣyul amẓyan ad tt-isswuri.\nRwlen ifraxen s tzzla ɣer asif amqran, zgren aman s ufulki.\nLkmen s taddart nnsen tambarkt, ddrn g afra d tumrt d tawja nnsen.",
+  "textArabic": "في يوم من الأيام، ذهب أخوان صغيران إلى الغابة بجوار الجبل الكبير لجمع الحطب.\nفاجأتهما الغولة الكبيرة 'تامزا' في الطريق وأرادت اقتيادهما إلى خيمتها العالية.\nلكن الولدين تحليا بالفطنة والذكاء، وقدما لها حماراً صغيراً ليشغلها.\nهرب الصبيان مسرعين نحو النهر الكبير وعبروا المياه بسلام وأمان.\nوصلا إلى منزلهما المبارك وعاشا في سلام وطمأنينة بين أفراد عائلتهما.",
+  "grammar": "في الأمازيغية، يبدأ الاسم المؤنث غالباً بحرف 'T' وينتهي بـ 'T' (مثل: Tamza, Taddart, Tagant)، بينما يبدأ المذكر بـ 'A' أو 'I' أو 'U' (مثل: Asif, Adrar, Axam).",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵢⵓⵡⵉ ⵓⴼⵔⵓⵅ ⴰⵖⵢⵓⵍ ⵖⵔ ⵡⴰⵙⵉⴼ",
+    "sentenceLatin": "Yuwi ufrux aɣyul ɣer wasif",
+    "sentenceArabic": "أخذ الولدُ الحمارَ إلى النهر",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵢⵓⵡⵉ",
+        "trans": "أخذ (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵓⴼⵔⵓⵅ",
+        "trans": "الولدُ (فاعل)"
+      },
+      {
+        "id": "w3",
+        "text": "ⴰⵖⵢⵓⵍ",
+        "trans": "الحمارَ (مفعول)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵖⵔ",
+        "trans": "إلى (حرف جر)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵡⴰⵙⵉⴼ",
+        "trans": "النهر (اسم مجرور)"
+      }
+    ],
+    "explanation": "الجملة الفعلية في الأمازيغية تبدأ غالباً بالفعل (Yuwi)، يليه الفاعل في الحالة المقيدة (Ufrux بتحول a إلى u)، ثم المفعول به ثم شبه الجملة."
+  },
+  "vocabulary": [
+    {
+      "id": "s1_v1",
+      "tifinagh": "ⵜⴰⵎⵣⴰ",
+      "latin": "Tamza",
+      "arabic": "الغولة الأسطورية",
+      "image": "assets/images/terms/s1_v1.webp",
+      "audio": "assets/audio/words/tamza.mp3",
+      "example": "ⵜⵣⴷⵖ ⵜⴰⵎⵣⴰ ⴳ ⵓⴷⵔⴰⵔ (تسكن تامزا في الجبل)",
+      "french": "L'ogresse mythologique",
+      "explanation": "ⵜⵣⴷⵖ ⵜⴰⵎⵣⴰ ⴳ ⵓⴷⵔⴰⵔ (تسكن تامزا في الجبل)"
+    },
+    {
+      "id": "s1_v2",
+      "tifinagh": "ⴰⵢⵜⵎⴰⵜⵏ",
+      "latin": "Aytmaten",
+      "arabic": "الإخوة",
+      "image": "assets/images/terms/s1_v2.webp",
+      "audio": "assets/audio/words/aytmaten.mp3",
+      "example": "ⵎⵓⵏⵏ ⴰⵢⵜⵎⴰⵜⵏ ⴳ ⵓⴱⵔⵉⴷ (اجتمع الإخوة في الطريق)",
+      "french": "Les frères",
+      "explanation": "ⵎⵓⵏⵏ ⴰⵢⵜⵎⴰⵜⵏ ⴳ ⵓⴱⵔⵉⴷ (اجتمع الإخوة في الطريق)"
+    },
+    {
+      "id": "s1_v3",
+      "tifinagh": "ⵜⴰⴳⴰⵏⵜ",
+      "latin": "Tagant",
+      "arabic": "الغابة",
+      "image": "assets/images/terms/s1_v3.webp",
+      "audio": "assets/audio/words/tagant.mp3",
+      "example": "ⵜⴳⴰ ⵜⴳⴰⵏⵜ ⵜⴰⵣⴳⵣⴰⵡⵜ (الغابة خضراء)",
+      "french": "La forêt",
+      "explanation": "ⵜⴳⴰ ⵜⴳⴰⵏⵜ ⵜⴰⵣⴳⵣⴰⵡⵜ (الغابة خضراء)"
+    },
+    {
+      "id": "s1_v4",
+      "tifinagh": "ⴰⴷⵔⴰⵔ",
+      "latin": "Adrar",
+      "arabic": "الجبل",
+      "image": "assets/images/terms/s1_v4.webp",
+      "audio": "assets/audio/words/adrar.mp3",
+      "example": "ⵢⴰⵜⵜⵓⵢ ⵓⴷⵔⴰⵔ ⵏ ⵡⴰⵟⵍⴰⵙ (جبل الأطلس عالٍ)",
+      "french": "La montagne",
+      "explanation": "ⵢⴰⵜⵜⵓⵢ ⵓⴷⵔⴰⵔ ⵏ ⵡⴰⵟⵍⴰⵙ (جبل الأطلس عالٍ)"
+    },
+    {
+      "id": "s1_v5",
+      "tifinagh": "ⴰⵅⴰⵎ",
+      "latin": "Axam",
+      "arabic": "الخيمة / المأوى",
+      "image": "assets/images/terms/s1_v5.webp",
+      "audio": "assets/audio/words/axam.mp3",
+      "example": "ⵉⴱⴷⴷ ⵓⵅⴰⵎ ⴳ ⵓⵣⴰⵖⴰⵔ (نُصبت الخيمة في السهل)",
+      "french": "La tente / La demeure",
+      "explanation": "ⵉⴱⴷⴷ ⵓⵅⴰⵎ ⴳ ⵓⵣⴰⵖⴰⵔ (نُصبت الخيمة في السهل)"
+    },
+    {
+      "id": "s1_v6",
+      "tifinagh": "ⴰⵖⵢⵓⵍ",
+      "latin": "Aɣyul",
+      "arabic": "الحمار",
+      "image": "assets/images/terms/s1_v6.webp",
+      "audio": "assets/audio/words/agyul.mp3",
+      "example": "ⵉⵜⵜⴰⵙⵉ ⵓⵖⵢⵓⵍ ⵉⵙⵖⴰⵔⵏ (يحمل الحمار الحطب)",
+      "french": "L'âne",
+      "explanation": "ⵉⵜⵜⴰⵙⵉ ⵓⵖⵢⵓⵍ ⵉⵙⵖⴰⵔⵏ (يحمل الحمار الحطب)"
+    },
+    {
+      "id": "s1_v7",
+      "tifinagh": "ⴰⵙⵉⴼ",
+      "latin": "Asif",
+      "arabic": "النهر / الوادي",
+      "image": "assets/images/terms/s1_v7.webp",
+      "audio": "assets/audio/words/asif.mp3",
+      "example": "ⵉⵣⵔⵉ ⵡⴰⵙⵉⴼ ⴳⵔ ⵉⴷⵓⵔⴰⵔ (يمر النهر بين الجبال)",
+      "french": "La rivière / Le fleuve",
+      "explanation": "ⵉⵣⵔⵉ ⵡⴰⵙⵉⴼ ⴳⵔ ⵉⴷⵓⵔⴰⵔ (يمر النهر بين الجبال)"
+    },
+    {
+      "id": "s1_v8",
+      "tifinagh": "ⵜⴰⴷⴷⴰⵔⵜ",
+      "latin": "Taddart",
+      "arabic": "الدار / المنزل",
+      "image": "assets/images/terms/s1_v8.webp",
+      "audio": "assets/audio/words/taddart.mp3",
+      "example": "ⵜⴰⴷⴷⴰⵔⵜ ⵏⵏⵖ ⵜⴼⵓⵍⴽⵉ (دارنا جميلة)",
+      "french": "La maison / Le foyer",
+      "explanation": "ⵜⴰⴷⴷⴰⵔⵜ ⵏⵏⵖ ⵜⴼⵓⵍⴽⵉ (دارنا جميلة)"
+    },
+    {
+      "id": "s1_v9",
+      "tifinagh": "ⵜⵉⵃⵕⵛⵉ",
+      "latin": "Tiḥrci",
+      "arabic": "الفطنة / الذكاء",
+      "image": "assets/images/terms/s1_v9.webp",
+      "audio": "assets/audio/words/tihrci.mp3",
+      "example": "ⵜⵉⵃⵕⵛⵉ ⵜⵔⵏⴰ ⵜⴰⵣⵎⵎⴰⵔⵜ (الفطنة تغلب القوة)",
+      "french": "L'intelligence / La ruse",
+      "explanation": "ⵜⵉⵃⵕⵛⵉ ⵜⵔⵏⴰ ⵜⴰⵣⵎⵎⴰⵔⵜ (الفطنة تغلب القوة)"
+    },
+    {
+      "id": "s1_v10",
+      "tifinagh": "ⴰⴼⵔⴰ",
+      "latin": "Afra",
+      "arabic": "السلام / الأمان",
+      "image": "assets/images/terms/s1_v10.webp",
+      "audio": "assets/audio/words/afra.mp3",
+      "example": "ⵏⴷⴷⴰ ⵙ ⵓⴼⵔⴰ (ذهبنا في سلام)",
+      "french": "La paix / La quiétude",
+      "explanation": "ⵏⴷⴷⴰ ⵙ ⵓⴼⵔⴰ (ذهبنا في سلام)"
+    }
+  ],
+  "textFrench": "Un jour, deux frères allèrent dans la forêt près de la grande montagne pour ramasser du bois.\nLa terrible ogresse Tamza apparut sur le chemin et voulut les emmener dans sa tente élevée.\nMais les deux garçons firent preuve d'intelligence et lui donnèrent un petit âne pour l'occuper.\nIls s'enfuirent rapidement vers la grande rivière et traversèrent l'eau avec succès.\nIls arrivèrent à leur maison bénie et vécurent dans la paix et la joie avec leur famille.",
+  "genre": "حكاية شعبية متوارثة (Folklore Legend)",
+  "source": "التراث الشفهي السوسي / منشورات IRCAM",
+  "culturalContext": "حكاية الغولة 'تامزا' من أشهر كائنات الفلكلور الأمازيغي التي ترمز للأخطار الطبيعية في أعالي الجبال، وتبرز الحكاية قيمة الفطنة والتعاون بين الإخوة.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s1_v1",
+      "targetTifinagh": "ⵜⴰⵎⵣⴰ",
+      "targetLatin": "Tamza",
+      "targetArabic": "الغولة الأسطورية",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵎⵣⴰ] (Tamza)؟",
+      "options": [
+        "الفطنة / الذكاء",
+        "الدار / المنزل",
+        "النهر / الوادي",
+        "الغولة الأسطورية"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵎⵣⴰ] (ينطق: Tamza) يعني بالعربية: 'الغولة الأسطورية'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s1_v2",
+      "targetTifinagh": "ⴰⵢⵜⵎⴰⵜⵏ",
+      "targetLatin": "Aytmaten",
+      "targetArabic": "الإخوة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الإخوة'؟",
+      "options": [
+        "ⴰⵢⵜⵎⴰⵜⵏ (Aytmaten)",
+        "ⵜⴰⵎⵣⴰ (Tamza)",
+        "ⵜⴰⴳⴰⵏⵜ (Tagant)",
+        "ⴰⵅⴰⵎ (Axam)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵢⵜⵎⴰⵜⵏ] (Aytmaten) وترجمتها: 'الإخوة'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s1_v3",
+      "targetTifinagh": "ⵜⴰⴳⴰⵏⵜ",
+      "targetLatin": "Tagant",
+      "targetArabic": "الغابة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴳⴰⵏⵜ] (Tagant)؟",
+      "options": [
+        "الإخوة / ",
+        "الخيمة / المأوى / ",
+        "النهر / الوادي / ",
+        "الغابة / "
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴳⴰⵏⵜ] (Tagant) ورد في سياق الحكاية للدلالة على: الغابة ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s1_v4",
+      "targetTifinagh": "ⴰⴷⵔⴰⵔ",
+      "targetLatin": "Adrar",
+      "targetArabic": "الجبل",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴷⵔⴰⵔ] (Adrar)؟",
+      "options": [
+        "الجبل",
+        "الفطنة / الذكاء",
+        "الغولة الأسطورية",
+        "الإخوة"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⴷⵔⴰⵔ] (ينطق: Adrar) يعني بالعربية: 'الجبل'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s1_v5",
+      "targetTifinagh": "ⴰⵅⴰⵎ",
+      "targetLatin": "Axam",
+      "targetArabic": "الخيمة / المأوى",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الخيمة / المأوى'؟",
+      "options": [
+        "ⴰⵅⴰⵎ (Axam)",
+        "ⵜⵉⵃⵕⵛⵉ (Tiḥrci)",
+        "ⴰⴷⵔⴰⵔ (Adrar)",
+        "ⵜⴰⴷⴷⴰⵔⵜ (Taddart)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵅⴰⵎ] (Axam) وترجمتها: 'الخيمة / المأوى'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s1_v6",
+      "targetTifinagh": "ⴰⵖⵢⵓⵍ",
+      "targetLatin": "Aɣyul",
+      "targetArabic": "الحمار",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⵖⵢⵓⵍ] (Aɣyul)؟",
+      "options": [
+        "الإخوة / ",
+        "الغولة الأسطورية / ",
+        "الحمار / ",
+        "السلام / الأمان / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵖⵢⵓⵍ] (Aɣyul) ورد في سياق الحكاية للدلالة على: الحمار ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s1_v7",
+      "targetTifinagh": "ⴰⵙⵉⴼ",
+      "targetLatin": "Asif",
+      "targetArabic": "النهر / الوادي",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵙⵉⴼ] (Asif)؟",
+      "options": [
+        "الغابة",
+        "النهر / الوادي",
+        "الفطنة / الذكاء",
+        "الجبل"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⵙⵉⴼ] (ينطق: Asif) يعني بالعربية: 'النهر / الوادي'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s1_v8",
+      "targetTifinagh": "ⵜⴰⴷⴷⴰⵔⵜ",
+      "targetLatin": "Taddart",
+      "targetArabic": "الدار / المنزل",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الدار / المنزل'؟",
+      "options": [
+        "ⵜⴰⴷⴷⴰⵔⵜ (Taddart)",
+        "ⵜⴰⴳⴰⵏⵜ (Tagant)",
+        "ⵜⵉⵃⵕⵛⵉ (Tiḥrci)",
+        "ⴰⴼⵔⴰ (Afra)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⴷⴷⴰⵔⵜ] (Taddart) وترجمتها: 'الدار / المنزل'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s1_v9",
+      "targetTifinagh": "ⵜⵉⵃⵕⵛⵉ",
+      "targetLatin": "Tiḥrci",
+      "targetArabic": "الفطنة / الذكاء",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⵉⵃⵕⵛⵉ] (Tiḥrci)؟",
+      "options": [
+        "السلام / الأمان / ",
+        "الإخوة / ",
+        "الغولة الأسطورية / ",
+        "الفطنة / الذكاء / "
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⵃⵕⵛⵉ] (Tiḥrci) ورد في سياق الحكاية للدلالة على: الفطنة / الذكاء ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s1_v10",
+      "targetTifinagh": "ⴰⴼⵔⴰ",
+      "targetLatin": "Afra",
+      "targetArabic": "السلام / الأمان",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴼⵔⴰ] (Afra)؟",
+      "options": [
+        "الدار / المنزل",
+        "السلام / الأمان",
+        "الجبل",
+        "الإخوة"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⴼⵔⴰ] (ينطق: Afra) يعني بالعربية: 'السلام / الأمان'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

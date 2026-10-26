@@ -1,0 +1,345 @@
+{
+  "id": "story15",
+  "title": "حكمة السلحفاة إيفكر وسرعة الأرنب الأطلسي",
+  "titleTifinagh": "ⵉⴼⴽⵔ ⴷ ⵓⵡⵜⵓⵍ ⵏ ⵡⴰⵟⵍⴰⵙ",
+  "titleLatin": "Ifkr d Uwtul n Waṭlas",
+  "region": "سهول وجبال الأطلس (تراث شعبي)",
+  "dialect": "الأمازيغية المغربية المشتركة",
+  "level": "مبتدئ - أطفال (Level 1)",
+  "category": "fables",
+  "categoryName": "حكايات الحكمة والحيوان",
+  "coverImage": "assets/images/stories/story15.jpg",
+  "audio": "assets/audio/stories/story15.mp3",
+  "summary": "حكاية السباق الشهير بين السلحفاة الصبورة 'إيفكر' والأرنب المغرور 'أوتول' بأسلوب أمازيغي مغربي؛ كيف يعلم الأجداد أبناءهم أن المثابرة الهادئة والخطى الثابتة تهزم التباهي والغرور.",
+  "textTamazight": "ⴳ ⵢⴰⵏ ⵡⴰⵙⵙ, ⵉⵏⵏⴰ ⴰⵡⵜⵓⵍ ⵉ ⵉⴼⴽⵔ: ⴽⵢⵢⵉⵏ ⵓⵔ ⵜⵣⵎⵉⵔⴷ ⵉ ⵜⴰⵣⵣⵍⴰ ⴳ ⵓⴱⵔⵉⴷ!\nⵢⵔⵔⴰ ⴰⵙ ⵉⴼⴽⵔ ⵙ ⵜⴰⵡⵏⵣⵉⵜ ⴷ ⵜⵉⵎⵍⵍⵉ: ⴰⴷ ⵏⵎⵃⵉⵣⵡⴰⵔ ⵖⵔ ⴰⴼⵓⵍⵓ ⵢⴰⵜⵜⵓⵢⵏ!\nⵢⴳⵏ ⴰⵡⵜⵓⵍ ⴷⴷⴰⵡ ⴰⵎⴰⵍⵓ ⵏ ⵜⴰⴷⴷⴰⴳⵜ, ⵉⵖⴰⵍ ⵉⵙ ⵉⵍⵍⴰ ⴽⵉⴳⴰⵏ ⵏ ⴰⴽⵓⴷ.\nⵎⴰⵛⴰ ⵉⴼⴽⵔ ⵉⵙⵙⵏ ⴰⵙⵡⵓⵔⵉ ⴷ ⵓⵥⵡⵉⵕ, ⵢⴹⴼⵕ ⴰⴱⵔⵉⴷ ⵏⵏⵙ ⴱⵍⴰ ⴰⵙⴳⵓⵏⴼⵓ.\nⵍⴽⵎⵏ ⵉⴼⴽⵔ ⵖⵔ ⵓⴼⵓⵍⵓ, ⵢⵉⵡⵉ ⵜⴰⵔⵏⴰⵡⵜ ⵙ ⵜⵉⵃⵕⵛⵉ ⴷ ⵓⵏⵍⵍⵉ.",
+  "textLatin": "G yan wass, inna uwtul i ifkr: Kyyin ur tzmind i tazzla g ubrid!\nYrra as ifkr s tawnzit d timlli: Ad nmḥizwar ɣer afulu yattuyen!\nYgn uwtul ddaw amalu n taddagt, iɣal is illa kigan n akud.\nMaca ifkr issn aswuri d uẓwiṛ, yḍfṛ abrid nnes bla asgunfu.\nLkmn ifkr ɣer ufulu, yiwi tarnawt s tiḥrci d unlli.",
+  "textArabic": "في يوم من الأيام، تباهى الأرنب المغرور وقال للسلحفاة: أنتِ بطيئة لا تقدرين على السرعة والجري في الطريق!\nأجابته السلحفاة إيفكر بكل صبر وأناة و تمهل حكيم: لنتسابق نحو خط النهاية والهدف المنشود!\nاستسلم الأرنب للنوم تحت ظل شجرة وارف، معتقداً أن لديه متسعاً وافراً من الوقت والزمن.\nلكن السلحفاة آمنت بـالعمل والاجتهاد الدؤوب، وسارت في طريقها بثبات دون كلل أو ملل.\nوصلت السلحفاة أولاً إلى الهدف، وحققت الانتصار بفضل مثابرتها وحكمتها البالغة.",
+  "grammar": "كلمة 'Amalu' تعني الظل، و'Akud' تعني الوقت أو الزمن في الأمازيغية.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵉⵡⴹ ⵢⵉⴼⴽⵔ ⵖⵔ ⵓⴼⵓⵍⵓ ⵙ ⵜⵡⵏⵣⵉⵜ",
+    "sentenceLatin": "Iwḍ yifkr ɣer ufulu s twnzit",
+    "sentenceArabic": "وصلت السلحفاةُ إلى الهدف بالصبر",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵉⵡⴹ",
+        "trans": "وصل / بلغ (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵢⵉⴼⴽⵔ",
+        "trans": "السلحفاةُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵖⵔ",
+        "trans": "إلى (حرف غاية)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵓⴼⵓⵍⵓ",
+        "trans": "الهدف / النهاية (اسم مقيد)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵙ",
+        "trans": "بـ (حرف أداة)"
+      },
+      {
+        "id": "w6",
+        "text": "ⵜⵡⵏⵣⵉⵜ",
+        "trans": "الصبر / الأناة (اسم مجرور)"
+      }
+    ],
+    "explanation": "الجملة تؤكد فضيلة الصبر 'Tawnzit' التي أوصلت السلحفاة إلى غايتها."
+  },
+  "vocabulary": [
+    {
+      "id": "s15_v1",
+      "tifinagh": "ⵉⴼⴽⵔ",
+      "latin": "Ifkr",
+      "arabic": "السلحفاة (أو بوفكرون)",
+      "image": "assets/images/terms/s15_v1.webp",
+      "audio": "assets/audio/words/ifkr.mp3",
+      "example": "ⵉⴼⴽⵔ ⵉⵍⴰ ⵜⴰⵡⵏⵣⵉⵜ (السلحفاة صبورة)",
+      "french": "La tortue",
+      "explanation": "ⵉⴼⴽⵔ ⵉⵍⴰ ⵜⴰⵡⵏⵣⵉⵜ (السلحفاة صبورة)"
+    },
+    {
+      "id": "s15_v2",
+      "tifinagh": "ⴰⵡⵜⵓⵍ",
+      "latin": "Awtul",
+      "arabic": "الأرنب",
+      "image": "assets/images/terms/s15_v2.webp",
+      "audio": "assets/audio/words/awtul.mp3",
+      "example": "ⴰⵡⵜⵓⵍ ⵉⵜⵜⴰⵣⵣⴰⵍ (الأرنب يركض سريعاً)",
+      "french": "Le lièvre / Le lapin",
+      "explanation": "ⴰⵡⵜⵓⵍ ⵉⵜⵜⴰⵣⵣⴰⵍ (الأرنب يركض سريعاً)"
+    },
+    {
+      "id": "s15_v3",
+      "tifinagh": "ⵜⴰⵡⵏⵣⵉⵜ",
+      "latin": "Tawnzit",
+      "arabic": "الصبر والأناة",
+      "image": "assets/images/terms/s15_v3.webp",
+      "audio": "assets/audio/words/tawnzit.mp3",
+      "example": "ⵙ ⵜⵡⵏⵣⵉⵜ ⵏⵍⴽⴽⵎ (بالصبر نبلغ المقاصد)",
+      "french": "La patience et la persévérance",
+      "explanation": "ⵙ ⵜⵡⵏⵣⵉⵜ ⵏⵍⴽⴽⵎ (بالصبر نبلغ المقاصد)"
+    },
+    {
+      "id": "s15_v4",
+      "tifinagh": "ⴰⴼⵓⵍⵓ",
+      "latin": "Afulu",
+      "arabic": "الهدف وخط النهاية",
+      "image": "assets/images/terms/s15_v4.webp",
+      "audio": "assets/audio/words/afulu.mp3",
+      "example": "ⵉⵡⴹ ⵖⵔ ⵓⴼⵓⵍⵓ (وصل إلى الهدف)",
+      "french": "La ligne d'arrivée / L'objectif",
+      "explanation": "ⵉⵡⴹ ⵖⵔ ⵓⴼⵓⵍⵓ (وصل إلى الهدف)"
+    },
+    {
+      "id": "s15_v5",
+      "tifinagh": "ⴰⵎⴰⵍⵓ",
+      "latin": "Amalu",
+      "arabic": "الظل الظليل",
+      "image": "assets/images/terms/s15_v5.webp",
+      "audio": "assets/audio/words/amalu.mp3",
+      "example": "ⴰⵎⴰⵍⵓ ⵏ ⵜⴰⴷⴷⴰⴳⵜ (ظل الشجرة)",
+      "french": "L'ombre bienfaisante",
+      "explanation": "ⴰⵎⴰⵍⵓ ⵏ ⵜⴰⴷⴷⴰⴳⵜ (ظل الشجرة)"
+    },
+    {
+      "id": "s15_v6",
+      "tifinagh": "ⴰⴽⵓⴷ",
+      "latin": "Akud",
+      "arabic": "الوقت / الزمن",
+      "image": "assets/images/terms/s15_v6.webp",
+      "audio": "assets/audio/words/akud.mp3",
+      "example": "ⴰⴽⵓⴷ ⵉⵣⵔⵉ (الوقت يمضي)",
+      "french": "Le temps / La durée",
+      "explanation": "ⴰⴽⵓⴷ ⵉⵣⵔⵉ (الوقت يمضي)"
+    },
+    {
+      "id": "s15_v7",
+      "tifinagh": "ⵜⴰⵣⵣⵍⴰ",
+      "latin": "Tazzla",
+      "arabic": "السرعة والجري",
+      "image": "assets/images/terms/s15_v7.webp",
+      "audio": "assets/audio/words/tazzla.mp3",
+      "example": "ⵜⴰⵣⵣⵍⴰ ⵜⴰⵎⵇⵔⴰⵏⵜ (السرعة الفائقة)",
+      "french": "La course rapide",
+      "explanation": "ⵜⴰⵣⵣⵍⴰ ⵜⴰⵎⵇⵔⴰⵏⵜ (السرعة الفائقة)"
+    },
+    {
+      "id": "s15_v8",
+      "tifinagh": "ⴰⵙⵡⵓⵔⵉ",
+      "latin": "Aswuri",
+      "arabic": "العمل والاجتهاد",
+      "image": "assets/images/terms/s15_v8.webp",
+      "audio": "assets/audio/words/aswuri.mp3",
+      "example": "ⴰⵙⵡⵓⵔⵉ ⵉⵜⵜⴰⵡⵉ ⵜⴰⵔⵏⴰⵡⵜ (العمل يثمر النجاح)",
+      "french": "Le travail persévérant",
+      "explanation": "ⴰⵙⵡⵓⵔⵉ ⵉⵜⵜⴰⵡⵉ ⵜⴰⵔⵏⴰⵡⵜ (العمل يثمر النجاح)"
+    },
+    {
+      "id": "s15_v9",
+      "tifinagh": "ⴰⴱⵔⵉⴷ",
+      "latin": "Abrid",
+      "arabic": "الطريق / المسار",
+      "image": "assets/images/terms/s15_v9.webp",
+      "audio": "assets/audio/words/abrid.mp3",
+      "example": "ⴰⴱⵔⵉⴷ ⵏ ⵜⵉⴷⵜ (طريق الحق)",
+      "french": "Le chemin / La voie",
+      "explanation": "ⴰⴱⵔⵉⴷ ⵏ ⵜⵉⴷⵜ (طريق الحق)"
+    },
+    {
+      "id": "s15_v10",
+      "tifinagh": "ⵜⵉⵎⵍⵍⵉ",
+      "latin": "Timlli",
+      "arabic": "التأني والتمهل الهادئ",
+      "image": "assets/images/terms/s15_v10.webp",
+      "audio": "assets/audio/words/timlli.mp3",
+      "example": "ⴷⴷⵓ ⵙ ⵜⵎⵍⵍⵉ (امشِ على مهل)",
+      "french": "La sérénité posée / Le calme",
+      "explanation": "ⴷⴷⵓ ⵙ ⵜⵎⵍⵍⵉ (امشِ على مهل)"
+    }
+  ],
+  "textFrench": "Un jour, le lièvre vantard lança à la tortue: Tu es incapable de courir vite sur le chemin!\nLa tortue répondit avec patience et calme mesuré: Faisons la course jusqu'à la ligne d'arrivée!\nLe lièvre s'endormit sous l'ombre fraîche d'un arbre, croyant disposer de tout son temps.\nMais la tortue crut au travail assidu et poursuivit sa route sans jamais faiblir.\nElle franchit le but en premier et remporta la victoire grâce à sa persévérance exemplaire.",
+  "genre": "حكاية شعبية وحكمة تراثية (Folk Fable)",
+  "source": "الحكايات الشعبية لحيوانات الأطلس / نوادر الحكمة",
+  "culturalContext": "حكاية السلحفاة إيفكر والأرنب؛ مثل أمازيغي سائر يُعلّم الأطفال فضيلة الصبر والأناة والمثابرة على حساب الغرور.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s15_v1",
+      "targetTifinagh": "ⵉⴼⴽⵔ",
+      "targetLatin": "Ifkr",
+      "targetArabic": "السلحفاة (أو بوفكرون)",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⴼⴽⵔ] (Ifkr)؟",
+      "options": [
+        "الطريق / المسار",
+        "السرعة والجري",
+        "الصبر والأناة",
+        "السلحفاة (أو بوفكرون)"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵉⴼⴽⵔ] (ينطق: Ifkr) يعني بالعربية: 'السلحفاة (أو بوفكرون)'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s15_v2",
+      "targetTifinagh": "ⴰⵡⵜⵓⵍ",
+      "targetLatin": "Awtul",
+      "targetArabic": "الأرنب",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الأرنب'؟",
+      "options": [
+        "ⴰⵡⵜⵓⵍ (Awtul)",
+        "ⴰⵎⴰⵍⵓ (Amalu)",
+        "ⵉⴼⴽⵔ (Ifkr)",
+        "ⵜⴰⵡⵏⵣⵉⵜ (Tawnzit)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵡⵜⵓⵍ] (Awtul) وترجمتها: 'الأرنب'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s15_v3",
+      "targetTifinagh": "ⵜⴰⵡⵏⵣⵉⵜ",
+      "targetLatin": "Tawnzit",
+      "targetArabic": "الصبر والأناة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵡⵏⵣⵉⵜ] (Tawnzit)؟",
+      "options": [
+        "التأني والتمهل الهادئ / ",
+        "الصبر والأناة / ",
+        "الهدف وخط النهاية / ",
+        "الأرنب / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵡⵏⵣⵉⵜ] (Tawnzit) ورد في سياق الحكاية للدلالة على: الصبر والأناة ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s15_v4",
+      "targetTifinagh": "ⴰⴼⵓⵍⵓ",
+      "targetLatin": "Afulu",
+      "targetArabic": "الهدف وخط النهاية",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴼⵓⵍⵓ] (Afulu)؟",
+      "options": [
+        "الصبر والأناة",
+        "التأني والتمهل الهادئ",
+        "السلحفاة (أو بوفكرون)",
+        "الهدف وخط النهاية"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⴰⴼⵓⵍⵓ] (ينطق: Afulu) يعني بالعربية: 'الهدف وخط النهاية'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s15_v5",
+      "targetTifinagh": "ⴰⵎⴰⵍⵓ",
+      "targetLatin": "Amalu",
+      "targetArabic": "الظل الظليل",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الظل الظليل'؟",
+      "options": [
+        "ⵜⵉⵎⵍⵍⵉ (Timlli)",
+        "ⵜⴰⵣⵣⵍⴰ (Tazzla)",
+        "ⴰⵎⴰⵍⵓ (Amalu)",
+        "ⵉⴼⴽⵔ (Ifkr)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵎⴰⵍⵓ] (Amalu) وترجمتها: 'الظل الظليل'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s15_v6",
+      "targetTifinagh": "ⴰⴽⵓⴷ",
+      "targetLatin": "Akud",
+      "targetArabic": "الوقت / الزمن",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴽⵓⴷ] (Akud)؟",
+      "options": [
+        "الظل الظليل / ",
+        "العمل والاجتهاد / ",
+        "الوقت / الزمن / ",
+        "السلحفاة (أو بوفكرون) / "
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⴽⵓⴷ] (Akud) ورد في سياق الحكاية للدلالة على: الوقت / الزمن ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s15_v7",
+      "targetTifinagh": "ⵜⴰⵣⵣⵍⴰ",
+      "targetLatin": "Tazzla",
+      "targetArabic": "السرعة والجري",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⵣⵣⵍⴰ] (Tazzla)؟",
+      "options": [
+        "السلحفاة (أو بوفكرون)",
+        "السرعة والجري",
+        "الصبر والأناة",
+        "العمل والاجتهاد"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵣⵣⵍⴰ] (ينطق: Tazzla) يعني بالعربية: 'السرعة والجري'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s15_v8",
+      "targetTifinagh": "ⴰⵙⵡⵓⵔⵉ",
+      "targetLatin": "Aswuri",
+      "targetArabic": "العمل والاجتهاد",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'العمل والاجتهاد'؟",
+      "options": [
+        "ⵜⴰⵡⵏⵣⵉⵜ (Tawnzit)",
+        "ⴰⴽⵓⴷ (Akud)",
+        "ⴰⵙⵡⵓⵔⵉ (Aswuri)",
+        "ⴰⵡⵜⵓⵍ (Awtul)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵙⵡⵓⵔⵉ] (Aswuri) وترجمتها: 'العمل والاجتهاد'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s15_v9",
+      "targetTifinagh": "ⴰⴱⵔⵉⴷ",
+      "targetLatin": "Abrid",
+      "targetArabic": "الطريق / المسار",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴱⵔⵉⴷ] (Abrid)؟",
+      "options": [
+        "الطريق / المسار / ",
+        "التأني والتمهل الهادئ / ",
+        "الأرنب / ",
+        "الوقت / الزمن / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⴱⵔⵉⴷ] (Abrid) ورد في سياق الحكاية للدلالة على: الطريق / المسار ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s15_v10",
+      "targetTifinagh": "ⵜⵉⵎⵍⵍⵉ",
+      "targetLatin": "Timlli",
+      "targetArabic": "التأني والتمهل الهادئ",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⵎⵍⵍⵉ] (Timlli)؟",
+      "options": [
+        "الصبر والأناة",
+        "العمل والاجتهاد",
+        "الطريق / المسار",
+        "التأني والتمهل الهادئ"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⵎⵍⵍⵉ] (ينطق: Timlli) يعني بالعربية: 'التأني والتمهل الهادئ'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "id": "story12",
+  "title": "أسطورة عملاق الأطلس وتوبقال حارس الثلوج",
+  "titleTifinagh": "ⴰⴷⵔⴰⵔ ⵏ ⵜⵓⴱⵇⴰⵍ ⴷ ⵓⴷⴼⵍ",
+  "titleLatin": "Adrar n Tubqal d Udfl",
+  "region": "قمم توبقال والأطلس الكبير (الحوز وإمليل)",
+  "dialect": "تشلحيت وتمازيغت (Tacelḥit)",
+  "level": "مبتدئ (Level 1)",
+  "category": "legends",
+  "categoryName": "أساطير وتراث",
+  "coverImage": "assets/images/stories/story12.jpg",
+  "audio": "assets/audio/stories/story12.mp3",
+  "summary": "أسطورة جبل توبقال، أعلى قمة في المغرب وشمال إفريقيا (4167م)؛ حكاية العملاق الحكيم الذي تحول إلى جبل أشم يحرس وديان الحوز وسوس، ويلبس رداء الثلج الأبيض ليغذي الأنهار بالماء العذب طوال الصيف.",
+  "textTamazight": "ⴳ ⵓⴷⵔⴰⵔ ⵏ ⵜⵓⴱⵇⴰⵍ, ⵉⵍⵍⴰ ⴰⴷⴼⵍ ⵉⵜⵜⵄⵍⵍⴰⵢⵏ ⴳ ⵜⴰⵇⵛⵛⵓⵛⵜ ⵢⴰⵜⵜⵓⵢⵏ.\nⴷⴰ ⵉⵜⵜⴰⵙⵉ ⵓⴷⵔⴰⵔ ⴰⵙⵍⵀⴰⵎ ⴰⵎⵍⵍⴰⵍ ⴳ ⵜⴰⴳⵔⵙⵜ ⵉⵚⵎⵉⴹⵏ, ⵢⴰⵔⵔⴰ-ⵜ ⴳ ⵜⴰⴼⵙⵓⵜ.\nⴷⴰ ⵉⵜⵜⵚⵓⴹ ⴰⴹⵓ ⴰⵚⵎⵎⴰⴹ ⴳ ⵜⵉⵣⵉ ⵏ ⵜⵉⵛⴽⴰ ⴷⴷⴰⵡ ⵉⵜⵔⴰⵏ ⵉⵜⵜⴼⴰⵡⵏ.\nⵢⵚⴽⴰ ⵓⵖⵔⴼ ⴰⵎⴰⵣⵉⵖ ⵢⴰⵏ ⴰⴳⴰⴷⵉⵔ ⴰⵇⴱⵓⵔ ⴰⴼⴰⴷ ⴰⴷ ⵉⵃⴹⵓ ⵉⵎⵏⴷⵉ ⴷ ⵜⴰⵢⵙⵉ.\nⵉⴳⴰ ⵡⴰⵎⴰⵏ ⵏ ⵓⴷⵔⴰⵔ ⵢⴰⵏ ⵡⴰⵎⴰⵏ ⵉⵣⴷⴷⵉⴳ ⵉⵙⵙⵡⴰⵢⵏ ⵉⴳⵔⴰⵏ ⴷ ⵜⴰⴷⴷⴰⴳⵉⵏ.",
+  "textLatin": "G udrar n Tubqal, illa adfl ittɛllayn g taqccuct yattuyen.\nDa ittasi udrar aslham amllal g tagrst iṣmiḍn, yarra-t g tafsut.\nDa ittṣuḍ aḍu aṣmmaḍ g tizi n Ticka ddaw itran ittfawn.\nYṣka uɣrf amaziɣ yan agadir aqbur afad ad ihḍu imndi d taysi.\nIga waman n udrar yan waman izddig yields igran d taddagin.",
+  "textArabic": "على قمة جبل توبقال الشامخ، يكسو الثلج الأبيض الناصع أعلى قمة جبلية في المغرب.\nيرتدي الجبل سلهاماً أبيضاً دافئاً في فصل الشتاء البارد، ليخلعه مع إشراقة فصل الربيع المزهر.\nتهب الريح العليلة الباردة عبر ممر وفج تيزي نتيشكا تحت ضياء النجوم المتلألئة.\nشيد الأمازيغ حصناً ومخزناً جماعياً عريقاً (أكـادير) لحفظ الحبوب والمؤن والتراث.\nوتتفجر من أعالي الجبل مياه نقية عذبة وطاهرة تروي الحقول والبساتين الخضراء.",
+  "grammar": "الفصول الأمازيغية: 'Tagrst' الشتاء، 'Tafsut' الربيع، 'Iwilen' الصيف، 'Amwan' الخريف.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵢⵓⵍⵙ ⵓⴷⴼⵍ ⴰⵎⵍⵍⴰⵍ ⵜⴰⵇⵛⵛⵓⵛⵜ",
+    "sentenceLatin": "Yuls udfl amllal taqccuct",
+    "sentenceArabic": "غطّى الثلجُ الأبيضُ القمةَ",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵢⵓⵍⵙ",
+        "trans": "غطى / لبس (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵓⴷⴼⵍ",
+        "trans": "الثلجُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⴰⵎⵍⵍⴰⵍ",
+        "trans": "الأبيض (نعت)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵜⴰⵇⵛⵛⵓⵛⵜ",
+        "trans": "القمةَ (مفعول به)"
+      }
+    ],
+    "explanation": "الجملة تصف تكسية الثلج الأبيض لقمة الجبل الشاهقة."
+  },
+  "vocabulary": [
+    {
+      "id": "s12_v1",
+      "tifinagh": "ⴰⴷⴼⵍ",
+      "latin": "Adfl",
+      "arabic": "الثلج",
+      "image": "assets/images/terms/s12_v1.webp",
+      "audio": "assets/audio/words/adfl.mp3",
+      "example": "ⵉⴹⵕ-ⴷ ⵓⴷⴼⵍ ⴳ ⵓⴷⵔⴰⵔ (تساقط الثلج في الجبل)",
+      "french": "La neige",
+      "explanation": "ⵉⴹⵕ-ⴷ ⵓⴷⴼⵍ ⴳ ⵓⴷⵔⴰⵔ (تساقط الثلج في الجبل)"
+    },
+    {
+      "id": "s12_v2",
+      "tifinagh": "ⵜⴰⵇⵛⵛⵓⵛⵜ",
+      "latin": "Taqccuct",
+      "arabic": "قمة الجبل الشاهقة",
+      "image": "assets/images/terms/s12_v2.webp",
+      "audio": "assets/audio/words/taqccuct.mp3",
+      "example": "ⵜⴰⵇⵛⵛⵓⵛⵜ ⵏ ⵜⵓⴱⵇⴰⵍ ⵜⴰⵜⵜⵓⵢ (قمة توبقال شاهقة)",
+      "french": "Le sommet de la montagne / La cime",
+      "explanation": "ⵜⴰⵇⵛⵛⵓⵛⵜ ⵏ ⵜⵓⴱⵇⴰⵍ ⵜⴰⵜⵜⵓⵢ (قمة توبقال شاهقة)"
+    },
+    {
+      "id": "s12_v3",
+      "tifinagh": "ⵜⴰⴳⵔⵙⵜ",
+      "latin": "Tagrst",
+      "arabic": "فصل الشتاء",
+      "image": "assets/images/terms/s12_v3.webp",
+      "audio": "assets/audio/words/tagrst.mp3",
+      "example": "ⵜⴰⴳⵔⵙⵜ ⵜⵚⵎⵎⵉⴹ (الشتاء بارد وممطر)",
+      "french": "L'hiver",
+      "explanation": "ⵜⴰⴳⵔⵙⵜ ⵜⵚⵎⵎⵉⴹ (الشتاء بارد وممطر)"
+    },
+    {
+      "id": "s12_v4",
+      "tifinagh": "ⵜⴰⴼⵙⵓⵜ",
+      "latin": "Tafsut",
+      "arabic": "فصل الربيع المزهر",
+      "image": "assets/images/terms/s12_v4.webp",
+      "audio": "assets/audio/words/tafsut.mp3",
+      "example": "ⵜⴰⴼⵙⵓⵜ ⵜⵛⵡⴰⵔ ⵙ ⵉⵊⴷⴷⵉⴳⵏ (الربيع مليء بالأزهار)",
+      "french": "Le printemps fleuri",
+      "explanation": "ⵜⴰⴼⵙⵓⵜ ⵜⵛⵡⴰⵔ ⵙ ⵉⵊⴷⴷⵉⴳⵏ (الربيع مليء بالأزهار)"
+    },
+    {
+      "id": "s12_v5",
+      "tifinagh": "ⴰⵙⵍⵀⴰⵎ",
+      "latin": "Aslham",
+      "arabic": "السلهام المغربي التقليدي",
+      "image": "assets/images/terms/s12_v5.webp",
+      "audio": "assets/audio/words/aslham.mp3",
+      "example": "ⴰⵙⵍⵀⴰⵎ ⴰⵎⵍⵍⴰⵍ (السلهام الأبيض)",
+      "french": "Le selham / Le burnous traditionnel",
+      "explanation": "ⴰⵙⵍⵀⴰⵎ ⴰⵎⵍⵍⴰⵍ (السلهام الأبيض)"
+    },
+    {
+      "id": "s12_v6",
+      "tifinagh": "ⴰⴹⵓ",
+      "latin": "Aḍu",
+      "arabic": "الريح / النسيم",
+      "image": "assets/images/terms/s12_v6.webp",
+      "audio": "assets/audio/words/adu.mp3",
+      "example": "ⴰⴹⵓ ⵉⵚⵎⵎⵉⴹ ⴳ ⵓⴷⵔⴰⵔ (الريح باردة في الجبل)",
+      "french": "Le vent / La brise",
+      "explanation": "ⴰⴹⵓ ⵉⵚⵎⵎⵉⴹ ⴳ ⵓⴷⵔⴰⵔ (الريح باردة في الجبل)"
+    },
+    {
+      "id": "s12_v7",
+      "tifinagh": "ⵉⵜⵔⴰⵏ",
+      "latin": "Itran",
+      "arabic": "النجوم (جمع Itri)",
+      "image": "assets/images/terms/s12_v7.webp",
+      "audio": "assets/audio/words/itran.mp3",
+      "example": "ⵜⵜⴼⴰⵡⵏ ⵢⵉⵜⵔⴰⵏ ⴳ ⵢⵉⴹ (تتلألأ النجوم ليلاً)",
+      "french": "Les étoiles",
+      "explanation": "ⵜⵜⴼⴰⵡⵏ ⵢⵉⵜⵔⴰⵏ ⴳ ⵢⵉⴹ (تتلألأ النجوم ليلاً)"
+    },
+    {
+      "id": "s12_v8",
+      "tifinagh": "ⵜⵉⵣⵉ",
+      "latin": "Tizi",
+      "arabic": "الممر الجبلي / الفج (مثل تيزي نتيشكا)",
+      "image": "assets/images/terms/s12_v8.webp",
+      "audio": "assets/audio/words/tizi.mp3",
+      "example": "ⵜⵉⵣⵉ ⵏ ⵜⵉⵛⴽⴰ ⴳ ⵡⴰⵟⵍⴰⵙ (ممر تيشكا في الأطلس)",
+      "french": "Le col de montagne",
+      "explanation": "ⵜⵉⵣⵉ ⵏ ⵜⵉⵛⴽⴰ ⴳ ⵡⴰⵟⵍⴰⵙ (ممر تيشكا في الأطلس)"
+    },
+    {
+      "id": "s12_v9",
+      "tifinagh": "ⴰⴳⴰⴷⵉⵔ",
+      "latin": "Agadir",
+      "arabic": "الحصن / المخزن الجماعي العتيق",
+      "image": "assets/images/terms/s12_v9.webp",
+      "audio": "assets/audio/words/agadir.mp3",
+      "example": "ⴰⴳⴰⴷⵉⵔ ⵉⵇⴱⵓⵔⵏ ⵏ ⵡⴰⵢⵜ ⵓⴷⵔⴰⵔ (المخزن الجماعي القديم)",
+      "french": "Le grenier fortifié collectif",
+      "explanation": "ⴰⴳⴰⴷⵉⵔ ⵉⵇⴱⵓⵔⵏ ⵏ ⵡⴰⵢⵜ ⵓⴷⵔⴰⵔ (المخزن الجماعي القديم)"
+    },
+    {
+      "id": "s12_v10",
+      "tifinagh": "ⵉⵣⴷⴷⵉⴳ",
+      "latin": "Izddig",
+      "arabic": "نقي / صافٍ وطاهر",
+      "image": "assets/images/terms/s12_v10.webp",
+      "audio": "assets/audio/words/izddig.mp3",
+      "example": "ⴰⵎⴰⵏ ⵉⵣⴷⴷⵉⴳⵏ (ماء صافٍ وزلال)",
+      "french": "Pur / Limpide",
+      "explanation": "ⴰⵎⴰⵏ ⵉⵣⴷⴷⵉⴳⵏ (ماء صافٍ وزلال)"
+    }
+  ],
+  "textFrench": "Sur le mont Toubkal majestueux, la neige immaculée recouvre le sommet le plus élevé.\nLa montagne s'enveloppe d'un burnous blanc en hiver et s'éveille au doux printemps fleuri.\nLe souffle pur du vent caresse le col de Tichka sous la clarté scintillante des étoiles.\nLes villageois édifièrent un grenier collectif (Agadir) fortifié pour conserver leurs récoltes.\nDes sources d'eau pure et cristalline descendent pour arroser les vergers et les cultures.",
+  "genre": "ميثولوجيا الجبال الأمازيغية (Mountain Mythology)",
+  "source": "أساطير أعالي الأطلس الكبير / روايات المرشدين المحليين",
+  "culturalContext": "جبل توبقال (4167م) أعلى قمة بالمغرب وشمال إفريقيا؛ في المخيال الشعبي هو العملاق الحارس المتوج ببرنوس الثلج الأبيض.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s12_v1",
+      "targetTifinagh": "ⴰⴷⴼⵍ",
+      "targetLatin": "Adfl",
+      "targetArabic": "الثلج",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⴷⴼⵍ] (Adfl)؟",
+      "options": [
+        "الحصن / المخزن الجماعي العتيق",
+        "فصل الشتاء",
+        "الثلج",
+        "فصل الربيع المزهر"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⴷⴼⵍ] (ينطق: Adfl) يعني بالعربية: 'الثلج'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s12_v2",
+      "targetTifinagh": "ⵜⴰⵇⵛⵛⵓⵛⵜ",
+      "targetLatin": "Taqccuct",
+      "targetArabic": "قمة الجبل الشاهقة",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'قمة الجبل الشاهقة'؟",
+      "options": [
+        "ⵜⴰⴼⵙⵓⵜ (Tafsut)",
+        "ⴰⴷⴼⵍ (Adfl)",
+        "ⵉⵣⴷⴷⵉⴳ (Izddig)",
+        "ⵜⴰⵇⵛⵛⵓⵛⵜ (Taqccuct)"
+      ],
+      "correctIndex": 3,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⴰⵇⵛⵛⵓⵛⵜ] (Taqccuct) وترجمتها: 'قمة الجبل الشاهقة'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s12_v3",
+      "targetTifinagh": "ⵜⴰⴳⵔⵙⵜ",
+      "targetLatin": "Tagrst",
+      "targetArabic": "فصل الشتاء",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⴳⵔⵙⵜ] (Tagrst)؟",
+      "options": [
+        "فصل الشتاء / ",
+        "السلهام المغربي التقليدي / ",
+        "الريح / النسيم / ",
+        "نقي / صافٍ وطاهر / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴳⵔⵙⵜ] (Tagrst) ورد في سياق الحكاية للدلالة على: فصل الشتاء ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s12_v4",
+      "targetTifinagh": "ⵜⴰⴼⵙⵓⵜ",
+      "targetLatin": "Tafsut",
+      "targetArabic": "فصل الربيع المزهر",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⴰⴼⵙⵓⵜ] (Tafsut)؟",
+      "options": [
+        "فصل الربيع المزهر",
+        "السلهام المغربي التقليدي",
+        "الحصن / المخزن الجماعي العتيق",
+        "الثلج"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⴼⵙⵓⵜ] (ينطق: Tafsut) يعني بالعربية: 'فصل الربيع المزهر'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s12_v5",
+      "targetTifinagh": "ⴰⵙⵍⵀⴰⵎ",
+      "targetLatin": "Aslham",
+      "targetArabic": "السلهام المغربي التقليدي",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'السلهام المغربي التقليدي'؟",
+      "options": [
+        "ⴰⵙⵍⵀⴰⵎ (Aslham)",
+        "ⴰⴳⴰⴷⵉⵔ (Agadir)",
+        "ⴰⴹⵓ (Aḍu)",
+        "ⴰⴷⴼⵍ (Adfl)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵙⵍⵀⴰⵎ] (Aslham) وترجمتها: 'السلهام المغربي التقليدي'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s12_v6",
+      "targetTifinagh": "ⴰⴹⵓ",
+      "targetLatin": "Aḍu",
+      "targetArabic": "الريح / النسيم",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴹⵓ] (Aḍu)؟",
+      "options": [
+        "الريح / النسيم / ",
+        "السلهام المغربي التقليدي / ",
+        "الممر الجبلي / الفج (مثل تيزي نتيشكا) / ",
+        "الثلج / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⴹⵓ] (Aḍu) ورد في سياق الحكاية للدلالة على: الريح / النسيم ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s12_v7",
+      "targetTifinagh": "ⵉⵜⵔⴰⵏ",
+      "targetLatin": "Itran",
+      "targetArabic": "النجوم (جمع Itri)",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵜⵔⴰⵏ] (Itran)؟",
+      "options": [
+        "النجوم (جمع Itri)",
+        "السلهام المغربي التقليدي",
+        "قمة الجبل الشاهقة",
+        "الممر الجبلي / الفج (مثل تيزي نتيشكا)"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⵉⵜⵔⴰⵏ] (ينطق: Itran) يعني بالعربية: 'النجوم (جمع Itri)'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s12_v8",
+      "targetTifinagh": "ⵜⵉⵣⵉ",
+      "targetLatin": "Tizi",
+      "targetArabic": "الممر الجبلي / الفج (مثل تيزي نتيشكا)",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الممر الجبلي / الفج (مثل تيزي نتيشكا)'؟",
+      "options": [
+        "ⵉⵣⴷⴷⵉⴳ (Izddig)",
+        "ⵜⵉⵣⵉ (Tizi)",
+        "ⴰⴷⴼⵍ (Adfl)",
+        "ⵉⵜⵔⴰⵏ (Itran)"
+      ],
+      "correctIndex": 1,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵜⵉⵣⵉ] (Tizi) وترجمتها: 'الممر الجبلي / الفج (مثل تيزي نتيشكا)'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s12_v9",
+      "targetTifinagh": "ⴰⴳⴰⴷⵉⵔ",
+      "targetLatin": "Agadir",
+      "targetArabic": "الحصن / المخزن الجماعي العتيق",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴳⴰⴷⵉⵔ] (Agadir)؟",
+      "options": [
+        "الحصن / المخزن الجماعي العتيق / ",
+        "الثلج / ",
+        "النجوم (جمع Itri) / ",
+        "فصل الشتاء / "
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⴳⴰⴷⵉⵔ] (Agadir) ورد في سياق الحكاية للدلالة على: الحصن / المخزن الجماعي العتيق ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s12_v10",
+      "targetTifinagh": "ⵉⵣⴷⴷⵉⴳ",
+      "targetLatin": "Izddig",
+      "targetArabic": "نقي / صافٍ وطاهر",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵉⵣⴷⴷⵉⴳ] (Izddig)؟",
+      "options": [
+        "فصل الربيع المزهر",
+        "نقي / صافٍ وطاهر",
+        "الممر الجبلي / الفج (مثل تيزي نتيشكا)",
+        "الثلج"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵉⵣⴷⴷⵉⴳ] (ينطق: Izddig) يعني بالعربية: 'نقي / صافٍ وطاهر'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "id": "story17",
+  "title": "فارس القصبة ودادا حمو حكيم الواحة",
+  "titleTifinagh": "ⴰⵎⵏⴰⵢ ⵏ ⵜⵖⵔⵎⵜ ⴷ ⴷⴰⴷⴷⴰ ⵃⵎⵎⵓ",
+  "titleLatin": "Amnay n Tɣrmt d Dadda Ḥmmu",
+  "region": "ورزازات وواحات درعة ودادس (الجنوب الشرقي)",
+  "dialect": "تشلحيت وتمازيغت (Heritage Architecture)",
+  "level": "مبتدئ (Level 1)",
+  "category": "heritage",
+  "categoryName": "تراث ومعمار",
+  "coverImage": "assets/images/stories/story17.jpg",
+  "audio": "assets/audio/stories/story17.mp3",
+  "summary": "حكاية المعمار الطيني الأمازيغي الأصيل (القصبات والقصور)؛ الشيخ الحكيم 'دادا حمو' وحفيده الفارس الصغير الذي يتعلم أسرار بناء القصبة بالطين والتبن ليصمد مئات السنين أمام العواصف ويبقى ملاذاً للأمان.",
+  "textTamazight": "ⵜⴰⵎⴰ ⵏ ⵜⴰⴷⴷⴰⵔⵜ ⵏⵏⵙ, ⵢⵚⴽⴰ ⴷⴰⴷⴷⴰ ⵃⵎⵎⵓ ⵢⴰⵜ ⵜⵉⵖⵔⵎⵜ ⵜⴰⵎⵇⵔⴰⵏⵜ ⴳ ⵜⴰⵙⴳⴰ ⵏ ⵜⴰⵡⵡⵓⵔⵜ.\nⵉⵙⵙⵎⵔⵙ ⴰⴽⴰⵍ ⴷ ⴰⵍⵉⵎ ⴰⴼⴰⴷ ⴰⴷ ⵉⵙⵙⵉⴷⵙ ⵢⴰⵏ ⴰⵖⵔⴰⴱ ⵢⴰⵜⵜⵓⵢⵏ.\nⵜⴼⴽⴰ ⵜⵖⵔⵎⵜ-ⴰⴷ ⵜⴰⵏⴰⴼⵓⵜ ⴷ ⵓⴼⵔⴰ ⵉ ⴽⵓ ⵜⴰⵡⵊⴰ ⴳ ⵡⴰⴹⴰⵏ ⴷ ⵡⴰⵣⴰⵍ.\nⵉⴳⴰ ⴰⵚⴽⴰⵡ-ⴰⴷ ⵜⴰⵢⵙⵉ ⵏ ⵉⵎⵣⵡⵓⵔⴰ ⵉⵥⵉⵍⵏ ⴷ ⵢⴰⵏ ⴰⵢⴷⴰ ⴰⵎⴰⵣⵉⵖ ⵉⴷⵓⵙⵏ.\nⵉⵙⴽⵔ ⴷⴰⴷⴷⴰ ⴰⴼⵔⴰⵙ ⵉ ⵜⵖⵔⵎⵜ ⴰⴼⴰⴷ ⴰⴷ ⵜⵇⵇⵉⵎ ⵉ ⵜⴰⵔⵡⴰ ⵏ ⵜⵎⴰⵣⵉⵔⵜ.",
+  "textLatin": "Tama n taddart nnes, yṣka Dadda Ḥmmu yat tiɣrmt tamqrant g tasga n tawwurt.\nIssmrs akal d alim afad ad issids yan aɣrab yattuyen.\nTfka tiɣrmt-ad tanafut d afra i ku tawja g waḍan d wazal.\nIga uṣkaw-ad taysi n imzwwura iẓiln d yan ayda amaziɣ idusn.\nIskr Dadda afras i tiɣrmt afad ad tqqim i tarwa n tmazirt.",
+  "textArabic": "بجوار بستانه، شيد العم الحكيم دادا حمو قصبة وحصناً طينياً منيعاً يطل على البوابة الكبيرة.\nمزج الطين والتراب بـالتبن المقوى لبناء جدار وحائط شاهق يقاوم عوادي الزمان.\nمنحت القصبة الأمان والسكينة والطمأنينة لجميع أسر القرية ليلاً ونهاراً.\nويعد هذا البناء والمعمار التراثي فخر إنجازات الأجداد وإرثـاً وثروة ثقافية أصيلة.\nتولى الحكيم دادا الحراسة واليقظة المستمرة لصيانة الحصن لأجيال المستقبل.",
+  "grammar": "كلمة 'Dadda' لقب تقدير واحترام يُطلق على العم أو الجد أو الحكيم في الثقافة الأمازيغية.",
+  "sentenceBuilder": {
+    "sentenceTifinagh": "ⵉⴱⴷⴷ ⵓⵎⵏⴰⵢ ⵖⴼ ⵜⵡⵡⵓⵔⵜ ⵏ ⵜⵖⵔⵎⵜ",
+    "sentenceLatin": "Ibdd umnay ɣf twwurt n tɣrmt",
+    "sentenceArabic": "وقف الفارسُ أمام بوابة القصبة",
+    "words": [
+      {
+        "id": "w1",
+        "text": "ⵉⴱⴷⴷ",
+        "trans": "وقف / انتصب (فعل)"
+      },
+      {
+        "id": "w2",
+        "text": "ⵓⵎⵏⴰⵢ",
+        "trans": "الفارسُ (فاعل مقيد)"
+      },
+      {
+        "id": "w3",
+        "text": "ⵖⴼ",
+        "trans": "أمام / عند (حرف مكان)"
+      },
+      {
+        "id": "w4",
+        "text": "ⵜⵡⵡⵓⵔⵜ",
+        "trans": "بوابة / باب (اسم)"
+      },
+      {
+        "id": "w5",
+        "text": "ⵏ",
+        "trans": "ـ (حرف إضافة)"
+      },
+      {
+        "id": "w6",
+        "text": "ⵜⵖⵔⵎⵜ",
+        "trans": "القصبة (مضاف إليه مقيد)"
+      }
+    ],
+    "explanation": "الجملة تعبر عن الحراسة والشهامة عند بوابات القصبات الأمازيغية العتيقة."
+  },
+  "vocabulary": [
+    {
+      "id": "s17_v1",
+      "tifinagh": "ⵜⵉⵖⵔⵎⵜ",
+      "latin": "Tiɣrmt",
+      "arabic": "القصبة / الحصن الطيني",
+      "image": "assets/images/terms/s17_v1.webp",
+      "audio": "assets/audio/words/tigrmt.mp3",
+      "example": "ⵜⵉⵖⵔⵎⵜ ⵏ ⵡⴰⵢⵜ ⴱⵏ ⵃⴷⴷⵓ (قصبة آيت بن حدو العريقة)",
+      "french": "La kasbah fortifiée en pisé",
+      "explanation": "ⵜⵉⵖⵔⵎⵜ ⵏ ⵡⴰⵢⵜ ⴱⵏ ⵃⴷⴷⵓ (قصبة آيت بن حدو العريقة)"
+    },
+    {
+      "id": "s17_v2",
+      "tifinagh": "ⴷⴰⴷⴷⴰ",
+      "latin": "Dadda",
+      "arabic": "العم الحكيم / الشيخ الموقر",
+      "image": "assets/images/terms/s17_v2.webp",
+      "audio": "assets/audio/words/dadda.mp3",
+      "example": "ⴷⴰⴷⴷⴰ ⵉⵍⴰ ⵜⴰⵙⵏⵉⵜ (العم صاحب حكمة وتجربة)",
+      "french": "L'aîné vénérable / Le sage",
+      "explanation": "ⴷⴰⴷⴷⴰ ⵉⵍⴰ ⵜⴰⵙⵏⵉⵜ (العم صاحب حكمة وتجربة)"
+    },
+    {
+      "id": "s17_v3",
+      "tifinagh": "ⵜⴰⵡⵡⵓⵔⵜ",
+      "latin": "Tawwurt",
+      "arabic": "الباب / البوابة الكبيرة",
+      "image": "assets/images/terms/s17_v3.webp",
+      "audio": "assets/audio/words/tawwurt.mp3",
+      "example": "ⵜⴰⵡⵡⵓⵔⵜ ⵏ ⵓⴽⵛⵛⵓⴹ (باب من خشب العرعار المنقوش)",
+      "french": "Le grand portail de la kasbah",
+      "explanation": "ⵜⴰⵡⵡⵓⵔⵜ ⵏ ⵓⴽⵛⵛⵓⴹ (باب من خشب العرعار المنقوش)"
+    },
+    {
+      "id": "s17_v4",
+      "tifinagh": "ⴰⵍⵉⵎ",
+      "latin": "Alim",
+      "arabic": "التبن الممزوج بالطين",
+      "image": "assets/images/terms/s17_v4.webp",
+      "audio": "assets/audio/words/alim.mp3",
+      "example": "ⴰⵍⵉⵎ ⵉⵙⵙⴷⵓⵙ ⴰⴽⴰⵍ (التبن يقوي طين البناء)",
+      "french": "La paille mêlée à la terre",
+      "explanation": "ⴰⵍⵉⵎ ⵉⵙⵙⴷⵓⵙ ⴰⴽⴰⵍ (التبن يقوي طين البناء)"
+    },
+    {
+      "id": "s17_v5",
+      "tifinagh": "ⴰⵖⵔⴰⴱ",
+      "latin": "Aɣrab",
+      "arabic": "الحائط / الجدار المرتفع",
+      "image": "assets/images/terms/s17_v5.webp",
+      "audio": "assets/audio/words/agrab.mp3",
+      "example": "ⴰⵖⵔⴰⴱ ⵉⴷⵓⵙ (الجدار صلب ومتين)",
+      "french": "Le haut rempart de pisé",
+      "explanation": "ⴰⵖⵔⴰⴱ ⵉⴷⵓⵙ (الجدار صلب ومتين)"
+    },
+    {
+      "id": "s17_v6",
+      "tifinagh": "ⵜⴰⵏⴰⴼⵓⵜ",
+      "latin": "Tanafut",
+      "arabic": "الأمان والسكينة",
+      "image": "assets/images/terms/s17_v6.webp",
+      "audio": "assets/audio/words/tanafut.mp3",
+      "example": "ⵜⵍⵍⴰ ⵜⵏⴰⴼⵓⵜ ⴳ ⵜⵖⵔⵎⵜ (يعم الأمان داخل القصبة)",
+      "french": "La sécurité / La quiétude",
+      "explanation": "ⵜⵍⵍⴰ ⵜⵏⴰⴼⵓⵜ ⴳ ⵜⵖⵔⵎⵜ (يعم الأمان داخل القصبة)"
+    },
+    {
+      "id": "s17_v7",
+      "tifinagh": "ⴰⵚⴽⴰⵡ",
+      "latin": "Aṣkaw",
+      "arabic": "البناء والمعمار",
+      "image": "assets/images/terms/s17_v7.webp",
+      "audio": "assets/audio/words/askaw.mp3",
+      "example": "ⴰⵚⴽⴰⵡ ⴰⵎⴰⵣⵉⵖ ⵉⵇⴱⵓⵔ (المعمار الأمازيغي عتيق)",
+      "french": "L'architecture traditionnelle",
+      "explanation": "ⴰⵚⴽⴰⵡ ⴰⵎⴰⵣⵉⵖ ⵉⵇⴱⵓⵔ (المعمار الأمازيغي عتيق)"
+    },
+    {
+      "id": "s17_v8",
+      "tifinagh": "ⵉⵎⵣⵡⵓⵔⴰ",
+      "latin": "Imzwwura",
+      "arabic": "الأجداد والأوائل",
+      "image": "assets/images/terms/s17_v8.webp",
+      "audio": "assets/audio/words/imzwwura.mp3",
+      "example": "ⴰⵢⴷⴰ ⵏ ⵉⵎⵣⵡⵓⵔⴰ (إرث الأجداد الأوائل)",
+      "french": "Les ancêtres bâtisseurs",
+      "explanation": "ⴰⵢⴷⴰ ⵏ ⵉⵎⵣⵡⵓⵔⴰ (إرث الأجداد الأوائل)"
+    },
+    {
+      "id": "s17_v9",
+      "tifinagh": "ⴰⴼⵔⴰⵙ",
+      "latin": "Afras",
+      "arabic": "الحراسة والصيانة",
+      "image": "assets/images/terms/s17_v9.webp",
+      "audio": "assets/audio/words/afras.mp3",
+      "example": "ⵉⴼⵔⵙ ⵜⴰⴷⴷⴰⵔⵜ (يحرس الدار ويصونها)",
+      "french": "La garde et la préservation",
+      "explanation": "ⵉⴼⵔⵙ ⵜⴰⴷⴷⴰⵔⵜ (يحرس الدار ويصونها)"
+    },
+    {
+      "id": "s17_v10",
+      "tifinagh": "ⴰⵢⴷⴰ",
+      "latin": "Ayda",
+      "arabic": "التراث والإرث الثقافي",
+      "image": "assets/images/terms/s17_v10.webp",
+      "audio": "assets/audio/words/ayda.mp3",
+      "example": "ⴰⵢⴷⴰ ⴰⵎⴰⵣⵉⵖ (التراث الأمازيغي)",
+      "french": "Le patrimoine / L'héritage",
+      "explanation": "ⴰⵢⴷⴰ ⴰⵎⴰⵣⵉⵖ (التراث الأمازيغي)"
+    }
+  ],
+  "textFrench": "Près de son domaine, l'oncle Dadda Hammou bâtit une kasbah fière près de la grande porte.\nIl associa la terre et la paille séchée pour ériger un haut rempart protecteur.\nCette kasbah procura la sécurité et la sérénité à toutes les familles jour et nuit.\nCette architecture de terre crue est l'héritage noble des ancêtres et un trésor culturel vivant.\nLe sage assura la garde et la sauvegarde du monument pour les générations futures.",
+  "genre": "العمارة الطينية وتراث القصبات (Architectural Heritage)",
+  "source": "عمارة القصبات والقصور الطينية / التراث الإنساني لليونسكو",
+  "culturalContext": "القصبات الطينية الشامخة بالجنوب المغربي وحكمة الأجداد في البناء بالطين والتبن؛ هندسة ذكية تحمي من الحر والقر.",
+  "reviewStatus": "verified",
+  "quiz": [
+    {
+      "id": 1,
+      "vocabId": "s17_v1",
+      "targetTifinagh": "ⵜⵉⵖⵔⵎⵜ",
+      "targetLatin": "Tiɣrmt",
+      "targetArabic": "القصبة / الحصن الطيني",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⵜⵉⵖⵔⵎⵜ] (Tiɣrmt)؟",
+      "options": [
+        "التبن الممزوج بالطين",
+        "القصبة / الحصن الطيني",
+        "الحائط / الجدار المرتفع",
+        "الباب / البوابة الكبيرة"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⵉⵖⵔⵎⵜ] (ينطق: Tiɣrmt) يعني بالعربية: 'القصبة / الحصن الطيني'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 2,
+      "vocabId": "s17_v2",
+      "targetTifinagh": "ⴷⴰⴷⴷⴰ",
+      "targetLatin": "Dadda",
+      "targetArabic": "العم الحكيم / الشيخ الموقر",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'العم الحكيم / الشيخ الموقر'؟",
+      "options": [
+        "ⵉⵎⵣⵡⵓⵔⴰ (Imzwwura)",
+        "ⴰⵍⵉⵎ (Alim)",
+        "ⴷⴰⴷⴷⴰ (Dadda)",
+        "ⵜⴰⵡⵡⵓⵔⵜ (Tawwurt)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴷⴰⴷⴷⴰ] (Dadda) وترجمتها: 'العم الحكيم / الشيخ الموقر'."
+    },
+    {
+      "id": 3,
+      "vocabId": "s17_v3",
+      "targetTifinagh": "ⵜⴰⵡⵡⵓⵔⵜ",
+      "targetLatin": "Tawwurt",
+      "targetArabic": "الباب / البوابة الكبيرة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵡⵡⵓⵔⵜ] (Tawwurt)؟",
+      "options": [
+        "البناء والمعمار / ",
+        "الباب / البوابة الكبيرة / ",
+        "العم الحكيم / الشيخ الموقر / ",
+        "الأمان والسكينة / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵡⵡⵓⵔⵜ] (Tawwurt) ورد في سياق الحكاية للدلالة على: الباب / البوابة الكبيرة ()."
+    },
+    {
+      "id": 4,
+      "vocabId": "s17_v4",
+      "targetTifinagh": "ⴰⵍⵉⵎ",
+      "targetLatin": "Alim",
+      "targetArabic": "التبن الممزوج بالطين",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵍⵉⵎ] (Alim)؟",
+      "options": [
+        "الباب / البوابة الكبيرة",
+        "التراث والإرث الثقافي",
+        "العم الحكيم / الشيخ الموقر",
+        "التبن الممزوج بالطين"
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⴰⵍⵉⵎ] (ينطق: Alim) يعني بالعربية: 'التبن الممزوج بالطين'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 5,
+      "vocabId": "s17_v5",
+      "targetTifinagh": "ⴰⵖⵔⴰⴱ",
+      "targetLatin": "Aɣrab",
+      "targetArabic": "الحائط / الجدار المرتفع",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الحائط / الجدار المرتفع'؟",
+      "options": [
+        "ⵜⴰⵏⴰⴼⵓⵜ (Tanafut)",
+        "ⵜⵉⵖⵔⵎⵜ (Tiɣrmt)",
+        "ⴰⵖⵔⴰⴱ (Aɣrab)",
+        "ⴰⵍⵉⵎ (Alim)"
+      ],
+      "correctIndex": 2,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⴰⵖⵔⴰⴱ] (Aɣrab) وترجمتها: 'الحائط / الجدار المرتفع'."
+    },
+    {
+      "id": 6,
+      "vocabId": "s17_v6",
+      "targetTifinagh": "ⵜⴰⵏⴰⴼⵓⵜ",
+      "targetLatin": "Tanafut",
+      "targetArabic": "الأمان والسكينة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⵜⴰⵏⴰⴼⵓⵜ] (Tanafut)؟",
+      "options": [
+        "التراث والإرث الثقافي / ",
+        "الحراسة والصيانة / ",
+        "الحائط / الجدار المرتفع / ",
+        "الأمان والسكينة / "
+      ],
+      "correctIndex": 3,
+      "explanation": "المصطلح الأمازيغي [ⵜⴰⵏⴰⴼⵓⵜ] (Tanafut) ورد في سياق الحكاية للدلالة على: الأمان والسكينة ()."
+    },
+    {
+      "id": 7,
+      "vocabId": "s17_v7",
+      "targetTifinagh": "ⴰⵚⴽⴰⵡ",
+      "targetLatin": "Aṣkaw",
+      "targetArabic": "البناء والمعمار",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵚⴽⴰⵡ] (Aṣkaw)؟",
+      "options": [
+        "البناء والمعمار",
+        "التراث والإرث الثقافي",
+        "الأجداد والأوائل",
+        "الحراسة والصيانة"
+      ],
+      "correctIndex": 0,
+      "explanation": "المصطلح الأمازيغي [ⴰⵚⴽⴰⵡ] (ينطق: Aṣkaw) يعني بالعربية: 'البناء والمعمار'، ويقابله بالفرنسية: ''."
+    },
+    {
+      "id": 8,
+      "vocabId": "s17_v8",
+      "targetTifinagh": "ⵉⵎⵣⵡⵓⵔⴰ",
+      "targetLatin": "Imzwwura",
+      "targetArabic": "الأجداد والأوائل",
+      "targetFrench": "",
+      "prompt": "أي من الكلمات التالية بحروف تيفيناغ تعني 'الأجداد والأوائل'؟",
+      "options": [
+        "ⵉⵎⵣⵡⵓⵔⴰ (Imzwwura)",
+        "ⵜⴰⵏⴰⴼⵓⵜ (Tanafut)",
+        "ⴰⴼⵔⴰⵙ (Afras)",
+        "ⴰⵖⵔⴰⴱ (Aɣrab)"
+      ],
+      "correctIndex": 0,
+      "explanation": "الكلمة الأمازيغية الصحيحة هي [ⵉⵎⵣⵡⵓⵔⴰ] (Imzwwura) وترجمتها: 'الأجداد والأوائل'."
+    },
+    {
+      "id": 9,
+      "vocabId": "s17_v9",
+      "targetTifinagh": "ⴰⴼⵔⴰⵙ",
+      "targetLatin": "Afras",
+      "targetArabic": "الحراسة والصيانة",
+      "targetFrench": "",
+      "prompt": "في سياق الحكاية، ما وظيفة ومعنى المصطلح: [ⴰⴼⵔⴰⵙ] (Afras)؟",
+      "options": [
+        "البناء والمعمار / ",
+        "الحراسة والصيانة / ",
+        "العم الحكيم / الشيخ الموقر / ",
+        "القصبة / الحصن الطيني / "
+      ],
+      "correctIndex": 1,
+      "explanation": "المصطلح الأمازيغي [ⴰⴼⵔⴰⵙ] (Afras) ورد في سياق الحكاية للدلالة على: الحراسة والصيانة ()."
+    },
+    {
+      "id": 10,
+      "vocabId": "s17_v10",
+      "targetTifinagh": "ⴰⵢⴷⴰ",
+      "targetLatin": "Ayda",
+      "targetArabic": "التراث والإرث الثقافي",
+      "targetFrench": "",
+      "prompt": "ما هو المعنى العربي للمصطلح الأمازيغي [ⴰⵢⴷⴰ] (Ayda)؟",
+      "options": [
+        "الباب / البوابة الكبيرة",
+        "التبن الممزوج بالطين",
+        "التراث والإرث الثقافي",
+        "الحائط / الجدار المرتفع"
+      ],
+      "correctIndex": 2,
+      "explanation": "المصطلح الأمازيغي [ⴰⵢⴷⴰ] (ينطق: Ayda) يعني بالعربية: 'التراث والإرث الثقافي'، ويقابله بالفرنسية: ''."
+    }
+  ]
+}
